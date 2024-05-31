@@ -1,4 +1,5 @@
 import html
+import json
 import os
 import re
 
@@ -87,6 +88,8 @@ def main():
     html_dir = 'data/html'
     parsed_dir = 'data/parsed'
     files_list = os.listdir(html_dir)
+    empty_files = []
+    strange_names = []
     for file in files_list:
         file_url = 'https://www.tinkoff.ru/' + file.replace('_', '/').replace('.html', '')
         print(f'{file_url=}')
@@ -102,6 +105,10 @@ def main():
             len_table_of_content_lis = len(table_of_content_lis)
         print(f'{len_table_of_content_lis=}')
 
+        if not articles:
+            empty_files.append({'file': file, 'url': file_url})
+            continue
+
         dir_name = file.replace('.html', '')
         dir_path = os.path.join(parsed_dir, dir_name)
         os.makedirs(dir_path, exist_ok=True)
@@ -111,16 +118,22 @@ def main():
             for child in article.children:
                 if child.name:
                     text_output += extract_and_return_structured_text(child)
-            text_output = clean_text(text_output)  # Clean the text
-            text_output = format_question_answer(text_output)  # Format question and answer
+            text_output = clean_text(text_output)
+            text_output = format_question_answer(text_output)
             question = text_output.split('\n')[0]
             if '?' not in question:
                 question = f'article {i + 1}'
+                strange_names.append({'file': file, 'url': file_url, 'article_name': question})
 
             sanitized_question = sanitize_filename(question)
             output_file_path = os.path.join(dir_path, f'{sanitized_question}.txt')
             with open(output_file_path, 'w', encoding='utf-8') as out_file:
                 out_file.write(text_output)
+
+    with open('data/empty_files.json', 'w') as f:
+        json.dump(empty_files, f, indent=4)
+    with open('data/strange_names.json', 'w') as f:
+        json.dump(strange_names, f, indent=4)
 
 
 if __name__ == '__main__':
