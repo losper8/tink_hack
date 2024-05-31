@@ -1,11 +1,8 @@
-Как изменить вид кнопок?
-
-
+## Как изменить вид кнопок?
+Изменить вид кнопок можно только в личном кабинете Тинькофф Бизнеса на компьютере.
 Чтобы изменить вид кнопок:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт, а затем страницу, на которой хотите изменить вид кнопок. Нажмите на иконку палитры справа вверху
-- 
-Перейдите на вкладку «Кнопки» и настройте вид кнопок: измените их обводку, фон и скругление.
-- Если хотите изменить цвет кнопок, перейдите на вкладку «Цветовая схема» и выберите цветовую схему, которая вам понравится.
-- Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт, а затем страницу, на которой хотите изменить вид кнопок. Нажмите на иконку палитры справа вверху ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ZTQ1Nzc1MS5kZXNrdG9wXzYxXzUucG5n)
+2. Перейдите на вкладку «Кнопки» и настройте вид кнопок: измените их обводку, фон и скругление. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iOTcxNmY5NS4yMDI0XzA1XzAzXzE4XzU4XzA4LmpwZw==)
+3. Если хотите изменить цвет кнопок, перейдите на вкладку «Цветовая схема» и выберите цветовую схему, которая вам понравится. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82MjRjN2RjOC5kZXNrdG9wXzY4LnBuZw==)
+4. Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
 Готово, вы изменили вид кнопок.

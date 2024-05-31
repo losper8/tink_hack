@@ -1,5 +1,3 @@
-Можно ли изменить вид аналитики?
-
+## Можно ли изменить вид аналитики?
 Да, сейчас доступно два вида графиков. Переключиться между ними можно с помощью кнопок над графиком.
-
-Первый вариант графикаВторой вариант графика
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYTEzNjNhOC4xNl9kZXNrdG9wLnBuZw==)Первый вариант графика![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZjk2YTM5Yi4xN19kZXNrdG9wLnBuZw==)Второй вариант графика

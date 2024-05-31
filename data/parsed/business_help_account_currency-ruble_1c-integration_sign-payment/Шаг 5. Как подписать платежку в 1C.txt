@@ -1,10 +1,8 @@
-Шаг 5. Как подписать платежку в 1C?
-
-Убедитесь, что вы установили сертификат в 1С. Как установить сертификат в 1C (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=install-certificate)
-
+## Шаг 5. Как подписать платежку в 1C?
+Убедитесь, что вы установили сертификат в 1С. [Как установить сертификат в 1C](/business/help/account/currency-ruble/1c-integration/sign-payment/?card=install-certificate)
 В интерфейсе 1С:
-
-- В главном меню выберите «Банк и касса» → «Платежные поручения» → «Создать».- Заполните платежное поручение и нажмите «Сохранить и закрыть».- Выберите вкладку «1С ДиректБанк» → «Отправить электронный документ».
-- Введите пароль для сертификата, если вы задали его на пятом шаге, когда устанавливали сертификат 1С DirectBank на свой компьютер. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=certificate-installation) Нажмите «Подписать». Если пароля нет, оставьте поле пустым и нажмите «Подписать». Можно нажать галочку «Запомнить на время сеанса», чтобы не вводить потом пароль снова.
-
+1. В главном меню выберите «Банк и касса» → «Платежные поручения» → «Создать».
+2. Заполните платежное поручение и нажмите «Сохранить и закрыть».
+3. Выберите вкладку «1С ДиректБанк» → «Отправить электронный документ». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iYzVjOTZhMy4xNF9kZXNrdG9wLnBuZw==)
+4. Введите пароль для сертификата, если вы задали его [на пятом шаге, когда устанавливали сертификат 1С DirectBank на свой компьютер.](/business/help/account/currency-ruble/1c-integration/sign-payment/?card=certificate-installation) Нажмите «Подписать». Если пароля нет, оставьте поле пустым и нажмите «Подписать». Можно нажать галочку «Запомнить на время сеанса», чтобы не вводить потом пароль снова. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hODZkOGU2YS4xNV9kZXNrdG9wLnBuZw==)
 Готово! Вы подписали платежку в 1С, все платежи после их исполнения автоматически появятся в личном кабинете Тинькофф Бизнеса.

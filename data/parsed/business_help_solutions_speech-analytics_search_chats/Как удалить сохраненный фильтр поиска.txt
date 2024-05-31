@@ -1,4 +1,4 @@
-Как удалить сохраненный фильтр поиска?
+## Как удалить сохраненный фильтр поиска?
 В разделе «Чаты» под строками «Начало» и «Окончание»:
-- Нажмите «Настройки». Откроется окно управления фильтрами.
-- Чтобы удалить фильтр, нажмите на значок корзины рядом с ним, а затем «Сохранить».
+1. Нажмите «Настройки». Откроется окно управления фильтрами. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83N2I5Y2E2Ny4xMV9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)
+2. Чтобы удалить фильтр, нажмите на значок корзины рядом с ним, а затем «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yYTgyOTkxYi4xNF9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)

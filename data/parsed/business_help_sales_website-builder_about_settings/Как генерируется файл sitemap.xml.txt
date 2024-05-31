@@ -1,10 +1,6 @@
-Как генерируется файл sitemap.xml?
-
+## Как генерируется файл sitemap.xml?
 Файл sitemap.xml генерируется автоматически, если есть главная страница сайта. Его нельзя создать или изменить вручную.
-
-
-
+Сгенерировать файл sitemap.xml можно только на компьютере.
 Чтобы открыть файл sitemap.xml, откройте в браузере ваш сайт. В конец ссылки вставьте /sitemap.xml и нажмите Enter.
-
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iYjlmNmM1My5kZXNrdG9wXzMzLnBuZw==)
 Готово! Откроется sitemap.xml.

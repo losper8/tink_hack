@@ -1,24 +1,22 @@
-Как добавить точку продаж?
-
+## Как добавить точку продаж?
 Следуйте пошаговой инструкции:
-
-- Откройте личный кабинет руководителя, (https://business.tinkoff.ru/posbroker/shops) в разделе «Магазины» нажмите «Добавить магазин».
-- 
-Заполните обязательные поля формы.
-
+1. [Откройте личный кабинет руководителя,](https://business.tinkoff.ru/posbroker/shops) в разделе «Магазины» нажмите «Добавить магазин». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MjY5N2I2Yy4yXzUucG5n)
+2. Заполните обязательные поля формы.
 В поле «Название» впишите название вашего магазина. Оно будет отображаться только в личном кабинете.
-
 В поле «Адрес магазина» впишите адрес точки продаж.
-
 При добавлении магазина вы можете подключить два продукта: Кредитование и Долями. По умолчанию система предлагает выбрать оба продукта. Если не хотите подключать один из них — уберите галочку в чекбоксе рядом с названием продукта.
-Что такое сервис кредитования (https://www.tinkoff.ru/business/help/sales/loans/about-loans/terms/?card=q3)Что такое Долями (https://dolyame.ru/help/business/about/service/#q1)Для создания магазина нужно выбрать минимум один продукт для подключения- Нажмите «Добавить магазин».
-После создания магазина статус подключения продукта отобразится на плашке рядом с названием магазина
-Готово! Магазин создан. Дальше нужно добавить менеджеров, которые будут работать с заявками на рассрочки и кредиты в этом магазине. Как добавить менеджеров (https://www.tinkoff.ru/business/help/sales/loans/connect/offline-store/?card=q17)
-Как добавить магазин в старой версии сайта- Выберите раздел «Прием платежей» → «Кредитование в магазинах». Войти в личный кабинет руководителя (https://forma.tinkoff.ru/platform/)Этот раздел находится в меню с иконкой «Продукты и сервисы»- Нажмите «Добавить» и перейдите на страницу «Новый магазин».
- Кнопка располагается перед списком магазинов- 
-Кликните на поле «Точка продаж».
-
+[Что такое сервис кредитования](/business/help/sales/loans/about-loans/terms/?card=q3)
+[Что такое Долями](https://dolyame.ru/help/business/about/service/#q1)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMGI1ZDkyYS4xMF8xXzEucG5n)Для создания магазина нужно выбрать минимум один продукт для подключения
+3. Нажмите «Добавить магазин». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jYjc3MzdhMC4xMS5wbmc=)После создания магазина статус подключения продукта отобразится на плашке рядом с названием магазина
+Готово! Магазин создан. Дальше нужно добавить менеджеров, которые будут работать с заявками на рассрочки и кредиты в этом магазине. [Как добавить менеджеров](/business/help/sales/loans/connect/offline-store/?card=q17)
+Как добавить магазин в старой версии сайта
+1. Выберите раздел «Прием платежей» → «Кредитование в магазинах». [Войти в личный кабинет руководителя](https://forma.tinkoff.ru/platform/)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80NTExNjQ1MS4xYTVhMjdmOV8wYzVlXzQyMzNfOTgyZl8wZjc5M2Y2OTQzNjcucG5n)Этот раздел находится в меню с иконкой «Продукты и сервисы»
+2. Нажмите «Добавить» и перейдите на страницу «Новый магазин». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wNjczMzM3MC5jNjU0YzI4Zl8yN2E2XzRlM2VfOTM3M185ODhiODM1ZWY3OTkucG5n) Кнопка располагается перед списком магазинов
+3. Кликните на поле «Точка продаж».
 Для добавления нового магазина заполните два поля:
-- «Название» — впишите название вашего магазина. Оно будет отображаться только в личном кабинете;- «Адрес» — укажите адрес магазина.Начните вводить адрес и кликните на правильный в выпадающем меню
+* «Название» — впишите название вашего магазина. Оно будет отображаться только в личном кабинете;
+* «Адрес» — укажите адрес магазина.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NTg4M2M1Yi4wNzE2YmVkNl83YWMxXzQzMTJfOTI2M19jNzRlMzgyZTJkY2MucG5n)Начните вводить адрес и кликните на правильный в выпадающем меню
 Если в выпадающем меню не появится нужный адрес, кликните на слово «вручную» в строке «Также вы можете ввести адрес вручную». Тогда откроются дополнительные поля: регион, город, населенный пункт, улица.
-- Нажмите «Добавить». Новый магазин появится в личном кабинете.
+4. Нажмите «Добавить». Новый магазин появится в личном кабинете.

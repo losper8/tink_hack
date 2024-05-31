@@ -1,6 +1,4 @@
-Может ли сотрудник получить доступ на управление брокерским счетом?
-
+## Может ли сотрудник получить доступ на управление брокерским счетом?
 Да, сотрудник может управлять брокерским счетом. Для этого вы должны выдать ему право подписи в личном кабинете и приложении Тинькофф Бизнеса и доверенность на управление брокерским счетом.
-
- Как предоставить сотруднику право подписи (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/dashboard/?card=q2)
- Как выдать доверенность (https://www.tinkoff.ru/business/help/business-invest/account/use/attorney/?card=q5)
+[Как предоставить сотруднику право подписи](/business/help/account/currency-ruble/personal-account/dashboard/?card=q2)
+[Как выдать доверенность](/business/help/business-invest/account/use/attorney/?card=q5)

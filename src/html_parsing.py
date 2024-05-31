@@ -1,92 +1,80 @@
-import html
 import json
 import os
 import re
-from urllib.parse import urljoin
 
+import html2text
+import lxml.html
+import lxml.html.clean
 from bs4 import BeautifulSoup
 
-# Define the base URL
 BASE_URL = 'https://www.tinkoff.ru'
 
+_RE_COMBINE_WHITESPACE = re.compile(r"\s+")
 
-def extract_text_with_links(element):
-    if element.name == 'a':
-        href = element["href"]
-        full_url = urljoin(BASE_URL, href)
-        return f'{element.get_text()} ({full_url})'
-    if element.name == 'li':
-        return '- ' + ''.join([extract_text_with_links(child) for child in element.children])
-    if element.name in ['span', 'p', 'div']:
-        return ''.join([extract_text_with_links(child) if child.name else child for child in element.children])
-    return ''.join([extract_text_with_links(child) if child.name else child for child in element.children])
+h = html2text.HTML2Text()
+h.skip_internal_links = False
+h.single_line_break = True
+h.ignore_links = False
+h.ignore_images = False
+h.inline_links = True
+h.protect_links = False
+h.ignore_emphasis = True
+h.mark_code = False
+h.body_width = 0
+h.google_list_indent = 0
+h.bypass_tables = True
+# h.ignore_tables = True
+h.wrap_tables = True
 
-
-def extract_and_return_structured_text(element):
-    if element.name == 'p':
-        return extract_text_with_links(element) + '\n'
-    elif element.name == 'ul':
-        list_items = ''.join([extract_text_with_links(li) + '\n' for li in element.find_all('li')])
-        return list_items + '\n'
-    elif element.name == 'table':
-        return extract_table(element)
-    elif element.name == 'div':
-        return extract_div(element)
-    else:
-        return extract_text_with_links(element)
-
-
-def extract_table(table):
-    rows = table.find_all('tr')
-    header = [extract_text_with_links(th).strip() for th in rows[0].find_all('th')]
-    table_text = ""
-    for row in rows[1:]:
-        columns = row.find_all(['th', 'td'])
-        row_text = " ".join([extract_text_with_links(col).strip() for col in columns])
-        table_text += row_text + '\n'
-    return table_text + '\n'
-
-
-def extract_div(div):
-    div_text = ""
-    if 'data-testid' in div.attrs and div['data-testid'] == 'indented-block':
-        div_text += extract_indented_blocks(div)
-    else:
-        for child in div.children:
-            if child.name:
-                div_text += extract_and_return_structured_text(child)
-    return div_text
-
-
-def extract_indented_blocks(div):
-    blocks = div.find_all('div', recursive=False)
-    block_text = ""
-    for block in blocks:
-        if 'data-testid' in block.attrs and block['data-testid'] == 'indented-block':
-            block_text += extract_indented_blocks(block)
-        else:
-            block_text += '\t'.join([extract_text_with_links(inner_block).strip() for inner_block in block.find_all('div', recursive=False)]) + '\n'
-    return block_text
+h.ignore_anchors = True
 
 
 def clean_text(text):
-    text = text.replace('\xa0', ' ')
-    text = html.unescape(text)
-    text = text.replace('\u2060', '')
+    doc = lxml.html.fromstring(text)
+    cleaner = lxml.html.clean.Cleaner(style=True)
+    doc = cleaner.clean_html(doc)
+    text = doc.text_content()
+    text = text.replace('⁠', '')
+    text = text.replace('​', '')
     return text
 
 
 def sanitize_filename(filename):
+    filename = clean_text(filename)
     return re.sub(r'[<>:"/\\|?*]', '', filename)
 
 
-def format_question_answer(text):
-    lines = text.strip().split('\n')
-    if len(lines) > 0 and '?' in lines[0]:
-        question, answer = lines[0].split('?', 1)
-        question = question.strip() + '?'
-        answer = answer.strip()
-        return question + '\n' + answer + '\n' + '\n'.join(lines[1:])
+def html_table_to_markdown(table):
+    rows = table.find_all('tr')
+    headers = rows[0].find_all(['th', 'td'])
+    header_row = '| ' + ' | '.join([header.get_text(strip=True) for header in headers]) + ' |'
+
+    markdown_table = [header_row]
+
+    for row in rows[1:]:
+        cols = row.find_all(['td', 'th'])
+        markdown_row = '| ' + ' | '.join([col.get_text(strip=True) for col in cols]) + ' |'
+        markdown_table.append(markdown_row)
+
+    return '\n'.join(markdown_table)
+
+
+def replace_tables_with_markdown(text):
+    # bs4 = BeautifulSoup(text, 'html.parser')
+    # tables = bs4.find_all('table')
+    #
+    # for table in tables:
+    #     markdown_table = html_table_to_markdown(table)
+    #     table.replace_with(markdown_table)
+    #
+    # return str(bs4)
+
+    # replace all between <table> and </table> with empty
+    return re.sub(r'<table.*?>.*?</table>', '', text, flags=re.DOTALL)
+
+
+def remove_any_html_related_encodig_from_text(text):
+    text = text.replace('&nbsp;', ' ')
     return text
 
 
@@ -123,20 +111,45 @@ def main():
         os.makedirs(dir_path, exist_ok=True)
 
         for i, article in enumerate(articles):
-            text_output = ""
-            for child in article.children:
-                if child.name:
-                    text_output += extract_and_return_structured_text(child)
-            text_output = clean_text(text_output)
-            text_output = format_question_answer(text_output)
-            question = text_output.split('\n')[0]
+            # data_url_href_element = article.find('h2', {'data-url': True})
+            # deta_url_href = data_url_href_element['data-url'] if data_url_href_element else None
+            # deta_url_href = urllib.parse.unquote(deta_url_href) if deta_url_href else None
+            # print(f'{deta_url_href=}')
+
+            text_output = h.handle(str(article))
+            text_output = replace_tables_with_markdown(text_output)
+            # print(f'{text_output=}')
+
+            # text_output = ""
+            # for child in article.children:
+            #     if child.name:
+            #         text_output += extract_and_return_structured_text(child)
+            # text_output = clean_text(text_output)
+            # text_output = format_question_answer(text_output)
+
+            question = text_output.split('\n')[0].replace('#', '').replace('\n', ' ').strip()
             if '?' not in question:
                 question += '?'
+            if question.startswith('Как работать с депозитом: настраивать, пополнять и снимать деньгиНастроить депозит'):
+                question = 'Как работать с депозитом: настраивать, пополнять и снимать деньги?'
+            elif question.startswith('Зачем проверять контрагентовФНС'):
+                question = 'Зачем проверять контрагентов?'
+            if question == 'card?':
+                continue
 
             sanitized_question = sanitize_filename(question)
             output_file_path = os.path.join(dir_path, f'{sanitized_question}.txt')
             try:
                 with open(output_file_path, 'w', encoding='utf-8') as out_file:
+                    # text_output = '\n'.join([line.strip() for line in text_output.split('\n')])
+                    text_output = re.sub(r'\n{2,}', '\n', text_output)
+                    # # text_output = '\n'.join([line.strip() for line in text_output.split('\n')])
+                    text_output = '\n'.join([_RE_COMBINE_WHITESPACE.sub(" ", line).strip() for line in text_output.split('\n')])
+                    # text_output = text_output.replace('-\n', '- ')
+                    #
+                    # text_output = text_output.replace(' .', '.')
+                    # text_output = text_output.replace('. -', '.\n-')
+                    text_output = clean_text(text_output)
                     out_file.write(text_output)
             except OSError:
                 strange_names.append({'file': file, 'url': file_url, 'question': question})

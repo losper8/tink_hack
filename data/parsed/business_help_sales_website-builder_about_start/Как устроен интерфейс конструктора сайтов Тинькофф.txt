@@ -1,49 +1,31 @@
-Как устроен интерфейс конструктора сайтов Тинькофф?
-В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) можете создавать сайты, добавлять, настраивать и редактировать страницы сайта. Следуйте инструкциям в списках ниже.
-
+## Как устроен интерфейс конструктора сайтов Тинькофф?
+[В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) можете создавать сайты, добавлять, настраивать и редактировать страницы сайта. Следуйте инструкциям в списках ниже.
 На главном экране вы можете:
-
-- создавать интернет-магазины (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=online-store);
-- создавать сайты-визитки (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=templates);
-- создавать страницы сайта (https://www.tinkoff.ru/business/help/sales/website-builder/about/page/?card=create-page);
-- редактировать страницы сайта (https://www.tinkoff.ru/business/help/sales/website-builder/about/edit/?card=edit-page);
-- создавать карточки товаров и услуг (https://www.tinkoff.ru/business/help/business-sales/website-builder/sale/goods-and-services/?card=upload);
-
-- добавлять участников команды к управлению сайтом (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=team);
-
-- настраивать уведомления о заявках и оплатах (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/);
-
-- читать сообщения от покупателей в чате. (https://www.tinkoff.ru/business/help/sales/website-builder/orders/request/?card=messages)
-
-С главного экрана конструктора сайтов вы можете перейти к настройкам нужного сайта или чата для сайта, добавить нового участника команды и открыть диалог с покупателемВ настройках сайта вы можете:
-
-- подключить домен (https://www.tinkoff.ru/business/help/sales/website-builder/about/domain/);
-- подключить инструменты аналитики (https://www.tinkoff.ru/business/help/sales/website-builder/effective/analytics/);
-- обновить сертификат безопасности (https://www.tinkoff.ru/business/help/sales/website-builder/about/settings/?card=renew-ssl);
-- настроить прием платежей на сайте или офлайн (https://www.tinkoff.ru/business/help/sales/website-builder/sale/money-accept/?card=payment);
-- включить уведомления о заявках и оплатах (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/).
-
-
-Чтобы перейти в настройки сайта, следуйте этой инструкции. (https://www.tinkoff.ru/business/help/sales/website-builder/about/settings/?card=open-features)
-В настройках сайта семь разделов: «Основные», «Продвижение», «Оплата», «Оформление заказов», «Доставка», «Интеграция», «Уведомления». Нажмите на три точки справа, чтобы открыть скрытые разделыВ настройках страницы можно оптимизировать каждую страницу: изменять адрес, загружать обложки для соцсетей, управлять индексацией и переходами по ссылкам, указывать ключевые слова и теги Title и Description.
-
-
-Чтобы перейти в настройки страницы сайта, следуйте этой инструкции. (https://www.tinkoff.ru/business/help/sales/website-builder/about/settings/?card=page)
+* [создавать интернет-магазины](/business/help/sales/website-builder/about/begin/?card=online-store);
+* [создавать сайты-визитки](/business/help/sales/website-builder/about/begin/?card=templates);
+* [создавать страницы сайта](/business/help/sales/website-builder/about/page/?card=create-page);
+* [редактировать страницы сайта](/business/help/sales/website-builder/about/edit/?card=edit-page);
+* [создавать карточки товаров и услуг](/business/help/business-sales/website-builder/sale/goods-and-services/?card=upload);
+* [добавлять участников команды к управлению сайтом](/business/help/sales/website-builder/about/begin/?card=team);
+* [настраивать уведомления о заявках и оплатах](/business/help/sales/website-builder/orders/notifications/);
+* [читать сообщения от покупателей в чате.](/business/help/sales/website-builder/orders/request/?card=messages)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xZDFhMDM3Ny5kZXNrdG9wXzAyLnBuZw==)С главного экрана конструктора сайтов вы можете перейти к настройкам нужного сайта или чата для сайта, добавить нового участника команды и открыть диалог с покупателем
+В настройках сайта вы можете:
+* [подключить домен](/business/help/sales/website-builder/about/domain/);
+* [подключить инструменты аналитики](/business/help/sales/website-builder/effective/analytics/);
+* [обновить сертификат безопасности](/business/help/sales/website-builder/about/settings/?card=renew-ssl);
+* [настроить прием платежей на сайте или офлайн](/business/help/sales/website-builder/sale/money-accept/?card=payment);
+* [включить уведомления о заявках и оплатах](/business/help/sales/website-builder/orders/notifications/).
+Чтобы перейти в настройки сайта, следуйте [этой инструкции.](/business/help/sales/website-builder/about/settings/?card=open-features)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hYjkyOTYyZC5kZXNrdG9wXzAzLnBuZw==)В настройках сайта семь разделов: «Основные», «Продвижение», «Оплата», «Оформление заказов», «Доставка», «Интеграция», «Уведомления». Нажмите на три точки справа, чтобы открыть скрытые разделы
+В настройках страницы можно оптимизировать каждую страницу: изменять адрес, загружать обложки для соцсетей, управлять индексацией и переходами по ссылкам, указывать ключевые слова и теги Title и Description.
+Чтобы перейти в настройки страницы сайта, следуйте [этой инструкции.](/business/help/sales/website-builder/about/settings/?card=page)
 В редакторе страниц вы можете:
-
-- перемещать элементы и блоки на странице (https://www.tinkoff.ru/business/help/sales/website-builder/sale/goods-and-services/?card=swap);
-
-- менять цвет и шрифт текста (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=font-design);
-
-- менять размер текста (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=text-size);
-
-- загружать фото и GIF (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=images);
-
-- загружать видео (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=add-video);
-
-- добавлять ссылку в кнопку (https://www.tinkoff.ru/business/help/sales/website-builder/sale/navigation/?card=button-link);
-
-- добавлять к тексту ссылку. (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=text-link)
-
-
+* [перемещать элементы и блоки на странице](/business/help/sales/website-builder/sale/goods-and-services/?card=swap);
+* [менять цвет и шрифт текста](/business/help/sales/website-builder/sale/edit/?card=font-design);
+* [менять размер текста](/business/help/sales/website-builder/sale/edit/?card=text-size);
+* [загружать фото и GIF](/business/help/sales/website-builder/sale/edit/?card=images);
+* [загружать видео](/business/help/sales/website-builder/sale/edit/?card=add-video);
+* [добавлять ссылку в кнопку](/business/help/sales/website-builder/sale/navigation/?card=button-link);
+* [добавлять к тексту ссылку.](/business/help/sales/website-builder/sale/edit/?card=text-link)
 Чтобы перейти в редактор страниц у сайта-визитки и интернет-магазина, кликните на сайт, затем на нужную страницу.

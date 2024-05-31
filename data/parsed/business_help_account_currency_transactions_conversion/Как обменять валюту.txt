@@ -1,13 +1,9 @@
-Как обменять валюту?
-
-Откройте счета в валютах для конвертации, если их еще нет. Как открыть валютный счет (https://www.tinkoff.ru/business/help/account/currency/start/open/?card=how)
-
+## Как обменять валюту?
+Откройте счета в валютах для конвертации, если их еще нет. [Как открыть валютный счет](/business/help/account/currency/start/open/?card=how)
 Обменять валюту можно в личном кабинете Тинькофф Бизнеса:
-
-- Перейдите в «Платежи» → «Обмен валют». (https://business.tinkoff.ru/sme/conversion-payment/currency-exchange)- В полях «Продать» и «Купить» выберите валюты для обмена.
-- В разделе «Курс» выберите нужные валютные счета и укажите сумму, которую хотите обменять. Нажмите «Обменять».- Появится окно «Обменять валюту?» с информацией о курсе конвертации и сумме, которую получите. Нажмите «Да, обменять».
-
+1. [Перейдите в «Платежи» → «Обмен валют».](https://business.tinkoff.ru/sme/conversion-payment/currency-exchange)
+2. В полях «Продать» и «Купить» выберите валюты для обмена. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYjJlYWMyZS5kZXNrdG9wXzAyXzIucG5n)
+3. В разделе «Курс» выберите нужные валютные счета и укажите сумму, которую хотите обменять. Нажмите «Обменять».
+4. Появится окно «Обменять валюту?» с информацией о курсе конвертации и сумме, которую получите. Нажмите «Да, обменять». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZmVjOTkzNi5kZXNrdG9wXzAzXzIucG5n)
 Готово! Через несколько минут банк обменяет валюту по текущему курсу.
-
-
-Если у вас подключен овердрафт, обмен валюты произойдет, даже если на счете недостаточно денег. Как оформить овердрафт (https://www.tinkoff.ru/business/help/loans/overdraft/get-overdraft/)
+Если у вас подключен овердрафт, обмен валюты произойдет, даже если на счете недостаточно денег. [Как оформить овердрафт](/business/help/loans/overdraft/get-overdraft/)

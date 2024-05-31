@@ -1,10 +1,8 @@
-Как настроить автоматическое формирование чеков после получения оплаты на сайте и в приложении?
-
-Если подключили сервис «Чеки», следуйте этой инструкции. (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/kassa/use-check/?card=how-to-make)
-
+## Как настроить автоматическое формирование чеков после получения оплаты на сайте и в приложении?
+Если подключили сервис «Чеки», следуйте [этой инструкции.](/business/help/business-payments/internet-acquiring/kassa/use-check/?card=how-to-make)
 Если подключили облачную онлайн-кассу, следуйте инструкции:
-
-- Арендуйте облачную онлайн-кассу. Какую онлайн-кассу выбрать, если торгуете в интернете (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/kassa/how-works/?card=q2)- 
-Настройте ее интеграцию с интернет-эквайрингом от Тинькофф Кассы. Как это сделать (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/kassa/how-connect/?card=q1)- Настройте передачу реквизитов чека: это нужно, чтобы данные чеков отправлялись покупателю, к оператору фискальных данных и в налоговую. Как это сделать (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/kassa/set-up/?card=q4)
-
+1. Арендуйте облачную онлайн-кассу. [Какую онлайн-кассу выбрать, если торгуете в интернете](/business/help/business-payments/internet-acquiring/kassa/how-works/?card=q2)
+2. Настройте ее интеграцию с интернет-эквайрингом от Тинькофф Кассы. [Как это сделать](/business/help/business-payments/internet-acquiring/kassa/how-connect/?card=q1)
+3. Настройте передачу реквизитов чека: это нужно, чтобы данные чеков отправлялись покупателю, к оператору фискальных данных и в налоговую. [Как это сделать](/business/help/business-payments/internet-acquiring/kassa/set-up/?card=q4)
+Пройдите тестовые платежи № 7 и 8, чтобы проверить автоматическую отправку чеков. Это нужно сделать обязательно. [Как и зачем тестировать отправку чеков](/business/help/business-payments/internet-acquiring/how-involve/integrate/?anchor=check)
 Готово, теперь чеки будут формироваться и отправляться автоматически.

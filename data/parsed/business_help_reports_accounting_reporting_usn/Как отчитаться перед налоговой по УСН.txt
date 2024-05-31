@@ -1,5 +1,3 @@
-Как отчитаться перед налоговой по УСН?
-
+## Как отчитаться перед налоговой по УСН?
 Ежегодно организации и ИП сдают налоговую декларацию за прошедший год. На основе этого документа налоговая инспекция контролирует правильность уплаты налогов.
-
-Как сдать декларацию (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/tax-service/declaration/)
+[Как сдать декларацию](/business/help/reports/tinkoff-accounting/tax-service/declaration/)

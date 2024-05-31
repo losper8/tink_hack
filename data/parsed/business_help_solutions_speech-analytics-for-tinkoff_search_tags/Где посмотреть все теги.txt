@@ -1,3 +1,3 @@
-Где посмотреть все теги?
-В TQM перейдите на вкладку «Поиск» → «Коммуникации» → «Теги». (https://tqm.tinkoff.ru/filter/communications/tags)
-В списке тегов указана общая информация: название, тип тега, уровень доступа, описание
+## Где посмотреть все теги?
+[В TQM перейдите на вкладку «Поиск» → «Коммуникации» → «Теги».](https://tqm.tinkoff.ru/filter/communications/tags)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYzAxOTg3OC5kZXNrdG9wXzI3LnBuZw==)В списке тегов указана общая информация: название, тип тега, уровень доступа, описание

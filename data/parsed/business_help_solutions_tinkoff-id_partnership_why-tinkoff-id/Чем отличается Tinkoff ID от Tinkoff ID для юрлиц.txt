@@ -1,9 +1,5 @@
-Чем отличается Tinkoff ID от Tinkoff ID для юрлиц?
-
+## Чем отличается Tinkoff ID от Tinkoff ID для юрлиц?
 Это один и тот же сервис, который упрощает вход на ваш сайт и в приложение. Разница в том, кто к вам входит.
-
-
 Клиенты-физлица входят с Tinkoff ID. Для этого не обязательно быть клиентами Тинькофф — достаточно ввести свой номер телефона.
-
-Клиенты-физлица заходят с Tinkoff ID
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZjA5ZTU1NC50aW5rb2ZmX2lkXzAyX2Rlc2sucG5n)Клиенты-физлица заходят с Tinkoff ID
 Партнеры — ИП и представители ООО — входят с Tinkoff ID для юрлиц. У них должен быть открыт расчетный счет в Тинькофф Бизнесе.

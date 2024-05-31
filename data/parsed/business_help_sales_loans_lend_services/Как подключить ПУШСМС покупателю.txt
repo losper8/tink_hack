@@ -1,5 +1,3 @@
-Как подключить ПУШСМС покупателю?
-
+## Как подключить ПУШСМС покупателю?
 ПУШСМС можно подключить при заполнении заявки во время выбора условий рассрочки. Для этого разверните раздел «Дополнительные услуги» — он находится ниже поля выбора рассрочки → щелкните на тумблер напротив «СМС‑информирование». Готово!
-
-Если СМС-напоминание не нужно, снимите галочку
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80OWIyNzBjZi4wMV9wb3NfcG9ka2x1Y2hpdF9kZXNrMnhfMWUyYzRjYmU3YWE5NjZmMTEwNGQyYTI0MDdjZjhlYTIucG5n)Если СМС-напоминание не нужно, снимите галочку

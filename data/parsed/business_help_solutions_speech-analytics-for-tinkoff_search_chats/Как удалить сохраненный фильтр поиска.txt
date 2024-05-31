@@ -1,5 +1,4 @@
-Как удалить сохраненный фильтр поиска?
-В TQM → «Поиск »→ «Коммуникации» → «Чаты» (https://tqm.tinkoff.ru/filter/communications/internal-chats) под строками «Начало» и «Окончание»:
-
-- Нажмите «Настройки». Откроется окно управления фильтрами.
-- Чтобы удалить фильтр, нажмите на значок корзины рядом с ним, а затем «Сохранить».
+## Как удалить сохраненный фильтр поиска?
+[В TQM → «Поиск »→ «Коммуникации» → «Чаты»](https://tqm.tinkoff.ru/filter/communications/internal-chats) под строками «Начало» и «Окончание»:
+1. Нажмите «Настройки». Откроется окно управления фильтрами. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZjVjZjEyZC5kZXNrdG9wXzI0LnBuZw==)
+2. Чтобы удалить фильтр, нажмите на значок корзины рядом с ним, а затем «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jYjUyNGRjMS5kZXNrdG9wXzI2LnBuZw==)

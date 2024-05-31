@@ -1,3 +1,4 @@
-Самозанятый не подписал акты, и выплата не прошла. Что делать?
+## Самозанятый не подписал акты, и выплата не прошла. Что делать?
 У вас есть два пути:
-- Повторить выплату на основании акта. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=pay)- Оформить выплату без акта. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay/?card=manual-payment)
+1. [Повторить выплату на основании акта.](/business/help/business-payout/self-employed/payoff/pay-edm/?card=pay)
+2. [Оформить выплату без акта.](/business/help/business-payout/self-employed/payoff/pay/?card=manual-payment)

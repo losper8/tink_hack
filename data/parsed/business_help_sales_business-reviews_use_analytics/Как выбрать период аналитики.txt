@@ -1,7 +1,4 @@
-Как выбрать период аналитики?
-
+## Как выбрать период аналитики?
 Просматривать аналитику можно только за месяц.
-
-Для этого в личном кабинете Тинькофф Бизнеса перейдите в «Отзывы» → «Аналитика» (https://business.tinkoff.ru/city-feedback/analytics) и выберите нужный месяц в календаре.
-
-Вы можете посмотреть количество отзывов и средний рейтинг за выбранный месяц
+[Для этого в личном кабинете Тинькофф Бизнеса перейдите в «Отзывы» → «Аналитика»](https://business.tinkoff.ru/city-feedback/analytics) и выберите нужный месяц в календаре.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jZWEyZmZmYS4xM19kZXNrdG9wLnBuZw==)Вы можете посмотреть количество отзывов и средний рейтинг за выбранный месяц

@@ -1,7 +1,5 @@
-Кому видны отзывы на площадке Тинькофф?
-
-Отзывы видят посетители страницы отзывов на tinkoff.ru. (https://www.tinkoff.ru/reviews/company/index/)
-Так пользователи видят отзывы о компаниях на tinkoff.ru
+## Кому видны отзывы на площадке Тинькофф?
+Отзывы видят посетители [страницы отзывов на tinkoff.ru.](/reviews/company/index/)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hNTY2MTJhNC5kZXNrdG9wXzEucG5n)Так пользователи видят отзывы о компаниях на tinkoff.ru
 В приложении Тинькофф отзывы других клиентов можно посмотреть только после того, как покупатель оставил свой отзыв на бренд. Свои отзывы покупатель может найти через поиск или перейдя в профиль на главном экране.
-
-Где представитель бизнеса может посмотреть отзывы (https://www.tinkoff.ru/business/help/sales/business-reviews/use/check/?card=q1)
+[Где представитель бизнеса может посмотреть отзывы](/business/help/sales/business-reviews/use/check/?card=q1)

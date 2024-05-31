@@ -1,15 +1,15 @@
-Как искать оценки?
-
+## Как искать оценки?
 Чтобы найти оценку:
-
-- Перейдите на вкладку «Поиск» → «Оценки».
-Если у вас уже есть сохраненные фильтры, вы увидите их над строкой поиска- В строках «Начало» и «Окончание» укажите период, за который ищете оценки, в формате дд.мм.гггг чч:мм:сс. Или выберите даты в календаре.
-Справа от календаря есть кнопки для быстрого выбора периодов: неделя, месяц или год от текущей даты- Если в выбранном периоде большое количество оценок, уточните поисковый запрос с помощью фильтра. Для этого в правом углу нажмите кнопку фильтра. Выберите один или несколько фильтров и укажите нужные значения. Подробнее о фильтрах для поиска оценок (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q5)Можно выбрать несколько параметров — так поиск будет точнее- Нажмите «Найти оценки». Откроются результаты поиска — вам будет доступен список оценок, которые соответствуют заданным параметрам.
-Если оценка «0», значит, оператор получил 0 баллов. Невыставленные оценки не попадают в список
+1. Перейдите на вкладку «Поиск» → «Оценки». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZWEzMzJiMC5kZXNrdG9wXzEwLnBuZw==)Если у вас уже есть сохраненные фильтры, вы увидите их над строкой поиска
+2. В строках «Начало» и «Окончание» укажите период, за который ищете оценки, в формате дд.мм.гггг чч:мм:сс. Или выберите даты в календаре. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84Nzk3NDljMi5kZXNrdG9wXzExLnBuZw==)Справа от календаря есть кнопки для быстрого выбора периодов: неделя, месяц или год от текущей даты
+3. Если в выбранном периоде большое количество оценок, уточните поисковый запрос с помощью фильтра. Для этого в правом углу нажмите кнопку фильтра. Выберите один или несколько фильтров и укажите нужные значения. [Подробнее о фильтрах для поиска оценок](/business/help/solutions/speech-analytics/control/marks/?card=q5)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yYjE0ZmEzMi5kZXNrdG9wXzEyLnBuZw==)Можно выбрать несколько параметров — так поиск будет точнее
+4. Нажмите «Найти оценки». Откроются результаты поиска — вам будет доступен список оценок, которые соответствуют заданным параметрам. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NDczMmY2Ni5kZXNrdG9wXzEzLnBuZw==)Если оценка «0», значит, оператор получил 0 баллов. Невыставленные оценки не попадают в список
 В карточке каждой оценки можно посмотреть общую информацию о ней — для этого нажмите на серую стрелку вниз.
-Там же можно посмотреть ID оценки, по которому ее удобно будет находить, почитать расшифровку и послушать запись звонка, который оценивался
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mNjljMjcyMS5kZXNrdG9wXzE0LnBuZw==)Там же можно посмотреть ID оценки, по которому ее удобно будет находить, почитать расшифровку и послушать запись звонка, который оценивался
 Расположенная рядом синяя стрелка вниз нужна, чтобы изменить, откалибровать или удалить оценку.
-Как изменить оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q8)Как откалибровать оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q9)Как удалить оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q10)
+[Как изменить оценку](/business/help/solutions/speech-analytics/control/marks/?card=q8)
+[Как откалибровать оценку](/business/help/solutions/speech-analytics/control/marks/?card=q9)
+[Как удалить оценку](/business/help/solutions/speech-analytics/control/marks/?card=q10)
 Чтобы посмотреть подробную информацию об оценке, нажмите «Открыть». Вы увидите название оценочной формы и критерии оценки. В правой части карточки — информацию об оценке и коммуникации или операторе.
-Параметры с комментариями подсвечены в карточке красным восклицательным знаком
-Еще вы можете скачать найденные через поиск оценки в формате таблицы XLSX или CSV. Как это сделать (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q7)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNGExYzdjYS5kZXNrdG9wXzE1LnBuZw==)Параметры с комментариями подсвечены в карточке красным восклицательным знаком
+Еще вы можете скачать найденные через поиск оценки в формате таблицы XLSX или CSV. [Как это сделать](/business/help/solutions/speech-analytics/control/marks/?card=q7)

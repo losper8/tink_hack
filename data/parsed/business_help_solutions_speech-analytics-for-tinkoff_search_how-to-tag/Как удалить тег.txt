@@ -1,4 +1,3 @@
-Как удалить тег?
-В TQM перейдите в «Поиск» → «Коммуникации» → «Теги». (https://tqm.tinkoff.ru/filter/communications/tags) Наведите курсор на нужный тег. Нажмите на значок корзины у тега, который хотите удалить, и подтвердите удаление.
-
-Восстановить тег после удаления не получится. Если он снова станет нужен, надо создать его заново
+## Как удалить тег?
+[В TQM перейдите в «Поиск» → «Коммуникации» → «Теги».](https://tqm.tinkoff.ru/filter/communications/tags) Наведите курсор на нужный тег. Нажмите на значок корзины у тега, который хотите удалить, и подтвердите удаление.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yYTQ3YTQ3MC5kZXNrdG9wXzQxLnBuZw==)Восстановить тег после удаления не получится. Если он снова станет нужен, надо создать его заново

@@ -1,22 +1,16 @@
-Как загрузить отчет Wildberries в онлайн-бухгалтерию?
-
-
+## Как загрузить отчет Wildberries в онлайн-бухгалтерию?
+Автоматизируйте работу с маркетплейсом, чтобы не загружать отчеты вручную. Они будут регулярно отображаться в ленте операций без ваших действий. [Чем поможет автоматическая работа с Wildberries](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q13)
 В онлайн-бухгалтерию Тинькофф нужно загружать отчеты о реализации и детализацию к уведомлению о выкупе, которые вы скачиваете в личном кабинете Wildberries.
-
-
 Чтобы загрузить отчет Wildberries
-
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия» → «Операции». (https://business.tinkoff.ru/accounting/self/feed/approved)- Выберите вкладку «Отчеты Wildberries» и нажмите «Выберите файлы». Загрузите нужные файлы в формате PDF или XLSX.Можно загрузить один файл или сразу несколько файлов отчета
+1. [Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия» → «Операции».](https://business.tinkoff.ru/accounting/self/feed/approved)
+2. Выберите вкладку «Отчеты Wildberries» и нажмите «Выберите файлы». Загрузите нужные файлы в формате PDF или XLSX.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMTQ0MTI0Yi4wM19kZXNrdG9wLnBuZw==)Можно загрузить один файл или сразу несколько файлов отчета
 Готово. Вы загрузили отчет в онлайн-бухгалтерию Тинькофф.
-
-
 Отчеты хранятся в разделе «Загруженные».
-
-Вы можете найти нужный отчет Wildberries по году и месяцу
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZDNmMGUxYy5kZXNrdG9wLnBuZw==)Вы можете найти нужный отчет Wildberries по году и месяцу
 После загрузки отчета Wildberries создается операция на сумму продаж.
-
-
-
+Например, если в отчете Wildberries только продажи, будет создана одна операция на сумму продаж.
+Если есть продажи и возвраты, Wildberries посчитает разницу между ними.
+Если только возвраты, будет создана одна расходная операция на сумму возвратов.
 Операции продаж увеличивают налогооблагаемую базу, а операции возврата — уменьшают. Все операции автоматически вносятся в Книгу учета доходов и расходов — КУДИР.
-
-Как отчитаться по УСН (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/tax-service/usn/)
+[Как отчитаться по УСН](/business/help/reports/tinkoff-accounting/tax-service/usn/)

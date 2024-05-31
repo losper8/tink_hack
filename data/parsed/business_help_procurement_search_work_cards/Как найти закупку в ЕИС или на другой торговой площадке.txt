@@ -1,6 +1,4 @@
-Как найти закупку в ЕИС или на другой торговой площадке?
+## Как найти закупку в ЕИС или на другой торговой площадке?
 Открыть карточку закупки на электронной торговой площадке можно двумя способами — из поисковой выдачи или карточки закупки:
-
-- в выдаче выберите карточку в поиске → название площадки;
-
-- в карточке откройте «Общая информация» и пролистайте до пункта «Электронная торговая площадка» → «Посмотреть на площадке».
+* в выдаче выберите карточку в поиске → название площадки; ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NzBiMTA4MC5kZXNrdG9wXzAyLnBuZw==)
+* в карточке откройте «Общая информация» и пролистайте до пункта «Электронная торговая площадка» → «Посмотреть на площадке». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MTNiMjIzMS5kZXNrdG9wXzAzLnBuZw==)

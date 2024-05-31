@@ -1,8 +1,6 @@
-Как оценить работу оператора?
-
+## Как оценить работу оператора?
 Через вкладку «Поиск»:
-
-- Перейдите в раздел «Операторы», найдите карточку нужного сотрудника по фамилии и имени. Справа от имени сотрудника нажмите «Оценить».
-- Выберите оценочную форму.
-Как создать и настроить новую оценочную форму (https://www.tinkoff.ru/business/help/solutions/speech-analytics/setup/create-forms/?card=q4)- Поставьте оператору оценку и укажите, будет ли она влиять на рейтинг сотрудника.
-- Нажмите «Оценить». Готово.
+1. Перейдите в раздел «Операторы», найдите карточку нужного сотрудника по фамилии и имени. Справа от имени сотрудника нажмите «Оценить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kZjkyM2Q5ZC4wM19yYV9vcGVyYXRvcnkucG5n)
+2. Выберите оценочную форму. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYjQ0NDVkNS4wM19yYV9vcGVyYXRvcnlfMS5wbmc=)[Как создать и настроить новую оценочную форму](/business/help/solutions/speech-analytics/setup/create-forms/?card=q4)
+3. Поставьте оператору оценку и укажите, будет ли она влиять на рейтинг сотрудника. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMjI5MTcxNy4wNV9yYV9vcGVyYXRvcnkucG5n)
+4. Нажмите «Оценить». Готово. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xYmNjOWEwYS4wNl9yYV9vcGVyYXRvcnkucG5n)

@@ -1,3 +1,2 @@
-Какую версию 1С можно связать с Тинькофф Бизнесом?
-
-Полный и актуальный список конфигураций, которые поддерживают технологию DirectBank, есть на официальном сайте 1С. (https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/realizovannye-resheniya/directbank-pryamoy-obmen-s-bankom/tipovye-konfiguratsii-firmy-1s-podderzhivayushchie-tekhnologiyu-directbank/)
+## Какую версию 1С можно связать с Тинькофф Бизнесом?
+Полный и актуальный список конфигураций, которые поддерживают технологию DirectBank, есть [на официальном сайте 1С.](https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/realizovannye-resheniya/directbank-pryamoy-obmen-s-bankom/tipovye-konfiguratsii-firmy-1s-podderzhivayushchie-tekhnologiyu-directbank/)

@@ -1,11 +1,9 @@
-Как настроить автоматическое изменение статуса оплаты заказа?
-
+## Как настроить автоматическое изменение статуса оплаты заказа?
 Для автоматического изменения статуса оплаты заказа настройте отправку уведомлений по HTTP:
-
-- В личном кабинете руководителя (https://business.tinkoff.ru/posbroker) зайдите в раздел «Магазины».
--  
-Выберите нужный сайт и дважды нажмите на него. После этого кликните «Редактировать».
-- 
-В разделе «Уведомления» поставьте галочку «По HTTP».
-
+1. [В личном кабинете руководителя](https://business.tinkoff.ru/posbroker) зайдите в раздел «Магазины».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YzQyZjQ1NC4wMl9kZXNrdG9wLnBuZw==)
+2. Выберите нужный сайт и дважды нажмите на него. После этого кликните «Редактировать».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wZWE2ZjViNS4wNl9kZXNrdG9wLnBuZw==)
+3. В разделе «Уведомления» поставьте галочку «По HTTP».
 В поле «Адрес для HTTP‑нотификаций» укажите <адрес вашего сайта>/bitrix/tools/tcbroker_sale_ps_result.php. Этот адрес можно найти в параметрах платежной системы, в блоке «Обработчик». Готово!
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hMDI0MTMzZC5jNTY2Y2ViY19lZjBmXzQ0ODhfYmUxN180NjllNzYyOWFjYTgucG5n)

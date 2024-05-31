@@ -1,10 +1,7 @@
-Как выгрузить реестр счетов на оплату?
-
-В личном кабинете интернет-эквайринга на вкладке «Счета» отражаются все ранее выставленные счета для оплаты по ссылке. Как подключить оплату по ссылке (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q2)
-
-Если принимаете оплату через платежную форму, вам нужен не реестр счетов на оплату, а реестр операций. Как выгрузить реестр операций (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/additional-features/?card=q4)
-
+## Как выгрузить реестр счетов на оплату?
+В личном кабинете интернет-эквайринга на вкладке «Счета» отражаются все ранее выставленные счета для оплаты по ссылке. [Как подключить оплату по ссылке](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q2)
+Если принимаете оплату через платежную форму, вам нужен не реестр счетов на оплату, а реестр операций. [Как выгрузить реестр операций](/business/help/business-payments/internet-acquiring/how-use/additional-features/?card=q4)
 Чтобы выгрузить реестр счетов:
-
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Счета». (https://business.tinkoff.ru/oplata/order)- Отсортируйте счета по нужным параметрам.
-Например, здесь мы отсортировали счета, которые выставили за последние 6 месяцев. Чтобы отсортировать счета по статусу, нажмите на «Все статусы платежей»- В меню слева перейдите на вкладку «Выгрузки». Выберите формат — XLS или CSV — и нажмите «Выгрузить». Файл с реестром появится в списке в меню слева. Скачайте его на свой компьютер.
+1. [Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Счета».](https://business.tinkoff.ru/oplata/order)
+2. Отсортируйте счета по нужным параметрам. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hNmE2OTQ5OS4zYTM4NmU0OV8zNzI3XzQ4NGVfYTliOF83N2FlOTE5YWE2MWYucG5n)Например, здесь мы отсортировали счета, которые выставили за последние 6 месяцев. Чтобы отсортировать счета по статусу, нажмите на «Все статусы платежей»
+3. В меню слева перейдите на вкладку «Выгрузки». Выберите формат — XLS или CSV — и нажмите «Выгрузить». Файл с реестром появится в списке в меню слева. Скачайте его на свой компьютер. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZjU2YzExZS42ZmJmNDE1M19hMjZkXzQ4NzVfODU5NF9jNmJmNDA0ZWFhOWIucG5n)

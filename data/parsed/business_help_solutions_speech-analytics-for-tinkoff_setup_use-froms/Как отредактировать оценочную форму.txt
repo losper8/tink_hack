@@ -1,14 +1,10 @@
-Как отредактировать оценочную форму?
-
-Отредактировать оценочную форму можно, если она еще не опубликована и находится в статусе «Черновик». После публикации можно создать только новую форму. Как создать оценочную форму (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/create-forms/?card=q4)
-
+## Как отредактировать оценочную форму?
+Отредактировать оценочную форму можно, если она еще не опубликована и находится в статусе «Черновик». После публикации можно создать только новую форму. [Как создать оценочную форму](/business/help/solutions/speech-analytics-for-tinkoff/setup/create-forms/?card=q4)
 Чтобы отредактировать черновик формы:
-
-- В TQM перейдите в «Администрирование» → «Формы». (https://tqm.tinkoff.ru/admin/forms) Выберите папку, в которой лежит нужная форма. В строке с нужной формой нажмите три точки справа → «Редактировать».
-- Разделы «Общие настройки» и «Вопросы» станут активны для редактирования. Измените нужные вам поля формы. - 
-Когда правки будут внесены, в разделе «Сохранение» нажмите «Сохранить форму» — черновик будет опубликован автоматически.
-
+1. [В TQM перейдите в «Администрирование» → «Формы».](https://tqm.tinkoff.ru/admin/forms) Выберите папку, в которой лежит нужная форма. В строке с нужной формой нажмите три точки справа → «Редактировать». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85MGZmYzc4OC4yMF9yYV9vdHNlbmthXzR4LnBuZw==)
+2. Разделы «Общие настройки» и «Вопросы» станут активны для редактирования. Измените нужные вам поля формы. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMjBkNGM5Zi4wMV9yYV9vdHNlbmthXzR4XzEucG5n)
+3. Когда правки будут внесены, в разделе «Сохранение» нажмите «Сохранить форму» — черновик будет опубликован автоматически.
 Если не хотите публиковать новую версию формы, передвиньте тумблер «Сохранить как черновик» — он станет желтым. Тогда форма сохранится в исходную папку. В желтой плашке система подскажет, в какую именно.
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82MTBmMDYyOS4wMl9yYV9vdHNlbmthXzR4XzEucG5n)
 Если черновик — новая версия другой формы, при публикации формы предыдущие версии будут удалены. Об этом появится соответствующее предупреждение.
-Восстановить предыдущие версии формы после публикации нельзя
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYjcxYzUzZS4wM19yYV9vdHNlbmthXzR4XzEucG5n)Восстановить предыдущие версии формы после публикации нельзя

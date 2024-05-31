@@ -1,15 +1,17 @@
-Как собирать контакты посетителей сайта?
-
+## Как собирать контакты посетителей сайта?
 Это можно делать разными способами.
-
 Добавить на сайт блок с формой. Так можно собирать заявки на услуги, предзаказы, подписки.
-
-Как добавить форму заявки на сайт (https://www.tinkoff.ru/business/help/sales/website-builder/orders/request/?card=form)Подключить корзину, чтобы клиенты могли выбрать несколько товаров, указать способ оплаты и адрес доставки.
-
-Как настроить корзину для покупки товаров (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=shopping-cart)Настроить прием платежей, чтобы клиенты могли оплачивать покупки картами Mastercard, Visa и «Мир». Работает через интернет-эквайринг Тинькофф.
-
-Как принимать оплату на сайте (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=payment)Использовать чат, чтобы отвечать на вопросы клиентов, пока они на сайте.
-
-Как добавить чат на сайт (https://www.tinkoff.ru/business/help/sales/website-builder/orders/request/?card=add-chat)Добавить на сайт сторонний виджет: форму обратного звонка, онлайн-запись на получение услуги, онлайн‑тест или форму подписки на рассылку.
-
-Как установить на сайт сторонний виджет (https://www.tinkoff.ru/business/help/sales/website-builder/orders/request/?card=add-widget)В этом случае контакты и сообщения клиентов придут в личный кабинет стороннего сервиса
+[Как добавить форму заявки на сайт](/business/help/sales/website-builder/orders/request/?card=form)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yMzA5ZjI0NS4wMV9yYWJvdGF0X3NfemF5dmthbWlfMjg5OTIxZDJhNGM0MzczYjFmZjgxOWZjOGM3YzRlNjEucG5n)
+Подключить корзину, чтобы клиенты могли выбрать несколько товаров, указать способ оплаты и адрес доставки.
+[Как настроить корзину для покупки товаров](/business/help/sales/website-builder/about/begin/?card=shopping-cart)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wZDRlYjFkNC4wMl9yYWJvdGF0X3NfemF5dmthbWlfNDc2NjdiZWE2MjZkOGZjODJhNWUzNDExODBiNzBlYzUucG5n)
+Настроить прием платежей, чтобы клиенты могли оплачивать покупки картами Mastercard, Visa и «Мир». Работает через интернет-эквайринг Тинькофф.
+[Как принимать оплату на сайте](/business/help/sales/website-builder/money/acquiring/?card=payment)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ZjdlMGNlOC4wM19yYWJvdGF0X3NfemF5dmthbWlfMGU3YWUwMzBhMjQzODA0ZTI3OGM4NmZiMWI4MTBiYzIucG5n)
+Использовать чат, чтобы отвечать на вопросы клиентов, пока они на сайте.
+[Как добавить чат на сайт](/business/help/sales/website-builder/orders/request/?card=add-chat)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zZTdlNTAzNS4wNF9yYWJvdGF0X3NfemF5dmthbWlfZWM4NTAzZTQ5ZDYyMGQ2ZTNkZjI4N2ZjZmE5NjlkYTMucG5n)
+Добавить на сайт сторонний виджет: форму обратного звонка, онлайн-запись на получение услуги, онлайн‑тест или форму подписки на рассылку.
+[Как установить на сайт сторонний виджет](/business/help/sales/website-builder/orders/request/?card=add-widget)
+![](https://opis-cdn.tinkoffjournal.ru/pluto-backend-images/7df14c0f.05_rabotat_s_zayvkami.gif)В этом случае контакты и сообщения клиентов придут в личный кабинет стороннего сервиса

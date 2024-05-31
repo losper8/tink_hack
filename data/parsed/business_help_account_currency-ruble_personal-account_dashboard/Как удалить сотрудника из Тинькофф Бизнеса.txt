@@ -1,16 +1,15 @@
-Как удалить сотрудника из Тинькофф Бизнеса?
-
-Закрыть доступ сотруднику может только руководитель в приложении Тинькофф Бизнеса и личном кабинете на сайте tinkoff.ru. (https://www.tinkoff.ru/)
-- Вверху экрана нажмите на название компании или ИП → «Пользователи».
-
-- Нажмите «Все пользователи» и выберите пользователя, которого хотите удалить.
-- Нажмите «Удалить».
-- Нажмите на название компании или ИП → «Настройки профиля и доступы».
-
-- Откройте вкладку «Компания» → «Все пользователи» (https://business.tinkoff.ru/account/users) и выберите пользователя, которого хотите удалить.
-
-- Нажмите «Удалить».
-
-
-
+## Как удалить сотрудника из Тинькофф Бизнеса?
+Закрыть доступ сотруднику может только руководитель в приложении Тинькофф Бизнеса и личном кабинете на сайте [tinkoff.ru.](/)
+С телефона — в приложении Тинькофф Бизнеса
+Откройте «Еще» → «Сотрудники» на iPhone или «Пользователи» на Android и выберите пользователя, которого хотите удалить.
+Можно сделать это прямо на экране со списком: свайпните строку с ФИО влево и нажмите на корзину. А можно удалить сотрудника в его профиле: нажмите на ФИО → «Удалить сотрудника».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80NDczMWNkYi5kZXNrdG9wXzRfNS5wbmc=)Закрыть доступ сотруднику можно в общем списке или в профиле
+С телефона — в личном кабинете на сайте tinkoff.ru
+1. Вверху экрана нажмите на название компании или ИП → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NWY5MzBjMS4wMl8wM19kZXNrdG9wLnBuZw==)
+2. Нажмите «Все пользователи» и выберите пользователя, которого хотите удалить.
+3. Нажмите «Удалить».
+С компьютера — в личном кабинете на сайте tinkoff.ru
+1. Нажмите на название компании или ИП → «Настройки профиля и доступы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lODQxMDc4Zi5kZXNrdG9wXzQucG5n)
+2. [Откройте вкладку «Компания» → «Все пользователи»](https://business.tinkoff.ru/account/users) и выберите пользователя, которого хотите удалить. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZGIxZTI2OC4xMl9kZXNrdG9wLnBuZw==)
+3. Нажмите «Удалить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84Yjc2M2Q5Zi5kZXNrdG9wXzYucG5n)
 Теперь сотрудник не будет отображаться в списке и больше не сможет заходить в аккаунт вашей компании ни в приложении, ни в личном кабинете.

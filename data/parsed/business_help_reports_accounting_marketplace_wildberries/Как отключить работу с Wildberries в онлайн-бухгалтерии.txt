@@ -1,13 +1,14 @@
-Как отключить работу с Wildberries в онлайн-бухгалтерии?
-
+## Как отключить работу с Wildberries в онлайн-бухгалтерии?
 Вы можете приостановить работу с Wildberries и сохранить отчеты или полностью отключить — в этом случае все отчеты удалятся.
-
-Если вы хотите приостановить работу с Wildberries и сохранить уже загруженные отчеты- Зайдите в личный кабинет Тинькофф Бизнеса в раздел «Бухгалтерия» → «Реквизиты» → в блоке «Маркетплейсы» нажмите на шестеренку.- Нажмите на три точки напротив названия маркетплейса → «Приостановить».
-- В появившемся окне проверьте дату, с которой хотите приостановить работу с Wildberries. Если хотите изменить ее, кликните на значок календаря и выберите новую. Нажмите кнопку «Приостановить».
-
+Если вы хотите приостановить работу с Wildberries и сохранить уже загруженные отчеты
+1. Зайдите в личный кабинет Тинькофф Бизнеса в раздел «Бухгалтерия» → «Реквизиты» → в блоке «Маркетплейсы» нажмите на шестеренку.
+2. Нажмите на три точки напротив названия маркетплейса → «Приостановить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82ODM4YTNlZi4wNl9tYXJrZXRwbGFjZV91cGRhdGVfZGVza180eC5wbmc=)
+3. В появившемся окне проверьте дату, с которой хотите приостановить работу с Wildberries. Если хотите изменить ее, кликните на значок календаря и выберите новую. Нажмите кнопку «Приостановить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yMjcxZjE1OC4wN19tYXJrZXRwbGFjZV91cGRhdGVfZGVza180eC5wbmc=)
 Готово, вы приостановили работу с Wildberries. Отчеты, загруженные до установленной даты, сохранятся, все остальные система удалит. Новые комиссии и возвраты от маркетплейса нужно будет учитывать вручную.
 Чтобы возобновить работу с Wildberries зайдите в личный кабинет Тинькофф Бизнеса в раздел «Бухгалтерия» → «Реквизиты» → в блоке «Маркетплейсы» нажмите на шестеренку → «Подключить».
-Если вы хотите полностью отключить работу с Wildberries и удалить все отчеты- Зайдите в личный кабинет Тинькофф Бизнеса в раздел «Бухгалтерия» → «Реквизиты» → в блоке «Маркетплейсы» нажмите на шестеренку.- Нажмите на три точки напротив названия маркетплейса → «Отключить и удалить отчеты».
-- В появившемся окне нажмите кнопку «Да, отключить».
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lYzZlMzQ1Zi4wM19tYXJrZXRwbGFjZV9kZXNrNHhfODYyOTQ1ZDQ0NzRjODZkYWU5Nzg2NjljNzAyZTBlOTEucG5n)
+Если вы хотите полностью отключить работу с Wildberries и удалить все отчеты
+1. Зайдите в личный кабинет Тинькофф Бизнеса в раздел «Бухгалтерия» → «Реквизиты» → в блоке «Маркетплейсы» нажмите на шестеренку.
+2. Нажмите на три точки напротив названия маркетплейса → «Отключить и удалить отчеты». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xODFmMTFiMC4wNF9tYXJrZXRwbGFjZV91cGRhdGVfZGVza180eC5wbmc=)
+3. В появившемся окне нажмите кнопку «Да, отключить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83Y2E2M2IyYS4wNV9tYXJrZXRwbGFjZV91cGRhdGVfZGVza180eC5wbmc=)
 Готово, вы отключили работу с Wildberries. Система удалит все загруженные отчеты и восстановит суммы операций. Вкладка «Отчеты Wildberries» пропадет из раздела «Операции». Новые комиссии и возвраты от маркетплейса нужно будет учитывать вручную.

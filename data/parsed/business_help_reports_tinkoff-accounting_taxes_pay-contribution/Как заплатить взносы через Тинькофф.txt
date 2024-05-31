@@ -1,8 +1,6 @@
-Как заплатить взносы через Тинькофф?
-
+## Как заплатить взносы через Тинькофф?
 Заплатить взносы можно в мобильном приложении или личном кабинете Тинькофф Бизнеса.
-
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия». (https://business.tinkoff.ru/accounting/self/main) Нажмите на название нужного взноса.
-- Вы увидите карточку с деталями по выбранному взносу. Нажмите «К оплате».
-- Откроется страница с платежным поручением. Нажмите «Отправить».
+1. [Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия».](https://business.tinkoff.ru/accounting/self/main) Нажмите на название нужного взноса. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hZDljYWQzNi45LnBuZw==)
+2. Вы увидите карточку с деталями по выбранному взносу. Нажмите «К оплате». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81YWUxNDRmYS4xMC5wbmc=)
+3. Откроется страница с платежным поручением. Нажмите «Отправить».
 Готово, вы заплатили взнос.

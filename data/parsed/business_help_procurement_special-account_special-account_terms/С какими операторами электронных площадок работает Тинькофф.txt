@@ -1,13 +1,11 @@
-С какими операторами электронных площадок работает Тинькофф?
-
+## С какими операторами электронных площадок работает Тинькофф?
 Мы работаем со всеми федеральными электронными торговыми площадками:
-
-- АО «Агентство по государственному заказу Республики Татарстан» — ETP.ZAKAZRF.RU; (http://etp.zakazrf.ru/)
-- АО «Единая электронная торговая площадка» — ROSELTORG.RU; (https://www.roseltorg.ru/)
-- АО «Российский аукционный дом» — GZ.LOT‑ONLINE.RU; (https://gz.lot-online.ru/)
-- АО «ТЭК‑Торг» — TEKTORG.RU; (http://www.tektorg.ru/)
-- АО «Электронные торговые системы» — ETP‑ETS.RU; (http://www.etp-ets.ru/)
-- АО «Сбербанк — Автоматизированная система торгов» — SBERBANK‑AST.RU; (http://www.sberbank-ast.ru/)
-- ООО «РТС‑тендер» — RTS‑TENDER.RU; (http://www.rts-tender.ru/)
-- ООО «Электронная торговая площадка ГПБ» — ETPGPB.RU; (https://etpgpb.ru/)
-- ООО «ЭТП» — ETPF.RU. (https://www.etprf.ru/)
+* АО «Агентство по государственному заказу Республики Татарстан» — [ETP.ZAKAZRF.RU;](http://etp.zakazrf.ru/)
+* АО «Единая электронная торговая площадка» — [ROSELTORG.RU;](https://www.roseltorg.ru/)
+* АО «Российский аукционный дом» — [GZ.LOT‑ONLINE.RU;](https://gz.lot-online.ru/)
+* АО «ТЭК‑Торг» — [TEKTORG.RU;](http://www.tektorg.ru/)
+* АО «Электронные торговые системы» — [ETP‑ETS.RU;](http://www.etp-ets.ru/)
+* АО «Сбербанк — Автоматизированная система торгов» — [SBERBANK‑AST.RU;](http://www.sberbank-ast.ru/)
+* ООО «РТС‑тендер» — [RTS‑TENDER.RU;](http://www.rts-tender.ru/)
+* ООО «Электронная торговая площадка ГПБ» — [ETPGPB.RU;](https://etpgpb.ru/)
+* ООО «ЭТП» — [ETPF.RU.](https://www.etprf.ru/)

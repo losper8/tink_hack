@@ -1,5 +1,4 @@
-Что такое теги?
-
+## Что такое теги?
 Теги — это цветные метки, которыми «Речевая аналитика» размечает разные ситуации в диалоге, например грубость клиента или некомпетентность оператора. Теги подсвечиваются рядом со звонками и чатами.
-
-Как находить коммуникации с помощью тегов (https://www.tinkoff.ru/business/help/solutions/speech-analytics/search/how-to-tag/?card=q2)Поиск по звонкам. Теги подсвечиваются разными цветами, у каждого тега уникальное название
+[Как находить коммуникации с помощью тегов](/business/help/solutions/speech-analytics/search/how-to-tag/?card=q2)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NTFlNTJiNS4wMV9yYV9vdHNlbmthXzR4LnBuZw==)Поиск по звонкам. Теги подсвечиваются разными цветами, у каждого тега уникальное название

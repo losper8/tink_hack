@@ -1,12 +1,8 @@
-Как принимать платежи в интернете?
-
-
+## Как принимать платежи в интернете?
+Принимать платежи в интернете могут ИП и компании. Физлица и самозанятые не могут подключить интернет-эквайринг.
 Для этого нужно:
-
-- зарегистрироваться как ИП или открыть ООО (https://www.tinkoff.ru/business/help/registration/registration/);
-- открыть расчетный счет для бизнеса (https://www.tinkoff.ru/business/help/account/currency-ruble/);
-- подключить интернет-эквайринг (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/?internal_source=search_help);
-- выбрать и подключить онлайн-кассу. (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/kassa/)
-
-
-Некоторые могут не подключать онлайн-кассу, например ИП на спецрежиме «Налог на профессиональный доход». Кто еще может работать без онлайн-кассы (https://secrets.tinkoff.ru/razvitie/prodazhi/onlajn-kassy/#2)
+* [зарегистрироваться как ИП или открыть ООО](/business/help/registration/registration/);
+* [открыть расчетный счет для бизнеса](/business/help/account/currency-ruble/);
+* [подключить интернет-эквайринг](/business/help/business-payments/internet-acquiring/how-involve/?internal_source=search_help);
+* [выбрать и подключить онлайн-кассу.](/business/help/business-payments/internet-acquiring/kassa/)
+Некоторые могут не подключать онлайн-кассу, например ИП на спецрежиме «Налог на профессиональный доход». [Кто еще может работать без онлайн-кассы](https://secrets.tinkoff.ru/razvitie/prodazhi/onlajn-kassy/#2)

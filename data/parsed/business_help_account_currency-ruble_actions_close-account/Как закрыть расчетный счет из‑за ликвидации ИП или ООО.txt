@@ -1,2 +1,2 @@
-Как закрыть расчетный счет из‑за ликвидации ИП или ООО?
-Ничего дополнительно делать не нужно, просто закройте счет по инструкции. (https://www.tinkoff.ru/business/help/account/currency-ruble/actions/close-account/?card=q1)
+## Как закрыть расчетный счет из‑за ликвидации ИП или ООО?
+Ничего дополнительно делать не нужно, просто закройте счет [по инструкции.](/business/help/account/currency-ruble/actions/close-account/?card=q1)

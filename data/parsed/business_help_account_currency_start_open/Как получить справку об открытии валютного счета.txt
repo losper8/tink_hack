@@ -1,25 +1,28 @@
-Как получить справку об открытии валютного счета?
-
+## Как получить справку об открытии валютного счета?
 Закажите ее в приложении или в личном кабинете Тинькофф Бизнеса.
-
 Справку в электронном виде можно получить бесплатно в течение 10 минут.
-
 Бумажную справку отправим бесплатно Почтой России в течение рабочего дня или привезем в удобное время и место за 390 ₽.
-
-
 В приложении: перейдите в раздел «Сервисы» → «Документы» → «Справки» → «Заказать».
-
-Пошаговая инструкция- 
-Перейдите в раздел «Сервисы» → «Документы».
-- Перейдите в «Справки».- Нажмите «Заказать» → «Об открытии счета» → «Дальше».- Выберите формат справки — электронная или на бумаге.- Если выбрали электронный формат, введите ваш адрес эл. почты. Если выбрали бумажный формат, отметьте удобный способ доставки и заполните поля с адресом и ФИО получателя.
-- Выберите счет, об открытии которого нужна справка.- Выберите язык справки и количество экземпляров.- Оформите заказ. Можно добавить несколько разных справок к одному заказу.
-Нажмите на нужный счет, чтобы выбрать его
+Пошаговая инструкция
+1. Перейдите в раздел «Сервисы» → «Документы».
+2. Перейдите в «Справки».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yZTgwYzBhOS5kZXNrdG9wXzFfMl8yLnBuZw==)
+3. Нажмите «Заказать» → «Об открытии счета» → «Дальше».
+4. Выберите формат справки — электронная или на бумаге.
+5. Если выбрали электронный формат, введите ваш адрес эл. почты. Если выбрали бумажный формат, отметьте удобный способ доставки и заполните поля с адресом и ФИО получателя. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lYjA3NGNiNC5kZXNrdG9wXzNfNF8xLnBuZw==)
+6. Выберите счет, об открытии которого нужна справка.
+7. Выберите язык справки и количество экземпляров.
+8. Оформите заказ. Можно добавить несколько разных справок к одному заказу. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMzYzN2E0My5kZXNrdG9wXzVfNl8yLnBuZw==)Нажмите на нужный счет, чтобы выбрать его
 Справка в электронном виде будет готова в течение 10 минут. Она появится на экране справок. Если заказывали справку Почтой России, там же увидите трек‑номер.
-Нажмите на иконку фильтров в правом верхнем углу, чтобы найти справки определенного типа
-В личном кабинете: перейдите в «Документы» → «Справки» → «Заказ справок» → «Об открытии счета». (https://business.tinkoff.ru/sme/documents/inquiries/create?internal_source=help-order)
-Пошаговая инструкция- Перейдите в «Документы» → «Справки».- Во вкладке «Заказ справок» нажмите «Об открытии счета».- Выберите нужный счет, язык справки и ее формат.- Если выбрали бумажный формат, отметьте удобный способ доставки и заполните поля с адресом и ФИО получателя. - Нажмите «Заказать». 
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iYmYzZmVkMy5kZXNrdG9wXzcucG5n)Нажмите на иконку фильтров в правом верхнем углу, чтобы найти справки определенного типа
+В личном кабинете: [перейдите в «Документы» → «Справки» → «Заказ справок» → «Об открытии счета».](https://business.tinkoff.ru/sme/documents/inquiries/create?internal_source=help-order)
+Пошаговая инструкция
+1. Перейдите в «Документы» → «Справки».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mN2EwYmZmNi4wOF9oYWxwX25hY2hhbG9fdmFsaXl0eV9taW5fMWYwNGJhYzU0Njk5YTU0ZTVhYjM1NjU4YmJkMWQ1ZjYucG5n)
+2. Во вкладке «Заказ справок» нажмите «Об открытии счета».
+3. Выберите нужный счет, язык справки и ее формат.
+4. Если выбрали бумажный формат, отметьте удобный способ доставки и заполните поля с адресом и ФИО получателя.
+5. Нажмите «Заказать». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81NWI3OWQ3ZS4xMF9oYWxwX25hY2hhbG9fdmFsaXl0eV9taW5fZGYzNWY2ZTBjNjE0ZDViZGNkM2M3NDFmMzFiYjRiZjgucG5n)
 Справка в электронном виде будет готова в течение 10 минут и добавлена на вкладку «История». Оттуда вы сможете ее скачать в любое время.
-
-
-Если заказали справку в бумажном виде с доставкой Почтой России, напишите в чат поддержки (https://tinkoffbusiness.onelink.me/1221431269/oocytv75) Тинькофф Бизнеса, чтобы узнать трек‑номер отправления.
-Перейти в чат поддержки можно с любой страницы личного кабинета Тинькофф Бизнеса — нажмите на желтую кнопку чата
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YWI4NzkzNi4xMl9oYWxwX25hY2hhbG9fdmFsaXl0eV9taW5fNGI1YzU2NWZhOWQ0OGNkODEzNzgxZTVjYTU3ZmU4ZjQucG5n)
+Если заказали справку в бумажном виде с доставкой Почтой России, напишите [в чат поддержки](https://tinkoffbusiness.onelink.me/1221431269/oocytv75) Тинькофф Бизнеса, чтобы узнать трек‑номер отправления. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYzNiNjU1Mi5kZXNrdG9wLnBuZw==)Перейти в чат поддержки можно с любой страницы личного кабинета Тинькофф Бизнеса — нажмите на желтую кнопку чата

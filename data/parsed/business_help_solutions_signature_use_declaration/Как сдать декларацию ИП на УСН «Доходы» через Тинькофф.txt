@@ -1,30 +1,30 @@
-Как сдать декларацию ИП на УСН «Доходы» через Тинькофф?
-
+## Как сдать декларацию ИП на УСН «Доходы» через Тинькофф?
 Сдать декларацию можно в личном кабинете Тинькофф Бизнеса. В мобильном приложении это сделать не получится.
-
-
-- Вставьте токен с КЭП в компьютер. Убедитесь, что компьютер настроен для работы с КЭП. Как начать работать с электронной подписью для юрлиц и ИП (https://www.tinkoff.ru/business/help/solutions/signature/use/customize/?card=q1)- Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия». (https://business.tinkoff.ru/accounting/self/main) Нажмите на блок с декларацией.
-- 
-Если вы ведете расчеты в другом банке или наличными, то все операции нужно загрузить в Тинькофф Бухгалтерию для правильного расчета налога. Если вы ведете расчеты только в Тинькофф, пропустите этот шаг.
-
+Для сдачи декларации через Тинькофф понадобится квалифицированная электронная подпись — КЭП.
+[Как оформить КЭП в Тинькофф](/business/help/solutions/signature/get/tinkoff/?card=q3)
+[Как оформить КЭП в ФНС](/business/help/solutions/signature/get/tax-service/?card=q1)
+1. Вставьте токен с КЭП в компьютер. Убедитесь, что компьютер настроен для работы с КЭП. [Как начать работать с электронной подписью для юрлиц и ИП](/business/help/solutions/signature/use/customize/?card=q1)
+2. [Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия».](https://business.tinkoff.ru/accounting/self/main) Нажмите на блок с декларацией. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mNjA0ZDRlNC4xMS5wbmc=)
+3. Если вы ведете расчеты в другом банке или наличными, то все операции нужно загрузить в Тинькофф Бухгалтерию для правильного расчета налога. Если вы ведете расчеты только в Тинькофф, пропустите этот шаг.
 Чтобы загрузить операции наличными или из другого банка, нажмите «Добавить».
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MmMzOTUyZC4xMi5wbmc=)
 На новой вкладке откроется страница с операциями. Нажмите «Добавить операцию» и в выпадающем меню выберите удобный вариант загрузки: из другого банка, вручную, загрузить выписку 1С.
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wN2VmNWY5Ni4zLnBuZw==)
 После загрузки операций дождитесь, пока онлайн-бухгалтерия Тинькофф пересчитает налог. Обычно это занимает 1 день. Чтобы узнать, пересчитался ли налог, вернитесь на вкладку с подачей декларации. Когда сумма налога изменится, переходите к следующему шагу.
-- Нажмите «Подать декларацию».
-- 
-Выберите способ подачи декларации: онлайн. Проверьте, что в компьютер вставлен токен с КЭП. Нажмите «Подписать и отправить».
-Что делать, если нет кнопки «Подписать» (https://www.tinkoff.ru/business/help/solutions/signature/use/solve-error/?card=q9)
+4. Нажмите «Подать декларацию». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNGVkMjdlNy4xMy5wbmc=)
+5. Выберите способ подачи декларации: онлайн. Проверьте, что в компьютер вставлен токен с КЭП. Нажмите «Подписать и отправить».
+[Что делать, если нет кнопки «Подписать»](/business/help/solutions/signature/use/solve-error/?card=q9)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YjdmY2I3MS4xNC5wbmc=)
 Если хотите посмотреть или скачать декларацию, наведите курсор на строку «Декларация по УСН» и нажмите на значок загрузки. Декларацию можно скачать в формате XML и PDF.
-- После подачи декларации нужно дождаться ответа от ФНС. Обычно это занимает 3 дня. Как только налоговая ответит, мы пришлем пуш‑уведомление на ваш телефон. - Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия». (https://business.tinkoff.ru/accounting/self/main) Нажмите на блок с декларацией. - Нажмите «Расшифровать ответ».
-- Вы попадете в раздел «Отчетность», на страницу с отправленной декларацией. Чтобы расшифровать ответ налоговой, вам потребуется КЭП. Вставьте токен с КЭП в компьютер и нажмите «Подписать».
-- Если налоговая приняла декларацию, переходите на следующий шаг к оплате.
-
-Если налоговая не приняла декларацию, в ответе налоговой будет указано, что необходимо поправить. Чтобы исправить или добавить операции, воспользуйтесь инструкцией в шаге 3. (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/tax-service/declaration/?anchor=item3) Чтобы исправить реквизиты, зайдите на вкладку «Реквизиты» (https://business.tinkoff.ru/accounting/self/requisites) и нажмите значок редактирования.
-После вернитесь на вкладку «Главная», (https://business.tinkoff.ru/accounting/self/main) нажмите на название декларации → «Еще» → «Подать новую декларацию».
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMGUxMjdmYi4xNS5wbmc=)
+6. После подачи декларации нужно дождаться ответа от ФНС. Обычно это занимает 3 дня. Как только налоговая ответит, мы пришлем пуш‑уведомление на ваш телефон.
+7. [Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия».](https://business.tinkoff.ru/accounting/self/main) Нажмите на блок с декларацией.
+8. Нажмите «Расшифровать ответ». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYmQ4MjkyNi4xNi5wbmc=)
+9. Вы попадете в раздел «Отчетность», на страницу с отправленной декларацией. Чтобы расшифровать ответ налоговой, вам потребуется КЭП. Вставьте токен с КЭП в компьютер и нажмите «Подписать». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jZjJkMzM0YS4xNy5wbmc=)
+10. Если налоговая приняла декларацию, переходите на следующий шаг к оплате.
+Если налоговая не приняла декларацию, в ответе налоговой будет указано, что необходимо поправить. Чтобы исправить или добавить операции, воспользуйтесь [инструкцией в шаге 3.](/business/help/reports/tinkoff-accounting/tax-service/declaration/?anchor=item3) Чтобы исправить реквизиты, [зайдите на вкладку «Реквизиты»](https://business.tinkoff.ru/accounting/self/requisites) и нажмите значок редактирования.
+[После вернитесь на вкладку «Главная»,](https://business.tinkoff.ru/accounting/self/main) нажмите на название декларации → «Еще» → «Подать новую декларацию».
 После подачи исправленной декларации нужно снова дождаться ответа от налоговой и расшифровать его.
-- Вернитесь на вкладку «Бухгалтерия» → «Главная» (https://business.tinkoff.ru/accounting/self/main) для уплаты налога. Нажмите на название декларации.- Нажмите «К оплате», чтобы уплатить годовой налог по УСН. В рабочие дни зачислим средства на ЕНС моментально, в выходные — до 2 календарных дней.
-
+11. [Вернитесь на вкладку «Бухгалтерия» → «Главная»](https://business.tinkoff.ru/accounting/self/main) для уплаты налога. Нажмите на название декларации.
+12. Нажмите «К оплате», чтобы уплатить годовой налог по УСН. В рабочие дни зачислим средства на ЕНС моментально, в выходные — до 2 календарных дней. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jYzg5YTc2Yi4xOC5wbmc=)
 Готово, вы подали декларацию и уплатили годовой налог.

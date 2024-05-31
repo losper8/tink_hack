@@ -1,15 +1,14 @@
-Как подключить модуль «Тинькофф Кредит» в GetCourse?
-
+## Как подключить модуль «Тинькофф Кредит» в GetCourse?
 Это можно сделать в личном кабинете GetCourse:
-
-- Перейдите в личный кабинет GetCourse. (https://getcourse.ru/cms/system/login) В административной панели перейдите во вкладку «Настройка аккаунта» → «Интеграция» → «Перейти к ручной настройке интеграций онлайн‑касс и платежных агрегаторов» → «Тинькофф Кредит». Выберите «Включить» в выпадающем меню. Так выглядит нужная вкладка с настройкой модуля- 
-Введите параметры shopID и showcaseID. Их можно посмотреть в личном кабинете руководителя. (https://business.tinkoff.ru/posbroker)ShopID указан в личном кабинете в разделе «Компании», ShowcaseID — в разделе «Магазины»-  
-В поле «Промокоды Тинькофф Кредит (promoCode)» вставьте промокод. Его можно посмотреть в личном кабинете руководителя: (https://business.tinkoff.ru/posbroker) перейдите на вкладку «Рассрочки» → «Интернет-магазины». Сначала нужно вставить сам код, затем через пробел текст, который увидит покупатель. Например: «installment_0_0_3_5,19 Рассрочка без переплат на 3 месяца».
-Можно ввести несколько промокодов, если у вас подключены разные виды рассрочек- 
-В поле «Надпись на кнопке» впишите название кнопки, по которой покупатели будут переходить в форму заявки.
-Надпись из этого поля будет видна покупателям- 
-Если хотите продавать только несколько курсов из всех, что есть у вас на платформе, заполните поле «ID разрешенных предложений». ID можно найти на вкладке «Продажи» → «Продукты» → «Предложения»:
-
+1. [Перейдите в личный кабинет GetCourse.](https://getcourse.ru/cms/system/login) В административной панели перейдите во вкладку «Настройка аккаунта» → «Интеграция» → «Перейти к ручной настройке интеграций онлайн‑касс и платежных агрегаторов» → «Тинькофф Кредит». Выберите «Включить» в выпадающем меню. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lY2IxN2JiYy4zY2U1OTBmZF9kOTcwXzQ5ODBfYjhiZl80MTEyMWQ3ZTY0MGEucG5n)Так выглядит нужная вкладка с настройкой модуля
+2. Введите параметры shopID и showcaseID. Их можно посмотреть [в личном кабинете руководителя.](https://business.tinkoff.ru/posbroker)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZmQwYzY5NS4wZDk0YTdhOV8yMWFjXzRkMTNfOTQ2Y18zMDBiYTYyMTI3ZjEucG5n)ShopID указан в личном кабинете в разделе «Компании», ShowcaseID — в разделе «Магазины»
+3. В поле «Промокоды Тинькофф Кредит (promoCode)» вставьте промокод. Его можно посмотреть [в личном кабинете руководителя:](https://business.tinkoff.ru/posbroker) перейдите на вкладку «Рассрочки» → «Интернет-магазины». Сначала нужно вставить сам код, затем через пробел текст, который увидит покупатель. Например: «installment_0_0_3_5,19 Рассрочка без переплат на 3 месяца».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYmJhN2VhNi5mYmZkZjdhZF8xN2VhXzRjZGFfOWY4Nl9mODU1OWRlYzM2YzkucG5n)Можно ввести несколько промокодов, если у вас подключены разные виды рассрочек
+4. В поле «Надпись на кнопке» впишите название кнопки, по которой покупатели будут переходить в форму заявки.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jZDE3NTkwMi4yOTVlNzFlNV9jMDE3XzQ1N2NfOWIzN180ZjBjNWVjNDMxYWEucG5n)Надпись из этого поля будет видна покупателям
+5. Если хотите продавать только несколько курсов из всех, что есть у вас на платформе, заполните поле «ID разрешенных предложений». ID можно найти на вкладке «Продажи» → «Продукты» → «Предложения»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lNTQ1NTNhMC5iMThjNjg5NF84MGZlXzRlMjRfOTYyMl9hNjI4YmNjMDlkZTMucG5n)
 Скопируйте на странице «Предложения» нужный ID и вставьте в «ID разрешенных предложений» — его увидят пользователи.
-ID курсов, которые укажете в этом поле, покупатели смогут оплатить в рассрочку или кредит
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMDg2YTdlZC41MGFlNWE4NF85ZDExXzQxOTNfYjc3OF8wYWY2YjgyNDgwZDUucG5n)ID курсов, которые укажете в этом поле, покупатели смогут оплатить в рассрочку или кредит
 Готово, модуль «Тинькофф Кредит» подключен.

@@ -1,25 +1,17 @@
-Как искать звонки и чаты по словарям?
-
+## Как искать звонки и чаты по словарям?
 Вы можете искать звонки и чаты по словарям с помощью речевых фильтров.
-
-- В TQM перейдите в «Поиск» → «Коммуникации» → «Звонки». (https://tqm.tinkoff.ru/filter/communications/calls)
-- В поле «Тип поиска» выберите «Обычный», «Семантический» или «Последовательный». Про типы поиска (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q2)
-- Укажите период, за который хотите найти звонки.
-
-
-
-- Нажмите кнопку фильтра и выберите один из речевых фильтров: «Оператор произнес/не произнес», «Клиент произнес/не произнес».
-
-- Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется звонков.
-В этом примере анализируем речь оператора: выбираем фильтр «Оператор произнес» и словарь «Жалобы и недовольство клиента»
-- Нажмите «Найти звонки». Появятся результаты поиска по звонкам. Как словари анализируют исторические коммуникации (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/dictionaries/?card=q8)
-- В TQM перейдите в «Поиск» → «Коммуникации» → «Чаты». (https://tqm.tinkoff.ru/filter/communications/internal-chats)
-- Укажите период, за который хотите найти чаты.
-
-
-
-- Нажмите кнопку фильтра и выберите один из речевых фильтров: «Оператор написал/не написал», «Клиент написал/не написал».
-
-- Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется чатов.
-В этом примере анализируем речь оператора: выбираем фильтр «Оператор написал» и словарь emoji_negative
-- Нажмите «Найти чаты» — появятся результаты поиска по чатам. Как словари анализируют исторические коммуникации (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/dictionaries/?card=q8)
+Как найти звонки
+Следуйте инструкции:
+1. [В TQM перейдите в «Поиск» → «Коммуникации» → «Звонки».](https://tqm.tinkoff.ru/filter/communications/calls)
+2. В поле «Тип поиска» выберите «Обычный», «Семантический» или «Последовательный». [Про типы поиска](/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q2)
+3. Укажите период, за который хотите найти звонки.
+4. Нажмите кнопку фильтра и выберите один из речевых фильтров: «Оператор произнес/не произнес», «Клиент произнес/не произнес». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80MzYzYzY3ZS4xMV9kZXNrdG9wXzEucG5n)
+5. Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется звонков. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ZmRhYjU2Ni44LnBuZw==)В этом примере анализируем речь оператора: выбираем фильтр «Оператор произнес» и словарь «Жалобы и недовольство клиента»
+6. Нажмите «Найти звонки». Появятся результаты поиска по звонкам. [Как словари анализируют исторические коммуникации](/business/help/solutions/speech-analytics-for-tinkoff/setup/dictionaries/?card=q8)
+Как найти чаты
+Искать чаты можно только по обычным словарям. Следуйте инструкции:
+1. [В TQM перейдите в «Поиск» → «Коммуникации» → «Чаты».](https://tqm.tinkoff.ru/filter/communications/internal-chats)
+2. Укажите период, за который хотите найти чаты.
+3. Нажмите кнопку фильтра и выберите один из речевых фильтров: «Оператор написал/не написал», «Клиент написал/не написал». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hMWRlNTE1NS4xM19kZXNrdG9wLnBuZw==)
+4. Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется чатов. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82OTMwZmEzNS45LnBuZw==)В этом примере анализируем речь оператора: выбираем фильтр «Оператор написал» и словарь emoji_negative
+5. Нажмите «Найти чаты» — появятся результаты поиска по чатам. [Как словари анализируют исторические коммуникации](/business/help/solutions/speech-analytics-for-tinkoff/setup/dictionaries/?card=q8)

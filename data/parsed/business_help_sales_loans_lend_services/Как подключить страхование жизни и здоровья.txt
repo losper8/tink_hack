@@ -1,8 +1,5 @@
-Как подключить страхование жизни и здоровья?
-
+## Как подключить страхование жизни и здоровья?
 Страхование жизни и здоровья подключается во время заполнения заявки при подборе условий рассрочки или кредита:
-
-- Разверните раздел «Дополнительные услуги» — он находится ниже поля выбора рассрочки или кредита.
-- Щелкните тумблер напротив «Страхования жизни и здоровья» или «Страхования здоровья».
-Если покупатель не хочет подключать страхование, щелкните тумблеры, чтобы услуга стала неактивной- После оформления рассрочки или кредита распечатайте для покупателя страховой полис. Готово!
-Полис можно скачать в формате PDF
+1. Разверните раздел «Дополнительные услуги» — он находится ниже поля выбора рассрочки или кредита. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80NzE0Mjg0Ny4wNV9wb3NfcG9ka2x1Y2hpdF9kZXNrMnhfODFkMTIyY2FmZTlkNjZmZDI5ODBjMGNmMmYxM2ZhZmUucG5n)
+2. Щелкните тумблер напротив «Страхования жизни и здоровья» или «Страхования здоровья». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMWRkNDYyMC4wNl9wb3NfcG9ka2x1Y2hpdF9kZXNrMnhfODU1MDMxYjViOWRmMzQwZDVhMTk2OGE2OTVkNjRlNDgucG5n)Если покупатель не хочет подключать страхование, щелкните тумблеры, чтобы услуга стала неактивной
+3. После оформления рассрочки или кредита распечатайте для покупателя страховой полис. Готово! ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MjI3OGQ5ZS4wN19wb3NfcG9ka2x1Y2hpdF9kZXNrMnhfNWI3ZjJiY2UxOWZlY2ExZDg3YWIxOTgyOGUxYTgwMjIucG5n)Полис можно скачать в формате PDF

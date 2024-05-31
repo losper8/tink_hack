@@ -1,5 +1,5 @@
-Как связать Зарплатный проект Тинькофф Бизнеса с 1С:ЗУП?
-
+## Как связать Зарплатный проект Тинькофф Бизнеса с 1С:ЗУП?
 Следуйте инструкциям, перейдя по ссылкам в шагах:
-
-- Создайте зарплатный проект в 1С:ЗУП. (https://www.tinkoff.ru/business/help/business-payout/salary/integration/tune/?card=q4)- Подключите интеграцию в Тинькофф Бизнесе. (https://www.tinkoff.ru/business/help/business-payout/salary/integration/tune/?card=q13)- Настройте интеграцию в 1С:ЗУП. (https://www.tinkoff.ru/business/help/business-payout/salary/integration/tune/?card=q3)
+1. [Создайте зарплатный проект в 1С:ЗУП.](/business/help/business-payout/salary/integration/tune/?card=q4)
+2. [Подключите интеграцию в Тинькофф Бизнесе.](/business/help/business-payout/salary/integration/tune/?card=q13)
+3. [Настройте интеграцию в 1С:ЗУП.](/business/help/business-payout/salary/integration/tune/?card=q3)

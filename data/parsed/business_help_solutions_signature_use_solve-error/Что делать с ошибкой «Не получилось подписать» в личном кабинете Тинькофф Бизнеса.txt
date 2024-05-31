@@ -1,24 +1,50 @@
-Что делать с ошибкой «Не получилось подписать» в личном кабинете Тинькофф Бизнеса?
-
+## Что делать с ошибкой «Не получилось подписать» в личном кабинете Тинькофф Бизнеса?
 Такое оповещение означает, что компьютер не видит электронную подпись.
-
-Ошибка «Не получилось подписать» появляется при переходе в раздел с документами на подписание
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82OGFjN2I5OC4yMF9kZXNrdG9wLnBuZw==)Ошибка «Не получилось подписать» появляется при переходе в раздел с документами на подписание
 Компьютер может не увидеть подпись, если не загружено расширение, плагин или КриптоПро CSP. Все три компонента нужны, чтобы обмениваться электронными документами.
-
-
-Чтобы понять, в чем проблема, перейдите на сайт «КриптоПро». (https://www.cryptopro.ru/sites/default/files/products/cades/demopage/cades_bes_sample.html) Если какой‑то из компонентов не загружен, вы увидите красную или желтую точку напротив него. Пункт «Объекты плагина: ожидание загрузки провайдера» автоматически загорается зеленым цветом, только когда загружены остальные компоненты.
-
-На скрине видно, что расширение не загружено, а плагин и КриптоПро ожидают его загрузки
+Чтобы понять, в чем проблема, перейдите [на сайт «КриптоПро».](https://www.cryptopro.ru/sites/default/files/products/cades/demopage/cades_bes_sample.html) Если какой‑то из компонентов не загружен, вы увидите красную или желтую точку напротив него. Пункт «Объекты плагина: ожидание загрузки провайдера» автоматически загорается зеленым цветом, только когда загружены остальные компоненты.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ZDMwYzk1NC5kZXNrdG9wXzMxLnBuZw==)На скрине видно, что расширение не загружено, а плагин и КриптоПро ожидают его загрузки
 Если рядом с компонентами точки зеленого цвета, значит, проблема в сертификате или сроке действия лицензии КриптоПро.
-
-Если поле «Выберите сертификат» пустое, значит, на токене не установлен сертификат КЭП
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNTQwNzM0OS5kZXNrdG9wXzMyLnBuZw==)Если поле «Выберите сертификат» пустое, значит, на токене не установлен сертификат КЭП
 Порядок действий зависит от типа проблемы:
-
-- через личный кабинет Тинькофф Бизнеса; (https://www.tinkoff.ru/business/help/solutions/signature/use/customize/?card=q2)
-- вручную.
-- через личный кабинет Тинькофф Бизнеса; (https://www.tinkoff.ru/business/help/solutions/signature/use/customize/?card=q2)
-- вручную — для этого перейдите по ссылке, (https://www.cryptopro.ru/products/cades/plugin/get_2_0) и плагин автоматически скачается на ваш компьютер.
-- Вставьте токен в компьютер.
-- Откройте программу «Инструменты КриптоПро» и выберите «Контейнеры».
-- Выберите сертификат и нажмите «Установить сертификат» внизу экрана. Если на токен записано несколько сертификатов, проверьте данные в колонке «Имя субъекта» и выберите нужный.Выберите сертификат и нажмите «Установить сертификат» внизу экрана. Если на токен записано несколько сертификатов, проверьте данные в колонке «Имя субъекта» и выберите нужный.
-Если на токен записано несколько сертификатов, вы увидите их в разделе «Контейнеры»
+Не загружено расширение КриптоПро
+Плагин и программа «КриптоПро» не могут работать без расширения. Его можно установить двумя способами:
+* [через личный кабинет Тинькофф Бизнеса;](/business/help/solutions/signature/use/customize/?card=q2)
+* вручную.
+Алгоритм действий при ручной установке зависит от браузера.
+Google Chrome. В правом верхнем углу браузера нажмите на значок «Настройка и управление Google Chrome» → «Дополнительные инструменты» → «Расширения».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83YjljODYxMS5kZXNrdG9wXzMzLnBuZw==)
+В открывшемся окне вы увидите все установленные расширения. Кликните по CryptoPro Extension for CAdES Browser Plug‑in и убедитесь, что оно включено. Если расширения нет, скачайте его [в интернет-магазине Chrome.](https://chrome.google.com/webstore/detail/cryptopro-extension-for-c/iifchhfnnmpdbibifmljnfjhpififfog?hl=ru)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hMGJlYTdmMC5kZXNrdG9wXzM0LnBuZw==)Фрагмент интерфейса при установке расширения в Google Chrome. Тумблер передвинут вправо. Это значит, что расширение включено и работает
+Mozilla Firefox. Нажмите на значок меню в правом верхнем углу браузера, выберите «Настройки» → «Расширения и темы». На вкладке с расширениями проверьте, что CryptoPro Extension for CAdES Browser Plug‑in установлено и включено.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lOWRhYjRmNS5kZXNrdG9wXzM1LnBuZw==)
+Если расширения в браузере нет, установите его. Для этого перейдите на страницу установки и нажмите «Добавить». Расширение добавится на ваш компьютер.
+[Установить расширение для Mozilla Firefox](https://www.cryptopro.ru/sites/default/files/products/cades/extensions/firefox_cryptopro_extension_latest.xpi)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NzEwYWM2MS5kZXNrdG9wXzM2LnBuZw==)Когда CryptoPro Extension for CAdES Browser Plug-in добавится на ваш компьютер, вы увидите его в разделе с расширениями
+Opera. Нажмите на значок настройки боковой панели в левом нижнем углу и выберите «Расширения». Вы увидите все установленные расширения. Убедитесь, что CryptoPro Extension for CAdES Browser Plug‑in установлено и включено.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMDZjZDJkZC5kZXNrdG9wXzM3LnBuZw==)Посмотреть все установленные расширения можно в разделе «Расширения»![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZDVlNmFhYS5kZXNrdG9wXzM4LnBuZw==)Если тумблер находится в положении «Выключено», кликните по нему, чтобы включить расширение
+Если нужного расширения нет, установите его. Для этого нажмите на значок настройки боковой панели в левом нижнем углу и выберите «Добавить расширение». В строке поиска введите CryptoPro, выберите расширение и нажмите «Добавить в Opera». Расширение добавится в браузер.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85OWNhNjZhYS5kZXNrdG9wXzM5LnBuZw==)Начните вводить название, чтобы найти и установить нужное расширение
+Яндекс Браузер. Нажмите на значок настройки в правом верхнем углу, выберите «Дополнения» и проверьте, что расширение установлено и включено.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lM2RjYjFhZS5kZXNrdG9wXzQwLnBuZw==)Если тумблер напротив расширения находится в положении «Выключено», кликните по нему, чтобы включить
+Если расширение не установлено, выберите «Каталог расширений». Введите в поисковую строку CryptoPro, выберите CryptoPro Extension for CAdES Browser Plug‑in и нажмите «Добавить» → «Установить».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84OWJkYWQ1MC5kZXNrdG9wXzQxLnBuZw==)Начните вводить название, чтобы найти и установить нужное расширение
+Не загружен плагин КриптоПро ЭЦП Browser plug-in
+Плагин нужен, чтобы подписывать электронные документы в браузере. Установить его можно двумя способами:
+* [через личный кабинет Тинькофф Бизнеса;](/business/help/solutions/signature/use/customize/?card=q2)
+* вручную — для этого [перейдите по ссылке,](https://www.cryptopro.ru/products/cades/plugin/get_2_0) и плагин автоматически скачается на ваш компьютер.
+Если остальные компоненты установлены на компьютер, после загрузки плагина можно будет работать с электронной подписью.
+Не загружена КриптоПро CSP
+Если вы видите желтую точку напротив КриптоПро CSP, установите программу. Это можно сделать через личный кабинет Тинькофф Бизнеса. [Как настроить компьютер для работы с КЭП](/business/help/solutions/signature/use/customize/?card=q2)
+Не установлен сертификат
+Нужный сертификат должен быть в поле «Выберите сертификат». Если сертификата там нет, его нужно установить с токена в программу «КриптоПро».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NjUyZmYyMi5kZXNrdG9wXzMyLnBuZw==)Поле «Выберите сертификат» пустое — значит, сертификат не установлен
+Порядок установки сертификата такой:
+1. Вставьте токен в компьютер.
+2. Откройте программу «Инструменты КриптоПро» и выберите «Контейнеры».
+3. Выберите сертификат и нажмите «Установить сертификат» внизу экрана. Если на токен записано несколько сертификатов, проверьте данные в колонке «Имя субъекта» и выберите нужный.Выберите сертификат и нажмите «Установить сертификат» внизу экрана. Если на токен записано несколько сертификатов, проверьте данные в колонке «Имя субъекта» и выберите нужный. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lODE2ZWU2YS5kZXNrdG9wXzQyLnBuZw==)Если на токен записано несколько сертификатов, вы увидите их в разделе «Контейнеры»
+После установки сертификата он появится на странице диагностики в поле «Выберите сертификат». Это значит, что теперь вы можете подписывать электронные документы.
+Закончился срок действия лицензии КриптоПро
+Такая ошибка актуальна для подписей, выпущенных до 12 апреля 2022 года или после 17 марта 2023 года. Все подписи, выпущенные с 12 апреля 2022 года до 17 марта 2023 года, уже содержат бесплатные лицензии, которыми можно пользоваться до конца срока действия сертификата.
+Чтобы проверить срок действия лицензии, зайдите в программу «Инструменты КриптоПро», выберите вкладку «Общее» и посмотрите, действительна ли лицензия. Если срок ее действия истек, лицензию [нужно купить на сайте КриптоПро.](https://www.cryptopro.ru/)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNDMwNmE2Ny5kZXNrdG9wXzQzLnBuZw==)Раздел «Общее» в программе «Инструменты КриптоПро»

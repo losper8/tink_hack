@@ -1,10 +1,7 @@
-Как скачать список сотрудников из личного кабинета Тинькофф Бизнеса?
-
+## Как скачать список сотрудников из личного кабинета Тинькофф Бизнеса?
 Чтобы скачать список сотрудников, которые подключены к зарплатному проекту:
-
--  
-В личном кабинете зарплатного проекта перейдите во вкладку «Сотрудники» → «Добавлены». Выберите сотрудников — отметьте всех сразу или поставьте галочку в чекбоксе напротив имен определенных сотрудников:
--  
-Нажмите «Скачать файл» и выберите нужный формат — «xml (1C)»:
-- 
-Готово. Список сотрудников выгружен на ваш компьютер.
+1. В личном кабинете зарплатного проекта перейдите во вкладку «Сотрудники» → «Добавлены». Выберите сотрудников — отметьте всех сразу или поставьте галочку в чекбоксе напротив имен определенных сотрудников:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85YjczZjYxYi4xNWViMDU1YV9iNGMwXzQyZTZfYTAzOF84MGUxN2U1YzBlMjYucG5n)
+2. Нажмите «Скачать файл» и выберите нужный формат — «xml (1C)»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80MDFiODg4YS4wZjhkNDM1Ml9lNTExXzRlMThfYjMzZF9kNTZiZWI3YTY3NjAucG5n)
+3. Готово. Список сотрудников выгружен на ваш компьютер.

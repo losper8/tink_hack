@@ -1,25 +1,23 @@
-Как изменить баннер Тинькофф на сайте?
-
+## Как изменить баннер Тинькофф на сайте?
 Ваши действия зависят от того, что вы хотите поменять.
-
 Изменить ширину баннера
 Если вам нужно задать другую ширину баннера, измените значение атрибута style в теге div. Оно должно быть больше или равно ширине баннера выбранного класса:
-- <div class="tcb‑banner tcb‑banner--sm"> — баннер шириной 675 px, в атрибуте style можно указывать любое значение больше или равное 675 px;- <div class="tcb‑banner tcb‑banner--md"> — баннер шириной 1200 px, в атрибуте style можно указывать любое значение больше или равное 1200 px;- <div class="tcb‑banner tcb‑banner--lg"> — баннер шириной 1920 px, в атрибуте style можно указывать любое значение больше или равное 1920 px.
+*  — баннер шириной 675 px, в атрибуте style можно указывать любое значение больше или равное 675 px;
+*  — баннер шириной 1200 px, в атрибуте style можно указывать любое значение больше или равное 1200 px;
+*  — баннер шириной 1920 px, в атрибуте style можно указывать любое значение больше или равное 1920 px.
 Например:
-
-<div class="tcb‑banner tcb‑banner--sm" style=”width: 800px”> — баннер шириной 800 px
-
-<div class="tcb‑banner tcb‑banner--md" style=”width: 1500px”> — баннер шириной 1500 px
+ — баннер шириной 800 px
+ — баннер шириной 1500 px
 Изменить пропорции баннера
-Чтобы изменить пропорцию баннера, нужно изменить значение атрибута class у тега div. Найдите в HTML‑коде тег <div class="tcb‑banner tcb‑banner…"> и замените его на нужный вариант:
-- <div class="tcb‑banner tcb‑banner--sm"> — вертикальный баннер 675 × 1200 px;- <div class="tcb‑banner tcb‑banner--md"> — квадратный баннер 1200 × 1200 px;- <div class="tcb‑banner tcb‑banner--lg"> — горизонтальный баннер 1920 × 1080 px.Изменить заголовок
-Найдите в HTML‑коде тег <p class="tcb-banner__title"> и измените текст после него.
+Чтобы изменить пропорцию баннера, нужно изменить значение атрибута class у тега div. Найдите в HTML‑коде тег  и замените его на нужный вариант:
+*  — вертикальный баннер 675 × 1200 px;
+*  — квадратный баннер 1200 × 1200 px;
+*  — горизонтальный баннер 1920 × 1080 px.
+Изменить заголовок
+Найдите в HTML‑коде тег  и измените текст после него.
 Изменить подзаголовок
-Найдите в HTML‑коде тег <p class="tcb-banner__subtitle"> и измените текст после него.
-Изменить изображение на баннере- Найдите в HTML‑коде тег
+Найдите в HTML‑коде тег  и измените текст после него.
+Изменить изображение на баннере
+1. Найдите в HTML‑коде тег
 
-
-<img
-- class="tcb-banner__3d"- src="https://forma.tinkoff.ru/resources/static/banners/backgrounds/1.png"- alt="Tinkoff banner background"
-/>
-- Измените номер картинки в свойстве src. Используйте любое число от 1 до 21 включительно. Вот какие картинки соответствуют номерам в коде:
+2. Измените номер картинки в свойстве src. Используйте любое число от 1 до 21 включительно. Вот какие картинки соответствуют номерам в коде: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YjcwMTE5Yy4xLnBuZw==)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YWFhYWU5NC4yLnBuZw==)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MDY4YWJmNS4zLnBuZw==)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jOTczOTcyMy40LnBuZw==)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jZjJlOWM4OC41LnBuZw==)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xODkwYzFmNy42LnBuZw==)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMjFjNmQxOC43LnBuZw==)

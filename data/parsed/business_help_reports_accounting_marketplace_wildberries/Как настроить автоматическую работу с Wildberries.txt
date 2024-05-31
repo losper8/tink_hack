@@ -1,26 +1,18 @@
-Как настроить автоматическую работу с Wildberries?
-
+## Как настроить автоматическую работу с Wildberries?
 Настроить автоматическую работу можно с помощью API‑интеграции маркетплейса с Бухгалтерией. Есть два способа, как это сделать. Подробнее — в пошаговых инструкциях.
-
-- Откройте «Сервисы» → «Бухгалтерия».
-
-- В разделе «Настройки» перейдите в подраздел «Маркетплейсы».
-
-- В подразделе «Маркетплейсы» найдите Wildberries и нажмите «К подключению».
-
-- В окне браузера откроется Тинькофф Селлер. В блоке «Маркетплейсы» найдите Wildberries и введите API‑ключ из личного кабинета WB Партнёры. Как ввести API‑ключ (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q16)Найти и скопировать ключ можно в личном кабинете WB Партнёры на вкладке «Доступ к API». Рассказали, как это сделать, в инструкции «Как подключить магазин Wildberries» в правой части экрана. Прочитайте ее и выполните описанные действия
-- Нажмите «Добавить».
-Так будет выглядеть блок «Интеграция с маркетплейсами» в Бухгалтерии после подключения
-- Откройте «Все сервисы» → «Бухгалтерия». (https://business.tinkoff.ru/accounting)
-- На главной странице Бухгалтерии перейдите в раздел «Реквизиты».
-
-- В блоке «Интеграция с маркетплейсами» найдите Wildberries и нажмите «К подключению».
-
-- В новом окне браузера откроется Тинькофф Селлер. В блоке «Маркетплейсы» найдите Wildberries и введите API‑ключ из личного кабинета WB Партнёры. Как ввести API‑ключ (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q16)Найти и скопировать ключ можно в личном кабинете WB Партнёры на вкладке «Доступ к API». Рассказали, как это сделать, в инструкции «Как подключить магазин Wildberries» в правой части экрана. Прочитайте ее и выполните описанные действия
-          
-- Нажмите «Добавить».
-Так будет выглядеть блок «Интеграция с маркетплейсами» в Бухгалтерии после подключения
-
-
-
-После подключения интеграции по API система подгрузит отчеты за прошедшую неделю, а в дальнейшем — все новые отчеты. Загрузить более ранние отчеты можно вручную в Бухгалтерии. Как загрузить отчет Wildberries в онлайн-бухгалтерию (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)
+В мобильном приложении Тинькофф Бизнеса
+1. Откройте «Сервисы» → «Бухгалтерия». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80MjNkMTgyYS4wNl9kZXNrdG9wLnBuZw==)
+2. В разделе «Настройки» перейдите в подраздел «Маркетплейсы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNTBlMThjZC4wN19kZXNrdG9wLnBuZw==)
+3. В подразделе «Маркетплейсы» найдите Wildberries и нажмите «К подключению». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYWFiMTExYy4wOF9kZXNrdG9wLnBuZw==)
+4. В окне браузера откроется Тинькофф Селлер. В блоке «Маркетплейсы» найдите Wildberries и введите API‑ключ из личного кабинета WB Партнёры. [Как ввести API‑ключ](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q16)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYWFmOTA5YS4wOV9kZXNrdG9wLnBuZw==)Найти и скопировать ключ можно в личном кабинете WB Партнёры на вкладке «Доступ к API». Рассказали, как это сделать, в инструкции «Как подключить магазин Wildberries» в правой части экрана. Прочитайте ее и выполните описанные действия
+5. Нажмите «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNmM4MTkzNS4xMF9kZXNrdG9wLnBuZw==)Так будет выглядеть блок «Интеграция с маркетплейсами» в Бухгалтерии после подключения
+Готово! Интеграция по API с Wildberries настроена. Теперь отчеты будут автоматически подгружаться в ленту операций, а суммы по операциям — корректно рассчитываться.
+В личном кабинете Тинькофф Бизнеса
+1. Откройте [«Все сервисы» → «Бухгалтерия».](https://business.tinkoff.ru/accounting)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNzdmYzBlNy4wMV9kZXNrdG9wLnBuZw==)
+2. На главной странице Бухгалтерии перейдите в раздел «Реквизиты». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kYjY3OTc3YS4wMl9kZXNrdG9wLnBuZw==)
+3. В блоке «Интеграция с маркетплейсами» найдите Wildberries и нажмите «К подключению». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mOWNmZWU3OC4wM19kZXNrdG9wLnBuZw==)
+4. В новом окне браузера откроется Тинькофф Селлер. В блоке «Маркетплейсы» найдите Wildberries и введите API‑ключ из личного кабинета WB Партнёры. [Как ввести API‑ключ](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q16)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZDI3YWJiOS5kZXNrdG9wXzUucG5n)Найти и скопировать ключ можно в личном кабинете WB Партнёры на вкладке «Доступ к API». Рассказали, как это сделать, в инструкции «Как подключить магазин Wildberries» в правой части экрана. Прочитайте ее и выполните описанные действия
+5. Нажмите «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NjBlYjg3ZC4wNV9kZXNrdG9wLnBuZw==)Так будет выглядеть блок «Интеграция с маркетплейсами» в Бухгалтерии после подключения
+Готово! Интеграция по API с Wildberries настроена. Теперь отчеты будут автоматически подгружаться в ленту операций, а суммы по операциям — корректно рассчитываться.
+Владельцам нескольких магазинов на Wildberries для интеграции потребуются отдельные API‑ключи для каждого магазина.
+После подключения интеграции по API система подгрузит отчеты за прошедшую неделю, а в дальнейшем — все новые отчеты. Загрузить более ранние отчеты можно вручную в Бухгалтерии. [Как загрузить отчет Wildberries в онлайн-бухгалтерию](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)

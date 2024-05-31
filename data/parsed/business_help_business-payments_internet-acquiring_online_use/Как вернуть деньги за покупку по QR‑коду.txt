@@ -1,9 +1,8 @@
-Как вернуть деньги за покупку по QR‑коду?
-
+## Как вернуть деньги за покупку по QR‑коду?
 Вернуть деньги можно через личный кабинет Тинькофф Бизнеса или по API.
-
-- Перейдите в «Интернет-эквайринг» → «Операции»:
-
-- Найдите операцию, по которой хотите сделать возврат. Чтобы облегчить поиск, выберите в настройках фильтра статус платежа «Подтвержден» и способ оплаты «Система быстрых платежей».
-Дополнительно можно указать другие настройки фильтра, например период и статус платежа
-- Выберите нужную операцию и нажмите «Вернуть» — деньги мгновенно вернутся покупателю:
+Через личный кабинет Тинькофф Бизнеса
+1. Перейдите в «Интернет-эквайринг» → «Операции»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MjI1NWViZC5kZXNrdG9wXzUucG5n)
+2. Найдите операцию, по которой хотите сделать возврат. Чтобы облегчить поиск, выберите в настройках фильтра статус платежа «Подтвержден» и способ оплаты «Система быстрых платежей». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNWNmYWYyYi5kZXNrdG9wXzYucG5n)Дополнительно можно указать другие настройки фильтра, например период и статус платежа
+3. Выберите нужную операцию и нажмите «Вернуть» — деньги мгновенно вернутся покупателю: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZTQ2OTFhMi5kZXNrdG9wXzcucG5n)
+По API
+Чтобы возвращать деньги по API, используйте метод Cancel. Для настройки понадобится помощь программиста. [Подробнее о методе](/kassa/develop/)

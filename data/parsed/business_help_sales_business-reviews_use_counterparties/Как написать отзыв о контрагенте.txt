@@ -1,6 +1,4 @@
-Как написать отзыв о контрагенте?
-
-Это может сделать директор или сотрудник с правом подписи в личном кабинете на сайте tinkoff.ru. Для этого нажмите «Контрагенты» → «Мои отзывы о контрагентах» → «Посмотреть». (https://business.tinkoff.ru/sme/counterparty/my-feedback/recommendations)
-Как предоставить сотруднику право подписи (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/dashboard/?card=q2)
-
-Чтобы посмотреть отзывы от лица вашей компании, нажмите «Контрагенты» → «Мои отзывы о контрагентах» → «Посмотреть» → «Уже оставили». (https://business.tinkoff.ru/sme/counterparty/my-feedback/submitted)
+## Как написать отзыв о контрагенте?
+Это может сделать директор или сотрудник с правом подписи в личном кабинете на сайте tinkoff.ru. Для этого нажмите [«Контрагенты» → «Мои отзывы о контрагентах» → «Посмотреть».](https://business.tinkoff.ru/sme/counterparty/my-feedback/recommendations)
+[Как предоставить сотруднику право подписи](/business/help/account/currency-ruble/personal-account/dashboard/?card=q2)
+Чтобы посмотреть отзывы от лица вашей компании, нажмите [«Контрагенты» → «Мои отзывы о контрагентах» → «Посмотреть» → «Уже оставили».](https://business.tinkoff.ru/sme/counterparty/my-feedback/submitted)

@@ -1,11 +1,12 @@
-Как изменить ручную оценку?
-
+## Как изменить ручную оценку?
 Изменить оценку может только пользователь, который ее выставлял. Изменить можно стандартные и откалиброванные оценки.
-
-Как оценить звонок или чат (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q3)Как оценить работу оператора (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q4)
+[Как оценить звонок или чат](/business/help/solutions/speech-analytics/control/marks/?card=q3)
+[Как оценить работу оператора](/business/help/solutions/speech-analytics/control/marks/?card=q4)
 Чтобы изменить оценку:
-
-- Найдите нужную вам оценку через поиск. Как это сделать (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/marks/?card=q6)- Рядом с кнопкой «Открыть» нажмите на стрелку вниз. Откроется выпадающий список действий.
-- Нажмите «Изменить оценку».- Откроется окно с полями формы, которые вы заполнили раньше. Измените нужные критерии.
-- Нажмите «Сохранить изменения».
+1. Найдите нужную вам оценку через поиск. [Как это сделать](/business/help/solutions/speech-analytics/control/marks/?card=q6)
+2. Рядом с кнопкой «Открыть» нажмите на стрелку вниз. Откроется выпадающий список действий. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ZDQ3YzM2Yy5kZXNrdG9wXzE4LnBuZw==)
+3. Нажмите «Изменить оценку».
+4. Откроется окно с полями формы, которые вы заполнили раньше. Измените нужные критерии. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MDRiM2QyMi5kZXNrdG9wXzE5LnBuZw==)
+5. Нажмите «Сохранить изменения».
 Измененные оценки в поиске можно найти с помощью фильтра «Дата и время изменения оценки». Если не применять фильтр, то измененные оценки в поиске видно, только если раскрыть карточку оценки, нажав на стрелку вниз в правом конце строки.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81YjUwN2IzMC5kZXNrdG9wXzIwLnBuZw==)

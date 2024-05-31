@@ -1,9 +1,6 @@
-Как подтвердить права на сайт в Google Search Console?
-
-Сначала создайте аккаунт в Google. Зарегистрироваться (https://myaccount.google.com/)
-
+## Как подтвердить права на сайт в Google Search Console?
+Сначала создайте аккаунт в Google. [Зарегистрироваться](https://myaccount.google.com/)
 Следуйте инструкции:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites) выберите нужный сайт → «Настройки сайта» → «Продвижение» → Google Search Console → «Подключить».
-- Войдите в свой Google-аккаунт (https://myaccount.google.com/) и разрешите конструктору Тинькофф доступ к вашим данным в Google Search Console. Мы получаем доступ только к сервису — к другим данным у нас доступа не будет.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites) выберите нужный сайт → «Настройки сайта» → «Продвижение» → Google Search Console → «Подключить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZmZhNzAwMi5kZXNrdG9wXzA4LnBuZw==)
+2. [Войдите в свой Google-аккаунт](https://myaccount.google.com/) и разрешите конструктору Тинькофф доступ к вашим данным в Google Search Console. Мы получаем доступ только к сервису — к другим данным у нас доступа не будет.
 Готово! Вы подтвердили права на владение сайтом в Google Search Console. Если подключение прошло успешно, в конструкторе Тинькофф на плашке Google Search Console увидите статус «Подключено».

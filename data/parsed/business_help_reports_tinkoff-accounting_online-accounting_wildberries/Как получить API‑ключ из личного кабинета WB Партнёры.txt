@@ -1,13 +1,10 @@
-Как получить API‑ключ из личного кабинета WB Партнёры?
-
-API‑ключ нужен для того, чтобы настроить автоматическую работу с маркетплейсом. Не придется рассчитывать комиссию маркетплейса и загружать отчеты вручную. Достаточно ввести API‑ключ в личном кабинете Бухгалтерии — и все операции Wildberries будут считаться автоматически и корректно. Как настроить автоматическую работу с Wildberries  (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/)
-
+## Как получить API‑ключ из личного кабинета WB Партнёры?
+API‑ключ нужен для того, чтобы настроить автоматическую работу с маркетплейсом. Не придется рассчитывать комиссию маркетплейса и загружать отчеты вручную. Достаточно ввести API‑ключ в личном кабинете Бухгалтерии — и все операции Wildberries будут считаться автоматически и корректно. [Как настроить автоматическую работу с Wildberries ](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/)
 Чтобы получить ключ, сделайте следующее:
-
-- Войдите в личный кабинет WB Партнёры (https://seller.wildberries.ru/login/ru/?redirect_url=/supplier-settings/access-to-api) по номеру телефона.- Нажмите на «Профиль» → «Настройки» → «Доступ к API». Придумайте и введите в соответствующее поле имя токена.
-Это может быть любое слово, например, название вашего магазина- Выберите все методы API → «Создать токен».
-Чтобы выбрать метод, кликните на него один раз. После этого он станет фиолетовым- Скопируйте полученный API‑ключ и вставьте его в поле «Ключ» Wildberries в мобильном приложении или личном кабинете Тинькофф Бизнеса по инструкции. (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q14) - Нажмите «Добавить».
-
+1. Войдите [в личный кабинет WB Партнёры](https://seller.wildberries.ru/login/ru/?redirect_url=/supplier-settings/access-to-api) по номеру телефона.
+2. Нажмите на «Профиль» → «Настройки» → «Доступ к API». Придумайте и введите в соответствующее поле имя токена. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYmY0MDc5Ni5kZXNrdG9wXzAxXzMucG5n)Это может быть любое слово, например, название вашего магазина
+3. Выберите все методы API → «Создать токен». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wY2RkZTNlMS5kZXNrdG9wXzAyXzEucG5n)Чтобы выбрать метод, кликните на него один раз. После этого он станет фиолетовым
+4. Скопируйте полученный API‑ключ и вставьте его в поле «Ключ» Wildberries в мобильном приложении или личном кабинете Тинькофф Бизнеса [по инструкции.](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q14)
+5. Нажмите «Добавить».
 Готово! Автоматическая работа Wildberries с Бухгалтерией настроена.
-
-Так будет выглядеть блок «Интеграция с маркетплейсами» в Бухгалтерии после подключения
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kZTljNDg5OS4wNV9kZXNrdG9wXzMucG5n)Так будет выглядеть блок «Интеграция с маркетплейсами» в Бухгалтерии после подключения

@@ -1,13 +1,8 @@
-Где посмотреть свой тариф?
-
+## Где посмотреть свой тариф?
 Тариф на обслуживание расчетного счета можно посмотреть в разделе «Тарифы» — с телефона в мобильном приложении и личном кабинете Тинькофф Бизнеса:
-
-- в приложении нажмите «Еще» → «Тарифы»;
-- в личном кабинете с телефона нажмите на название компании или ИП → «Тарифы» (https://business.tinkoff.ru/sme/tariffs);
-- в личном кабинете с компьютера нажмите «Счета и платежи» → «Тарифы». (https://business.tinkoff.ru/sme/tariffs)
-
-
+* в приложении нажмите «Еще» → «Тарифы»;
+* в личном кабинете с телефона [нажмите на название компании или ИП → «Тарифы»](https://business.tinkoff.ru/sme/tariffs);
+* в личном кабинете с компьютера [нажмите «Счета и платежи» → «Тарифы».](https://business.tinkoff.ru/sme/tariffs)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hODA2MGZhOS5kZXNrdG9wXzAxLnBuZw==)
 Также в этом разделе можно перейти к оформлению годовой подписки на обслуживание, посмотреть PDF с условиями тарифов и сменить тариф.
-
-Как оформить годовую подписку (https://www.tinkoff.ru/business/help/account/currency-ruble/tariffs-and-payment/pay/?card=q1)
-Как сменить тариф (https://www.tinkoff.ru/business/help/account/currency-ruble/tariffs-and-payment/main/?card=q7)
+[Как оформить годовую подписку](/business/help/account/currency-ruble/tariffs-and-payment/pay/?card=q1)
+[Как сменить тариф](/business/help/account/currency-ruble/tariffs-and-payment/main/?card=q7)

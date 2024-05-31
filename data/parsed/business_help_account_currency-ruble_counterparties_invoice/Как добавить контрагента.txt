@@ -1,18 +1,12 @@
-Как добавить контрагента?
-
+## Как добавить контрагента?
 Добавить контрагента можно двумя способами: автоматически и вручную.
-
 Автоматически. Если вы получали деньги от контрагента или отправляли деньги ему, он появится на вкладке «Контрагенты» без дополнительных действий.
-
 Вручную в личном кабинете Тинькофф Бизнеса. Если вы хотите добавить контрагента в список «Контрагенты» заранее.
-
-Пошаговая инструкция:- Перейдите в раздел «Счета и платежи» → «Контрагенты». (https://business.tinkoff.ru/sme/counterparty/new)- В строке поиска введите название, ИНН компании, фамилию руководителя или ИП.- Выберите контрагента из списка и нажмите на звездочку.
-
+Пошаговая инструкция:
+1. [Перейдите в раздел «Счета и платежи» → «Контрагенты».](https://business.tinkoff.ru/sme/counterparty/new)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jZDA0ODdhMy5kZXNrdG9wXzExLnBuZw==)
+2. В строке поиска введите название, ИНН компании, фамилию руководителя или ИП.
+3. Выберите контрагента из списка и нажмите на звездочку. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MzI4ZmI3MS5kZXNrdG9wXzEyLnBuZw==)
 Готово. Теперь контрагента можно найти в списке избранных. Когда вы в следующий раз будете выставлять ему счет или создавать для него платеж, сможете сразу выбрать его из списка — реквизиты подтянутся автоматически.
-
-
 Избранному контрагенту можно добавить реквизиты новых счетов, контакты для связи, комментарий. Чтобы это сделать:
-
-- в личном кабинете выберите ИП или компанию на вкладке «Контрагенты». (https://business.tinkoff.ru/sme/counterparty/new)
-- 
-в мобильном приложении выберите контрагента в разделе «Сервисы» → «Контрагенты» → «Мои контрагенты»:
+* в личном кабинете выберите ИП или компанию на вкладке [«Контрагенты».](https://business.tinkoff.ru/sme/counterparty/new)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81NjU1N2E5MC5iMWQzNzhiNF9kZXNrdG9wXzE1LnBuZw==)
+* в мобильном приложении выберите контрагента в разделе «Сервисы» → «Контрагенты» → «Мои контрагенты»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83YzM2YWE3Ni5waG90b18yMDIzXzA2XzE2XzE3XzQzXzU0LmpwZw==)

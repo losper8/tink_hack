@@ -1,9 +1,7 @@
-Как сделать ссылку на оплату?
-
-Сформировать ссылку на оплату картой или другими способами можно в личном кабинете или мобильном приложении Тинькофф Бизнеса, если у вас есть магазин, который принимает оплату по ссылке. Как создать магазин с выставлением счетов по ссылке (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/store/?card=q3)
-
+## Как сделать ссылку на оплату?
+Сформировать ссылку на оплату картой или другими способами можно в личном кабинете или мобильном приложении Тинькофф Бизнеса, если у вас есть магазин, который принимает оплату по ссылке. [Как создать магазин с выставлением счетов по ссылке](/business/help/business-payments/internet-acquiring/how-use/store/?card=q3)
 В личном кабинете:
-
-- Откройте «Интернет-эквайринг» → «Счета». (https://business.tinkoff.ru/oplata/order) В списке отражены все ранее выставленные счета для оплаты по ссылке.- В правом верхнем углу нажмите «Выставить счет».
-- Выберите магазин из списка, введите сумму, описание заказа и нажмите «Отправить». Счет появится в списке счетов.
-- Перейдите в только что созданный счет, скопируйте ссылку и отправьте ее покупателю.
+1. [Откройте «Интернет-эквайринг» → «Счета».](https://business.tinkoff.ru/oplata/order) В списке отражены все ранее выставленные счета для оплаты по ссылке.
+2. В правом верхнем углу нажмите «Выставить счет». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80YjQ4Y2Q0NC5mMDM5YzM4MF84NjMyXzRhNDFfYmIzMF9hODI5YTRjNzUxMzgucG5n)
+3. Выберите магазин из списка, введите сумму, описание заказа и нажмите «Отправить». Счет появится в списке счетов. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NzNiNGNhYy5lMTY0MDE5Zl8xNzAzXzQ0MDdfOTMzYV9hMTBkMmQwMjNkYTYucG5n)
+4. Перейдите в только что созданный счет, скопируйте ссылку и отправьте ее покупателю. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MTM4MDkwYy40ZjI0M2U0MV8xNmJhXzRjYzJfOTM1ZF9lOGI0N2EwODQ1MWYucG5n)

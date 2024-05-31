@@ -1,8 +1,5 @@
-Как долго валюта может оставаться на транзитном счете?
-
+## Как долго валюта может оставаться на транзитном счете?
 Деньги на транзитном счете могут лежать сколько угодно. Но если клиент не пришлет в банк документы по платежу в течение 15 рабочих дней после его получения, налоговая может оштрафовать.
-
-Какой штраф получу, если не отправлю в банк документы о входящем валютном платеже (https://www.tinkoff.ru/business/help/account/currency/currency-control/fines/?card=currency-docs)
+[Какой штраф получу, если не отправлю в банк документы о входящем валютном платеже](/business/help/account/currency/currency-control/fines/?card=currency-docs)
 Без документов деньги с транзитного счета можно вернуть отправителю. Штрафа тогда не будет.
-
-Как сделать возврат платежа с транзитного счета (https://www.tinkoff.ru/business/help/account/currency/transactions/get-payment/?card=return)
+[Как сделать возврат платежа с транзитного счета](/business/help/account/currency/transactions/get-payment/?card=return)

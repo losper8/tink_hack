@@ -1,17 +1,11 @@
-Как превратить телефон в терминал с помощью приложения Pay to phone?
-Если у вас нет расчетного счета в Тинькофф, сначала откройте его. Открыть расчетный счет (https://www.tinkoff.ru/business/account/?internal_source=help)
-
+## Как превратить телефон в терминал с помощью приложения Pay to phone?
+Если у вас нет расчетного счета в Тинькофф, сначала откройте его. [Открыть расчетный счет](/business/account/?internal_source=help)
 Затем следуйте инструкции ниже.
-
 Если у вас есть расчетный счет в Тинькофф, подключение займет около 10 минут:
-
-- Скачайте приложение Pay to phone на нашем сайте (https://www.tinkoff.ru/apps/?show_app=pay2phone&internal_source=help#Android) и авторизуйтесь в нем по номеру телефона. Вам придет СМС, что вы подключили прием платежей.- В приложении откроется экран, на котором надо добавить торговые точки для приема платежей. Как это сделать (https://www.tinkoff.ru/business/help/business-payments/acquiring/paytophone/use/?card=shop)
+1. [Скачайте приложение Pay to phone на нашем сайте](/apps/?show_app=pay2phone&internal_source=help#Android) и авторизуйтесь в нем по номеру телефона. Вам придет СМС, что вы подключили прием платежей.
+2. В приложении откроется экран, на котором надо добавить торговые точки для приема платежей. [Как это сделать](/business/help/business-payments/acquiring/paytophone/use/?card=shop)
 Готово! Можно принимать платежи через Pay to phone.
-
-
 Чтобы обновлять приложение, установите магазин приложений, который будет вам удобен: Rustore, AppGallery или Samsung Store.
-
-
-Когда установите приложение, сведения о телефоне с Pay to phone появятся в личном кабинете Тинькофф Бизнеса в разделе «Эквайринг и QR» → «Устройства». (https://tinkoffbusiness.onelink.me/1221431269/helpCashier)
-Так в личном кабинете Тинькофф Бизнеса отобразится телефон с приложением Pay to phone
-В личном кабинете можно смотреть историю операций по Pay to phone, искать нужные с помощью фильтров и скачивать реестры транзакций. Как это сделать (https://www.tinkoff.ru/business/help/business-payments/acquiring/paytophone/use/?card=history)
+Когда установите приложение, сведения о телефоне с Pay to phone появятся [в личном кабинете Тинькофф Бизнеса в разделе «Эквайринг и QR» → «Устройства».](https://tinkoffbusiness.onelink.me/1221431269/helpCashier)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iMjllMjZkNy4wMV9kZXNrLnBuZw==)Так в личном кабинете Тинькофф Бизнеса отобразится телефон с приложением Pay to phone
+В личном кабинете можно смотреть историю операций по Pay to phone, искать нужные с помощью фильтров и скачивать реестры транзакций. [Как это сделать](/business/help/business-payments/acquiring/paytophone/use/?card=history)

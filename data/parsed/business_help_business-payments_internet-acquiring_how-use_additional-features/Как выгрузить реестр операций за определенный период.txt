@@ -1,10 +1,7 @@
-Как выгрузить реестр операций за определенный период?
-
+## Как выгрузить реестр операций за определенный период?
 Операции — это все попытки оплаты в ваших магазинах. К ним относятся успешная оплата, ошибки и простое открытие платежной формы.
-
-
 Чтобы выгрузить реестр операций:
-
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Операции». (https://business.tinkoff.ru/oplata/operation)- В меню слева на вкладке «Поиск» выберите нужный период. Операции, которые соответствуют параметрам, появятся в списке.
-- В меню слева перейдите на вкладку «Выгрузки». Выберите формат — XLS или CSV — и нажмите «Выгрузить». Выгрузка появится в меню слева.
-- Скачайте файл на компьютер.
+1. [Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Операции».](https://business.tinkoff.ru/oplata/operation)
+2. В меню слева на вкладке «Поиск» выберите нужный период. Операции, которые соответствуют параметрам, появятся в списке. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kOTBjZDcxYi5mOTZlZDg2N180MjhjXzQ5OTZfYjA0M181MmViMzUxZDUxMDcucG5n)
+3. В меню слева перейдите на вкладку «Выгрузки». Выберите формат — XLS или CSV — и нажмите «Выгрузить». Выгрузка появится в меню слева. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80M2RmMmRlOS5iNjBmMDEyNF84NGZiXzQ0NjhfOTA1Y19mMmZmNDFlNzA3ZmMucG5n)
+4. Скачайте файл на компьютер.

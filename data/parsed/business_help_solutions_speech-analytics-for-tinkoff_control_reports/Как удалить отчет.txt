@@ -1,7 +1,5 @@
-Как удалить отчет?
-
+## Как удалить отчет?
 Чтобы удалить отчет:
-
-- Зайдите в личный кабинет TQM → «Отчеты» (https://tqm.tinkoff.ru/analytics/evaluations) и выберите вкладку «Оценки», «Звонки» или «Чаты». В блоке «Мои отчеты» вы увидите созданные вами отчеты. Нажмите на название отчета, который хотите удалить.
-- Нажмите «Удалить» в правом верхнем углу.
--  В открывшемся окне подтвердите свой выбор. Платформа предупредит вас, что отменить удаление невозможно.
+1. [Зайдите в личный кабинет TQM → «Отчеты»](https://tqm.tinkoff.ru/analytics/evaluations) и выберите вкладку «Оценки», «Звонки» или «Чаты». В блоке «Мои отчеты» вы увидите созданные вами отчеты. Нажмите на название отчета, который хотите удалить. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMjUxZDUzNS4wNF9kZXNrdG9wXzEucG5n)
+2. Нажмите «Удалить» в правом верхнем углу. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ODJhODIzZS4wMl9yYV9vdGNoZXR5X3VwZGF0ZV9kZXNrLnBuZw==)
+3. В открывшемся окне подтвердите свой выбор. Платформа предупредит вас, что отменить удаление невозможно.

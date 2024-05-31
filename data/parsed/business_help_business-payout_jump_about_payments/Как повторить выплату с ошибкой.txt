@@ -1,5 +1,5 @@
-Как повторить выплату с ошибкой?
-
-Это можно сделать в личном кабинете Jump.Finance: (https://my.jump.finance/)
-- Перейдите в раздел «Выплаты».- Откройте подраздел «Ошибка выплаты».
-- Нажмите на интересующую вас выплату → «Повторить». Если вы обнаружили ошибку в выплате, нажмите «Редактировать». Как редактировать выплату (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q3)
+## Как повторить выплату с ошибкой?
+Это можно сделать [в личном кабинете Jump.Finance:](https://my.jump.finance/)
+1. Перейдите в раздел «Выплаты».
+2. Откройте подраздел «Ошибка выплаты». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jZmFhMTNlZi5kZXNrdG9wXzEyLnBuZw==)
+3. Нажмите на интересующую вас выплату → «Повторить». Если вы обнаружили ошибку в выплате, нажмите «Редактировать». [Как редактировать выплату](/business/help/business-payout/jump/about/payments/?card=q3)

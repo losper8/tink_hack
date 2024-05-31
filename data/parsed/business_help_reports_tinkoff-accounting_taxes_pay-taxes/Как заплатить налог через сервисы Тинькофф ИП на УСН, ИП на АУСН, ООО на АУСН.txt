@@ -1,42 +1,43 @@
-Как заплатить налог через сервисы Тинькофф ИП на УСН, ИП на АУСН, ООО на АУСН?
-
+## Как заплатить налог через сервисы Тинькофф ИП на УСН, ИП на АУСН, ООО на АУСН?
 Зависит от вашей системы налогообложения: УСН или АУСН.
-
-- Вставьте токен с КЭП в компьютер. Убедитесь, что компьютер настроен для работы с КЭП. Как начать работать с электронной подписью для юрлиц и ИП (https://www.tinkoff.ru/business/help/solutions/signature/use/customize/?card=q1)
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия». (https://business.tinkoff.ru/accounting/self/main) В разделе «Текущие задачи» нажмите на название нужного налога.
-
-- Если вы ведете расчеты в другом банке или наличными, то все операции нужно загрузить в Тинькофф Бухгалтерию для правильного расчета налога. Если вы ведете расчеты только в Тинькофф, пропустите этот шаг.
-
+Как заплатить налог на УСН
+С 1 января 2024 года для уплаты налогов нужно обязательно подавать налоговое уведомление. Без него деньги поступят на ЕНС, но не будут зачтены в счет уплаты налога. В результате налоговая начислит пени и штрафы.
+Для подачи налогового уведомления нужна квалифицированная электронная подпись — КЭП.
+[Как оформить КЭП в Тинькофф](/business/help/solutions/signature/get/tinkoff/?card=q3)
+[Как оформить КЭП в ФНС](/business/help/solutions/signature/get/tax-service/?card=q1)
+Подать уведомление и уплатить налоги по УСН можно в личном кабинете Тинькофф Бизнеса на компьютере. В мобильном приложении подать уведомление не получится.
+1. Вставьте токен с КЭП в компьютер. Убедитесь, что компьютер настроен для работы с КЭП. [Как начать работать с электронной подписью для юрлиц и ИП](/business/help/solutions/signature/use/customize/?card=q1)
+2. [Зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия».](https://business.tinkoff.ru/accounting/self/main) В разделе «Текущие задачи» нажмите на название нужного налога. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wNDU0MzliMS4xLnBuZw==)
+3. Если вы ведете расчеты в другом банке или наличными, то все операции нужно загрузить в Тинькофф Бухгалтерию для правильного расчета налога. Если вы ведете расчеты только в Тинькофф, пропустите этот шаг.
 Чтобы загрузить операции наличными или из другого банка, нажмите «Добавить».
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85MzYwZGVkNi4yLnBuZw==)
 На новой вкладке откроется страница с операциями. Нажмите «Добавить операцию» и в выпадающем меню выберите удобный вариант загрузки: из другого банка, вручную, загрузить выписку 1С.
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mNWJmMjAwZi4zLnBuZw==)
 После загрузки операций дождитесь, пока онлайн-бухгалтерия Тинькофф пересчитает налог. Обычно это занимает 1 день. Чтобы узнать, пересчитался ли налог, вернитесь на вкладку с уплатой налога и проверьте сумму. Когда сумма налога в карточке изменится, переходите к следующему шагу.
-
-- Нажмите «Подать уведомление».
-
+4. Нажмите «Подать уведомление».
 Подавать уведомление нужно обязательно. Без уведомления налоговая служба не спишет деньги с ЕНС, даже если они там есть, и пришлет штраф за неуплату.
-
-- Выберите способ подачи «Онлайн» и нажмите «Подписать и отправить».
-Что делать, если нет кнопки «Подписать» (https://www.tinkoff.ru/business/help/solutions/signature/use/solve-error/?card=q9)
-- Дождитесь ответа от ФНС. Обычно это занимает 3 дня. Как только налоговая ответит, мы пришлем пуш‑уведомление на ваш телефон. 
-- После получения ответа от ФНС зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия». (https://business.tinkoff.ru/accounting/self/main) Нажмите на название налога, по которому вы подавали уведомление. 
-- Нажмите «Расшифровать ответ».
-
-- Вы попадете в раздел «Отчетность», на страницу с уведомлением, которое вы отправляли. Чтобы расшифровать ответ налоговой, вам потребуется КЭП. Вставьте токен с КЭП в компьютер и нажмите «Подписать».
-Что делать, если нет кнопки «Подписать» (https://www.tinkoff.ru/business/help/solutions/signature/use/solve-error/?card=q9)
-- Вернитесь на вкладку «Бухгалтерия» → «Главная». (https://business.tinkoff.ru/accounting/self/main) Нажмите на название налога, по которому вы подавали уведомление.
-- Нажмите «К оплате».
-
-- Вы увидите платежное поручение на уплату налога. Нажмите «Отправить». 
-- 
-Перейдите на вкладку «Сервисы» → «Бухгалтерия».
-
-- В появившемся окне нажмите кнопку «К оплате» → «Отправить».
-
-- Готово! Деньги поступят на счет ИФНС. 
-- В блоке «Текущие начисления» нажмите кнопку «К оплате».
-
-- В появившемся окне нажмите «Отправить».
-
-- Готово! Деньги поступят на счет ИФНС.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYTNjZTExZi40LnBuZw==)
+5. Выберите способ подачи «Онлайн» и нажмите «Подписать и отправить».
+[Что делать, если нет кнопки «Подписать»](/business/help/solutions/signature/use/solve-error/?card=q9)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84ZDQyZjcxNS41LnBuZw==)
+6. Дождитесь ответа от ФНС. Обычно это занимает 3 дня. Как только налоговая ответит, мы пришлем пуш‑уведомление на ваш телефон.
+7. После получения ответа от ФНС [зайдите в личный кабинет Тинькофф Бизнеса → «Бухгалтерия».](https://business.tinkoff.ru/accounting/self/main) Нажмите на название налога, по которому вы подавали уведомление.
+8. Нажмите «Расшифровать ответ». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hY2E0MjU0Mi42LnBuZw==)
+9. Вы попадете в раздел «Отчетность», на страницу с уведомлением, которое вы отправляли. Чтобы расшифровать ответ налоговой, вам потребуется КЭП. Вставьте токен с КЭП в компьютер и нажмите «Подписать».
+[Что делать, если нет кнопки «Подписать»](/business/help/solutions/signature/use/solve-error/?card=q9)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ODYyZTMxMS43LnBuZw==)
+10. [Вернитесь на вкладку «Бухгалтерия» → «Главная».](https://business.tinkoff.ru/accounting/self/main) Нажмите на название налога, по которому вы подавали уведомление.
+11. Нажмите «К оплате». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MDYzNDAzNy44LnBuZw==)
+12. Вы увидите платежное поручение на уплату налога. Нажмите «Отправить».
+Готово, вы уплатили налог. Обычно деньги зачисляются на ЕНС мгновенно, в выходные — до 2 календарных дней.
+Как заплатить налог на АУСН
+С 1 января 2023 года налоговая присылает одну сумму, в которую включено все, что нужно уплатить: налог по АУСН, задолженность, пени и НДФЛ за сотрудников.
+В мобильном приложении Тинькофф Бизнеса:
+1. Перейдите на вкладку «Сервисы» → «Бухгалтерия».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMDEyMjhjMC5kZXNrdG9wXzAxXzAyLnBuZw==)
+2. В появившемся окне нажмите кнопку «К оплате» → «Отправить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNGVjNWRjOS5kZXNrdG9wXzNfMS5wbmc=)
+3. Готово! Деньги поступят на счет ИФНС.
+В личном кабинете Тинькофф Бизнеса вы можете уплатить налог в разделе «Бухгалтерия» → «Главное»:
+1. В блоке «Текущие начисления» нажмите кнопку «К оплате». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMGM5YjlhNC5kZXNrdG9wXzA1LnBuZw==)
+2. В появившемся окне нажмите «Отправить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xZjY1ZWFmMi5kZXNrdG9wXzRfMS5wbmc=)
+3. Готово! Деньги поступят на счет ИФНС.

@@ -1,10 +1,7 @@
-Как удалить канал уведомления?
-
+## Как удалить канал уведомления?
 Чтобы удалить канал уведомления:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → три точки справа вверху → «Уведомления». Нажмите «Удалить» на плашке с ненужным каналом.
-- Если хотите сразу удалить канал уведомлений, нажмите «Удалить».
-
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → три точки справа вверху → «Уведомления». Нажмите «Удалить» на плашке с ненужным каналом. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80YzQyMzdlMS5kZXNrdG9wXzIyLnBuZw==)
+2. Если хотите сразу удалить канал уведомлений, нажмите «Удалить».
 Если хотите направить уведомления из удаленного канала на другой, выберите новый канал из выпадающего списка → «Удалить».
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85YTA4NWRlOS5kZXNrdG9wXzI0LnBuZw==)
 Готово! Вы перестанете получать уведомления о заявках и заказах в телеграм‑чате или на эл. почту.

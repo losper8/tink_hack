@@ -1,12 +1,7 @@
-Как отправить реквизиты контрагентам?
-
+## Как отправить реквизиты контрагентам?
 Отправить реквизиты можно из личного кабинета или из приложения Тинькофф Бизнеса.
-
-
 Из личного кабинета: на главной странице выберите счет → «Реквизиты». В открывшемся окне вы можете скачать их в виде PDF‑файла или сразу отправить контрагентам.
-
-Реквизиты можно скачать, отправить партнерам и распечатать
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ZThiMmY4OC45NDgwZDQ1OV83YjdjXzRlMWZfOWYyNl9mN2FhNzJkOGJkNTAucG5n)Реквизиты можно скачать, отправить партнерам и распечатать
 Из приложения Тинькофф Бизнеса: выберите нужный счет на главной странице мобильного приложения, перейдите в «Реквизиты» и нажмите кнопку в правом верхнем углу.
-
-Чтобы скопировать реквизиты, нажмите на них
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zZjhiMmRhMy4zMTdlNzYzOF9kYTUyXzQ1MGFfOTBiY182NjhlZjFhZjQ1YzIucG5n)Чтобы скопировать реквизиты, нажмите на них
 Затем выберите, как вам удобнее отправить данные счета: QR‑кодом, по СМС, по эл. почте, в PDF.

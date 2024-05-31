@@ -1,11 +1,10 @@
-Как посмотреть расшифровку чата?
-
+## Как посмотреть расшифровку чата?
 В результатах поиска:
-
-- Выберите нужный чат и в его карточке нажмите на значок диалога. Как найти нужные чаты (https://www.tinkoff.ru/business/help/solutions/speech-analytics/search/chats/?card=q4)- Откроется расшифровка чата.
-
+1. Выберите нужный чат и в его карточке нажмите на значок диалога. [Как найти нужные чаты](/business/help/solutions/speech-analytics/search/chats/?card=q4)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yOGMxM2Y2MC4xNl9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)
+2. Откроется расшифровка чата.
 Если во время поиска вы установили фильтры «Клиент написал/не написал», «Оператор написал/не написал» или «Негативные фразы клиента», программа выделит в разговоре совпадающие слова и фразы желтым цветом.
-Например, здесь с помощью фильтра «Клиент написал» мы искали чаты, в которых клиент написал слово «спасибо»
-Если во время поиска вы установили теги с фильтрами «Оператор написал/не написал», «Клиент написал/не написал», соответствующие слова или фразы в разговоре будут отмечены цветом тега. Подробнее про работу с тегами (https://www.tinkoff.ru/business/help/solutions/speech-analytics/search/how-to-filter/)Например, здесь с помощью тега «Довольный клиент» мы искали чаты, в которых клиент был удовлетворен консультацией
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMjVjNzcyNy4xN19yYV9jaGF0eV9kZXNrXzR4LnBuZw==)Например, здесь с помощью фильтра «Клиент написал» мы искали чаты, в которых клиент написал слово «спасибо»
+Если во время поиска вы установили теги с фильтрами «Оператор написал/не написал», «Клиент написал/не написал», соответствующие слова или фразы в разговоре будут отмечены цветом тега. [Подробнее про работу с тегами](/business/help/solutions/speech-analytics/search/how-to-filter/)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMzkxNGM3Ny4xOF9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)Например, здесь с помощью тега «Довольный клиент» мы искали чаты, в которых клиент был удовлетворен консультацией
 Отключить отображение тегов можно с помощью кнопки «Подсветка тегов» — она находится в правом верхнем углу окна с расшифровкой:
-Чтобы перейти к фрагменту текста, размеченному тегом, нажмите на тег. Над списком тегов отобразится панель с элементами навигации между фрагментами
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xZDNkODA0Mi4xOV9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)Чтобы перейти к фрагменту текста, размеченному тегом, нажмите на тег. Над списком тегов отобразится панель с элементами навигации между фрагментами

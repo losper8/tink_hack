@@ -1,12 +1,8 @@
-Как отменить задачу?
-
-Автор может отменить задачи с типом «Оценка», которые находятся в статусе «Сделать» или «В работе». Как создать задачу (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/task-tracker/?card=q6)
-
-Задачи с типом «Обратная связь» и «Оспаривание» отменить нельзя. Типы задач в таск‑трекере (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/task-tracker/?card=q3)
-
+## Как отменить задачу?
+Автор может отменить задачи с типом «Оценка», которые находятся в статусе «Сделать» или «В работе». [Как создать задачу](/business/help/solutions/speech-analytics-for-tinkoff/control/task-tracker/?card=q6)
+Задачи с типом «Обратная связь» и «Оспаривание» отменить нельзя. [Типы задач в таск‑трекере](/business/help/solutions/speech-analytics-for-tinkoff/control/task-tracker/?card=q3)
 Чтобы отменить задачу:
-
-- Перейдите на вкладку «Развитие качества» → «Задачи». (https://tqm.tinkoff.ru/qa/task-tracker/board/active)- 
-Найдите карточку задачи. Нажмите на три точки в правом верхнем углу карточки и выберите «Отменить выполнение».
-
+1. [Перейдите на вкладку «Развитие качества» → «Задачи».](https://tqm.tinkoff.ru/qa/task-tracker/board/active)
+2. Найдите карточку задачи. Нажмите на три точки в правом верхнем углу карточки и выберите «Отменить выполнение».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83YTQ5MGI1MS5kZXNrdG9wXzEwLnBuZw==)
 Задача переместится на вкладку «Отмененные». Исполнитель получит уведомление, что задачу отменили.

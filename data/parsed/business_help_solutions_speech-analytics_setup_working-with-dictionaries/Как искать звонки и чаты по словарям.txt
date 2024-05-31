@@ -1,21 +1,17 @@
-Как искать звонки и чаты по словарям?
-
+## Как искать звонки и чаты по словарям?
 Вы можете искать звонки и чаты по словарям с помощью речевых фильтров.
-
 Как найти звонки
 Следуйте инструкции:
-
-- Перейдите на вкладку «Поиск» → «Коммуникации» → «Звонки».
-Пока вы не настроили речевые фильтры, внизу страницы отображается надпись «Ничего не найдено»- В поле «Тип поиска» выберите «Обычный», «Семантический» или «Последовательный». Подробнее про типы поиска (https://www.tinkoff.ru/business/help/solutions/speech-analytics/search/calls/?card=q2)В этом примере выбран поиск по обычным словарям- Укажите период, за который хотите найти звонки.
-- Нажмите на значок воронки и выберите один из речевых фильтров: «Оператор произнес/не произнес», «Клиент произнес/не произнес».
-- Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется звонков.
-В этом примере анализируем речь клиента: выбираем фильтр «Клиент произнес» и словарь «Жалобы и недовольства клиента»- Нажмите «Найти звонки». Появятся результаты поиска по звонкам.
-Результаты поиска по словарю «Жалобы и недовольства клиента» с начала годаКак словари анализируют исторические коммуникации (https://www.tinkoff.ru/business/help/solutions/speech-analytics/setup/dictionaries/?card=q8)Как найти чаты
+1. Перейдите на вкладку «Поиск» → «Коммуникации» → «Звонки». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YmNkMGYyMS4yNF9yYV9zbG92YXJpLnBuZw==)Пока вы не настроили речевые фильтры, внизу страницы отображается надпись «Ничего не найдено»
+2. В поле «Тип поиска» выберите «Обычный», «Семантический» или «Последовательный». [Подробнее про типы поиска](/business/help/solutions/speech-analytics/search/calls/?card=q2)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNDMwNjI1YS41Nl9yYV9zbG92YXJpLnBuZw==)В этом примере выбран поиск по обычным словарям
+3. Укажите период, за который хотите найти звонки. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wZTFlY2YyZS4yNl9yYV9zbG92YXJpLnBuZw==)
+4. Нажмите на значок воронки и выберите один из речевых фильтров: «Оператор произнес/не произнес», «Клиент произнес/не произнес». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ZTJiMTZmZC4yN19yYV9zbG92YXJpLnBuZw==)
+5. Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется звонков. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hYjg2MGM2My4yOF9yYV9zbG92YXJpLnBuZw==)В этом примере анализируем речь клиента: выбираем фильтр «Клиент произнес» и словарь «Жалобы и недовольства клиента»
+6. Нажмите «Найти звонки». Появятся результаты поиска по звонкам. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yYzBmNjYxNy4yOV9yYV9zbG92YXJpLnBuZw==)Результаты поиска по словарю «Жалобы и недовольства клиента» с начала года[Как словари анализируют исторические коммуникации](/business/help/solutions/speech-analytics/setup/dictionaries/?card=q8)
+Как найти чаты
 Искать чаты можно только по обычным словарям. Для этого следуйте инструкции:
-
-- Перейдите на вкладку «Поиск» → «Коммуникации» → «Чаты».
-Пока вы не настроили речевые фильтры, внизу страницы отображается надпись «Ничего не найдено»- Укажите период, за который хотите найти чаты.
-- Нажмите на значок воронки и выберите один из речевых фильтров: «Оператор написал/не написал», «Клиент написал/не написал».
-- Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется чатов.
-В этом примере анализируем речь оператора: выбираем фильтр «Оператор написал» и словарь «Проблемная ситуация у клиента»- Нажмите «Найти чаты» — появятся результаты поиска по чатам.
-Как словари анализируют исторические коммуникации (https://www.tinkoff.ru/business/help/solutions/speech-analytics/setup/dictionaries/?card=q8)
+1. Перейдите на вкладку «Поиск» → «Коммуникации» → «Чаты». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81ZGVkY2U2ZC4zMF9yYV9zbG92YXJpLnBuZw==)Пока вы не настроили речевые фильтры, внизу страницы отображается надпись «Ничего не найдено»
+2. Укажите период, за который хотите найти чаты. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMWNjOWUyZC4zMV9yYV9zbG92YXJpLnBuZw==)
+3. Нажмите на значок воронки и выберите один из речевых фильтров: «Оператор написал/не написал», «Клиент написал/не написал». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lZDk0YjQzNy4zMl9yYV9zbG92YXJpLnBuZw==)
+4. Нажмите на поле поиска и выберите из выпадающего списка один или несколько словарей. Чем больше словарей вы укажете в фильтре, тем больше найдется чатов. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NTA3YWVhMS4zM19yYV9zbG92YXJpLnBuZw==)В этом примере анализируем речь оператора: выбираем фильтр «Оператор написал» и словарь «Проблемная ситуация у клиента»
+5. Нажмите «Найти чаты» — появятся результаты поиска по чатам. [Как словари анализируют исторические коммуникации](/business/help/solutions/speech-analytics/setup/dictionaries/?card=q8)

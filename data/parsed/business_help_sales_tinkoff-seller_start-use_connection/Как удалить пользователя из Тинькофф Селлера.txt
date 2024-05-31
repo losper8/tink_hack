@@ -1,7 +1,8 @@
-Как удалить пользователя из Тинькофф Селлера?
+## Как удалить пользователя из Тинькофф Селлера?
 Удалить доступ к Тинькофф Селлеру может только пользователь с уровнем доступа «Директор» — обычно это ИП или руководитель компании.
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Настройки» → «Компания» → «Пользователи». (https://business.tinkoff.ru/account/users)- Нажмите на ФИО пользователя, у которого хотите удалить доступ к Тинькофф Селлеру.
-- Нажмите на карточку «Селлер».
-Галочкой отмечены продукты, к которым у пользователя есть доступ- Уберите все галочки справа от названий уровней доступа и нажмите «Сохранить».
-- Введите код из СМС, которое вам придет, чтобы подтвердить удаление доступа у пользователя. Нажмите «Подтвердить».
+1. [Зайдите в личный кабинет Тинькофф Бизнеса → «Настройки» → «Компания» → «Пользователи».](https://business.tinkoff.ru/account/users)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zZTMyNzUzNS4wMV9kZXNrdG9wLnBuZw==)
+2. Нажмите на ФИО пользователя, у которого хотите удалить доступ к Тинькофф Селлеру. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wZmRiMjVkYi4wOF9kZXNrdG9wLnBuZw==)
+3. Нажмите на карточку «Селлер». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNGUyNDJiYi4wNl9kZXNrdG9wLnBuZw==)Галочкой отмечены продукты, к которым у пользователя есть доступ
+4. Уберите все галочки справа от названий уровней доступа и нажмите «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zNDc3YTBiOC4wOV9kZXNrdG9wLnBuZw==)
+5. Введите код из СМС, которое вам придет, чтобы подтвердить удаление доступа у пользователя. Нажмите «Подтвердить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMTI2MzQzYS4wNV9kZXNrdG9wLnBuZw==)
 Готово, вы закрыли пользователю доступ к Селлеру.

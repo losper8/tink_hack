@@ -1,22 +1,14 @@
-Как настроить работу с Wildberries в онлайн-бухгалтерии Тинькофф?
-
+## Как настроить работу с Wildberries в онлайн-бухгалтерии Тинькофф?
 Онлайн-бухгалтерия Тинькофф может считать налог с учетом комиссии и расходов, которые берет Wildberries. Это важно, потому что при торговле на маркетплейсе налог считается не от суммы на счете, а от суммы продажи.
-
-
-
+Например, вы продали товар на маркетплейсе за 100 000 ₽, комиссия и расходы Wildberries — 15 000 ₽, вам на счет пришло 85 000 ₽. По закону налог на УСН «Доходы» надо считать от 100 000 ₽.
 Подключить работу с маркетплейсами в сервисе онлайн-бухгалтерии можно только в личном кабинете на сайте Тинькофф Бизнеса. В мобильном приложении это сделать не получится.
-
-
 Чтобы настроить корректный учет операций при работе с маркетплейсом, нужно выполнить такие действия:
-
-- Выберите в личном кабинете Тинькофф Бизнеса раздел «Продукты и сервисы» → «Бухгалтерия».
-- Зайдите в раздел «Реквизиты» → «Маркетплейсы» и нажмите значок «Маркетплейсы».
-- На вкладке Wildberries нажмите «Подключить».
-- Введите дату первого отчета Wildberries и нажмите «Подключить». На этом шаге загружать сам отчет не нужно, достаточно ввести дату.
-
+1. Выберите в личном кабинете Тинькофф Бизнеса раздел «Продукты и сервисы» → «Бухгалтерия». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMTNjOWFkMS4wMV9tYXJrZXRwbGFjZV9kZXNrNHhfM2UxNWM5OTAzMDY1YTA0YTVhNDhjMjhlYjhlM2EzOGMucG5n)
+2. Зайдите в раздел «Реквизиты» → «Маркетплейсы» и нажмите значок «Маркетплейсы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMWRkYTBhMS4wMl9tYXJrZXRwbGFjZV9kZXNrNHhfM2Q3YTRlMDk4MjI4MGIxZmY5ZWJkNGMxZmVlMTZjYjYucG5n)
+3. На вкладке Wildberries нажмите «Подключить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lYzZlMzQ1Zi4wM19tYXJrZXRwbGFjZV9kZXNrNHhfODYyOTQ1ZDQ0NzRjODZkYWU5Nzg2NjljNzAyZTBlOTEucG5n)
+4. Введите дату первого отчета Wildberries и нажмите «Подключить». На этом шаге загружать сам отчет не нужно, достаточно ввести дату.
+Например, вы хотите загрузить отчет маркетплейса за период с 17 по 23 января. Тогда дата первого отчета — 17 января.
 Начиная с этой даты при расчете налогов в онлайн-бухгалтерии будут учитываются не поступления на счет от маркетплейса, а суммы продаж и возвратов из отчета Wildberries, которые вы загружаете.
-
-
 Готово! Вы подключили Wildberries.
-
-Как загрузить отчет Wildberries (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)
+[Как загрузить отчет Wildberries](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)
+Настройте автоматическую работу с маркетплейсом и уделяйте меньше времени отчетности. [Чем поможет автоматическая работа с Wildberries](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q13)

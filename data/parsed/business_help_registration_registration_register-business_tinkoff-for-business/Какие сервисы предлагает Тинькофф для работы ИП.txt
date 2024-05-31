@@ -1,21 +1,11 @@
-Какие сервисы предлагает Тинькофф для работы ИП?
-
+## Какие сервисы предлагает Тинькофф для работы ИП?
 В Тинькофф мы собрали все необходимые сервисы для работы ИП с сотрудниками и без.
-
-Регистрация ИП (https://www.tinkoff.ru/business/registration-ip/?internal_source=help-order) и расчетный счет (https://www.tinkoff.ru/business/account/?internal_source=help-order). Заполним заявления, отправим в налоговую, пришлем на почту готовые документы и откроем расчетный счет бесплатно за 5 дней.
-
-Онлайн-бухгалтерия (https://www.tinkoff.ru/business/accounting/?internal_source=help-order) и бухгалтерское обслуживание. Возьмем ведение отчетности на себя: онлайн-бухгалтерия для ИП на УСН без сотрудников и бухгалтерское обслуживание для более сложных задач.
-
-Кредиты для ведения бизнеса (https://www.tinkoff.ru/business/credit/?internal_source=help-order). Одобрим кредит на развитие бизнеса, откроем овердрафт к счету или кредитную линию под залог недвижимости.
-
-Зарплатный проект (https://www.tinkoff.ru/corporate/payout/salary/?internal_source=help-order). Организуем процесс выплат сотрудникам в штате и самозанятым.
-
-Торговый (https://www.tinkoff.ru/business/payments/acquiring/?internal_source=help-order) и интернет-эквайринг (https://www.tinkoff.ru/kassa/?internal_source=help-order). Настроим прием оплаты по картам в интернете и офлайн — терминалы в аренду выдадим бесплатно.
-
-Тинькофф Кредит Брокер (https://www.tinkoff.ru/business/loans/?internal_source=help-order). Организуем продажу ваших услуг в рассрочку или кредит офлайн или через интернет.
-
-Валютные счета (https://www.tinkoff.ru/business/currency/?internal_source=help-order). Подключим все для работы с иностранными партнерами: валютные счета, выгодный курс и дружелюбный валютный контроль.
-
-Овернайт (https://www.tinkoff.ru/business/overnight/?internal_source=help-order). Разместим остаток денег на счете на ночных депозитах — до 2,75% за ночь.
-
-Конструктор сайтов (https://www.tinkoff.ru/business/website-builder/?internal_source=help-order). Поможем собрать продающий сайт за пару минут на простом конструкторе, а еще предоставим доступ к встроенной СРМ, где можно собрать базу клиентов.
+[Регистрация ИП](/business/registration-ip/?internal_source=help-order) и [расчетный счет](/business/account/?internal_source=help-order). Заполним заявления, отправим в налоговую, пришлем на почту готовые документы и откроем расчетный счет бесплатно за 5 дней.
+[Онлайн-бухгалтерия](/business/accounting/?internal_source=help-order) и бухгалтерское обслуживание. Возьмем ведение отчетности на себя: онлайн-бухгалтерия для ИП на УСН без сотрудников и бухгалтерское обслуживание для более сложных задач.
+[Кредиты для ведения бизнеса](/business/credit/?internal_source=help-order). Одобрим кредит на развитие бизнеса, откроем овердрафт к счету или кредитную линию под залог недвижимости.
+[Зарплатный проект](/corporate/payout/salary/?internal_source=help-order). Организуем процесс выплат сотрудникам в штате и самозанятым.
+[Торговый](/business/payments/acquiring/?internal_source=help-order) и [интернет-эквайринг](/kassa/?internal_source=help-order). Настроим прием оплаты по картам в интернете и офлайн — терминалы в аренду выдадим бесплатно.
+[Тинькофф Кредит Брокер](/business/loans/?internal_source=help-order). Организуем продажу ваших услуг в рассрочку или кредит офлайн или через интернет.
+[Валютные счета](/business/currency/?internal_source=help-order). Подключим все для работы с иностранными партнерами: валютные счета, выгодный курс и дружелюбный валютный контроль.
+[Овернайт](/business/overnight/?internal_source=help-order). Разместим остаток денег на счете на ночных депозитах — до 2,75% за ночь.
+[Конструктор сайтов](/business/website-builder/?internal_source=help-order). Поможем собрать продающий сайт за пару минут на простом конструкторе, а еще предоставим доступ к встроенной СРМ, где можно собрать базу клиентов.

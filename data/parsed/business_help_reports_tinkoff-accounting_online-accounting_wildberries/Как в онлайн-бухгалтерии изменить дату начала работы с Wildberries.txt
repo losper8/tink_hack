@@ -1,7 +1,6 @@
-Как в онлайн-бухгалтерии изменить дату начала работы с Wildberries?
-
+## Как в онлайн-бухгалтерии изменить дату начала работы с Wildberries?
 Это можно сделать самостоятельно в личном кабинете Тинькофф Бизнеса:
-
-- Перейдите в раздел «Продукты и сервисы» → «Бухгалтерия».- Зайдите в раздел «Реквизиты» → «Маркетплейсы» и нажмите значок шестеренки.
-- Нажмите на дату на плашке с названием маркетплейса.
-- В появившемся окне нажмите на значок календаря и выберите новую дату. Нажмите на кнопку «Изменить дату». Готово! С этой даты изменится расчет налогов в онлайн-бухгалтерии. Система будет учитывать суммы продаж и возвратов из отчетов Wildberries.
+1. Перейдите в раздел «Продукты и сервисы» → «Бухгалтерия».
+2. Зайдите в раздел «Реквизиты» → «Маркетплейсы» и нажмите значок шестеренки. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNzJiODY2MC4wMV9tYXJrZXRwbGFjZV91cGRhdGVfZGVza180eC5wbmc=)
+3. Нажмите на дату на плашке с названием маркетплейса. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81ZDI1OWM1OS4wMl9tYXJrZXRwbGFjZV91cGRhdGVfZGVza180eC5wbmc=)
+4. В появившемся окне нажмите на значок календаря и выберите новую дату. Нажмите на кнопку «Изменить дату». Готово! С этой даты изменится расчет налогов в онлайн-бухгалтерии. Система будет учитывать суммы продаж и возвратов из отчетов Wildberries. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83YmVkMjhhZS4wM19tYXJrZXRwbGFjZV91cGRhdGVfZGVza180eC5wbmc=)

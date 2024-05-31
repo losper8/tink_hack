@@ -1,5 +1,3 @@
-В каких случаях подходит Tinkoff ID?
-
+## В каких случаях подходит Tinkoff ID?
 Tinkoff ID подходит для сайтов и приложений с личным кабинетом пользователя — это может быть авиакомпания, маркетплейс, небольшой магазин или любой другой сервис.
-
-Посетитель нажимает на желтую кнопку с логотипом Тинькофф и заходит с Tinkoff ID. Вместо логотипа у кнопки может быть надпись «Войти с Тинькофф»
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81ZmJmODI4Ni50aW5rb2ZmX2lkXzAxX2Rlc2tfa2g0LnBuZw==)Посетитель нажимает на желтую кнопку с логотипом Тинькофф и заходит с Tinkoff ID. Вместо логотипа у кнопки может быть надпись «Войти с Тинькофф»

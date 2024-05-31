@@ -1,20 +1,14 @@
-Как изменить доступ сотрудника к разным продуктам Тинькофф Бизнеса?
-
+## Как изменить доступ сотрудника к разным продуктам Тинькофф Бизнеса?
 Вы можете выдавать и забирать доступы сотрудников к разным продуктам, которые подключены в вашем аккаунте в Тинькофф Бизнесе. Это могут быть Конструктор сайтов, Интернет-эквайринг, Счета и платежи и другие.
-
-В личном кабинете на сайте tinkoff.ru в профиле сотрудника указаны его доступы
-Менять доступы можно с телефона и компьютера в личном кабинете на сайте tinkoff.ru. (https://www.tinkoff.ru/)
-- Вверху экрана нажмите на название компании или ИП → «Пользователи».
-
-- Нажмите «Все пользователи» и выберите пользователя, которому хотите изменить доступ.
-
-- Нажмите на инструмент, к которому хотите изменить доступ, и галочками выберите действия, которые может выполнять сотрудник → «Сохранить».
-
-- Нажмите «Получить СМС с кодом» и введите его → «Подтвердить».
-- Нажмите на название компании или ИП → «Настройки профиля и доступы».
-
-- Откройте вкладку «Компания» → «Все пользователи» (https://business.tinkoff.ru/account/users) и выберите пользователя, которому хотите изменить доступ.
-
-- Нажмите на инструмент, к которому хотите изменить доступ, и галочками выберите действия, которые может выполнять сотрудник → «Сохранить».
-
-- Нажмите «Получить СМС с кодом» и введите его → «Подтвердить».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83YmY3YjQ1ZC4wOV9kZXNrdG9wLnBuZw==)В личном кабинете на сайте tinkoff.ru в профиле сотрудника указаны его доступы
+Менять доступы можно с телефона и компьютера в личном кабинете на сайте [tinkoff.ru.](/)
+С телефона — в личном кабинете на сайте tinkoff.ru
+1. Вверху экрана нажмите на название компании или ИП → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yYjNkYzk0ZS4wMl8wM19kZXNrdG9wLnBuZw==)
+2. Нажмите «Все пользователи» и выберите пользователя, которому хотите изменить доступ. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xMjc5ZTRhMy4xMF9kZXNrdG9wLnBuZw==)
+3. Нажмите на инструмент, к которому хотите изменить доступ, и галочками выберите действия, которые может выполнять сотрудник → «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYzcxMTAzYy4xMV9kZXNrdG9wLnBuZw==)
+4. Нажмите «Получить СМС с кодом» и введите его → «Подтвердить».
+С компьютера — в личном кабинете на сайте tinkoff.ru
+1. Нажмите на название компании или ИП → «Настройки профиля и доступы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lODQxMDc4Zi5kZXNrdG9wXzQucG5n)
+2. [Откройте вкладку «Компания» → «Все пользователи»](https://business.tinkoff.ru/account/users) и выберите пользователя, которому хотите изменить доступ. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84OWI0ZmVjMC4xMl9kZXNrdG9wLnBuZw==)
+3. Нажмите на инструмент, к которому хотите изменить доступ, и галочками выберите действия, которые может выполнять сотрудник → «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85YjA2MzdkMC4xM19kZXNrdG9wLnBuZw==)
+4. Нажмите «Получить СМС с кодом» и введите его → «Подтвердить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kNzZkMzVhMy4xNF9kZXNrdG9wLnBuZw==)

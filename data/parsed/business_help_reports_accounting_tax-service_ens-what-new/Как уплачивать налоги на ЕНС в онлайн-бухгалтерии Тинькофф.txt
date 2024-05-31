@@ -1,9 +1,6 @@
-Как уплачивать налоги на ЕНС в онлайн-бухгалтерии Тинькофф?
+## Как уплачивать налоги на ЕНС в онлайн-бухгалтерии Тинькофф?
 ИП на УСН «Доходы» без сотрудников, ИП, которые совмещают патент с УСН «Доходы» и работают без сотрудников, ИП и компании на АУСН могут уплачивать налоги и взносы на ЕНС через онлайн-бухгалтерию Тинькофф.
-
-Как платить налоги в онлайн-бухгалтерии Тинькофф (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q5)
-Как платить взносы в онлайн-бухгалтерии Тинькофф (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-contribution/?card=q8)
+[Как платить налоги в онлайн-бухгалтерии Тинькофф](/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q5)
+[Как платить взносы в онлайн-бухгалтерии Тинькофф](/business/help/reports/tinkoff-accounting/taxes/pay-contribution/?card=q8)
 Для других систем налогообложения придется создавать платежку вручную.
-
-
-ИП на УСН без сотрудников могут уменьшить налог на сумму уплаченных страховых взносов. Вот как это сделать (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)
+ИП на УСН без сотрудников могут уменьшить налог на сумму уплаченных страховых взносов. [Вот как это сделать](/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)

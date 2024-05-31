@@ -1,16 +1,11 @@
-Как перейти в настройки страницы?
-
+## Как перейти в настройки страницы?
 Переход в настройки интернет-магазина отличается от сайта-визитки.
-
-
 Как перейти в настройки страницы в интернет-магазине:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт. - Нажмите «Настройки» на плашке с нужной страницей.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт.
+2. Нажмите «Настройки» на плашке с нужной страницей.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kNDI0MTZlOS5kZXNrdG9wXzI1LnBuZw==)
 Готово! Теперь вы можете редактировать настройки страницы.
-
-
 Как перейти в настройки страницы на сайте-визитке:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт. - Нажмите три точки на плашке с нужной страницей → «Настройки страницы».
-
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт.
+2. Нажмите три точки на плашке с нужной страницей → «Настройки страницы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80MWI4MTAxMS5kZXNrdG9wXzI2LnBuZw==)
 Готово! Теперь вы можете редактировать настройки страницы.

@@ -1,13 +1,8 @@
-Как посмотреть текстовую расшифровку звонка?
-
+## Как посмотреть текстовую расшифровку звонка?
 В результатах поиска:
-
-- Выберите нужный звонок и в его карточке нажмите на значок диалога. Как найти нужные звонки (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q4)- Откроется текстовая расшифровка диалога.
-
+1. Выберите нужный звонок и в его карточке нажмите на значок диалога. [Как найти нужные звонки](/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q4)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yMmI5ZDkxMi4yNF9yYV96dm9ua2kucG5n)
+2. Откроется текстовая расшифровка диалога. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YTc2OTVjZi4yNV9yYV96dm9ua2kucG5n)
 Разговор можно прослушать с определенного момента. Для этого нажмите на нужное слово или фразу в текстовой расшифровке.
-
-
 Если во время поиска вы установили фильтры «Оператор произнес/не произнес», «Клиент произнес/не произнес» или «Негативные фразы клиента», программа выделит совпадающие слова и фразы в разговоре желтым цветом.
-
-Например, здесь с помощью фильтра «Клиент произнес» мы искали звонки, в ходе которых клиент произнес слово «карта». Это совпадение выделено в расшифровке желтым цветом
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lOWMxMGJkOS4yNl9yYV96dm9ua2kucG5n)Например, здесь с помощью фильтра «Клиент произнес» мы искали звонки, в ходе которых клиент произнес слово «карта». Это совпадение выделено в расшифровке желтым цветом
 Если звонок отмечен тегами с фильтрами «Оператор произнес/не произнес», «Клиент произнес/не произнес» и «Негативные фразы клиента», соответствующие слова или фразы в разговоре будут отмечены цветом тега. Управлять отображением и подсветкой тегов можно с помощью кнопки «Подсветка тегов» — она находится в правом верхнем углу окна.

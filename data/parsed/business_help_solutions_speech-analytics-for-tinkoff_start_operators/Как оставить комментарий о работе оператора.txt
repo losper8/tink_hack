@@ -1,6 +1,4 @@
-Как оставить комментарий о работе оператора?
-
+## Как оставить комментарий о работе оператора?
 Следуйте инструкции:
-
-- В TQM перейдите в «Поиск» → «Коммуникации» → «Операторы». (https://tqm.tinkoff.ru/filter/communications/operators) Найдите карточку нужного сотрудника по фамилии и имени. Справа от имени сотрудника нажмите на значок стрелки вправо.
-- В открывшемся окне введите комментарий и нажмите «Отправить». Оператор не увидит ваш отзыв.
+1. [В TQM перейдите в «Поиск» → «Коммуникации» → «Операторы».](https://tqm.tinkoff.ru/filter/communications/operators) Найдите карточку нужного сотрудника по фамилии и имени. Справа от имени сотрудника нажмите на значок стрелки вправо. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wODg0ODY5MS4yXzEucG5n)
+2. В открывшемся окне введите комментарий и нажмите «Отправить». Оператор не увидит ваш отзыв. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hYTFhZmFlOC4zXzEucG5n)

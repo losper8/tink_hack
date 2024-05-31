@@ -1,7 +1,5 @@
-Как найти карточку нужного оператора?
-
+## Как найти карточку нужного оператора?
 Через вкладку «Поиск»:
-
-- Перейдите в раздел «Коммуникации» → «Операторы».
-- В строке «Оператор» укажите фамилию, имя и отчество сотрудника или его логин. Программа покажет все совпадения.
-- Выберите нужного сотрудника из списка, нажав на его имя. Готово.
+1. Перейдите в раздел «Коммуникации» → «Операторы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MzA1YTk2ZC4wMV9yYV9vcGVyYXRvcnkucG5n)
+2. В строке «Оператор» укажите фамилию, имя и отчество сотрудника или его логин. Программа покажет все совпадения. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zNDM0NmMyNS4wMl9yYV9vcGVyYXRvcnkucG5n)
+3. Выберите нужного сотрудника из списка, нажав на его имя. Готово.

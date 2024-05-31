@@ -1,4 +1,3 @@
-Как найти информацию об операции?
-Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Операции» (https://business.tinkoff.ru/oplata/operation) → выберите нужную операцию.
-
-В платежной информации указана дата оплаты, размер комиссии, сайт магазина, данные терминала, код и протокол авторизации
+## Как найти информацию об операции?
+[Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Операции»](https://business.tinkoff.ru/oplata/operation) → выберите нужную операцию.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kZDk0MzY1MS41YWY1M2UyZF85NWQwXzRkNGZfYjNkOF9lNGFiZjU5M2Q1YTcucG5n)В платежной информации указана дата оплаты, размер комиссии, сайт магазина, данные терминала, код и протокол авторизации

@@ -1,5 +1,4 @@
-Как отправить акт на подпись самозанятому?
-
+## Как отправить акт на подпись самозанятому?
 Это можно сделать с телефона или компьютера в личном кабинете Тинькофф Бизнеса:
-
-- Добавьте исполнителя в группу. Как добавить самозанятого в группу (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=add)- Отправьте акт на оплату по инструкции. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=pay)
+1. Добавьте исполнителя в группу. [Как добавить самозанятого в группу](/business/help/business-payout/self-employed/payoff/pay-edm/?card=add)
+2. Отправьте акт на оплату [по инструкции.](/business/help/business-payout/self-employed/payoff/pay-edm/?card=pay)

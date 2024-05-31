@@ -1,12 +1,15 @@
-Как заполнить анкету для регистрации ИП?
-
+## Как заполнить анкету для регистрации ИП?
 Чтобы заполнить и отправить анкету, понадобятся СНИЛС, паспорт и мобильный телефон.
-
 Сделайте следующее:
-- На сайте Тинькофф (https://www.tinkoff.ru/business/registration-ip/) заполните форму для регистрации в качестве ИП — введите ФИО и телефон.
-Заполните данные, чтобы создать личный кабинет- На указанный номер придет СМС‑код — введите его, чтобы зайти в личный кабинет.- Укажите СНИЛС, адрес регистрации и эл. почту.
-На эл. почту банк пришлет письма о статусе заявления, а налоговая — документы о регистрации ИП- Загрузите скан или фото паспорта: основной разворот с вашим фото и разворот с регистрацией. Если регистрации нет или она недействительна, подойдет временная.
-Паспорт понадобится на встрече с представителем Тинькофф- 
-Выберите направление деятельности и коды ОКВЭД — они показывают государству, какими видами деятельности вы планируете заниматься. Что такое коды ОКВЭД и как их выбрать (https://www.tinkoff.ru/business/help/registration/registration/register-ip/open/?card=q3)- Выберите ваш статус:
-- «Я физлицо», если никогда не были оформлены как самозанятый или были, но снялись с учета;- «Я самозанятый», если уже оформлены как самозанятый, но решили зарегистрировать ИП.От вашего текущего статуса зависят доступные системы налогообложения- Выберите систему налогообложения. Какую систему налогообложения выбрать для ИП (https://www.tinkoff.ru/business/help/registration/registration/register-ip/tax-system/?card=q1)- Проверьте данные и отправьте анкету.
+1. [На сайте Тинькофф](/business/registration-ip/) заполните форму для регистрации в качестве ИП — введите ФИО и телефон. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMTA1NTI2ZS4xNjhkMzA0N18zNjU3XzQxODFfYmFiM19iNzE3NTMzZmU0ZmYucG5n)Заполните данные, чтобы создать личный кабинет
+2. На указанный номер придет СМС‑код — введите его, чтобы зайти в личный кабинет.
+3. Укажите СНИЛС, адрес регистрации и эл. почту. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84ZTI2MzBiZC4wMV9yZWdfYnVzaW5lc3NfaXBfZGVza3RvcC5wbmc=)На эл. почту банк пришлет письма о статусе заявления, а налоговая — документы о регистрации ИП
+4. Загрузите скан или фото паспорта: основной разворот с вашим фото и разворот с регистрацией. Если регистрации нет или она недействительна, подойдет временная. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZTBkNTI4ZC4wMl9yZWdfYnVzaW5lc3NfaXBfZGVza3RvcC5wbmc=)Паспорт понадобится на встрече с представителем Тинькофф
+5. Выберите направление деятельности и коды ОКВЭД — они показывают государству, какими видами деятельности вы планируете заниматься. [Что такое коды ОКВЭД и как их выбрать](/business/help/registration/registration/register-ip/open/?card=q3)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMjkxZTI1Yy4wM19yZWdfYnVzaW5lc3NfaXBfZGVza3RvcC5wbmc=)
+6. Выберите ваш статус:
+* «Я физлицо», если никогда не были оформлены как самозанятый или были, но снялись с учета;
+* «Я самозанятый», если уже оформлены как самозанятый, но решили зарегистрировать ИП.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNTVhNDhlYi4yY2MwM2I0Yl8wNF9yZWdfYnVzaW5lc3NfaXBfZGVza3RvcC5wbmc=)От вашего текущего статуса зависят доступные системы налогообложения
+7. Выберите систему налогообложения. [Какую систему налогообложения выбрать для ИП](/business/help/registration/registration/register-ip/tax-system/?card=q1)
+8. Проверьте данные и отправьте анкету.
 После отправки анкеты вам придет сообщение со ссылкой. Нажмите на нее и выберите дату и время встречи с представителем банка для подписания документов.

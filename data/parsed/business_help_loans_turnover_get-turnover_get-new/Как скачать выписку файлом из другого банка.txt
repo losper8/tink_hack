@@ -1,123 +1,89 @@
-Как скачать выписку файлом из другого банка?
-
+## Как скачать выписку файлом из другого банка?
 Чтобы скачать выписку файлом, зайдите в личный кабинет другого банка, сформируйте выписку в формате 1С и сохраните ее на компьютер. Из программы 1С ничего выгружать не нужно. Выписка в формате 1С — это текстовый файл с расширением txt.
-
-
 Подготовили инструкции, как выгрузить выписку файлом из личных кабинетов некоторых банков.
-
 Альфа-Банк
 Чтобы скачать выписку файлом из Альфа-Банка:
-
--  
-Войдите в личный кабинет Альфа-Банка под своим логином и паролем.
-- 
-Выберите раздел «Выписка по счету»:
-- 
-Откроется окно «Параметры выписки»:
-- 
-Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
-
-Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)ВТБ
+1. Войдите в личный кабинет Альфа-Банка под своим логином и паролем.
+2. Выберите раздел «Выписка по счету»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85MmVkNjczMi4wOTMzYzgwM185YmFiXzRjOTlfOGRhZF80ZTQ0NDM2ZThlMWUucG5n)
+3. Откроется окно «Параметры выписки»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMjViNTgxNi5jZWNkMGIwM184MmJhXzRmYTNfYjFhN18yNWRkNGVmYmRhODYucG5n)
+4. Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
+Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+ВТБ
 Чтобы скачать выписку файлом из банка ВТБ:
-
--  
-Войдите в личный кабинет банка ВТБ под своим логином.
-- 
-В правом меню выберите раздел «Выписка»:
-- 
-Откроется новое окно:
-- 
-Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
-
-Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+1. Войдите в личный кабинет банка ВТБ под своим логином.
+2. В правом меню выберите раздел «Выписка»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NzllMDIwMC5lODdmZmZmOF9jMzdhXzQ2MDlfOTY5N19iMDFhZmZmNDdjZGUucG5n)
+3. Откроется новое окно:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lNzRhMTVmMS43MDk0NWRiM19mMTczXzRiMjlfODI1N19lMGI3YjQyMzA4NTIucG5n)
+4. Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
+Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)
 Если у вас другой личный кабинет в банке ВТБ:
-
-- 
-Найдите раздел с выписками. Он может называться «Выписки» или «Счета и выписки».
-- 
-Сформируйте выписку по всем счетам, в том числе валютным, где есть обороты. Выберите параметры:
-- период — два года с даты формирования выписки;- формат — 1С.- 
-Скачайте выписку на свой компьютер и загрузите в личном кабинете Тинькофф.
+1. Найдите раздел с выписками. Он может называться «Выписки» или «Счета и выписки».
+2. Сформируйте выписку по всем счетам, в том числе валютным, где есть обороты. Выберите параметры:
+* период — два года с даты формирования выписки;
+* формат — 1С.
+3. Скачайте выписку на свой компьютер и загрузите в личном кабинете Тинькофф.
 ДелоБанк
 Чтобы скачать выписку файлом из ДелоБанка:
-
-- 
-Войдите в личный кабинет ДелоБанка под своим логином и паролем.
-- 
-Нажмите кнопку «Выписка»:
--  
-Откроется окно «Выписка»:
--  
-Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
-
-Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)Модульбанк
+1. Войдите в личный кабинет ДелоБанка под своим логином и паролем.
+2. Нажмите кнопку «Выписка»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NWQ0NmIxZC40ZDk3MWMwYV82NzgyXzRjNjJfOTY3MF9jMTU5YjVlMzNmYTMucG5n)
+3. Откроется окно «Выписка»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jOTQ3OGVkNC44YTgwZGIzN19kODkyXzRjNzlfYmI3MF9kNTJiYzcyYjkzZjAucG5n)
+4. Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
+Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+Модульбанк
 Чтобы скачать выписку файлом из Модульбанка:
-
-- 
-Войдите в личный кабинет Модульбанка под своим логином и паролем.
--  
-Во вкладке «Деньги» нажмите на раздел «Выписка»:
--  
-Откроется окно «Банковская выписка по счету»:
-- 
-Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
-
-Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)Райффайзенбанк
+1. Войдите в личный кабинет Модульбанка под своим логином и паролем.
+2. Во вкладке «Деньги» нажмите на раздел «Выписка»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMzM2NzM5NS5jYzVhZjQ1OV9iZmIxXzQxZDlfODVjNV83OTU3OTUzZThlNzIucG5n)
+3. Откроется окно «Банковская выписка по счету»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kYmM4NjcwZS41YmI2YWVkNl82MTlkXzQwNDVfOTg3Yl9iZGEyY2ZhNjFjOWYucG5n)
+4. Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
+Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+Райффайзенбанк
 Чтобы скачать выписку файлом из Райффайзенбанка:
-
-- 
-Войдите в личный кабинет Райффайзенбанка под своим логином и паролем.
--  
-В левом меню выберите раздел «Выписка»:
--  
-Нажмите кнопку «Скачать выписку»:
-- 
-Откроется окно «Скачать выписку за период», в нем выберите период выписки — два года.
-- 
-В окне «Настройка параметров» выберите параметры:
--  
-Вы вернетесь в окно «Скачать выписку за период», в нем нажмите кнопку «Скачать».
-
-Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)Сбербанк
+1. Войдите в личный кабинет Райффайзенбанка под своим логином и паролем.
+2. В левом меню выберите раздел «Выписка»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hZjVkMDg5YS5lNDI0NWNhZV81NzhjXzQyMzNfODZhNF9hM2U0YTFmYWZmYWIucG5n)
+3. Нажмите кнопку «Скачать выписку»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iMzJiODY5Zi5lMTk2MzQwNF8xMjc2XzQ2Y2NfODRiY181OGYwODg1MmRlYmYucG5n)
+4. Откроется окно «Скачать выписку за период», в нем выберите период выписки — два года.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MTBkZmU1Ni44NzgzYTViN18zZTI4XzQ0M2JfYWU1NV8xMTU2N2Q5ZDUxYjAucG5n)
+5. В окне «Настройка параметров» выберите параметры:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNjI5NDVkNi41YmFkZWVmOF80N2RmXzQ5ZmRfODAzOF81YjRlMzgxY2Y0MzIucG5n)
+6. Вы вернетесь в окно «Скачать выписку за период», в нем нажмите кнопку «Скачать».
+Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+Сбербанк
 Чтобы скачать выписку файлом из Сбербанка:
-
--  
-Войдите в личный кабинет Сбербанка под своим логином и паролем.
-- 
-В левом меню выберите раздел «Выписки и отчеты»:
-- 
-Нажмите кнопку «Скачать выписку»:
--  
-Откроется окно «Выписка по счету»:
-- 
-Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
-
-Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)Точка
+1. Войдите в личный кабинет Сбербанка под своим логином и паролем.
+2. В левом меню выберите раздел «Выписки и отчеты»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mOTgzZTQ0NC4yOTRlM2E2NV84YmQwXzQ5NTlfYmVhOF8wZGEwM2JlZGZlM2IucG5n)
+3. Нажмите кнопку «Скачать выписку»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jYjFjYzA4OC4wMmE4OWNhNF9kY2E4XzQxNWZfYWY4MF9lOTA5NjEyZjI0MjMucG5n)
+4. Откроется окно «Выписка по счету»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NmFhYzM2Ny44ZTBkMmQyY18zN2Q5XzRiYjBfYTIzZF80MjQzMTA3ODYxNzAucG5n)
+5. Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
+Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+Точка
 Чтобы скачать выписку файлом из банка «Точка»:
-
-- 
-Войдите в личный кабинет банка «Точка» под своим логином и паролем.
-- 
-В левом меню нажмите на раздел «Деньги и события».
-- 
-Если у вас несколько счетов, выберите в верхнем меню тот, по которому нужна выписка.
-- 
-Нажмите «Отправить выписку»:
-- 
-Откроется окно «Выписка по счету»:
-- 
-Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
-
-Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+1. Войдите в личный кабинет банка «Точка» под своим логином и паролем.
+2. В левом меню нажмите на раздел «Деньги и события».
+3. Если у вас несколько счетов, выберите в верхнем меню тот, по которому нужна выписка.
+4. Нажмите «Отправить выписку»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMWJmNDBiZS4wZDYzNDVmY18wY2MwXzQ2ZmRfYjMyN180YWRlZDM1NjJlODQucG5n)
+5. Откроется окно «Выписка по счету»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81ZTEwMDZjNS41NjRmN2M4Yl9hYmQ0XzQ3YTVfODFhM181MWM3NDAzZDc0OTkucG5n)
+6. Выберите нужный счет и период — два года, укажите формат — 1С. Нажмите «Скачать».
+Выписка в текстовом файле с расширением.txt сохранится на вашем компьютере. Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)
 Если вашего банка нет в этом списке:
-
-- 
-Войдите в личный кабинет на сайте своего банка.
-- 
-Найдите в личном кабинете раздел с выписками. Обычно он называется «Выписки» или «Счета и выписки».
-- 
-Сформируйте выписку по всем счетам, в том числе валютным, где есть обороты. Выберите параметры:
-- формат — 1С;- период — два года с даты формирования выписки. Что делать, если невозможно получить выписку за два года (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q5)-  
-Скачайте выписку в виде текстового файла с расширением.txt на свой компьютер. Она будет выглядеть примерно так:
-Пример банковской выписки в формате 1С
-Теперь загрузите этот файл в личный кабинет Тинькофф. Как предоставить выписки из других банков (https://www.tinkoff.ru/business/help/loans/turnover/get-turnover/get-new/?card=q3)
+1. Войдите в личный кабинет на сайте своего банка.
+2. Найдите в личном кабинете раздел с выписками. Обычно он называется «Выписки» или «Счета и выписки».
+3. Сформируйте выписку по всем счетам, в том числе валютным, где есть обороты. Выберите параметры:
+* формат — 1С;
+* период — два года с даты формирования выписки. [Что делать, если невозможно получить выписку за два года](/business/help/loans/turnover/get-turnover/get-new/?card=q5)
+4. Скачайте выписку в виде текстового файла с расширением.txt на свой компьютер. Она будет выглядеть примерно так:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hYjUyYjRjMC4zZTIyYWZkNl82ZTQ0XzRiODJfOTM2MV84MmI2MDc4MmM3MWYucG5n)Пример банковской выписки в формате 1С
+Теперь загрузите этот файл в личный кабинет Тинькофф. [Как предоставить выписки из других банков](/business/help/loans/turnover/get-turnover/get-new/?card=q3)

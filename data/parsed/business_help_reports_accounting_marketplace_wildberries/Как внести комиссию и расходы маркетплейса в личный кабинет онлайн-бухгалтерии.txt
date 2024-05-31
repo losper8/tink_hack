@@ -1,25 +1,28 @@
-Как внести комиссию и расходы маркетплейса в личный кабинет онлайн-бухгалтерии?
-
-
+## Как внести комиссию и расходы маркетплейса в личный кабинет онлайн-бухгалтерии?
+Упростите работу с маркетплейсом, чтобы комиссия и расходы рассчитывались автоматически и отображались в ленте операций без ваших действий. [Чем поможет автоматическая работа с Wildberries](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q13)
 Есть два способа: загрузить файл отчета в личный кабинет Тинькофф или внести данные вручную.
-
-Как работать с другими маркетплейсами (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/other-marketplace/)
+[Как работать с другими маркетплейсами](/business/help/reports/tinkoff-accounting/online-accounting/other-marketplace/)
 Подробности — в видео или тексте ниже.
-
-Содержание и тайм-коды видео00:00 Введение  (https://www.youtube.com/watch?v=8QFMubJelnA&t=0s)00:13 Как рассчитать налог с продаж на маркетплейсах (https://www.youtube.com/watch?v=8QFMubJelnA&t=13s)02:15 Где в личном кабинете Wildberries найти информацию о комиссиях (https://www.youtube.com/watch?v=8QFMubJelnA&t=135s)03:07 Как внести вручную комиссию и расходы маркетплейса в онлайн-бухгалтерию Тинькофф (https://www.youtube.com/watch?v=8QFMubJelnA&t=187s)04:23 Как загрузить отчет Wildberries в онлайн-бухгалтерию (https://www.youtube.com/watch?v=8QFMubJelnA&t=263s)Если загрузить файл отчета Wildberries в формате XLSX в личный кабинет Тинькофф Бухгалтерии, сервис бухгалтерии сам учтет комиссию и расходы маркетплейса при расчете налога.
-
-Где скачать файл отчета о реализации на Wildberries (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q3)
-Как загрузить отчет Wildberries в онлайн-бухгалтерию (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)
+Содержание и тайм-коды видео
+[00:00 Введение ](https://www.youtube.com/watch?v=8QFMubJelnA&t=0s)
+[00:13 Как рассчитать налог с продаж на маркетплейсах](https://www.youtube.com/watch?v=8QFMubJelnA&t=13s)
+[02:15 Где в личном кабинете Wildberries найти информацию о комиссиях](https://www.youtube.com/watch?v=8QFMubJelnA&t=135s)
+[03:07 Как внести вручную комиссию и расходы маркетплейса в онлайн-бухгалтерию Тинькофф](https://www.youtube.com/watch?v=8QFMubJelnA&t=187s)
+[04:23 Как загрузить отчет Wildberries в онлайн-бухгалтерию](https://www.youtube.com/watch?v=8QFMubJelnA&t=263s)
+Если загрузить файл отчета Wildberries в формате XLSX в личный кабинет Тинькофф Бухгалтерии, сервис бухгалтерии сам учтет комиссию и расходы маркетплейса при расчете налога.
+[Где скачать файл отчета о реализации на Wildberries](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q3)
+[Как загрузить отчет Wildberries в онлайн-бухгалтерию](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)
 Внести комиссию и расходы вручную придется для тех маркетплейсов, с которыми мы еще не настроили работу.
-
-
 Чтобы внести комиссию и расходы маркетплейса вручную:
-
-- Зайдите в раздел «Бухгалтерия» → «Операции» → «Добавить операцию» → «Добавить вручную».
-- В окне «Добавление операции» выберите пункт «Наличная выручка».
-- В карточке операции укажите:
-- категорию — наличная выручка;- систему налогообложения — УСН «Доходы»;- номер Z‑отчета для БСО — номер отчета маркетплейса;- сумму комиссии и расходов маркетплейса;- дату отчета.
-
+1. Зайдите в раздел «Бухгалтерия» → «Операции» → «Добавить операцию» → «Добавить вручную». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85MzY1MmM2Mi4wMV9tYXJrZXRwbGFjZV93b3JrX2Rlc2syeF8xMjA3NDMxZjNmZTA2YmZiNGI1YzhjNzJkMWJjZDUxNS5wbmc=)
+2. В окне «Добавление операции» выберите пункт «Наличная выручка». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81N2VjMTE1Yy4wMl9tYXJrZXRwbGFjZV93b3JrX2Rlc2syeF8zMzllZmM2M2RiMmZjNjQzYzlmZTUzMGFjOWM1MzJhYi5wbmc=)
+3. В карточке операции укажите:
+* категорию — наличная выручка;
+* систему налогообложения — УСН «Доходы»;
+* номер Z‑отчета для БСО — номер отчета маркетплейса;
+* сумму комиссии и расходов маркетплейса;
+* дату отчета.
 В назначении платежа нужно прописать, что это отражение дохода через маркетплейс ООО «Интернет Решения», указать номер отчета о реализации и период.
-
-Где найти сумму комиссии и расходов Wildberries (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q7)
+[Где найти сумму комиссии и расходов Wildberries](/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q7)
+Например: отражение дохода через маркетплейс ООО «Интернет Решения» по отчету о реализации № 3863235 за период с 01.06.2023 по 30.06.2023.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NTFjODExMS4wMV9kZXNrdG9wXzJfMS5wbmc=)

@@ -1,44 +1,55 @@
-Как вставить баннер Тинькофф на сайт?
-
-Инструкция ниже поможет вставить три популярных вида баннеров. Если вы захотите использовать другие баннеры из гайда с материалами для коммуникации, понадобится помощь разработчика. Гайд с материалами для коммуникации (https://acdn.tinkoff.ru/static/documents/tinkoff-credit-broker-integration-guidebook.pdf)
-
+## Как вставить баннер Тинькофф на сайт?
+Инструкция ниже поможет вставить три популярных вида баннеров. Если вы захотите использовать другие баннеры из гайда с материалами для коммуникации, понадобится помощь разработчика. [Гайд с материалами для коммуникации](https://acdn.tinkoff.ru/static/documents/tinkoff-credit-broker-integration-guidebook.pdf)
 Потребуется выполнить четыре шага:
+1. Если у вас самописный сайт, откройте файл с его HTML‑кодом в любом редакторе кода. Если ваш сайт сделан на Тильде, Вордпрессе, 1С-Bitrix, конструкторе сайтов Тинькофф или в любой другой CMS — откройте редактор кода вашей CMS.
+2. Вставьте код с файлом стилей из поля ниже в любое место между тегами  и :
 
-- Если у вас самописный сайт, откройте файл с его HTML‑кодом в любом редакторе кода. Если ваш сайт сделан на Тильде, Вордпрессе, 1С-Bitrix, конструкторе сайтов Тинькофф или в любой другой CMS — откройте редактор кода вашей CMS.- Вставьте код с файлом стилей из поля ниже в любое место между тегами <head> и </head>:
-
-<link rel="stylesheet" href="https://forma.tinkoff.ru/resources/static/banners/styles.css" />
-- Выберите нужный вид баннера и вставьте его код между тегами <body> и </body>. Расположение баннера на сайте будет зависеть от того, где вы разместили его код.
-
+3. Выберите нужный вид баннера и вставьте его код между тегами  и . Расположение баннера на сайте будет зависеть от того, где вы разместили его код.
 При выборе баннера обратите внимание на ширину блока, в который хотите его вставить. Она должна быть больше или равной ширине баннера, иначе баннер будет отображаться непропорционально.
 Код для вставки вертикального баннера 675 × 1200 px
-<div class="tcb-banner tcb-banner--sm" style="width: 675px">
-- <div class="tcb-banner__inner">
-- <div class="tcb-banner__content">
-- <img
-- class="tcb-banner__logo"- src="https://forma.tinkoff.ru/resources/static/images/tinkoff-brand.svg"- alt="Tinkoff logo"- />- <p class="tcb-banner__title">В рассрочку удобнее</p>- <p class="tcb-banner__subtitle">Оформите на сайте<br/>за 2 минуты</p>- <p class="tcb-banner__disclaimer">0+, АО «Тинькофф Банк», лицензия № 2673</p>- </div>- <img
-- class="tcb-banner__3d"- src="https://forma.tinkoff.ru/resources/static/banners/backgrounds/1.png"- alt="Tinkoff banner background"- />- <div class="tcb-banner__gradient"></div>- </div>
-</div>
+
+* 
+* 
+* 
+* В рассрочку удобнее
+* Оформите на сайтеза 2 минуты
+* 0+, АО «Тинькофф Банк», лицензия № 2673
+* 
+* 
+* 
+* 
 
 Этот HTML‑код добавит на ваш сайт такой баннер размером 675 × 1200 px:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMzE5MTlhZi4wMS5wbmc=)
 Код для вставки квадратного баннера 1200 × 1200 px
-<div class="tcb-banner tcb-banner--md" style="width: 1200px">
-- <div class="tcb-banner__inner">
-- <div class="tcb-banner__content">
-- <img
-- class="tcb-banner__logo"- src="https://forma.tinkoff.ru/resources/static/images/tinkoff-brand.svg"- alt="Tinkoff logo"- />- <p class="tcb-banner__title">В рассрочку удобнее</p>- <p class="tcb-banner__subtitle">Оформите на сайте<br/>за 2 минуты</p>- <p class="tcb-banner__disclaimer">0+, АО «Тинькофф Банк», лицензия № 2673</p>- </div>- <img
-- class="tcb-banner__3d"- src="https://forma.tinkoff.ru/resources/static/banners/backgrounds/1.png"- alt="Tinkoff banner background"- />- <div class="tcb-banner__gradient"></div>- </div>
-</div>
+
+* 
+* 
+* 
+* В рассрочку удобнее
+* Оформите на сайтеза 2 минуты
+* 0+, АО «Тинькофф Банк», лицензия № 2673
+* 
+* 
+* 
+* 
 
 Этот HTML‑код добавит на ваш сайт такой баннер размером 1200 × 1200 px:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNWY2NWRhYi4wMi5wbmc=)
 Код для вставки горизонтального баннера 1920 × 1080 px
-<div class="tcb-banner tcb-banner--lg" style="width: 1920px">
-- <div class="tcb-banner__inner">
-- <div class="tcb-banner__content">
-- <img
-- class="tcb-banner__logo"- src="https://forma.tinkoff.ru/resources/static/images/tinkoff-brand.svg"- alt="Tinkoff logo"- />- <p class="tcb-banner__title">В рассрочку удобнее</p>- <p class="tcb-banner__subtitle">Оформите на сайте<br/>за 2 минуты</p>- <p class="tcb-banner__disclaimer">0+, АО «Тинькофф Банк», лицензия № 2673</p>- </div>- <img
-- class="tcb-banner__3d"- src="https://forma.tinkoff.ru/resources/static/banners/backgrounds/1.png"- alt="Tinkoff banner background"- />- <div class="tcb-banner__gradient"></div>- </div>
-</div>
+
+* 
+* 
+* 
+* В рассрочку удобнее
+* Оформите на сайтеза 2 минуты
+* 0+, АО «Тинькофф Банк», лицензия № 2673
+* 
+* 
+* 
+* 
 
 Этот HTML‑код добавит на ваш сайт такой баннер размером 1920 × 1200 px:
-- Сохраните HTML‑файл и загрузите его на хостинг или нажмите «Сохранить» в админке вашей CMS.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MjY3NmIwOS4wMy5wbmc=)
+4. Сохраните HTML‑файл и загрузите его на хостинг или нажмите «Сохранить» в админке вашей CMS.
 Готово, вы разместили баннер на своем сайте. Если вас не устраивает текст или изображение на баннере, его можно изменить.

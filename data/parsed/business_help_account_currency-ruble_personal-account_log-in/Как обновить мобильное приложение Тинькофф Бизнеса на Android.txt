@@ -1,10 +1,12 @@
-Как обновить мобильное приложение Тинькофф Бизнеса на Android?
+## Как обновить мобильное приложение Тинькофф Бизнеса на Android?
 В официальных магазинах приложений:
-- Samsung Store (https://galaxystore.samsung.com/detail/ru.tinkoff.sme?session_id=W_24ddc1bbaaf507011688b2c1773df7e6) для Samsung;
-- AppGallery (https://appgallery.huawei.com/#/app/C101367289) для Huawei.
-
+* [Samsung Store](https://galaxystore.samsung.com/detail/ru.tinkoff.sme?session_id=W_24ddc1bbaaf507011688b2c1773df7e6) для Samsung;
+* [AppGallery](https://appgallery.huawei.com/#/app/C101367289) для Huawei.
 Включите автоматическое обновление приложений в настройках телефона, чтобы всегда работать в актуальной версии Тинькофф Бизнеса.
-Если вы устанавливали приложение Тинькофф Бизнеса из Google Play, RuStore или с нашего сайта, оно не будет обновляться автоматически. Вы можете скачать последнюю версию приложения на нашем сайте по инструкции (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/log-in/?card=q1) или обновить приложение в RuStore. (https://www.rustore.ru/)
-Как обновить приложение в RuStore- Скачайте приложение RuStore (https://www.rustore.ru/) и откройте его.- Найдите приложение Тинькофф Бизнеса и скачайте обновление.
-- Дайте разрешение на установку обновления, если телефон запрашивает его: «В настройки» → «Разрешить установку из этого источника». Передвиньте тумблер в положение «Включено».
-- Нажмите «Обновить». Готово! Вы обновили приложение Тинькофф Бизнеса. RuStore пришлет уведомление, когда нужно будет обновить приложение в следующий раз.
+Если вы устанавливали приложение Тинькофф Бизнеса из Google Play, RuStore или с нашего сайта, оно не будет обновляться автоматически. Вы можете скачать последнюю версию приложения на нашем сайте [по инструкции](/business/help/account/currency-ruble/personal-account/log-in/?card=q1) или обновить приложение [в RuStore.](https://www.rustore.ru/)
+Как обновить приложение в RuStore
+1. Скачайте приложение [RuStore](https://www.rustore.ru/) и откройте его.
+2. Найдите приложение Тинькофф Бизнеса и скачайте обновление. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ODY4YTIwOS4wMV9kZXNrdG9wLnBuZw==)
+3. Дайте разрешение на установку обновления, если телефон запрашивает его: «В настройки» → «Разрешить установку из этого источника». Передвиньте тумблер в положение «Включено». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83Mzc1NzM3Ny4wMl9kZXNrdG9wLnBuZw==)
+4. Нажмите «Обновить». Готово! Вы обновили приложение Тинькофф Бизнеса. RuStore пришлет уведомление, когда нужно будет обновить приложение в следующий раз.
+Не устанавливайте приложение Тинькофф Бизнеса из других источников — это может быть опасно. Все надежные источники для скачивания указали здесь и [на специальной странице.](/apps/?show_app=business)

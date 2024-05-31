@@ -1,5 +1,4 @@
-Как удалить комментарий о звонке?
-
+## Как удалить комментарий о звонке?
 В результатах поиска:
-
-- Выберите нужный звонок и в его карточке нажмите значок стрелки вправо. Откроется плашка с ранее введенным комментарием. Как найти нужные звонки (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q4)- Чтобы удалить комментарий, нажмите на значок корзины. Готово.
+1. Выберите нужный звонок и в его карточке нажмите значок стрелки вправо. Откроется плашка с ранее введенным комментарием. [Как найти нужные звонки](/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q4)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMGJlZDg3Ni4zMF9yYV96dm9ua2kucG5n)
+2. Чтобы удалить комментарий, нажмите на значок корзины. Готово. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lNzdhNTFmNS4zMl9yYV96dm9ua2kucG5n)

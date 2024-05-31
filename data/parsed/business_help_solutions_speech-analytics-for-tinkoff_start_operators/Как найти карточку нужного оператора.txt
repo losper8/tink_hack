@@ -1,6 +1,5 @@
-Как найти карточку нужного оператора?
-
+## Как найти карточку нужного оператора?
 Следуйте инструкции:
-
-- В TQM перейдите в «Поиск» → «Коммуникации» → «Операторы». (https://tqm.tinkoff.ru/filter/communications/operators)- В поисковой строке начните набирать имя или логин оператора.
-- Выберите нужного сотрудника из списка — нажмите на его имя. Готово.
+1. [В TQM перейдите в «Поиск» → «Коммуникации» → «Операторы».](https://tqm.tinkoff.ru/filter/communications/operators)
+2. В поисковой строке начните набирать имя или логин оператора. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNGQxMGViNy4wMl9kZXNrdG9wLnBuZw==)
+3. Выберите нужного сотрудника из списка — нажмите на его имя. Готово.

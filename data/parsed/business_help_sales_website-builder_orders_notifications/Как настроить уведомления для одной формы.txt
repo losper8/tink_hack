@@ -1,15 +1,10 @@
-Как настроить уведомления для одной формы?
-
+## Как настроить уведомления для одной формы?
 Сначала настройте уведомления в Телеграме или на эл. почту.
-
-Как настроить уведомления в Телеграме (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=telegram-notifications)
-Как настроить уведомления на эл. почту (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=email-notifications)
-
+[Как настроить уведомления в Телеграме](/business/help/sales/website-builder/orders/notifications/?card=telegram-notifications)
+[Как настроить уведомления на эл. почту](/business/help/sales/website-builder/orders/notifications/?card=email-notifications)
 Теперь можете настроить уведомления для одной формы:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites) выберите нужный сайт, а затем страницу, на которой разместили форму. Нажмите на кнопку в форме.- Нажмите на поле справа внизу и выберите, куда хотите получать уведомления.
-- Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites) выберите нужный сайт, а затем страницу, на которой разместили форму. Нажмите на кнопку в форме.
+2. Нажмите на поле справа внизу и выберите, куда хотите получать уведомления. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ZGFhYTFjNC5kZXNrdG9wXzIxLnBuZw==)
+3. Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
 Готово! Когда покупатель оформит заказ на сайте через эту форму, вы получите уведомление в Телеграме или на эл. почту.
-
-
-Если хотите подключить уведомления сразу ко всем формам на сайте, следуйте этой инструкции. (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=check)
+Если хотите подключить уведомления сразу ко всем формам на сайте, следуйте [этой инструкции.](/business/help/sales/website-builder/orders/notifications/?card=check)

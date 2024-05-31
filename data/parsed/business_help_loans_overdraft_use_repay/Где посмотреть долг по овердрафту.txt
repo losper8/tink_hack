@@ -1,8 +1,5 @@
-Где посмотреть долг по овердрафту?
-
+## Где посмотреть долг по овердрафту?
 Вы можете посмотреть его в карточке счета в личном кабинете или мобильном приложении Тинькофф Бизнеса:
-
-В мобильном приложении выберите «Рублевый счет» → «Другое». Долг отображается на обоих экранахДолг по овердрафту в личном кабинете отображается при нажатии на иконку со знаком вопроса
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMDQ5NWIwMi4zOTg4YWY0ZV9lMGNjXzQ3ZTJfODQ4Yl83MGM5OTE0NDk4YzcucG5n)В мобильном приложении выберите «Рублевый счет» → «Другое». Долг отображается на обоих экранах![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lNGM3MjBkOS44NzE0NzBiOV82NWIwXzQ4MDdfYTM3NV8yODRhMDgwYzMyYmIucG5n)Долг по овердрафту в личном кабинете отображается при нажатии на иконку со знаком вопроса
 Если вам нужно внести плату за овердрафт или другие услуги банка, нужная сумма отобразится под расчетным счетом:
-
-В строке «Требования к счету» в мобильном приложении вы увидите суммарный долг за услуги банка, в том числе ежедневную и еженедельную плату по овердрафтуВ личном кабинете под счетом отображается долг по овердрафту с учетом всех задолженностей — например, платы за овердрафт, СМС и другие услуги банка
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ZTkzZGI0OC45MmNjY2QwOV9iNGYwXzRlNWVfYTZmNF8xOTE5NDBlMTgyYWIucG5n)В строке «Требования к счету» в мобильном приложении вы увидите суммарный долг за услуги банка, в том числе ежедневную и еженедельную плату по овердрафту![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZDkzNWI4YS45MTI3MThiYl9kODE5XzQ5NzZfOTQ1M18yM2MwOGM1Mjg0MTkucG5n)В личном кабинете под счетом отображается долг по овердрафту с учетом всех задолженностей — например, платы за овердрафт, СМС и другие услуги банка

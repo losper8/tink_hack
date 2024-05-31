@@ -1,11 +1,6 @@
-Зачем нужны ручные оценки в речевой аналитике?
-
+## Зачем нужны ручные оценки в речевой аналитике?
 Ручные оценки в речевой аналитике помогают повышать качество работы операторов с коммуникациями. С помощью оценок руководитель понимает, какие операторы справляются с работой лучше, а какие — хуже.
-
-
 В речевой аналитике можно оценить конкретную коммуникацию — звонок или чат — и работу оператора в целом.
-
-Как оценить звонок или чат (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q3)
-Как оценить работу оператора (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q4)
-
-Ручную оценку выставляет сотрудник по критериям существующей оценочной формы. Оценка рассчитывается в баллах. Оценочную форму можно настроить так, чтобы начислять или снимать баллы за работу операторам. Про оценочные формы (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/create-forms/)
+[Как оценить звонок или чат](/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q3)
+[Как оценить работу оператора](/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q4)
+Ручную оценку выставляет сотрудник по критериям существующей оценочной формы. Оценка рассчитывается в баллах. Оценочную форму можно настроить так, чтобы начислять или снимать баллы за работу операторам. [Про оценочные формы](/business/help/solutions/speech-analytics-for-tinkoff/setup/create-forms/)

@@ -1,5 +1,3 @@
-Где посмотреть все теги?
-
+## Где посмотреть все теги?
 Перейдите на вкладку «Поиск» → «Коммуникации» → «Теги»
-
-В списке тегов указана общая информация: название, тип тега, доступ — для вашей компании, описание
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lZWQ3NWFkZS4wMl9yYV9vdHNlbmthXzR4LnBuZw==)В списке тегов указана общая информация: название, тип тега, доступ — для вашей компании, описание

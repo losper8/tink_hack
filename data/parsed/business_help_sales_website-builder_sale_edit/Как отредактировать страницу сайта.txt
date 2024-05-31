@@ -1,26 +1,21 @@
-Как отредактировать страницу сайта?
-
-После того как создали страницу из готовых блоков, можете отредактировать элементы внутри нее. Как создать новую страницу (https://www.tinkoff.ru/business/help/sales/website-builder/sale/page/?card=create-page)
-
+## Как отредактировать страницу сайта?
+После того как создали страницу из готовых блоков, можете отредактировать элементы внутри нее. [Как создать новую страницу](/business/help/sales/website-builder/sale/page/?card=create-page)
 Что можно делать с элементами:
-
-- добавить изображение (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=images);
-- отредактировать изображение (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=edit-images);
-- сделать так, что клиенты могли увеличивать изображение по клику (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=popup-gallery);
-- изменить фон блока (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=background);
-- изменить вид текста (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=text);
-- добавить к тексту ссылку (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=text-link);
-- настроить кнопку (https://www.tinkoff.ru/business/help/sales/website-builder/sale/navigation/?card=button-link);
-- добавить видео с YouTube и Vimeo (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=add-video);
-- разместить файл для скачивания (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=upload);
-- изменить логотип (https://www.tinkoff.ru/business/help/sales/website-builder/sale/navigation/?card=logo);
-- добавить контакты и карту. (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=add-contact)
-
-
-Еще вы можете добавить на страницу сторонний виджет: чат, форму обратного звонка, калькулятор, счетчик аналитики, онлайн‑тест, форму подписки или ссылки на соцсети. Как это сделать (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=custom-code)
-
+* [добавить изображение](/business/help/sales/website-builder/sale/edit/?card=images);
+* [отредактировать изображение](/business/help/sales/website-builder/sale/edit/?card=edit-images);
+* [сделать так, что клиенты могли увеличивать изображение по клику](/business/help/sales/website-builder/sale/edit/?card=popup-gallery);
+* [изменить фон блока](/business/help/sales/website-builder/sale/edit/?card=background);
+* [изменить вид текста](/business/help/sales/website-builder/sale/edit/?card=text);
+* [добавить к тексту ссылку](/business/help/sales/website-builder/sale/edit/?card=text-link);
+* [настроить кнопку](/business/help/sales/website-builder/sale/navigation/?card=button-link);
+* [добавить видео с YouTube и Vimeo](/business/help/sales/website-builder/sale/edit/?card=add-video);
+* [разместить файл для скачивания](/business/help/sales/website-builder/sale/edit/?card=upload);
+* [изменить логотип](/business/help/sales/website-builder/sale/navigation/?card=logo);
+* [добавить контакты и карту.](/business/help/sales/website-builder/sale/edit/?card=add-contact)
+Еще вы можете добавить на страницу сторонний виджет: чат, форму обратного звонка, калькулятор, счетчик аналитики, онлайн‑тест, форму подписки или ссылки на соцсети. [Как это сделать](/business/help/sales/website-builder/sale/edit/?card=custom-code)
 Чтобы перейти в редактор страниц интернет-магазина или сайта визитки, следуйте инструкции:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites) выберите нужный сайт, а затем страницу, которую хотите изменить.- Откроется редактор страниц. В режиме редактирования вы можете отключать или включать элементы, менять, дублировать или удалять блоки. Чтобы добавить новый блок, нажмите на значок плюса. Из каких блоков можно собрать сайт (https://www.tinkoff.ru/business/help/sales/website-builder/sale/page/?card=blocks)- Нажмите на элемент, который хотите изменить, — внизу откроется панель редактирования. Отредактируйте элемент.
-Вы можете менять шрифт и фон, выравнивать текст, добавлять в него ссылки- Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites) выберите нужный сайт, а затем страницу, которую хотите изменить.
+2. Откроется редактор страниц. В режиме редактирования вы можете отключать или включать элементы, менять, дублировать или удалять блоки. Чтобы добавить новый блок, нажмите на значок плюса. [Из каких блоков можно собрать сайт](/business/help/sales/website-builder/sale/page/?card=blocks)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wZGZjYjExYi5kZXNrdG9wXzM2LnBuZw==)
+3. Нажмите на элемент, который хотите изменить, — внизу откроется панель редактирования. Отредактируйте элемент. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zZDQzMGY2Ni5kZXNrdG9wXzM3LnBuZw==)Вы можете менять шрифт и фон, выравнивать текст, добавлять в него ссылки
+4. Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
 Готово, страница сразу обновится.

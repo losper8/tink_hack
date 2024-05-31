@@ -1,8 +1,6 @@
-Как отредактировать название элемента в оргструктуре?
-
+## Как отредактировать название элемента в оргструктуре?
 Чтобы отредактировать название орг. элемента:
-
-- Перейдите на вкладку «Администрирование» → «Настройки» → «Оргструктура».
-- Найдите элемент, который хотите переименовать. Нажмите на значок карандаша справа от него.
-- В поле «Название» введите новое название для выбранного элемента длиной не более 100 символов. Можно использовать английские и русские буквы.
-- Нажмите «Сохранить». После этого в общей оргструктуре компании элемент будет отображаться с новым названием. Переименовать элемент можно в любой момент.
+1. Перейдите на вкладку «Администрирование» → «Настройки» → «Оргструктура». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMTZmOGQ2Yy4xN19yYV9vcmdzdHJ1a3R1cmFfNHgucG5n)
+2. Найдите элемент, который хотите переименовать. Нажмите на значок карандаша справа от него. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wNjdkNTI3Mi4xOF9yYV9vcmdzdHJ1a3R1cmFfNHgucG5n)
+3. В поле «Название» введите новое название для выбранного элемента длиной не более 100 символов. Можно использовать английские и русские буквы. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yYTBhMWIyOC4xOV9yYV9vcmdzdHJ1a3R1cmFfNHgucG5n)
+4. Нажмите «Сохранить». После этого в общей оргструктуре компании элемент будет отображаться с новым названием. Переименовать элемент можно в любой момент. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MjRlNjRlMi4yMF9yYV9vcmdzdHJ1a3R1cmFfNHgucG5n)

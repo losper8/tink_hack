@@ -1,7 +1,6 @@
-Как оставить комментарий к звонку?
-
+## Как оставить комментарий к звонку?
 В результатах поиска:
-
-- Выберите нужный звонок и в его карточке нажмите значок стрелки вправо. Как найти нужные звонки (https://www.tinkoff.ru/business/help/solutions/speech-analytics/search/calls/?card=q4)- В открывшемся окне введите свой комментарий и нажмите «Отправить».
-
+1. Выберите нужный звонок и в его карточке нажмите значок стрелки вправо. [Как найти нужные звонки](/business/help/solutions/speech-analytics/search/calls/?card=q4)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lNmExY2QwNC4yN19yYV96dm9ua2kucG5n)
+2. В открывшемся окне введите свой комментарий и нажмите «Отправить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNjdkZTUzMS4yOF9yYV96dm9ua2kucG5n)
 Для одного звонка можно оставить неограниченное количество комментариев. Звонки, у которых уже есть комментарии, будут отмечены желтым индикатором.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hN2VhNTQ4ZS4zMV9yYV96dm9ua2kucG5n)

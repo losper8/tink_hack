@@ -1,7 +1,9 @@
-Что, если покупателю не подошли условия?
+## Что, если покупателю не подошли условия?
 Что делать, если условия банков не подходят клиенту:
-- Нажмите на кнопку «Отменить» на странице предложения банка.
-- Выберите причину отказа: «Не актуально для клиента» и уточните почему. Готово!
- После отмены текущего предложения к нему уже нельзя будет вернуться.
+1. Нажмите на кнопку «Отменить» на странице предложения банка. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMzVjYTE2Ny4wMV9wb3NfcHJvYmxlbXlfZGVzazJ4XzFiMzc3YzA4OGU1YzdkYmVjZWEyMDAwODRhMjliMWZjLnBuZw==)
+2. Выберите причину отказа: «Не актуально для клиента» и уточните почему. Готово! ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82OWMzZjYzMy4wMl9wb3NfcHJvYmxlbXlfZGVzazJ4XzQxYjVjMmMzYzVkZDg0OWE4ODdlMjJlMDA4YWFmODA0LnBuZw==)
+После отмены текущего предложения к нему уже нельзя будет вернуться.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yMDVjMjhhNi4wM19wb3NfcHJvYmxlbXlfZGVzazJ4Xzk3NzY4ZjY0NjFhNTc0NDBkYmU4YzBiNTA1NTc1ZDI3LnBuZw==)
 Если заявку одобрили несколько банков и покупателю не подошли условия одного из них, предложите рассмотреть другой вариант, прежде чем отменять заявку. Для этого нажмите «Другое предложение».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80MjM5MmI3NS4wNF9wb3NfcHJvYmxlbXlfZGVzazJ4XzM3MDdlZmYxZTQyNDJjYWQzOWI2YmUxMTZmNGM0N2E5LnBuZw==)
 Если покупатель отказался от всех предложений, но все‑таки хочет воспользоваться рассрочкой или кредитом, нужно будет оформить новую заявку. Условия, которые предложат банки по новой заявке, могут отличаться от условий предыдущей.

@@ -1,18 +1,25 @@
-Зачем нужны закрывающие документы и какие они бывают?
-
+## Зачем нужны закрывающие документы и какие они бывают?
 Закрывающие документы обязательны для всех и доказывают, что сделка завершена. Их нужно хранить на бумаге минимум 5 лет и всегда держать под рукой. Они нужны для бухгалтерской и налоговой отчетности и в спорных ситуациях, если захотите подать в суд на недобросовестных контрагентов.
-
-
 Список закрывающих документов зависит от вида сделки:
-
-- Товарная накладная по форме ТОРГ-12 или форме продавца. Как сделать товарную накладную (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/closing-documents/?card=q2)
-- Счет‑фактура, если продавец платит НДС. Как сделать счет‑фактуру (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/closing-documents/?card=q1)
-- Акт выполненных работ. Как сделать акт (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/closing-documents/?card=q3)
-- Счет‑фактура, если продавец платит НДС. Как сделать счет‑фактуру (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/closing-documents/?card=q1)
-- Акт об оказании услуг. Как сделать акт (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/closing-documents/?card=q3)
-- Счет‑фактура, если продавец платит НДС. Как сделать счет‑фактуру (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/closing-documents/?card=q1)
-
-
+Поставка товаров
+Нужны два документа:
+1. Товарная накладная по форме ТОРГ-12 или форме продавца. [Как сделать товарную накладную](/business/help/account/currency-ruble/counterparties/closing-documents/?card=q2)
+2. Счет‑фактура, если продавец платит НДС. [Как сделать счет‑фактуру](/business/help/account/currency-ruble/counterparties/closing-documents/?card=q1)
+Или только УПД — он заменяет накладную и счет‑фактуру.
+Выполнение работ
+Нужны два документа:
+1. Акт выполненных работ. [Как сделать акт](/business/help/account/currency-ruble/counterparties/closing-documents/?card=q3)
+2. Счет‑фактура, если продавец платит НДС. [Как сделать счет‑фактуру](/business/help/account/currency-ruble/counterparties/closing-documents/?card=q1)
+Или только УПД — он заменяет акт и счет‑фактуру.
+Оказание услуг
+Нужны два документа:
+1. Акт об оказании услуг. [Как сделать акт](/business/help/account/currency-ruble/counterparties/closing-documents/?card=q3)
+2. Счет‑фактура, если продавец платит НДС. [Как сделать счет‑фактуру](/business/help/account/currency-ruble/counterparties/closing-documents/?card=q1)
+Или только УПД — он заменяет акт и счет‑фактуру.
 Посмотрите видео о закрывающих документах и научитесь создавать их через Тинькофф:
-
-Тайм-коды- 00:15 Что такое закрывающие документы (https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=15)- 00:49 Кому и когда нужны закрывающие документы (https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=49)- 01:56 Какие бывают закрывающие документы (https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=116)- 03:11 Как создать закрывающие документы (https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=191)- 04:39 Как создать закрывающие документы через Тинькофф (https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=279)
+Тайм-коды
+1. [00:15 Что такое закрывающие документы](https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=15)
+2. [00:49 Кому и когда нужны закрывающие документы](https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=49)
+3. [01:56 Какие бывают закрывающие документы](https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=116)
+4. [03:11 Как создать закрывающие документы](https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=191)
+5. [04:39 Как создать закрывающие документы через Тинькофф](https://youtu.be/dZtOGzCDYOU?si=UWYvrbhP0YAEnQOt&t=279)

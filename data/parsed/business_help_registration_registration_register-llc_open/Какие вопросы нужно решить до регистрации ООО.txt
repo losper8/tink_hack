@@ -1,9 +1,9 @@
-Какие вопросы нужно решить до регистрации ООО?
+## Какие вопросы нужно решить до регистрации ООО?
 Прежде чем открыть ООО, решите сами или обсудите с другими учредителями следующие вопросы:
-- придумайте название фирмы; (https://www.tinkoff.ru/business/help/registration/registration/register-llc/open/?card=q4)
-- определите уставный капитал (https://www.tinkoff.ru/business/help/registration/registration/register-llc/open/?card=q7) и долю каждого учредителя;
-- выберите генерального директора;
-- оцените имущество, если часть уставного капитала вносят не деньгами;
-- выберите юридический адрес; (https://www.tinkoff.ru/business/help/registration/registration/register-llc/open/?card=q5)
-- подберите коды ОКВЭД; (https://www.tinkoff.ru/business/help/registration/registration/register-llc/open/?card=q6)
-- выберите систему налогообложения. (https://www.tinkoff.ru/business/help/registration/registration/register-llc/tax-system/?card=q1)
+* придумайте [название фирмы;](/business/help/registration/registration/register-llc/open/?card=q4)
+* определите [уставный капитал](/business/help/registration/registration/register-llc/open/?card=q7) и долю каждого учредителя;
+* выберите генерального директора;
+* оцените имущество, если часть уставного капитала вносят не деньгами;
+* выберите [юридический адрес;](/business/help/registration/registration/register-llc/open/?card=q5)
+* подберите [коды ОКВЭД;](/business/help/registration/registration/register-llc/open/?card=q6)
+* выберите [систему налогообложения.](/business/help/registration/registration/register-llc/tax-system/?card=q1)

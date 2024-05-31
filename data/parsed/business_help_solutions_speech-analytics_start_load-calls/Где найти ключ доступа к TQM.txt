@@ -1,9 +1,6 @@
-Где найти ключ доступа к TQM?
-
-Ключ доступа TQM формируется при регистрации в личном кабинете администратора речевой аналитики. Как зарегистрироваться в личном кабинете (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/activate/?card=q2)
-
+## Где найти ключ доступа к TQM?
+Ключ доступа TQM формируется при регистрации в личном кабинете администратора речевой аналитики. [Как зарегистрироваться в личном кабинете](/business/help/solutions/speech-analytics/start/activate/?card=q2)
 Ключ нужен администратору для работы с API. Например, чтобы по API добавить на платформу новых пользователей или загрузить звонки.
-
 Чтобы найти ключ доступа:
-- Войдите в личный кабинет администратора. Как это сделать (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/activate/?card=q3)- Перейдите на вкладку «TQM» → «Личный кабинет». В блоке «API‑ключи» отобразится ваш индивидуальный ключ доступа.
-Чтобы скопировать ключ доступа для работы с API, справа нажмите на значок «Копировать» — он выглядит как два квадрата
+1. Войдите в личный кабинет администратора. [Как это сделать](/business/help/solutions/speech-analytics/start/activate/?card=q3)
+2. Перейдите на вкладку «TQM» → «Личный кабинет». В блоке «API‑ключи» отобразится ваш индивидуальный ключ доступа. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NDBlNjAyOS5nZGVfbmFpdGlfa2xpdWNoX2Rvc3R1cGFfa190cW0ucG5n)Чтобы скопировать ключ доступа для работы с API, справа нажмите на значок «Копировать» — он выглядит как два квадрата

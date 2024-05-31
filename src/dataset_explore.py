@@ -20,8 +20,6 @@ async def main():
 
     parent_urls = df['parent_url'].unique()
     urls = df['url']
-    # https://www.tinkoff.ru/business/help/business-payments/acquiring/terminal/use/?card=q8
-    # remove all query parameters
     urls = [url.split('?')[0] for url in urls]
     urls = set(urls)
     parent_urls = [url for url in parent_urls if url] + list(urls)

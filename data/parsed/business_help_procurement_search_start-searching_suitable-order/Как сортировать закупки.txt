@@ -1,4 +1,3 @@
-Как сортировать закупки?
+## Как сортировать закупки?
 Результаты в Поисковике закупок можно сортировать. Для этого выберите нужный параметр в правом верхнем углу над поисковой выдачей.
-
-Можно выбрать только один параметр, чтобы отсортировать выдачу
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YTJlMDIyZS5kZXNrdG9wXzAxLnBuZw==)Можно выбрать только один параметр, чтобы отсортировать выдачу

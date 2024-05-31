@@ -1,4 +1,4 @@
-Зачем нужен чат на сайте?
+## Зачем нужен чат на сайте?
 Чат помогает быстро отвечать на вопросы и снимать возражения. Это хорошо влияет на конверсию, продажи, качество обслуживания и лояльность клиентов.
-Чтобы иконка чата появилась на сайте, чат нужно установить и включить. Вот как это сделать (https://www.tinkoff.ru/business/help/sales/chat/about/start/?card=sites-chat)
-Если чат включен, его иконка появится в нижнем правом углу на каждой странице сайта
+Чтобы иконка чата появилась на сайте, чат нужно установить и включить. [Вот как это сделать](/business/help/sales/chat/about/start/?card=sites-chat)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81YWY4ZGYxZC56YWNoZW1fY2hhdF8xXzR4LnBuZw==)Если чат включен, его иконка появится в нижнем правом углу на каждой странице сайта

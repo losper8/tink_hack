@@ -1,8 +1,4 @@
-Как оставить комментарий к чату?
-
+## Как оставить комментарий к чату?
 В результатах поиска:
-
-- Выберите нужный чат и в его карточке нажмите значок стрелки вправо. Как найти нужные чаты (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q4)- В открывшемся окне введите комментарий и нажмите «Отправить». К одному чату можно оставлять любое количество комментариев. Если в чате участвовало несколько операторов, один и тот же чат можно прокомментировать отдельно по каждому оператору.
-
-Чаты, у которых уже есть комментарии, будут отмечены желтым индикатором.
-Комментарий можно изменить или удалить
+1. Выберите нужный чат и в его карточке нажмите значок стрелки вправо. [Как найти нужные чаты](/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q4)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hY2Q0ZTNjOS4yMF9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)
+2. В открывшемся окне введите комментарий и нажмите «Отправить». К одному чату можно оставлять любое количество комментариев. Если в чате участвовало несколько операторов, один и тот же чат можно прокомментировать отдельно по каждому оператору. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMTQ2YWNlMy4yMV9yYV9jaGF0eV9kZXNrXzR4LnBuZw==) Чаты, у которых уже есть комментарии, будут отмечены желтым индикатором. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NjM5M2JiNi4yMl9yYV9jaGF0eV9kZXNrXzR4XzEucG5n)Комментарий можно изменить или удалить

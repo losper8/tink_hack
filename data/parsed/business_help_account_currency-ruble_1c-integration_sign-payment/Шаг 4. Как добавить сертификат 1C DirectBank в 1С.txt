@@ -1,13 +1,9 @@
-Шаг 4. Как добавить сертификат 1C DirectBank в 1С?
-
+## Шаг 4. Как добавить сертификат 1C DirectBank в 1С?
 Рассказываем, как добавить сертификат в 1С на примере «1С:Бухгалтерия 8», редакция 3.0. В других версиях названия и содержание разделов могут различаться, но процедура настройки не поменяется.
-
-
 В интерфейсе 1С:
-
-- В главном меню откройте «Обмен электронными документами» → «Настройки обмена с банками».
-- Выберите Tinkoff Bank → «Получить настройки».
-- В главном меню выберите «Обмен электронными документами» → «Настройки электронной подписи и шифрования».
-- Дважды кликните по добавленному сертификату Тинькофф и нажмите «Проверить».
-- Еще раз нажмите «Проверить» в открывшемся окне. Если все пункты зеленого цвета, нажмите «Закрыть» → «Записать и закрыть». Если есть пункты красного цвета, ошибка возникла на стороне 1С — обратитесь в их службу поддержки. (https://1c.ru/rus/support/hline.htm)
+1. В главном меню откройте «Обмен электронными документами» → «Настройки обмена с банками». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZjM2ZjY1Yy4xMl9kZXNrdG9wLnBuZw==)
+2. Выберите Tinkoff Bank → «Получить настройки». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yZjM2NWMyYy4xM19kZXNrdG9wLnBuZw==)
+3. В главном меню выберите «Обмен электронными документами» → «Настройки электронной подписи и шифрования». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83Nzc2ZDczYi4xOV9kZXNrdG9wLnBuZw==)
+4. Дважды кликните по добавленному сертификату Тинькофф и нажмите «Проверить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YzAyYzZiOS4xMF9kZXNrdG9wLnBuZw==)
+5. Еще раз нажмите «Проверить» в открывшемся окне. Если все пункты зеленого цвета, нажмите «Закрыть» → «Записать и закрыть». Если есть пункты красного цвета, ошибка возникла на стороне 1С — обратитесь [в их службу поддержки.](https://1c.ru/rus/support/hline.htm)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yMTQyMDlmZC4xMV9kZXNrdG9wLnBuZw==)
 Готово! Вы добавили сертификат Тинькофф в 1С и связали его с учетной записью Тинькофф Бизнеса. Теперь вы можете подписывать платежки в 1С по инструкции ниже.

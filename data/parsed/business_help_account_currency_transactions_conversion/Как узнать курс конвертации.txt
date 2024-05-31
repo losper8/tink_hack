@@ -1,18 +1,11 @@
-Как узнать курс конвертации?
-
+## Как узнать курс конвертации?
 Узнать курс конвертации можно для всех валют, даже если вы не открывали в них счет. Посмотрите курс в личном кабинете или приложении Тинькофф Бизнеса.
-
-- Перейдите в «Платежи» → «Обмен валют». (https://business.tinkoff.ru/sme/conversion-payment/currency-exchange)
-- В полях «Продать» и «Купить» выберите валюты для обмена. В разделе «Курс» появится текущий курс конвертации.
-
-- Перейдите на вкладку «Главная», выберите нужный валютный счет и нажмите «Пополнить».
-
-- Нажмите «Со счета в Бизнесе».
-
-- Выберите счет, с которого хотите конвертировать валюту, и нажмите на поле «Сумма».
-
-- Под окнами конвертации увидите текущий курс конвертации.
-Курс на иллюстрации может отличаться от того, который будет у вас
-
-
-Курс конвертации подбирается индивидуально для каждого клиента. Почему курс конвертации банка отличается от биржевого и курса Банка России (https://www.tinkoff.ru/business/help/account/currency/transactions/exchange/?card=rate)
+В личном кабинете Тинькофф Бизнеса
+1. [Перейдите в «Платежи» → «Обмен валют».](https://business.tinkoff.ru/sme/conversion-payment/currency-exchange)
+2. В полях «Продать» и «Купить» выберите валюты для обмена. В разделе «Курс» появится текущий курс конвертации. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZDU4YzQ4Ny5kZXNrdG9wXzAxXzIucG5n)
+В приложении Тинькофф Бизнеса
+1. Перейдите на вкладку «Главная», выберите нужный валютный счет и нажмите «Пополнить».
+2. Нажмите «Со счета в Бизнесе». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZmM1NDhhZS4wM191em5hdF9rdXJzX2Rlc2sucG5n)
+3. Выберите счет, с которого хотите конвертировать валюту, и нажмите на поле «Сумма».
+4. Под окнами конвертации увидите текущий курс конвертации. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYzE5NWZiZS4wNF91em5hdF9rdXJzX2Rlc2sucG5n)Курс на иллюстрации может отличаться от того, который будет у вас
+Курс конвертации подбирается индивидуально для каждого клиента. [Почему курс конвертации банка отличается от биржевого и курса Банка России](/business/help/account/currency/transactions/exchange/?card=rate)

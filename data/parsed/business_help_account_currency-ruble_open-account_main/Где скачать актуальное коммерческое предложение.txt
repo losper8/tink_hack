@@ -1,6 +1,6 @@
-Где скачать актуальное коммерческое предложение?
-
+## Где скачать актуальное коммерческое предложение?
 Прямо здесь.
-
-- PDFрасчетный счет для ИП; (https://acdn.tinkoff.ru/static/documents/tinkoff-kp-raschetnyy-schet-dlya-ip.pdf?internal_source=help)
-- PDFрасчетный счет для ООО. (https://acdn.tinkoff.ru/static/documents/tinkoff-kp-raschetnyy-schet-dlya-yurlits.pdf?internal_source=help)
+* PDF
+[расчетный счет для ИП;](https://acdn.tinkoff.ru/static/documents/tinkoff-kp-raschetnyy-schet-dlya-ip.pdf?internal_source=help)
+* PDF
+[расчетный счет для ООО.](https://acdn.tinkoff.ru/static/documents/tinkoff-kp-raschetnyy-schet-dlya-yurlits.pdf?internal_source=help)

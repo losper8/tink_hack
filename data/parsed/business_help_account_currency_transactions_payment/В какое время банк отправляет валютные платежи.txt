@@ -1,46 +1,76 @@
-В какое время банк отправляет валютные платежи?
-
+## В какое время банк отправляет валютные платежи?
 По всему миру операции в валюте проводятся лишь в определенные отрезки дня — валютное окно. Отправлять платежи можно, только когда оно открыто. У каждой валюты — свой отрезок времени:
-
-Евро 10:00 —16:30 Только в Сбер и Росбанк (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)
-Доллары США 10:00 — 20:30 Россия (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)Кыргызстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)Таджикистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
-Юани на следующий день, 10:00 — 20:30 Беларусь (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=belarus)Китай (https://www.tinkoff.ru/business/help/account/currency/countries/various-countries/?card=china)Кыргызстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)Россия (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)Таджикистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
-Азербайджанские манаты 10:00 — 13:00 Только в Азербайджан, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=azerbaijan)
-Армянские драмы 10:00 — 14:00 Только в Армению, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=armenia)
-Белорусские рубли 10:00 — 16:00 Только в Беларусь, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=belarus)
-Бразильские реалы 10:00 — 17:00 Только в Бразилию, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/south-america/?card=brazil)
-Казахстанские тенге 10:00 — 13:00 Только в Казахстан, без ограничений в один банк (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kazakhstan)
-Киргизские сомы 10:00 — 12:00 Только в Кыргызстан, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)
-Таджикские сомони 10:00 — 14:00 Только в Таджикистан, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
-Индийские рупии 10:00—10:30 Только в Индию, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/asia/?card=india)
-
-Евро	В какое время по Москве переводим10:00 — 16:30	В какие страны и банки переводимТолько в Сбер и Росбанк (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)
-Доллары США	В какое время по Москве переводим10:00 — 20:30	В какие страны и банки переводимРоссия (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)Кыргызстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)Таджикистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
-Юани	В какое время по Москве переводимна следующий день, 10:00 — 20:30	В какие страны и банки переводимБеларусь (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=belarus)Китай (https://www.tinkoff.ru/business/help/account/currency/countries/various-countries/?card=china)Кыргызстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)Россия (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)Таджикистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
-Азербайджанские манаты	В какое время по Москве переводимна следующий день, 10:00 — 13:00	В какие страны и банки переводимТолько в Азербайджан, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=azerbaijan)
-Армянские драмы	В какое время по Москве переводим10:00 — 14:00	В какие страны и банки переводимТолько в Армению, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=armenia)
-Белорусские рубли	В какое время по Москве переводим10:00 — 16:00	В какие страны и банки переводимТолько в Беларусь, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=belarus)
-Бразильские реалы	В какое время по Москве переводим10:00 — 17:00	В какие страны и банки переводимТолько в Бразилию, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/south-america/?card=brazil)
-Казахстанские тенге	В какое время по Москве переводим10:00 — 13:00	В какие страны и банки переводимТолько в Казахстан, без ограничений  (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kazakhstan)
-Киргизские сомы	В какое время по Москве переводим10:00 — 12:00	В какие страны и банки переводимТолько в Кыргызстан, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)
-Таджикские сомони	В какое время по Москве переводим10:00 — 14:00	В какие страны и банки переводимТолько в Таджикистан, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
-Индийские рупии	В какое время по Москве переводим10:00 — 10:30	В какие страны и банки переводимТолько в Индию, без ограничений (https://www.tinkoff.ru/business/help/account/currency/countries/asia/?card=india)
-
+Евро
+В какое время по Москве переводим
+10:00 — 16:30
+В какие страны и банки переводим
+[Только в Сбер и Росбанк](/business/help/account/currency/transactions/rub/?card=non-residents)
+Доллары США
+В какое время по Москве переводим
+10:00 — 20:30
+В какие страны и банки переводим
+[Россия](/business/help/account/currency/transactions/rub/?card=non-residents)
+[Кыргызстан](/business/help/account/currency/countries/cis/?card=kyrgyzstan)
+[Таджикистан](/business/help/account/currency/countries/cis/?card=tajikistan)
+Юани
+В какое время по Москве переводим
+на следующий день, 10:00 — 20:30
+В какие страны и банки переводим
+[Беларусь](/business/help/account/currency/countries/cis/?card=belarus)
+[Китай](/business/help/account/currency/countries/various-countries/?card=china)
+[Кыргызстан](/business/help/account/currency/countries/cis/?card=kyrgyzstan)
+[Россия](/business/help/account/currency/transactions/rub/?card=non-residents)
+[Таджикистан](/business/help/account/currency/countries/cis/?card=tajikistan)
+Азербайджанские манаты
+В какое время по Москве переводим
+на следующий день, 10:00 — 13:00
+В какие страны и банки переводим
+[Только в Азербайджан, без ограничений](/business/help/account/currency/countries/cis/?card=azerbaijan)
+Армянские драмы
+В какое время по Москве переводим
+10:00 — 14:00
+В какие страны и банки переводим
+[Только в Армению, без ограничений](/business/help/account/currency/countries/cis/?card=armenia)
+Белорусские рубли
+В какое время по Москве переводим
+10:00 — 16:00
+В какие страны и банки переводим
+[Только в Беларусь, без ограничений](/business/help/account/currency/countries/cis/?card=belarus)
+Бразильские реалы
+В какое время по Москве переводим
+10:00 — 17:00
+В какие страны и банки переводим
+[Только в Бразилию, без ограничений](/business/help/account/currency/countries/south-america/?card=brazil)
+Казахстанские тенге
+В какое время по Москве переводим
+10:00 — 13:00
+В какие страны и банки переводим
+[Только в Казахстан, без ограничений ](/business/help/account/currency/countries/cis/?card=kazakhstan)
+Киргизские сомы
+В какое время по Москве переводим
+10:00 — 12:00
+В какие страны и банки переводим
+[Только в Кыргызстан, без ограничений](/business/help/account/currency/countries/cis/?card=kyrgyzstan)
+Таджикские сомони
+В какое время по Москве переводим
+10:00 — 14:00
+В какие страны и банки переводим
+[Только в Таджикистан, без ограничений](/business/help/account/currency/countries/cis/?card=tajikistan)
+Индийские рупии
+В какое время по Москве переводим
+10:00 — 10:30
+В какие страны и банки переводим
+[Только в Индию, без ограничений](/business/help/account/currency/countries/asia/?card=india)
 Отправляем в тот же день такие валюты:
-
-- евро;
-- доллары США;
-- азербайджанские манаты;
-- армянские драмы;
-- белорусские рубли;
-- бразильские реалы;
-- индийские рупии;
-- казахстанские тенге;
-- киргизские сомы;
-- таджикские сомони.
-
-
+* евро;
+* доллары США;
+* азербайджанские манаты;
+* армянские драмы;
+* белорусские рубли;
+* бразильские реалы;
+* индийские рупии;
+* казахстанские тенге;
+* киргизские сомы;
+* таджикские сомони.
 Юани отправляем на следующий день, после получения банком платежного поручения.
-
-
 Если вы отправите платеж после указанного времени, деньги отправятся только на следующий день в 10:00. При этом оформить платеж вы можете в любое время после его проверки. Он будет отправлен в ближайшее время после открытия валютного окна.

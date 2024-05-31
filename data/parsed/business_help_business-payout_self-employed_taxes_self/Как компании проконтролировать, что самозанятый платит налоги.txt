@@ -1,11 +1,8 @@
-Как компании проконтролировать, что самозанятый платит налоги?
-
+## Как компании проконтролировать, что самозанятый платит налоги?
 Компании не могут проконтролировать, уплатил ли самозанятый налог с вознаграждения, потому что это полностью его ответственность. Хоть рисков для компаний особо нет, опасения все равно возникают: налоговый режим новый, лучше перестраховаться.
-
-Какую ответственность несет компания, если самозанятый не платит налог с доходов (https://www.tinkoff.ru/business/help/business-payout/self-employed/taxes/self/?card=responsibility-of-company)
-Хороший способ — поручить уплату налога сервису выплат самозанятым. (https://www.tinkoff.ru/corporate/payout/self-employed/?internal_source=help) Он автоматически удерживает налог с каждого перевода самозанятому на специальный счет — налоговую копилку, а 13-го числа каждого месяца уплачивает его в бюджет.
-
-Как и на каком счете сервис удерживает налог с оплаты работы самозанятому (https://www.tinkoff.ru/business/help/business-payout/self-employed/taxes/business/?card=tax-keeper)
+[Какую ответственность несет компания, если самозанятый не платит налог с доходов](/business/help/business-payout/self-employed/taxes/self/?card=responsibility-of-company)
+Хороший способ — поручить уплату налога [сервису выплат самозанятым.](/corporate/payout/self-employed/?internal_source=help) Он автоматически удерживает налог с каждого перевода самозанятому на специальный счет — налоговую копилку, а 13-го числа каждого месяца уплачивает его в бюджет.
+[Как и на каком счете сервис удерживает налог с оплаты работы самозанятому](/business/help/business-payout/self-employed/taxes/business/?card=tax-keeper)
 Все, что нужно от компании, — перед платежом поставить галочку в чекбоксе «Удержать налог на доход самозанятого». А от самозанятого — дать права на уплату налога Тинькофф.
-
-Что нужно от самозанятых компании, чтобы Тинькофф уплачивал за них налог (https://www.tinkoff.ru/business/help/business-payout/self-employed/taxes/business/?card=give-permission)Если создаете список на выплату вручную, поставьте галочку в чекбоксе «Удержать налог на доход самозанятого» перед тем, как перевести деньгиЕсли загружаете список выплат, поставьте галочку в чекбоксе «Удержать налог на доход самозанятого» после его загрузки
+[Что нужно от самозанятых компании, чтобы Тинькофф уплачивал за них налог](/business/help/business-payout/self-employed/taxes/business/?card=give-permission)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85Yjg4M2QwNS4wMV9rYWtfcHJva29udHJvbGl0X3Bsb3RpX25vbG9nX3g0X21pbl81ZTJiNzkwMTFlNDE4YzNhYmNmYTczNzFmNjU4ZTc0My5wbmc=)Если создаете список на выплату вручную, поставьте галочку в чекбоксе «Удержать налог на доход самозанятого» перед тем, как перевести деньги![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNDFlYTk2Yy4wMl9rYWtfcHJva29udHJvbGl0X3Bsb3RpX25vbG9nX3g0X21pbl80YjNiY2RkNDBhMzkyOTQ4Zjk5ZDg0YWUzMjFmZmMwNi5wbmc=)Если загружаете список выплат, поставьте галочку в чекбоксе «Удержать налог на доход самозанятого» после его загрузки

@@ -1,148 +1,230 @@
-Как я могу рассчитываться с контрагентами из Китая?
-
+## Как я могу рассчитываться с контрагентами из Китая?
 В юанях можно рассчитываться с контрагентами, которые открыли счет в любом банке материкового Китая, кроме тех, что перечислены ниже.
-
-Банки материкового Китая, через которые нельзя рассчитываться в юаняхA Agricultural Bank of China ABOCCNBJ
-Agricultural Development Bank of China ADBNCNBJ
-B Bank of Beijing Co Ltd BJCNCNBJ
-Bank of Communications Co Ltd COMMCNSH
-Bank of Hangzhou Co Ltd HZCBCN2H
-Bank of Jiangsu Co Ltd BOJSCNBN
-Bank of Ningbo Co Ltd BKNBCN2N
-Bank of Qingdao Co Ltd QCCBCNBQ
-Bank of Shanghai BOSHCNSH
-Bank of Shaoxing Co Ltd SXCBCN2X
-Bank of Taiwan BKTWCN22
-Bank of Taizhou Co Ltd TZBKCNBT
-Beijing Rural Commercial Bank Co Ltd BRCBCNBJ
-C China Bohai Bank CHBHCNBT
-China CITIC Bank CIBKCNBJ
-China Construction Bank PCBCCNBJ
-China Everbright Bank EVERCNBJ
-China Guangfa Bank GDBKCN22
-China Merchants Bank CMBCCNBS
-China Minsheng Banking Corp Ltd MSBCCNBJ
-China Zheshang Bank ZJCBCN2N
-Citibank China CITICNSX
-D DBS Bank DBSSCNSH
-Dongguan Rural Commercial Bank Co Ltd DGCCCN22
-Dongying Bank Co Ltd DYSHCNBJ
-G Great Wall West China Bank Co Ltd DECCCNBD
-Guangdong Nanhai Rural Commercial Bank Co Ltd RCNHCN22
-Guangdong Shunde Rural Commercial Bank Co Ltd RCCSCNBS
-H Harbin Bank HCCBCNBH
-HSBC Bank China Co Ltd HSBCCNSH
-I Industrial and Commercial Bank of China Ltd ICBKCNBJ
-Industrial Bank FJIBCNBA
-Industrial Bank of Korea China Ltd IBKOCNBT
-J Jiangmen Rural Commercial Bank Co Ltd RCXHCNBJ
-Jiangsu Changshu Rural Commercial Bank Co Ltd CSCBCNSH
-Jiangsu Huaian Rural Commercial Bank Co Ltd JHRCCNBH
-Jiangsu Jiangnan Rural Commercial Bank Co Ltd RCWJCNSH
-Jiangsu Jingjiang Rural Commercial Bank Co Ltd RCBJCNBJ
-Jiangsu Yixing Rural Commercial Bank Co Ltd URCCCNSH
-Jiangsu Zhangjiagang Rural Commercial Bank Co Ltd RCBZCNSH
-Jilin Hunchun Rural Commercial Bank Co Ltd HCRRCNBH
-JPMorgan Chase Bank Co Ltd CHASCNSH
+Банки материкового Китая, через которые нельзя рассчитываться в юанях
+A
+Agricultural Bank of China
+SWIFT‑код
+ABOCCNBJ
+Agricultural Development Bank of China
+SWIFT‑код
+ADBNCNBJ
+B
+Bank of Beijing Co Ltd
+SWIFT‑код
+BJCNCNBJ
+Bank of Communications Co Ltd
+SWIFT‑код
+COMMCNSH
+Bank of Hangzhou Co Ltd
+SWIFT‑код
+HZCBCN2H
+Bank of Jiangsu Co Ltd
+SWIFT‑код
+BOJSCNBN
+Bank of Ningbo Co Ltd
+SWIFT‑код
+BKNBCN2N
+Bank of Qingdao Co Ltd
+SWIFT‑код
+QCCBCNBQ
+Bank of Shanghai
+SWIFT‑код
+BOSHCNSH
+Bank of Shaoxing Co Ltd
+SWIFT‑код
+SXCBCN2X
+Bank of Taiwan
+SWIFT‑код
+BKTWCN22
+Bank of Taizhou Co Ltd
+SWIFT‑код
+TZBKCNBT
+Beijing Rural Commercial Bank Co Ltd
+SWIFT‑код
+BRCBCNBJ
+C
+China Bohai Bank
+SWIFT‑код
+CHBHCNBT
+China CITIC Bank
+SWIFT‑код
+CIBKCNBJ
+China Construction Bank
+SWIFT‑код
+PCBCCNBJ
+China Everbright Bank
+SWIFT‑код
+EVERCNBJ
+China Guangfa Bank
+SWIFT‑код
+GDBKCN22
+China Merchants Bank
+SWIFT‑код
+CMBCCNBS
+China Minsheng Banking Corp Ltd
+SWIFT‑код
+MSBCCNBJ
+China Zheshang Bank
+SWIFT‑код
+ZJCBCN2N
+Citibank China
+SWIFT‑код
+CITICNSX
+D
+DBS Bank
+SWIFT‑код
+DBSSCNSH
+Dongguan Rural Commercial Bank Co Ltd
+SWIFT‑код
+DGCCCN22
+Dongying Bank Co Ltd
+SWIFT‑код
+DYSHCNBJ
+G
+Great Wall West China Bank Co Ltd
+SWIFT‑код
+DECCCNBD
+Guangdong Nanhai Rural Commercial Bank Co Ltd
+SWIFT‑код
+RCNHCN22
+Guangdong Shunde Rural Commercial Bank Co Ltd
+SWIFT‑код
+RCCSCNBS
+H
+Harbin Bank
+SWIFT‑код
+HCCBCNBH
+HSBC Bank China Co Ltd
+SWIFT‑код
+HSBCCNSH
+I
+Industrial and Commercial Bank of China Ltd
+SWIFT‑код
+ICBKCNBJ
+Industrial Bank
+SWIFT‑код
+FJIBCNBA
+Industrial Bank of Korea China Ltd
+SWIFT‑код
+IBKOCNBT
+J
+Jiangmen Rural Commercial Bank Co Ltd
+SWIFT‑код
+RCXHCNBJ
+Jiangsu Changshu Rural Commercial Bank Co Ltd
+SWIFT‑код
+CSCBCNSH
+Jiangsu Huaian Rural Commercial Bank Co Ltd
+SWIFT‑код
+JHRCCNBH
+Jiangsu Jiangnan Rural Commercial Bank Co Ltd
+SWIFT‑код
+RCWJCNSH
+Jiangsu Jingjiang Rural Commercial Bank Co Ltd
+SWIFT‑код
+RCBJCNBJ
+Jiangsu Yixing Rural Commercial Bank Co Ltd
+SWIFT‑код
+URCCCNSH
+Jiangsu Zhangjiagang Rural Commercial Bank Co Ltd
+SWIFT‑код
+RCBZCNSH
+Jilin Hunchun Rural Commercial Bank Co Ltd
+SWIFT‑код
+HCRRCNBH
+JPMorgan Chase Bank Co Ltd
+SWIFT‑код
+CHASCNSH
+JPMorgan Chase Bank Co Ltd
+SWIFT‑код
 CHASCN22
-K Kunshan Rural Commercial Bank Co Ltd KSRBCNBK
-N Nanyang Commercial Bank China Ltd NYCBCNSH
-Ningbo Cixi Rural Commercial Bank Co Ltd CXBKCN2N
-Ningbo Yuyao Rural Commercial Bank Co Ltd YYBKCN2N
-O OCBC Wing Hang Bank OCBCCNSH
-P Ping An Bank SZDBCNBS
-Postal Savings Bank of China Co Ltd PSBCCNBJ
-Q Qilu Bank Co Ltd JNSHCNBN
-Qingdao Rural Commercial Bank Co Ltd QDRCCNBQ
-S Shanghai Pudong Development Bank SPDBCNSH
-Shenzhen Rural Commercial Bank Co Ltd SRCCCNBS
-Shinhan Bank Co Ltd SHBKCNBJ
-Standard Chartered Bank SCBLCNSX
-W Woori Bank China Ltd HVBKCNBJ
-X Xiamen International Bank IBXHCNBA
-Xinjiang Bank of China XINCCNBU
-Y Yantai Rural Commercial Bank Co Ltd ZFRBCNBQ
-Yinzhou Bank YZBKCN2N
-Z Zhejiang Chouzhou Commercial Bank Co Ltd CZCBCN2X
-Zhejiang Ruian Rural Commercial Bank Co Ltd ZRRCCNBZ
-Zhejiang Rural Commercial United Bank Co Ltd ZJRCCN2N
-Zhejiang Tailong Commercial Bank Co Ltd ZJTLCNBH
-Zhejiang Wenzhou Longwan Rural Commercial Bank Co Ltd LWBKCNSH
-Zhejiang Yiwu Rural Commercial Bank Co Ltd YWBKCN2X
-Zhongshan Rural Commercial Bank Co Ltd ZSRCCNBB
-
-Agricultural Bank of China	SWIFT‑кодABOCCNBJ
-Agricultural Development Bank of China	SWIFT‑кодADBNCNBJ
-Bank of Beijing Co Ltd	SWIFT‑кодBJCNCNBJ
-Bank of Communications Co Ltd	SWIFT‑кодCOMMCNSH
-Bank of Hangzhou Co Ltd	SWIFT‑кодHZCBCN2H
-Bank of Jiangsu Co Ltd	SWIFT‑кодBOJSCNBN
-Bank of Ningbo Co Ltd	SWIFT‑кодBKNBCN2N
-Bank of Qingdao Co Ltd	SWIFT‑кодQCCBCNBQ
-Bank of Shanghai	SWIFT‑кодBOSHCNSH
-Bank of Shaoxing Co Ltd	SWIFT‑кодSXCBCN2X
-Bank of Taiwan	SWIFT‑кодBKTWCN22
-Bank of Taizhou Co Ltd	SWIFT‑кодTZBKCNBT
-Beijing Rural Commercial Bank Co Ltd	SWIFT‑кодBRCBCNBJ
-China Bohai Bank	SWIFT‑кодCHBHCNBT
-China CITIC Bank	SWIFT‑кодCIBKCNBJ
-China Construction Bank	SWIFT‑кодPCBCCNBJ
-China Everbright Bank	SWIFT‑кодEVERCNBJ
-China Guangfa Bank	SWIFT‑кодGDBKCN22
-China Merchants Bank	SWIFT‑кодCMBCCNBS
-China Minsheng Banking Corp Ltd	SWIFT‑кодMSBCCNBJ
-China Zheshang Bank	SWIFT‑кодZJCBCN2N
-Citibank China	SWIFT‑кодCITICNSX
-DBS Bank	SWIFT‑кодDBSSCNSH
-Dongguan Rural Commercial Bank Co Ltd	SWIFT‑кодDGCCCN22
-Dongying Bank Co Ltd	SWIFT‑кодDYSHCNBJ
-Great Wall West China Bank Co Ltd	SWIFT‑кодDECCCNBD
-Guangdong Nanhai Rural Commercial Bank Co Ltd	SWIFT‑кодRCNHCN22
-Guangdong Shunde Rural Commercial Bank Co Ltd	SWIFT‑кодRCCSCNBS
-Harbin Bank	SWIFT‑кодHCCBCNBH
-HSBC Bank China Co Ltd	SWIFT‑кодHSBCCNSH
-Industrial and Commercial Bank of China Ltd	SWIFT‑кодICBKCNBJ
-Industrial Bank	SWIFT‑кодFJIBCNBA
-Industrial Bank of Korea China Ltd	SWIFT‑кодIBKOCNBT
-Jiangmen Rural Commercial Bank Co Ltd	SWIFT‑кодRCXHCNBJ
-Jiangsu Changshu Rural Commercial Bank Co Ltd	SWIFT‑кодCSCBCNSH
-Jiangsu Huaian Rural Commercial Bank Co Ltd	SWIFT‑кодJHRCCNBH
-Jiangsu Jiangnan Rural Commercial Bank Co Ltd	SWIFT‑кодRCWJCNSH
-Jiangsu Jingjiang Rural Commercial Bank Co Ltd	SWIFT‑кодRCBJCNBJ
-Jiangsu Yixing Rural Commercial Bank Co Ltd	SWIFT‑кодURCCCNSH
-Jiangsu Zhangjiagang Rural Commercial Bank Co Ltd	SWIFT‑кодRCBZCNSH
-Jilin Hunchun Rural Commercial Bank Co Ltd	SWIFT‑кодHCRRCNBH
-JPMorgan Chase Bank Co Ltd	SWIFT‑кодCHASCNSH
-JPMorgan Chase Bank Co Ltd	SWIFT‑кодCHASCN22
-Kunshan Rural Commercial Bank Co Ltd	SWIFT‑кодKSRBCNBK
-Nanyang Commercial Bank China Ltd	SWIFT‑кодNYCBCNSH
-Ningbo Cixi Rural Commercial Bank Co Ltd	SWIFT‑кодCXBKCN2N
-Ningbo Yuyao Rural Commercial Bank Co Ltd	SWIFT‑кодYYBKCN2N
-OCBC Wing Hang Bank	SWIFT‑кодOCBCCNSH
-Ping An Bank	SWIFT‑кодSZDBCNBS
-Postal Savings Bank of China Co Ltd	SWIFT‑кодPSBCCNBJ
-Qilu Bank Co Ltd	SWIFT‑кодJNSHCNBN
-Qingdao Rural Commercial Bank Co Ltd	SWIFT‑кодQDRCCNBQ
-Shanghai Pudong Development Bank	SWIFT‑кодSPDBCNSH
-Shenzhen Rural Commercial Bank Co Ltd	SWIFT‑кодSRCCCNBS
-Shinhan Bank Co Ltd	SWIFT‑кодSHBKCNBJ
-Standard Chartered Bank	SWIFT‑кодSCBLCNSX
-Woori Bank China Ltd	SWIFT‑кодHVBKCNBJ
-Xiamen International Bank	SWIFT‑кодIBXHCNBA
-Xinjiang Bank of China	SWIFT‑кодXINCCNBU
-Yantai Rural Commercial Bank Co Ltd	SWIFT‑кодZFRBCNBQ
-Yinzhou Bank	SWIFT‑кодYZBKCN2N
-Zhejiang Chouzhou Commercial Bank Co Ltd	SWIFT‑кодCZCBCN2X
-Zhejiang Ruian Rural Commercial Bank Co Ltd	SWIFT‑кодZRRCCNBZ
-Zhejiang Rural Commercial United Bank Co Ltd	SWIFT‑кодZJRCCN2N
-Zhejiang Tailong Commercial Bank Co Ltd	SWIFT‑кодZJTLCNBH
-Zhejiang Wenzhou Longwan Rural Commercial Bank Co Ltd	SWIFT‑кодLWBKCNSH
-Zhejiang Yiwu Rural Commercial Bank Co Ltd	SWIFT‑кодYWBKCN2X
-Zhongshan Rural Commercial Bank Co Ltd	SWIFT‑кодZSRCCNBB
-
-Если хотите уточнить банки для переводов, обратитесь в чат поддержки (https://tinkoffbusiness.onelink.me/1221431269/oocytv75) Тинькофф Бизнеса.
-Перейти в чат поддержки можно с любой страницы личного кабинета Тинькофф Бизнеса — нажмите на желтую кнопку чата 
-
+K
+Kunshan Rural Commercial Bank Co Ltd
+SWIFT‑код
+KSRBCNBK
+N
+Nanyang Commercial Bank China Ltd
+SWIFT‑код
+NYCBCNSH
+Ningbo Cixi Rural Commercial Bank Co Ltd
+SWIFT‑код
+CXBKCN2N
+Ningbo Yuyao Rural Commercial Bank Co Ltd
+SWIFT‑код
+YYBKCN2N
+O
+OCBC Wing Hang Bank
+SWIFT‑код
+OCBCCNSH
+P
+Ping An Bank
+SWIFT‑код
+SZDBCNBS
+Postal Savings Bank of China Co Ltd
+SWIFT‑код
+PSBCCNBJ
+Q
+Qilu Bank Co Ltd
+SWIFT‑код
+JNSHCNBN
+Qingdao Rural Commercial Bank Co Ltd
+SWIFT‑код
+QDRCCNBQ
+S
+Shanghai Pudong Development Bank
+SWIFT‑код
+SPDBCNSH
+Shenzhen Rural Commercial Bank Co Ltd
+SWIFT‑код
+SRCCCNBS
+Shinhan Bank Co Ltd
+SWIFT‑код
+SHBKCNBJ
+Standard Chartered Bank
+SWIFT‑код
+SCBLCNSX
+W
+Woori Bank China Ltd
+SWIFT‑код
+HVBKCNBJ
+X
+Xiamen International Bank
+SWIFT‑код
+IBXHCNBA
+Xinjiang Bank of China
+SWIFT‑код
+XINCCNBU
+Y
+Yantai Rural Commercial Bank Co Ltd
+SWIFT‑код
+ZFRBCNBQ
+Yinzhou Bank
+SWIFT‑код
+YZBKCN2N
+Z
+Zhejiang Chouzhou Commercial Bank Co Ltd
+SWIFT‑код
+CZCBCN2X
+Zhejiang Ruian Rural Commercial Bank Co Ltd
+SWIFT‑код
+ZRRCCNBZ
+Zhejiang Rural Commercial United Bank Co Ltd
+SWIFT‑код
+ZJRCCN2N
+Zhejiang Tailong Commercial Bank Co Ltd
+SWIFT‑код
+ZJTLCNBH
+Zhejiang Wenzhou Longwan Rural Commercial Bank Co Ltd
+SWIFT‑код
+LWBKCNSH
+Zhejiang Yiwu Rural Commercial Bank Co Ltd
+SWIFT‑код
+YWBKCN2X
+Zhongshan Rural Commercial Bank Co Ltd
+SWIFT‑код
+ZSRCCNBB
+Если хотите уточнить банки для переводов, обратитесь [в чат поддержки](https://tinkoffbusiness.onelink.me/1221431269/oocytv75) Тинькофф Бизнеса. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYzNiNjU1Mi5kZXNrdG9wLnBuZw==)Перейти в чат поддержки можно с любой страницы личного кабинета Тинькофф Бизнеса — нажмите на желтую кнопку чата
 Чтобы отправлять и получать переводы в юанях, нужно указать в контракте реквизиты банка-корреспондента — их можно узнать в личном кабинете или мобильном приложении Тинькофф Бизнеса. Для этого:
-
-Как перевести деньги в Китай, если вы физлицо (https://www.tinkoff.ru/bank/help/cross-border/directions/k/china/?card=how-to-transfer)- На главной странице Тинькофф Бизнеса (https://tinkoffbusiness.onelink.me/1221431269/helpMain) выберите нужный счет → «Реквизиты».- Выберите страну контрагента. Появятся реквизиты счета.
+[Как перевести деньги в Китай, если вы физлицо](/bank/help/cross-border/directions/k/china/?card=how-to-transfer)
+1. [На главной странице Тинькофф Бизнеса](https://tinkoffbusiness.onelink.me/1221431269/helpMain) выберите нужный счет → «Реквизиты».
+2. Выберите страну контрагента. Появятся реквизиты счета.

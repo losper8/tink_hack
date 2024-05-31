@@ -1,5 +1,3 @@
-Как указать словарь в теге?
-
+## Как указать словарь в теге?
 Создайте тег и укажите название словаря в фильтре. Для тегов, которые анализируют звонки, можно указывать обычные и семантические словари. Для тегов, которые анализируют переписку в чате, можно указывать только обычные словари.
-
-Как создать тег (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/how-to-tag/?card=q1)
+[Как создать тег](/business/help/solutions/speech-analytics-for-tinkoff/search/how-to-tag/?card=q1)

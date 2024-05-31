@@ -1,8 +1,5 @@
-Как проверить статус самозанятого?
-
+## Как проверить статус самозанятого?
 Система автоматически проверяет статус, когда вы добавляете исполнителя в проект. После этого обновляет статусы каждый день по базе налоговой и ежесекундно — по базе Тинькофф.
-
-Платить можно только исполнителям со статусом «Подключен к Тинькофф»
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iYmYzZjAyYy4wMl9rYWtfcHJvdmVyaXRfc3RhdHVzX3NhbW96YW5feDRfbWluXzdmNjhkZjk1NTA0OTY0MGRlMGQ2Yzc3MmZmNmZhNWNjLnBuZw==)Платить можно только исполнителям со статусом «Подключен к Тинькофф»
 Если на момент добавления самозанятый стоял на учете в налоговой, но позже решил снять себя с учета, система покажет статус «Не подключен к Тинькофф» и выплата не пройдет.
-
-Исполнителям со статусом «Не подключен к Тинькофф» деньги отправить не получится: система покажет ошибку
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMGViNjZmNC4xMV9zbXpfcHJhdmtpX2Rlc2tfMV80eC5wbmc=)Исполнителям со статусом «Не подключен к Тинькофф» деньги отправить не получится: система покажет ошибку

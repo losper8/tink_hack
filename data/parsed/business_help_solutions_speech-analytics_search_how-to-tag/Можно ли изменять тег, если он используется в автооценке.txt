@@ -1,7 +1,4 @@
-Можно ли изменять тег, если он используется в автооценке?
-
-Да, вы можете изменить тег, который используется в автооценке. Как изменить тег (https://www.tinkoff.ru/business/help/solutions/speech-analytics/search/how-to-tag/?card=q6)
-
+## Можно ли изменять тег, если он используется в автооценке?
+Да, вы можете изменить тег, который используется в автооценке. [Как изменить тег](/business/help/solutions/speech-analytics/search/how-to-tag/?card=q6)
 Но редактирование такого тега влияет на разметку коммуникаций — чатов и звонков. А это значит, что при редактировании тега статистика по существующим автооценкам может быть менее точной.
-
-На странице изменения тега система покажет, в каких формах автооценки он используется
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kM2FhZGRkMS4wMV9yYV9vdHNlbmthXzR4XzEucG5n)На странице изменения тега система покажет, в каких формах автооценки он используется

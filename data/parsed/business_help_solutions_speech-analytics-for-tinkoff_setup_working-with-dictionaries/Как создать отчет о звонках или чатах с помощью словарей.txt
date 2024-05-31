@@ -1,14 +1,15 @@
-Как создать отчет о звонках или чатах с помощью словарей?
-
+## Как создать отчет о звонках или чатах с помощью словарей?
 Следуйте инструкции:
-
-- В TQM перейдите в «Отчеты»:
-- перейдите в «Звонки» (https://tqm.tinkoff.ru/analytics/calls), если хотите создать отчет по ним;- перейдите в «Чаты» (https://tqm.tinkoff.ru/analytics/internal-chats), если хотите создать отчет по ним. 
+1. В TQM перейдите в «Отчеты»:
+* [перейдите в «Звонки»](https://tqm.tinkoff.ru/analytics/calls), если хотите создать отчет по ним;
+* [перейдите в «Чаты»](https://tqm.tinkoff.ru/analytics/internal-chats), если хотите создать отчет по ним.
 Нажмите «Создать отчет».
-- Нажмите «Добавить параметры» и выберите фильтры:
-- для звонков — «Оператор произнес», «Оператор не произнес», «Клиент произнес», «Клиент не произнес»;- для чатов — «Оператор написал», «Оператор не написал», «Клиент написал», «Клиент не написал».Мы создаем отчет о звонках- В указанном фильтре выберите из выпадающего списка один или несколько словарей.
-- Нажмите «Построить отчет». Появится график, который соответствует выбранным словарям. Можно указать дополнительные параметры: количество звонков, процент от всех звонков, временной интервал.
-- Чтобы создался отчет, выберите на графике конкретный день или период. Отчет появится под графиком.
-- Чтобы сохранить отчет, нажмите на кнопку «Сохранить отчет» и укажите его название.
-
+2. Нажмите «Добавить параметры» и выберите фильтры:
+* для звонков — «Оператор произнес», «Оператор не произнес», «Клиент произнес», «Клиент не произнес»;
+* для чатов — «Оператор написал», «Оператор не написал», «Клиент написал», «Клиент не написал».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80N2Y0MGQxMi4yMF9kZXNrdG9wLnBuZw==)Мы создаем отчет о звонках
+3. В указанном фильтре выберите из выпадающего списка один или несколько словарей. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMDQwOWVkMC4yMV9kZXNrdG9wLnBuZw==)
+4. Нажмите «Построить отчет». Появится график, который соответствует выбранным словарям. Можно указать дополнительные параметры: количество звонков, процент от всех звонков, временной интервал. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84OGFhNGZjYS4yMl9kZXNrdG9wLnBuZw==)
+5. Чтобы создался отчет, выберите на графике конкретный день или период. Отчет появится под графиком. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85OTJkOTg1Yi4yM19kZXNrdG9wLnBuZw==)
+6. Чтобы сохранить отчет, нажмите на кнопку «Сохранить отчет» и укажите его название. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xMzY4NWQ1Mi4yNF9kZXNrdG9wLnBuZw==)
 Отчет сохранится на вкладке «Отчеты» → «Звонки» или «Чаты» → «Мои отчеты». Отчет можно просматривать в любое время, но нельзя скачать.

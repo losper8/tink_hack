@@ -1,12 +1,11 @@
-Как подключить речевую аналитику?
-
-Чтобы подключить речевую аналитику, владельцу компании или сотруднику, ответственному за качество коммуникаций в компании, нужно зарегистрироваться на платформе Tinkoff Software. Как зарегистрироваться на платформе (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/activate/?card=q2)
-
-Сотрудник, который зарегистрируется на платформе, получит доступ к личному кабинету администратора и роль администратора в речевой аналитике — она дает самые широкие полномочия по управлению платформой. Подробнее о ролях в речевой аналитике (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/roles/?card=q2)
-
+## Как подключить речевую аналитику?
+Чтобы подключить речевую аналитику, владельцу компании или сотруднику, ответственному за качество коммуникаций в компании, нужно зарегистрироваться на платформе Tinkoff Software. [Как зарегистрироваться на платформе](/business/help/solutions/speech-analytics/start/activate/?card=q2)
+Сотрудник, который зарегистрируется на платформе, получит доступ к личному кабинету администратора и роль администратора в речевой аналитике — она дает самые широкие полномочия по управлению платформой. [Подробнее о ролях в речевой аналитике](/business/help/solutions/speech-analytics/start/roles/?card=q2)
 После регистрации порядок действий следующий:
-
-- Подключите телефонию в личном кабинете или загрузите звонки через API.
-Как подключить телефонию в личном кабинете администратора (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/load-calls/?card=q2)Как загрузить звонки по API (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/load-calls/?card=q4)- При необходимости пополните баланс. По умолчанию у вас будет подключен предоплатный тариф и 1000 бонусных рублей на счете.
-Как пополнить баланс (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/payment/?card=q1)Тарифы речевой аналитики (https://www.tinkoff.ru/business/help/solutions/speech-analytics/about/what-is/?card=q7)
+1. Подключите телефонию в личном кабинете или загрузите звонки через API.
+[Как подключить телефонию в личном кабинете администратора](/business/help/solutions/speech-analytics/start/load-calls/?card=q2)
+[Как загрузить звонки по API](/business/help/solutions/speech-analytics/start/load-calls/?card=q4)
+2. При необходимости пополните баланс. По умолчанию у вас будет подключен предоплатный тариф и 1000 бонусных рублей на счете.
+[Как пополнить баланс](/business/help/solutions/speech-analytics/start/payment/?card=q1)
+[Тарифы речевой аналитики](/business/help/solutions/speech-analytics/about/what-is/?card=q7)
 После этого звонки, чаты и профили операторов загрузятся в речевую аналитику автоматически. Речевая аналитика полностью готова к работе.

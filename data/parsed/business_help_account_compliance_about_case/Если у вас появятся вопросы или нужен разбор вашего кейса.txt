@@ -1,5 +1,4 @@
-Если у вас появятся вопросы или нужен разбор вашего кейса
+## Если у вас появятся вопросы или нужен разбор вашего кейса
 Если у вас счет в Тинькофф Бизнес, напишите своему персональному менеджеру и он поможет получить консультацию специалиста по закону 115 ФЗ.
-
-Помощь по 115-ФЗ для физических лиц (https://www.tinkoff.ru/bank/help/general/block-account/115-individuals/legal-help/)
-Или пишите на почту secrets@tinkoff.ru (mailto:secrets@tinkoff.ru), и наш эксперт ответит публично в Бизнес-секретах. (https://secrets.tinkoff.ru/)
+[Помощь по 115-ФЗ для физических лиц](/bank/help/general/block-account/115-individuals/legal-help/)
+Или пишите на почту [secrets@tinkoff.ru](mailto:secrets@tinkoff.ru), и наш эксперт ответит публично [в Бизнес-секретах.](https://secrets.tinkoff.ru/)

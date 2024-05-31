@@ -1,16 +1,10 @@
-Как группировать близкие по смыслу страницы сайта?
-
+## Как группировать близкие по смыслу страницы сайта?
 Для интернет-магазина эта функция недоступна.
-
-
-Для сайта-визитки вы можете создавать папки, чтобы группировать близкие по смыслу страницы: например, статьи или страницы с товарами. Что такое сайт‑визитка (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=templates)
-
+Для сайта-визитки вы можете создавать папки, чтобы группировать близкие по смыслу страницы: например, статьи или страницы с товарами. [Что такое сайт‑визитка](/business/help/sales/website-builder/about/begin/?card=templates)
 Чтобы сгруппировать страницы для сайта-визитки:
-
-- В личном кабинете Тинькофф Бизнеса перейдите в конструктор сайтов, (https://business.tinkoff.ru/sites) перейдите на ваш сайт и нажмите кнопку «Создать папку».
-- Укажите название и адрес папки.
-- Папка появится в списке со всеми страницами.
-- Чтобы переместить страницу в папку, нажмите на три точки возле любой страницы и выберите опцию «Перенести в папку».
-- Страницы внутри папки автоматически обновят свои адреса. Каждый раз, когда вы перемещаете страницы между папками, у них обновляется адрес.
-Если на перемещенную страницу ведут ссылки с других страниц, их придется обновлять вручную- Чтобы убрать страницу из папки, нажмите на три точки и выберите опцию «Перенести в папку» → «Перенести на уровень выше». Адрес станет прежним.
-Вы также можете вкладывать папки друг в друга — максимум до четырех вложений. Рекомендуем не создавать слишком много папок, чтобы не запутаться
+1. [В личном кабинете Тинькофф Бизнеса перейдите в конструктор сайтов,](https://business.tinkoff.ru/sites) перейдите на ваш сайт и нажмите кнопку «Создать папку». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMGExZGE5OC43NV9wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fbWluXzRhNmY1YTY5MmU5OTQ0NjExMGEwN2Y0OTczMmVhOTJiLnBuZw==)
+2. Укажите название и адрес папки. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMTgzMWUwZi43Nl9wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fbWluX2U1OGEzNzVjYWZmNWI5MGVlMjUwMTZlMTEyY2E5M2M5LnBuZw==)
+3. Папка появится в списке со всеми страницами. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNGI2NThhNi43N19wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fbWluX2QyYTkwOTIwMWE0NjRmNjhmMjlkZTJlYjgyNTFlN2YwLnBuZw==)
+4. Чтобы переместить страницу в папку, нажмите на три точки возле любой страницы и выберите опцию «Перенести в папку». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NjhiZTkxMS43OF9wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fbWluXzk1YzdmNmJkNDY3NWM4YzZiZTM1YTdhOTQ0MGYyYTgxLnBuZw==)
+5. Страницы внутри папки автоматически обновят свои адреса. Каждый раз, когда вы перемещаете страницы между папками, у них обновляется адрес. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMTVlNWMxMy43OV9wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fbWluXzcyOTEyY2RkNzMyNGUyYzllMTdjYjUyZDc3ZjM5MGU0LnBuZw==)Если на перемещенную страницу ведут ссылки с других страниц, их придется обновлять вручную
+6. Чтобы убрать страницу из папки, нажмите на три точки и выберите опцию «Перенести в папку» → «Перенести на уровень выше». Адрес станет прежним. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xZGZkYWFjMC44MF9wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fbWluXzliYWU5YTAyNmQ1NWIwMmE0OGMwM2U0YWZmN2NmNDk2LnBuZw==)Вы также можете вкладывать папки друг в друга — максимум до четырех вложений. Рекомендуем не создавать слишком много папок, чтобы не запутаться

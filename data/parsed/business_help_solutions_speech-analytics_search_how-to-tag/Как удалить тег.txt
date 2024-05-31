@@ -1,5 +1,3 @@
-Как удалить тег?
-
+## Как удалить тег?
 Перейдите на вкладку «Поиск» → «Коммуникации» → «Теги». Наведите курсор мыши на нужный тег. Нажмите на значок корзины у тега, который хотите удалить, и подтвердите удаление.
-
-Значок корзины появляется, когда наводите курсор мыши на тег
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ZTgyZDIwOC4zMF9yYV9vdHNlbmthXzR4LnBuZw==)Значок корзины появляется, когда наводите курсор мыши на тег

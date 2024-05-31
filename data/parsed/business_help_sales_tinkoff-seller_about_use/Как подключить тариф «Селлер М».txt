@@ -1,9 +1,8 @@
-Как подключить тариф «Селлер М»?
-
+## Как подключить тариф «Селлер М»?
 Чтобы подключить тариф «Селлер М»:
-
-- Откройте расчетный счет в Тинькофф Бизнесе. Открыть счет (https://www.tinkoff.ru/business/account/?internal_source=help#form)- Перейдите в Тинькофф Селлер (https://business.tinkoff.ru/seller/) → «Тарифы».- Выберите период, на который хотите подключить тариф. Вы можете платить по 5000 ₽ ежемесячно или 48 000 ₽ один раз в год.
-- Нажмите «Подключить» на плашке с тарифом «Селлер М».
-
-Готово! Вы подключили тариф «Селлер М». Если сделали это впервые и у вас уже был расчетный счет в Тинькофф, плата за тариф не спишется в течение 7 дней, пока будет идти бесплатный пробный период. Подробнее о пробном периоде (https://www.tinkoff.ru/business/help/sales/tinkoff-seller/about/use/?card=q4)
-После подключения в правом верхнем углу появится зеленый статус «Подключен тариф „Селлер M“», а кнопка подключения изменится на «Подключено» и станет серой
+1. Откройте расчетный счет в Тинькофф Бизнесе. [Открыть счет](/business/account/?internal_source=help#form)
+2. [Перейдите в Тинькофф Селлер](https://business.tinkoff.ru/seller/) → «Тарифы».
+3. Выберите период, на который хотите подключить тариф. Вы можете платить по 5000 ₽ ежемесячно или 48 000 ₽ один раз в год. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83OTI4M2YyNC4wMV9kZXNrdG9wLnBuZw==)
+4. Нажмите «Подключить» на плашке с тарифом «Селлер М». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYTVhMmQ5NC4wMl9kZXNrdG9wLnBuZw==)
+Готово! Вы подключили тариф «Селлер М». Если сделали это впервые и у вас уже был расчетный счет в Тинькофф, плата за тариф не спишется в течение 7 дней, пока будет идти бесплатный пробный период. [Подробнее о пробном периоде](/business/help/sales/tinkoff-seller/about/use/?card=q4)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mNzMyMmNlMC4wM19kZXNrdG9wLnBuZw==)После подключения в правом верхнем углу появится зеленый статус «Подключен тариф „Селлер M“», а кнопка подключения изменится на «Подключено» и станет серой

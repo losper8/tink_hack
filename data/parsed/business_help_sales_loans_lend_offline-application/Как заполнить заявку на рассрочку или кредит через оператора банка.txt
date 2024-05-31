@@ -1,23 +1,15 @@
-Как заполнить заявку на рассрочку или кредит через оператора банка?
-
+## Как заполнить заявку на рассрочку или кредит через оператора банка?
 Если у вас много покупателей и нет времени заполнять заявку, вы можете передать ее оформление оператору банка. Он перезвонит покупателю и все заполнит по телефону.
-
-
 Как передать заявку оператору:
-
-- Выберите продукт — рассрочка или кредит. Укажите примерную сумму заказа, удобный для покупателя первоначальный взнос и срок. Нажмите «Оформить».
-Предложения банков по первоначальному взносу и сроку рассрочки или кредита могут отличаться от того, что вы указали при оформлении заявки- Выберите способ оформления «С помощью оператора банка»
-Операторы работают с 09:00 до 21:00 мск. В другое время передавать заявку оператору нет смысла — покупатель уже может передумать или купить товар в другом месте- Укажите ФИО и телефон покупателя.- Нажмите «Добавить товар» и укажите название товара, стоимость и количество.- Выберите кредитный продукт — рассрочку или кредит. Нажмите «Далее», чтобы передать заявку оператору. Готово!
-
+1. Выберите продукт — рассрочка или кредит. Укажите примерную сумму заказа, удобный для покупателя первоначальный взнос и срок. Нажмите «Оформить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YjAxZTBiNy4yNl9wb3NfdmlkYXZhdF9kZXNrMnhfZWQyMDE0NTI1NDBkMTBlZTdlNTU3YzllOGNjMzAxOTIucG5n)Предложения банков по первоначальному взносу и сроку рассрочки или кредита могут отличаться от того, что вы указали при оформлении заявки
+2. Выберите способ оформления «С помощью оператора банка» ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yOTZmM2EyYi4yN19wb3NfdmlkYXZhdF9kZXNrMnhfYTMwNzEzNDAxZjUyYTg4ODk3ZTNjYzg4OThjNjkzN2MucG5n)Операторы работают с 09:00 до 21:00 мск. В другое время передавать заявку оператору нет смысла — покупатель уже может передумать или купить товар в другом месте
+3. Укажите ФИО и телефон покупателя.
+4. Нажмите «Добавить товар» и укажите название товара, стоимость и количество.
+5. Выберите кредитный продукт — рассрочку или кредит. Нажмите «Далее», чтобы передать заявку оператору. Готово! ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMTI1ODNkNS4yOF9wb3NfdmlkYXZhdF9kZXNrMnhfOTkwMjcyYWJhNTMxYzJiZWM4MDgxYWU2MjUxYzk1MzgucG5n)
 После этого все общение по рассрочке или кредиту будет на стороне банка.
-
-Сотрудник банка перезвонит покупателю в течение 15 минут после отправки формы
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85YjBlZjkxNy4yOV9wb3NfdmlkYXZhdF9kZXNrMnhfZTM3NDIyYmVkZGFhYWE5Nzk5ZjMxMmUzMTExODQ4MGIucG5n)Сотрудник банка перезвонит покупателю в течение 15 минут после отправки формы
 Дождитесь решения по заявке, оно придет в течение 2—3 минут. Если банк одобрил рассрочку или кредит, подпишите с покупателем договор и отдайте заказ.
-
-Как подписать договор с помощью СМС (https://www.tinkoff.ru/business/help/sales/loans/lend/offline-application/?card=q7)
-Как подписать договор простой электронной подписью (https://www.tinkoff.ru/business/help/sales/loans/lend/offline-application/?card=q8)
-
+[Как подписать договор с помощью СМС](/business/help/sales/loans/lend/offline-application/?card=q7)
+[Как подписать договор простой электронной подписью](/business/help/sales/loans/lend/offline-application/?card=q8)
 Деньги по рассрочке или кредиту банк переведет на счет магазина на следующий рабочий день. В тот же день — если у магазина есть расчетный счет в Тинькофф.
-
-
-Отследить статус заявки можно в личном кабинете агента. (https://forma.tinkoff.ru/platform)
+Отследить статус заявки можно [в личном кабинете агента.](https://forma.tinkoff.ru/platform)

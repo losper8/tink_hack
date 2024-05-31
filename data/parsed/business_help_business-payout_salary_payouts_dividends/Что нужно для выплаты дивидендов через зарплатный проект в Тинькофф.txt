@@ -1,4 +1,4 @@
-Что нужно для выплаты дивидендов через зарплатный проект в Тинькофф?
+## Что нужно для выплаты дивидендов через зарплатный проект в Тинькофф?
 Для выплаты дивидендов у вас должен быть расчетный счет в Тинькофф Бизнесе с тарифом «Профессиональный» или «Продвинутый».
-Открыть расчетный счет (https://www.tinkoff.ru/business/account/?internal_source=help-order#form)
-Тарифы РКО Тинькофф Бизнеса (https://www.tinkoff.ru/business/tariffs/?internal_source=help-order)
+[Открыть расчетный счет](/business/account/?internal_source=help-order#form)
+[Тарифы РКО Тинькофф Бизнеса](/business/tariffs/?internal_source=help-order)

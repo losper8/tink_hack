@@ -1,47 +1,49 @@
-Как устранить ошибки заполнения заявки на рассрочку или кредит?
-
+## Как устранить ошибки заполнения заявки на рассрочку или кредит?
 Проверьте параметры заявки. Даже необязательные поля должны соответствовать определенным условиям.
-
-
-Как правильно заполнять обязательные параметры заявки
-shopId (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#shopId) До 50 символов включительно
-showcaseId (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#showcaseId) До 50 символов включительно
-sum (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#sum) Значение sum должно быть больше нуля, но меньше или равно 1 000 000.
-
-Две цифры после запятой или меньше.
-
-Сумма всех items.price должна быть равна значению в поле sum
-promoCode (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#promoCode) До 256 символов включительно
-items.name (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#name) До 256 символов включительно
-items.price (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#price) Значение items.price должно быть больше нуля, но меньше или равно 1 000 000.
-
-Две цифры после запятой или меньше
-items.quantity (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#quantity) Больше нуля
-
-	ПолеshopId	УсловиеДо 50 символов включительно
-	ПолеshowcaseId	Условие
+###### Как правильно заполнять обязательные параметры заявки
+Поле
+shopId
+Условие
 До 50 символов включительно
-	Полеsum	УсловиеЗначение sum должно быть больше нуля, но меньше или равно 1 000 000.
-
+Поле
+showcaseId
+Условие
+До 50 символов включительно
+Поле
+sum
+Условие
+Значение sum должно быть больше нуля, но меньше или равно 1 000 000.
 Две цифры после запятой или меньше.
-
 Сумма всех items.price должна быть равна значению в поле sum
-	Полеitems.name	УсловиеДо 256 символов включительно
-	Полеitems.price	УсловиеЗначение items.price должно быть больше нуля, но меньше или равно 1 000 000.
-
+Поле
+items.name
+Условие
+До 256 символов включительно
+Поле
+items.price
+Условие
+Значение items.price должно быть больше нуля, но меньше или равно 1 000 000.
 Две цифры после запятой или меньше
-	ПолеpromoCode	УсловиеДо 256 символов включительно
-	Полеitems.quantity	УсловиеБольше нуля
-Как правильно заполнять необязательные параметры заявкиitems.category (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#category) До 256 символов включительно
-items.vendorCode (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#vendorCode) До 64 символов включительно
-orderNumber (https://forma.tinkoff.ru/docs/credit/help/methods/?type=api&method=create#orderNumber) До 64 символов включительно.
-
+Поле
+promoCode
+Условие
+До 256 символов включительно
+Поле
+items.quantity
+Условие
+Больше нуля
+###### Как правильно заполнять необязательные параметры заявки
+Поле
+items.category
+Условие
+До 256 символов включительно
+Поле
+items.vendorCode
+Условие
+До 64 символов включительно
+Поле
+orderNumber
+Условие
+До 64 символов включительно
 Уникальный для каждого заказа
-
-	Полеitems.category	УсловиеДо 256 символов включительно
-	Полеitems.vendorCode	УсловиеДо 64 символов включительно
-	ПолеorderNumber	УсловиеДо 64 символов включительно
-
-Уникальный для каждого заказа
-
 Рекомендуем настроить на сайте проверку параметров, чтобы система не позволяла вводить некорректные значения. Здесь понадобится помощь программиста.

@@ -1,6 +1,17 @@
-Как поставить логотип Тинькофф на своем баннере?
-
+## Как поставить логотип Тинькофф на своем баннере?
 Если ни один баннер из гайда с материалами для коммуникации вам не подходит, вы можете создать свой и разместить на нем логотип Тинькофф в любом из углов композиции.
-
-PDFГайд с материалами для коммуникации (https://acdn.tinkoff.ru/static/documents/tinkoff-credit-broker-integration-guidebook.pdf)
+PDF
+[Гайд с материалами для коммуникации](https://acdn.tinkoff.ru/static/documents/tinkoff-credit-broker-integration-guidebook.pdf)
 При этом важно соблюдать несколько правил:
+Используйте логотип Тинькофф только вместе с фирменной желтой плашкой, так как это часть логотипа.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mOGFkMDlhNS4xMF9wb3NfcHJpbWVyaV9ndWlkZV9kZXNrLnBuZw==)Пример правильного и неправильного оформления баннера
+Визуальный вес двух логотипов должен быть одинаковым.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wODc5NzZjNC4xMV9wb3NfcHJpbWVyaV9ndWlkZV9kZXNrLnBuZw==)Пример правильного и неправильного оформления баннера
+Размер логотипа Тинькофф должен быть не менее 64 × 64 px.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iMjU1MmMwYi4xMl9wb3NfcHJpbWVyaV9ndWlkZV9kZXNrLnBuZw==)Пример правильного и неправильного оформления баннера
+Логотипы Тинькофф и вашего бренда должны располагаться в разных углах баннера.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYzFlN2Q3ZC4xM19wb3NfcHJpbWVyaV9ndWlkZV9kZXNrLnBuZw==)Пример правильного и неправильного оформления баннера
+Нельзя использовать изображения, фото и 3D-графику из макетов и папок, ссылки на которые лежат в гайде.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80NWVkYTk5Ny4xNF9wb3NfcHJpbWVyaV9ndWlkZV9kZXNrLnBuZw==)Пример правильного и неправильного оформления баннера
+Нельзя менять композицию и пропорцию логотипа.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ODUzN2NkOS4xNV9wb3NfcHJpbWVyaV9ndWlkZV9kZXNrLnBuZw==)Пример правильного и неправильного оформления логотипа Тинькофф

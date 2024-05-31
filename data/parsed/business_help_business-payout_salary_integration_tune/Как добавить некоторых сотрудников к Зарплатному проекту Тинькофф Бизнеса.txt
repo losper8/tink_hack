@@ -1,12 +1,9 @@
-Как добавить некоторых сотрудников к Зарплатному проекту Тинькофф Бизнеса?
-
+## Как добавить некоторых сотрудников к Зарплатному проекту Тинькофф Бизнеса?
 Если у вас по умолчанию стоит зарплатный проект другого банка, а вы хотите прикрепить часть сотрудников к Тинькофф, действуйте так:
-
-- 
-Зайдите в карточку сотрудника, которого хотите прикрепить к зарплатному проекту Тинькофф. Для этого перейдите в «Кадры» → «Сотрудники». Из списка выберите карточку нужного сотрудника и кликните по ней два раза:
-- 
-В карточке сотрудника перейдите в раздел «Выплаты, учет затрат»:
-- 
-Отметьте «Зачислением на карточку» и в выпадающем списке выберите зарплатный проект Тинькофф. Нажмите «ОК»:
--  
-Готово. Сотрудник прикреплен к зарплатному проекту Тинькофф. Если у него нет карты Тинькофф, оформите ее. Как оформить зарплатные карты (https://www.tinkoff.ru/business/help/business-payout/salary/about/issue-cards/)
+1. Зайдите в карточку сотрудника, которого хотите прикрепить к зарплатному проекту Тинькофф. Для этого перейдите в «Кадры» → «Сотрудники». Из списка выберите карточку нужного сотрудника и кликните по ней два раза:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNDQ1N2U1NS45ZTY5OTJlZF81N2I1XzQ2MzZfOTMxY19iYjVjZDQzMzVmMjQucG5n)
+2. В карточке сотрудника перейдите в раздел «Выплаты, учет затрат»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYWY1ZTA3OS4zZDQ0ZWQ5Zl8wY2Q0XzRiZTFfYjAyMl9lNjYyN2EzYzRjZGEucG5n)
+3. Отметьте «Зачислением на карточку» и в выпадающем списке выберите зарплатный проект Тинькофф. Нажмите «ОК»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jYmFkNDNkNC45MjAwN2JkMl81ODE0XzQzZDRfODUyMl82YWMxNDhiODVhODAucG5n)
+4. Готово. Сотрудник прикреплен к зарплатному проекту Тинькофф. Если у него нет карты Тинькофф, оформите ее. [Как оформить зарплатные карты](/business/help/business-payout/salary/about/issue-cards/)

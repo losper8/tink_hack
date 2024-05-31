@@ -1,6 +1,5 @@
-Как изменить название избранных фильтров поиска?
-В TQM → «Поиск» → «Коммуникации» → «Звонки» (https://tqm.tinkoff.ru/filter/communications/calls) под полем выбора периода:
-
-- Справа от названия сохраненных фильтров нажмите «Настройки». Откроется окно управления фильтрами.
-- Чтобы изменить название фильтра, нажмите на значок карандаша рядом с ним.
-- Введите новое название и нажмите «Сохранить».
+## Как изменить название избранных фильтров поиска?
+[В TQM → «Поиск» → «Коммуникации» → «Звонки»](https://tqm.tinkoff.ru/filter/communications/calls) под полем выбора периода:
+1. Справа от названия сохраненных фильтров нажмите «Настройки». Откроется окно управления фильтрами. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MTE3MWY1My4xMy5wbmc=)
+2. Чтобы изменить название фильтра, нажмите на значок карандаша рядом с ним. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zZGVhZWM3Yy4xNC5wbmc=)
+3. Введите новое название и нажмите «Сохранить».

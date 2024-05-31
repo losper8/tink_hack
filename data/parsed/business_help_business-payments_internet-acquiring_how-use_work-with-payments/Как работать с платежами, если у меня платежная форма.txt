@@ -1,7 +1,5 @@
-Как работать с платежами, если у меня платежная форма?
-
+## Как работать с платежами, если у меня платежная форма?
 На вкладке «Операции» в личном кабинете интернет-эквайринга вы можете:
-
-- подтвердить платеж (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q6);
-- найти информацию о платеже (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q5);
-- отменить платеж. (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q6)
+* [подтвердить платеж](/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q6);
+* [найти информацию о платеже](/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q5);
+* [отменить платеж.](/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q6)

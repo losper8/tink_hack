@@ -1,5 +1,11 @@
-Налоговая заблокировала деньги на моем счете. Что делать?
-
+## Налоговая заблокировала деньги на моем счете. Что делать?
 Ваши действия будут зависеть от того, заблокировала ли налоговая определенную сумму или все деньги на счете. Чтобы узнать это, в приложении или личном кабинете Тинькофф Бизнеса нажмите на счет, около которого есть уведомление о блокировке.
-
-В личном кабинете нажмите «Узнать подробности», чтобы открыть экран с деталямиВ приложении нажмите на баннер с уведомлением о блокировке, чтобы открыть экран с деталями
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kODZlZTE1OC5kZXNrdG9wLnBuZw==)В личном кабинете нажмите «Узнать подробности», чтобы открыть экран с деталями![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iYjk5MzkwNC5kZXNrdG9wXzAxLnBuZw==)В приложении нажмите на баннер с уведомлением о блокировке, чтобы открыть экран с деталями
+Если налоговая заблокировала часть денег на счете
+Дождитесь списания задолженности. Обычно оно происходит в течение рабочего дня после блокировки счета.
+Если этого не произошло в течение рабочего дня, пополните ЕНС самостоятельно. Посмотреть сумму задолженности и погасить ее можно на вкладке «Единый налоговый счет» [в личном кабинете налогоплательщика](https://www.nalog.gov.ru/rn77/ens/#block02ancor), [на сайте ФНС](https://service.nalog.ru/payment/) или [через Госуслуги.](https://www.gosuslugi.ru/help/faq/detali_nachisleniya/64843) Предприниматели также могут пополнить ЕНС наличными через МФЦ или почту. [Как пополнить ЕНС](/business/help/reports/tinkoff-accounting/taxes/ens-what-new/?internal_source=search_help&card=q12)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NGI4ODZiYi4wNF9ya29fZGVzay5wbmc=)Сумма задолженности видна в личном кабинете ФНС
+В течение трех рабочих дней после погашения задолженности налоговая отправит в банк решение о снятии блокировки счета. Мы снимем блокировку в будние дни в течение пары часов после того, как получим решение налоговой.
+Если налоговая заблокировала все деньги на счете
+Следуйте рекомендациям на экране блокировки в приложении или личном кабинете на сайте [tinkoff.ru.](/)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iMjY5YmMyMS5kZXNrdG9wXzAxXzMucG5n)На экране блокировки есть информация о том, почему налоговая заблокировала счет и что делать дальше

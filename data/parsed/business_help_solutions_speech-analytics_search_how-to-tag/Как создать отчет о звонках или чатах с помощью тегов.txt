@@ -1,10 +1,8 @@
-Как создать отчет о звонках или чатах с помощью тегов?
-
+## Как создать отчет о звонках или чатах с помощью тегов?
 Через меню «Отчеты» в «Речевой аналитике».
-
-- Перейдите в раздел «Звонки» или «Чаты» — в зависимости от того, по каким коммуникациям хотите создать отчет.
-В этом примере создаем отчет о звонках- В блоке «Мои отчеты» нажмите «Создать отчет».
-В этом примере создаем отчет по звонкам- Нажмите «Добавить параметры» и выберите «Теги».
-- Укажите нужные теги и нажмите на «Составить отчет».
-- Появится график, который соответствует выбранным тегам. Как работать с графиком в отчетах (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/reports/?card=q5)- В правом верхнем углу нажмите «Сохранить отчет» и придумайте для него название.
-Отчет сохранится в разделе «Отчеты» → «Звонки» → «Мои отчеты». Его можно просматривать в любое время, но нельзя скачать
+1. Перейдите в раздел «Звонки» или «Чаты» — в зависимости от того, по каким коммуникациям хотите создать отчет. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81OWViM2VmYS5kZXNrdG9wXzJfMS5wbmc=)В этом примере создаем отчет о звонках
+2. В блоке «Мои отчеты» нажмите «Создать отчет». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83N2Q5MjllYi5kZXNrdG9wXzNfMS5wbmc=)В этом примере создаем отчет по звонкам
+3. Нажмите «Добавить параметры» и выберите «Теги». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kM2U5NTM2MC4wM19yYV9vdHNlbmthXzR4XzEucG5n)
+4. Укажите нужные теги и нажмите на «Составить отчет». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NDllNTU0NC4xOF9yYV9vdHNlbmthXzR4LnBuZw==)
+5. Появится график, который соответствует выбранным тегам. [Как работать с графиком в отчетах](/business/help/solutions/speech-analytics/control/reports/?card=q5)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMjIzZDhlMy4xOV9yYV9vdHNlbmthXzR4LnBuZw==)
+6. В правом верхнем углу нажмите «Сохранить отчет» и придумайте для него название. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84NWY0OWUxNC4yMV9yYV9vdHNlbmthXzR4LnBuZw==)Отчет сохранится в разделе «Отчеты» → «Звонки» → «Мои отчеты». Его можно просматривать в любое время, но нельзя скачать

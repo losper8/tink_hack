@@ -1,5 +1,3 @@
-Как удалить отчет Wildberries из личного кабинета?
-
+## Как удалить отчет Wildberries из личного кабинета?
 Найдите отчет в списке загруженных, нажмите на значок корзины и подтвердите удаление.
-
-Вместе с отчетом удалятся и операции по этому отчету. Онлайн-бухгалтерия пересчитает налог по УСН за этот период
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wOWRiNDU0NC4wNl9tYXJrZXRwbGFjZV9kZXNrNHhfYjBkMTUzNzBlNTA1ZjA0NDIwMjVkZTljNWViNWQzZTEucG5n)Вместе с отчетом удалятся и операции по этому отчету. Онлайн-бухгалтерия пересчитает налог по УСН за этот период

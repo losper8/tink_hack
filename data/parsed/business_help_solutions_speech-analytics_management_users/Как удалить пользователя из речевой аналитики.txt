@@ -1,15 +1,10 @@
-Как удалить пользователя из речевой аналитики?
-
+## Как удалить пользователя из речевой аналитики?
 Полностью удалить пользователя из речевой аналитики нельзя, но можно его заблокировать. Заблокированные пользователи не смогут войти на платформу и работать с ней.
-
-
 Вот как заблокировать пользователя:
-
-- Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи».
-- Найдите в поиске карточку нужного пользователя. Искать можно по ФИО, логину, внешнему ID или рабочей эл. почте.
-- Откройте карточку нужного сотрудника. Для этого нажмите на его имя.- Поставьте галочку в поле «Заблокировать пользователя» и нажмите «Сохранить».
-
+1. Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNDI5ODUzOS4xOF9yYV91c2Vycy5wbmc=)
+2. Найдите в поиске карточку нужного пользователя. Искать можно по ФИО, логину, внешнему ID или рабочей эл. почте. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNmQxYjBhYS4xOV9yYV91c2Vycy5wbmc=)
+3. Откройте карточку нужного сотрудника. Для этого нажмите на его имя.
+4. Поставьте галочку в поле «Заблокировать пользователя» и нажмите «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yZTY1YTQzYy4yMF9yYV91c2Vycy5wbmc=)
 У пользователя появится пометка «Заблокирован».
-
-Пользователи с пометкой «Заблокирован» не смогут войти на платформу Tinkoff Quality Management
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xMzc2ZjgwMS4yMV9yYV91c2Vycy5wbmc=)Пользователи с пометкой «Заблокирован» не смогут войти на платформу Tinkoff Quality Management
 Разблокировать пользователя можно в любой момент — тоже в его карточке, просто сняв галочку.

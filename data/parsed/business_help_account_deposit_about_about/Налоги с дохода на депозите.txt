@@ -1,16 +1,10 @@
-Налоги с дохода на депозите
-Доход с депозита облагается налогом. По закону проценты считаются (http://www.consultant.ru/document/cons_doc_LAW_28165/d3cd0da5dfeff39ba9cedcd32c6c42fcfbd97b43/) внереализационным доходом предпринимателя — это прибыль, которая не связана напрямую с работой компании.
-
-Что такое внереализационные доходы и расходы (https://www.tinkoff.ru/business/blog/non-operating/)      
+## Налоги с дохода на депозите
+Доход с депозита облагается налогом. По закону проценты [считаются](http://www.consultant.ru/document/cons_doc_LAW_28165/d3cd0da5dfeff39ba9cedcd32c6c42fcfbd97b43/) внереализационным доходом предпринимателя — это прибыль, которая не связана напрямую с работой компании.
+[Что такое внереализационные доходы и расходы](/business/blog/non-operating/)
 Налоговая ставка зависит от системы налогообложения, на которой работает бизнес. Например, ИП на УСН «Доходы» открыл депозит в Тинькофф Бизнесе и в конце месяца получил проценты — 10 000 ₽. С этой суммы он уплатит налог 6% — 600 ₽. А на ОСНО придется уплатить НДФЛ 13%, то есть 1300 ₽.
-
-
 Если не платить налоги с процентов и не сдавать отчетность, налоговая может приостановить движение денег на счетах — полностью или частично.
-
-
 Если налоговая не сняла приостановление, а срок депозита подошел к концу, деньги с него не вернутся на расчетный счет. Заблокированная сумма останется на депозите и вернется на счет только после того, как налоговая снимет приостановление.
-
-Откройте депозит в Тинькофф Бизнесе (https://www.tinkoff.ru/business/deposit/?internal_source=blog-business)
+### [Откройте депозит в Тинькофф Бизнесе](https://www.tinkoff.ru/business/deposit/?internal_source=blog-business)
 Доходность до 14,41%, открытие и обслуживание — 0 ₽
-
-Подробнее (https://www.tinkoff.ru/business/deposit/?internal_source=blog-business)
+[Подробнее](https://www.tinkoff.ru/business/deposit/?internal_source=blog-business)
+![tag-card](https://imgproxy.cdn-tinkoff.ru/compressed95:help_blog_image/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWJsb2ctaW1hZ2VzLzc4ZTQxMjgyLmRlc2t0b3B0aWxlc29uZWlucm93X21fMjAyM18wOV8yN3QxNjU3MzdfMjgwLnBuZw==)

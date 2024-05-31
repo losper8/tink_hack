@@ -1,7 +1,5 @@
-Что можно делать на вкладке «Операторы»?
-
+## Что можно делать на вкладке «Операторы»?
 Вкладка «Операторы» нужна, чтобы отслеживать прогресс в работе сотрудников, отмечать их сильные и слабые стороны и хранить все оценки в одном месте. Здесь вы можете быстро найти карточку нужного сотрудника, поставить ему оценку или написать комментарий о его работе:
-
-- как найти карточку оператора (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/start/operators/?card=q5);
-- как оценить работу оператора (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/start/operators/?card=q6);
-- как оставить комментарий о работе оператора (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/start/operators/?card=q7).
+* [как найти карточку оператора](/business/help/solutions/speech-analytics-for-tinkoff/start/operators/?card=q5);
+* [как оценить работу оператора](/business/help/solutions/speech-analytics-for-tinkoff/start/operators/?card=q6);
+* [как оставить комментарий о работе оператора](/business/help/solutions/speech-analytics-for-tinkoff/start/operators/?card=q7).

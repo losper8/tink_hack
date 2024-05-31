@@ -1,3 +1,15 @@
-Как формировать чеки через сервис «Чеки»?
-
+## Как формировать чеки через сервис «Чеки»?
 Зависит от того, как принимаете оплату.
+По платежной ссылке
+Формируйте чеки вручную. Реквизиты нужно указывать каждый раз, когда создаете ссылку в личном кабинете интернет-эквайринга. [Что такое реквизиты чека](/business/help/business-payments/internet-acquiring/kassa/set-up/?card=q3)
+[Как сделать ссылку на оплату](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q3)
+Исключение — первые чеки по сделкам на аванс и предоплату, они будут формироваться автоматически. Но закрывающий чек по таким сделкам надо формировать самостоятельно в личном кабинете Тинькофф Бизнеса. [Как это сделать](/business/help/business-payments/internet-acquiring/kassa/set-up/?anchor=link)
+Через платежную форму
+Формируйте чеки автоматически. Настройка зависит от вашего способа интеграции. [Какие есть способы интеграции](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q1)
+Платежный модуль — у Тинькофф Кассы есть готовые платежные модули для CMS. [Список CMS](/kassa/develop/cms/)
+Поставьте на странице галочку «Поддерживает онлайн-кассу» и посмотрите, поддерживает ли ваша CMS передачу и формирование чеков.
+Если CMS нет в списке, спросите в ее поддержке, как настроить формирование чеков.
+Если CMS есть в списке, значит, передача обязательных реквизитов уже встроена в модуль. Чтобы указать их значения, следуйте инструкции для вашей CMS. Если нужно настроить передачу дополнительных реквизитов, обратитесь в поддержку CMS. [Что такое реквизиты чека](/business/help/business-payments/internet-acquiring/kassa/set-up/?card=q3)
+Платежный виджет — понадобится помощь программиста: добавьте в виджет объект с параметрами чека Receipt [по инструкции.](/kassa/dev/widget/index.html#section/Inicializaciya-platezha-cherez-platezhnyj-vidzhet/Ustanovka-vidzheta-s-chekom:~:text=%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20%D0%B0%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B0%20value%20%D0%BF%D0%BE%D0%BB%D1%8F%20receipt)
+API — понадобится помощь программиста: в запросе Init передайте объект с параметрами чека Receipt [по инструкции.](/kassa/dev/payments/#tag/Standartnyj-platyozh/paths/~1Init/post:~:text=Receipt-,Receipt_FFD_105%20\(object\)%20or%20Receipt_FFD_12%20\(object\),JSON%2D%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%20%D1%81%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8%20%D1%87%D0%B5%D0%BA%D0%B0.%20%D0%9E%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%BD%2C%20%D0%B5%D1%81%D0%BB%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B0%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%2D%D0%BA%D0%B0%D1%81%D1%81%D0%B0.,-One%20of)
+Мобильный SDK — сможете настроить автоматическую отправку чеков, если ваше приложение на Android от версии 7.0 или на iOS от версии 12.3. Понадобится помощь программиста. [Инструкция для Android и iOS](/kassa/dev/payments/#section/Vvedenie/Sposoby-integracii-internet-ekvajringa-ot-Tinkoff-Kassy)

@@ -1,7 +1,5 @@
-Как изменить комментарий об операторе?
-
+## Как изменить комментарий об операторе?
 Следуйте инструкции:
-
-- В TQM перейдите в «Поиск» → «Коммуникации» → «Операторы». (https://tqm.tinkoff.ru/filter/communications/operators) Найдите карточку нужного сотрудника по фамилии и имени. Справа от имени сотрудника нажмите на значок стрелки вправо.
-- В окне с комментарием нажмите на значок карандаша.
-- Введите новый комментарий и нажмите «Отправить».
+1. [В TQM перейдите в «Поиск» → «Коммуникации» → «Операторы».](https://tqm.tinkoff.ru/filter/communications/operators) Найдите карточку нужного сотрудника по фамилии и имени. Справа от имени сотрудника нажмите на значок стрелки вправо. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYmU5OTk5NS4wNV9kZXNrdG9wLnBuZw==)
+2. В окне с комментарием нажмите на значок карандаша. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xYWIzMzg0OC4wNl9kZXNrdG9wLnBuZw==)
+3. Введите новый комментарий и нажмите «Отправить».

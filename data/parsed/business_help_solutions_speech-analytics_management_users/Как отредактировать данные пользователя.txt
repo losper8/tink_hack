@@ -1,8 +1,7 @@
-Как отредактировать данные пользователя?
-
+## Как отредактировать данные пользователя?
 Чтобы изменить ФИО, адрес эп.почты, подразделение или роль пользователя на платформе:
-
-- Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи».
-- Найдите в поиске карточку нужного пользователя. Искать можно по ФИО, логину, внешнему ID или рабочей эл. почте.
-- Откройте карточку нужного пользователя. Для этого нажмите на его имя.- Внесите изменения в карточку. Изменить поля «Логин» и «Внешний ID» нельзя: они формируются автоматически при создании карточки пользователя.
-- Нажмите «Сохранить».
+1. Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iYmVjY2M5My4xNV9yYV91c2Vycy5wbmc=)
+2. Найдите в поиске карточку нужного пользователя. Искать можно по ФИО, логину, внешнему ID или рабочей эл. почте. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kYmViYTlhNy4xNl9yYV91c2Vycy5wbmc=)
+3. Откройте карточку нужного пользователя. Для этого нажмите на его имя.
+4. Внесите изменения в карточку. Изменить поля «Логин» и «Внешний ID» нельзя: они формируются автоматически при создании карточки пользователя. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81MjA3NmE4ZS4xN19yYV91c2Vycy5wbmc=)
+5. Нажмите «Сохранить».

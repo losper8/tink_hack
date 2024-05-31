@@ -1,6 +1,5 @@
-Как узнать статус платежного поручения?
-
+## Как узнать статус платежного поручения?
 В интерфейсе 1С:
-
-- В главном меню нажмите «Банк и касса» → «Платежные поручения» и выберите нужное платежное поручение.- Нажмите «1С:ДиректБанк» → «Просмотреть электронный документ».
-- Нажмите «Запросить состояние», чтобы посмотреть статус платежного поручения.
+1. В главном меню нажмите «Банк и касса» → «Платежные поручения» и выберите нужное платежное поручение.
+2. Нажмите «1С:ДиректБанк» → «Просмотреть электронный документ». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84M2Y4OWNiZi4wMV9kZXNrdG9wXzE1LnBuZw==)
+3. Нажмите «Запросить состояние», чтобы посмотреть статус платежного поручения. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jZDRhMzJmNy4wMl9kZXNrdG9wXzExLnBuZw==)

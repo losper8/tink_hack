@@ -1,13 +1,14 @@
-Как создать новую страницу сайта?
-
+## Как создать новую страницу сайта?
 В интернет-магазине и на сайте-визитке страницы создаются одинаково.
-
-
 Чтобы создать новую страницу:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites) выберите нужный сайт → «Добавить страницу». На одном сайте можно создать до 200 страниц.- Выберите готовый или пустой шаблон страницы → «Продолжить».
-
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites) выберите нужный сайт → «Добавить страницу». На одном сайте можно создать до 200 страниц.
+2. Выберите готовый или пустой шаблон страницы → «Продолжить».
 Шаблоны помогают быстро создать продуктовую страницу, разместить политику конфиденциальности, рассказать о бизнесе и решить другие задачи.
-- Отредактируйте страницу: добавьте изображения, измените текст, укажите ссылки. Как это сделать (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=edit-page)- Настройте страницу по инструкциям:
-- добавьте страницу в меню на сайте (https://www.tinkoff.ru/business/help/sales/website-builder/sale/navigation/?card=menu), чтобы посетитель смог на нее перейти;- обновите адрес, название и описание страницы (https://www.tinkoff.ru/business/help/sales/website-builder/sale/page/?card=page-settings), чтобы было проще продвигать сайт в поисковиках;- подключите Яндекс Метрику (https://www.tinkoff.ru/business/help/sales/website-builder/effective/analytics/?card=trackers), чтобы отслеживать, какие страницы посещает пользователь, на какие элементы нажимает.- Нажмите «Опубликовать» справа вверху.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zZTcxMzY4My5kZXNrdG9wXzAxLnBuZw==)
+3. Отредактируйте страницу: добавьте изображения, измените текст, укажите ссылки. [Как это сделать](/business/help/sales/website-builder/sale/edit/?card=edit-page)
+4. Настройте страницу по инструкциям:
+* [добавьте страницу в меню на сайте](/business/help/sales/website-builder/sale/navigation/?card=menu), чтобы посетитель смог на нее перейти;
+* [обновите адрес, название и описание страницы](/business/help/sales/website-builder/sale/page/?card=page-settings), чтобы было проще продвигать сайт в поисковиках;
+* [подключите Яндекс Метрику](/business/help/sales/website-builder/effective/analytics/?card=trackers), чтобы отслеживать, какие страницы посещает пользователь, на какие элементы нажимает.
+5. Нажмите «Опубликовать» справа вверху.
 Готово, вы создали страницу сайта.

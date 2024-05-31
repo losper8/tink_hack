@@ -1,17 +1,9 @@
-Что такое расчетный период и как его посмотреть?
-
+## Что такое расчетный период и как его посмотреть?
 Расчетным называется период, за который банк учитывает ваши операции по счету, устанавливает лимиты по тарифам и формирует выписку. Он длится от 28 до 31 дня в зависимости от количества дней в месяце и начинается в одну и ту же дату каждого месяца. Исключение — случаи, когда вы сами меняете тариф: тогда расчетный период начинается заново.
-
-
 В первый день нового расчетного периода списывается комиссия и обновляются лимиты.
-
-
-Узнать дату начала вашего расчетного периода можно в мобильном приложении Тинькофф Бизнеса или личном кабинете tinkoff.ru: (http://tinkoff.ru)
-- в приложении нажмите «Еще» → «Тарифы»;
-
-- в личном кабинете с телефона нажмите на название компании или ИП → «Тарифы» (https://business.tinkoff.ru/sme/tariffs/comparison);
-
-- в личном кабинете с компьютера откройте «Счета и платежи» → «Тарифы». (https://business.tinkoff.ru/sme/tariffs/)
-
-
+Узнать дату начала вашего расчетного периода можно в мобильном приложении Тинькофф Бизнеса или личном кабинете [tinkoff.ru:](http://tinkoff.ru)
+* в приложении нажмите «Еще» → «Тарифы»; ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yZGVjZDJiOS5kZXNrdG9wXzAyLnBuZw==)
+* в личном кабинете с телефона [нажмите на название компании или ИП → «Тарифы»](https://business.tinkoff.ru/sme/tariffs/comparison); ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMDE5ZDk2Ny5kZXNrdG9wXzAzLnBuZw==)
+* в личном кабинете с компьютера откройте [«Счета и платежи» → «Тарифы».](https://business.tinkoff.ru/sme/tariffs/)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ODIxNTM3OC5kZXNrdG9wXzA0LnBuZw==)
 Дата начала нового расчетного периода будет под цветным баннером с названием тарифа.
+Для каждой дополнительной услуги или пакета расчетный период свой и начинается в день подключения. Посмотреть его можно в приложении или личном кабинете Тинькофф Бизнеса на вкладке «Тарифы».

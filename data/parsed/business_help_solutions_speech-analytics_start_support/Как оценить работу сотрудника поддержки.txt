@@ -1,8 +1,5 @@
-Как оценить работу сотрудника поддержки?
-Зайдите в личный кабинет администратора Tinkoff Software → «Поддержка». (https://software.tinkoff.ru/account/informer/) Кликните на строку с обращением, работу по которому хотите оценить. Нажмите на нужное эмодзи.
-
-Оценивать работу сотрудника поддержки не обязательно
-  
+## Как оценить работу сотрудника поддержки?
+[Зайдите в личный кабинет администратора Tinkoff Software → «Поддержка».](https://software.tinkoff.ru/account/informer/) Кликните на строку с обращением, работу по которому хотите оценить. Нажмите на нужное эмодзи.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MDdlNWRlZi4wNl9kZXNrdG9wLnBuZw==)Оценивать работу сотрудника поддержки не обязательно
 Откроется окно, в котором можете выбрать, что понравилось или не понравилось в работе поддержки. Если хотите, оставьте комментарий. Нажмите «Отправить».
-
-Комментарий писать не обязательно
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yZGY5YTQ3YS4wN19kZXNrdG9wLnBuZw==)Комментарий писать не обязательно

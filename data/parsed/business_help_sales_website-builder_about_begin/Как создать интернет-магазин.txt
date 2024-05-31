@@ -1,24 +1,37 @@
-Как создать интернет-магазин?
-
+## Как создать интернет-магазин?
 Чтобы создать интернет-магазин, зарегистрируйтесь в конструкторе Тинькофф.
-
-Зарегистрироваться (https://www.tinkoff.ru/business/website-builder/?internal_source=help)
-Если вы клиент Тинькофф Бизнеса, регистрироваться не нужно. Войдите в личный кабинет → «Все сервисы» → «Привлечение клиентов» → «Конструктор сайтов». (https://business.tinkoff.ru/sites/)
-
-
+[Зарегистрироваться](/business/website-builder/?internal_source=help)
+Если вы клиент Тинькофф Бизнеса, регистрироваться не нужно. [Войдите в личный кабинет → «Все сервисы» → «Привлечение клиентов» → «Конструктор сайтов».](https://business.tinkoff.ru/sites/)
+На одной учетной записи Тинькофф можно создать до 10 сайтов. На каждом может быть до 200 страниц.
 Вот как создать интернет-магазин за три шага.
-
-- В личном кабинете Тинькофф Бизнеса перейдите в «Конструктор сайтов» (https://business.tinkoff.ru/sites/) → «Создать сайт» → «Интернет-магазин».
-- В поле «Название» укажите название вашего магазина. На основе этих данных конструктор автоматически создаст адрес сайта в домене tb.ru — вы можете сразу отредактировать его. Потом можете привязать сайт к собственному домену. Как подключить свой домен (https://www.tinkoff.ru/business/help/sales/website-builder/about/domain/?card=domain-setup)Если автоматически сгенерированный адрес сайта занят, появится предупреждение, что нужно придумать другой
-- Появится раздел «Как хотите добавить товары или услуги». Выберите способ, которым хотите добавить товары или услуги на сайт. Следуйте инструкциям:
-- добавить товары вручную (https://www.tinkoff.ru/business/help/sales/website-builder/sale/goods-and-services/?card=upload);- добавить услуги вручную (https://www.tinkoff.ru/business/help/sales/website-builder/sale/goods-and-services/?card=post-services);- перенести товары из Инстаграма* (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=social);- перенести товары из маркетплейса. (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=marketplace)
-- добавить товары вручную (https://www.tinkoff.ru/business/help/sales/website-builder/sale/goods-and-services/?card=upload);
-- добавить услуги вручную (https://www.tinkoff.ru/business/help/sales/website-builder/sale/goods-and-services/?card=post-services);
-- перенести товары из Инстаграма* (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=social);
-- перенести товары из маркетплейса. (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=marketplace)
-- Выберите шаблон сайта, который вам подходит, и нажмите «Дальше». В каждом шаблоне есть страницы, которые пригодятся для работы магазина: например, меню сайта, каталог товаров, корзина, условия доставки и возврата. Останется только отредактировать страницы под ваш бизнес. Как это сделать (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=edit-page)Конструктор всегда предлагает три шаблона по оформлению сайта. Страницы, которые вы выбрали, отражены в каждом из них
+Шаг № 1. Настройте сайт для будущего магазина
+1. [В личном кабинете Тинькофф Бизнеса перейдите в «Конструктор сайтов»](https://business.tinkoff.ru/sites/) → «Создать сайт» → «Интернет-магазин».
+2. В поле «Название» укажите название вашего магазина. На основе этих данных конструктор автоматически создаст адрес сайта в домене tb.ru — вы можете сразу отредактировать его. Потом можете привязать сайт к собственному домену. [Как подключить свой домен](/business/help/sales/website-builder/about/domain/?card=domain-setup)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYzRiNjEyMC5kZXNrdG9wXzA0LnBuZw==)Если автоматически сгенерированный адрес сайта занят, появится предупреждение, что нужно придумать другой
+3. Появится раздел «Как хотите добавить товары или услуги». Выберите способ, которым хотите добавить товары или услуги на сайт. Следуйте инструкциям:
+* [добавить товары вручную](/business/help/sales/website-builder/sale/goods-and-services/?card=upload);
+* [добавить услуги вручную](/business/help/sales/website-builder/sale/goods-and-services/?card=post-services);
+* [перенести товары из Инстаграма*](/business/help/sales/website-builder/about/begin/?card=social);
+* [перенести товары из маркетплейса.](/business/help/sales/website-builder/about/begin/?card=marketplace)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82M2M1MjFjZS5kZXNrdG9wXzEucG5n)
+4. Выберите шаблон сайта, который вам подходит, и нажмите «Дальше». В каждом шаблоне есть страницы, которые пригодятся для работы магазина: например, меню сайта, каталог товаров, корзина, условия доставки и возврата. Останется только отредактировать страницы под ваш бизнес. [Как это сделать](/business/help/sales/website-builder/sale/edit/?card=edit-page)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNDBkMjNiZC4wNF9rb25zdHJ1a3Rvcl9kZXNrLnBuZw==)Конструктор всегда предлагает три шаблона по оформлению сайта. Страницы, которые вы выбрали, отражены в каждом из них
 Когда создадите сайт для будущего магазина, увидите чек‑лист с рекомендациями. Выполните пункты чек‑листа, чтобы превратить сайт в полноценный интернет-магазин.
-Рекомендации, которые вы выполнили, отмечаются зеленой галочкой. Если выполните все рекомендации, чек-лист исчезнет
-- формат — JPG, PNG или GIF;
-- размер — не больше 10 МБ;
-- разрешение — от 360 до 1060 пикселей.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NWYyMDYzMi4wNV9rb25zdHJ1a3Rvcl9kZXNrLnBuZw==)Рекомендации, которые вы выполнили, отмечаются зеленой галочкой. Если выполните все рекомендации, чек-лист исчезнет
+Шаг № 2. Добавьте товары и услуги
+Перед тем как приступить к добавлению товаров, подготовьте их описание и фотографии. В карточку одного товара можно добавить до 10 фотографий. Советуем использовать изображения с такими характеристиками:
+* формат — JPG, PNG или GIF;
+* размер — не больше 10 МБ;
+* разрешение — от 360 до 1060 пикселей.
+Теперь можете добавить товары в магазин. [Пошаговая инструкция](/business/help/sales/website-builder/sale/goods-and-services/?card=upload)
+Когда добавите товары, на сайте появится страница с каталогом товаров и блок «Бестселлеры» на главной странице. В блок «Бестселлеры» вы можете добавить товары, на которые хотите обратить внимание покупателей.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xMTI0OTdkMi4wNl9rb25zdHJ1a3Rvcl9kZXNrLnBuZw==)Пользователи перейдут в каталог товаров, если нажмут «К покупкам»
+Шаг № 3. Настройте прием платежей
+Подключить прием платежей на сайте могут только ИП или ООО. Если вы физлицо или самозанятый, нужно зарегистрировать бизнес и открыть расчетный счет — это можно сделать через конструктор сайтов.
+Если вы еще не зарегистрировали бизнес, откройте ИП или ООО без учредителей через Тинькофф. Расчетный счет в Тинькофф Бизнесе откроем автоматически за 1—3 рабочих дня — это бесплатно. [Как зарегистрировать бизнес](/business/help/sales/website-builder/money/acquiring/?card=business-registration)
+Если вы уже зарегистрировали бизнес, откройте расчетный счет в Тинькофф: с расчетным счетом в другом банке не получится подключить прием платежей на сайте. [Как открыть расчетный счет](/business/help/sales/website-builder/money/acquiring/?card=business-account)
+Теперь вы готовы подключить прием платежей. [Пошаговая инструкция](/business/help/sales/website-builder/money/acquiring/?card=start)
+Видеоинструкция, как создать интернет-магазин:
+Тайм-коды
+[00:13 Как зарегистрироваться в сервисе](https://www.youtube.com/watch?v=fakvX_xDdtE&t=13s)
+[00:23 Как настроить сайт для будущего магазина](https://www.youtube.com/watch?v=fakvX_xDdtE&t=23s)
+[01:30 Как добавить товары и услуги](https://www.youtube.com/watch?v=fakvX_xDdtE&t=90s)
+[02:19 Как настроить прием платежей](https://www.youtube.com/watch?v=fakvX_xDdtE&t=139s)

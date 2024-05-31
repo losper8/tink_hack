@@ -1,12 +1,10 @@
-Как войти в личный кабинет Тинькофф Бизнеса?
-
+## Как войти в личный кабинет Тинькофф Бизнеса?
 Чтобы войти в личный кабинет Тинькофф Бизнеса, достаточно нажать на значок профиля в правом верхнем углу любой страницы tinkoff.ru и выбрать Тинькофф Бизнес в выпадающем списке.
-
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZjQ3NjI0Zi4wNF9kZXNrdG9wLnBuZw==)
 У нас есть несколько советов, как сделать вход в Тинькофф Бизнес удобнее:
-
-- На iPhone открывайте tinkoff.ru в Safari, чтобы установить иконку личного кабинета Тинькофф Бизнеса и включить пуш‑уведомления, — там это делается в один клик.
-Как установить иконку на iPhone пошагово (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/log-in/?card=q12)Как включить пуш‑уведомления на iPhone пошагово (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/log-in/?card=q13)- При входе в личный кабинет вводите тот номер телефона, на который открывали счет в Тинькофф Бизнесе.
-- После того как введете пароль, придумайте четырехзначный код для быстрого входа в личный кабинет — тогда не нужно будет каждый раз вводить код подтверждения из СМС и пароль.
-
-Личный кабинет адаптирован под мобильные устройства, и в нем больше функций, чем в приложении: можно подключать и отключать продукты, управлять всеми банковскими сервисами, которые подключены к счету. Каждый сервис указан в отдельном разделе. Какие сервисы для бизнеса есть в Тинькофф (https://www.tinkoff.ru/business/help/account/currency-ruble/open-account/main/?card=q3)
+1. На iPhone открывайте tinkoff.ru в Safari, чтобы установить иконку личного кабинета Тинькофф Бизнеса и включить пуш‑уведомления, — там это делается в один клик.
+[Как установить иконку на iPhone пошагово](/business/help/account/currency-ruble/personal-account/log-in/?card=q12)
+[Как включить пуш‑уведомления на iPhone пошагово](/business/help/account/currency-ruble/personal-account/log-in/?card=q13)
+2. При входе в личный кабинет вводите тот номер телефона, на который открывали счет в Тинькофф Бизнесе. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMDMxMGNhZi4wMV9kZXNrdG9wLnBuZw==)
+3. После того как введете пароль, придумайте четырехзначный код для быстрого входа в личный кабинет — тогда не нужно будет каждый раз вводить код подтверждения из СМС и пароль. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMzA2ZmQyOC4wNl9kZXNrdG9wLnBuZw==)
+Личный кабинет адаптирован под мобильные устройства, и в нем больше функций, чем в приложении: можно подключать и отключать продукты, управлять всеми банковскими сервисами, которые подключены к счету. Каждый сервис указан в отдельном разделе. [Какие сервисы для бизнеса есть в Тинькофф](/business/help/account/currency-ruble/open-account/main/?card=q3)

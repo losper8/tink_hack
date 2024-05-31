@@ -1,8 +1,6 @@
-Какие ограничения есть у семантических словарей?
-
+## Какие ограничения есть у семантических словарей?
 Ограничений несколько:
-
-- семантические словари нельзя редактировать, можно только удалять; Как удалить словарь (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/working-with-dictionaries/?card=q6)
-- их можно назначать только «Для звонков»; Как создать словарь (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/working-with-dictionaries/?card=q2)
-- они анализируют речь по отдельности: в параметре «Канал» можно выбрать только «Оператор» или «Клиент»;
-- у них нет метрик, по ним нельзя оценивать работу оператора.
+* семантические словари нельзя редактировать, можно только удалять; [Как удалить словарь](/business/help/solutions/speech-analytics-for-tinkoff/setup/working-with-dictionaries/?card=q6)
+* их можно назначать только «Для звонков»; [Как создать словарь](/business/help/solutions/speech-analytics-for-tinkoff/setup/working-with-dictionaries/?card=q2)
+* они анализируют речь по отдельности: в параметре «Канал» можно выбрать только «Оператор» или «Клиент»;
+* у них нет метрик, по ним нельзя оценивать работу оператора.

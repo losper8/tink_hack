@@ -1,5 +1,6 @@
-Как оценить чат?
-
+## Как оценить чат?
 В результатах поиска:
-
-- Выберите нужный чат и в его карточке нажмите «Оценить коммуникацию» — кнопка выглядит как значок галочки. Как найти нужные чаты (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q4)- Затем выберите оценочную форму из выпадающего списка или найдите ее через поиск. По одной форме можно поставить только одну оценку. Как создать оценочную форму (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/create-forms/)- Поставьте оценку и укажите, будет ли она влиять на рейтинг оператора. Если в чате участвовало несколько операторов, один и тот же чат можно оценить отдельно по каждому оператору.- Нажмите «Оценить».
+1. Выберите нужный чат и в его карточке нажмите «Оценить коммуникацию» — кнопка выглядит как значок галочки. [Как найти нужные чаты](/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q4)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kZDkzNmZiYy4yN19yYV9jaGF0eV9kZXNrXzR4LnBuZw==)
+2. Затем выберите оценочную форму из выпадающего списка или найдите ее через поиск. По одной форме можно поставить только одну оценку. [Как создать оценочную форму](/business/help/solutions/speech-analytics-for-tinkoff/setup/create-forms/)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wODkzNTc3Yi4yOF9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)
+3. Поставьте оценку и укажите, будет ли она влиять на рейтинг оператора. Если в чате участвовало несколько операторов, один и тот же чат можно оценить отдельно по каждому оператору.
+4. Нажмите «Оценить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YTE5YmE2OC4yOV9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)

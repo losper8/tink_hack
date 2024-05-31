@@ -1,6 +1,4 @@
-Где найти список словарей?
-В TQM перейдите в «Поиск» → «Коммуникации» → «Словари». (https://tqm.tinkoff.ru/filter/communications/dictionaries) В списке отображаются обычные и семантические словари, которые вы создали. Предустановленные словари не отображаются в этом списке, но их можно увидеть во всех задачах, где их получится использовать. Где и как можно использовать словари (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/setup/dictionaries/?card=q2)
-
+## Где найти список словарей?
+[В TQM перейдите в «Поиск» → «Коммуникации» → «Словари».](https://tqm.tinkoff.ru/filter/communications/dictionaries) В списке отображаются обычные и семантические словари, которые вы создали. Предустановленные словари не отображаются в этом списке, но их можно увидеть во всех задачах, где их получится использовать. [Где и как можно использовать словари](/business/help/solutions/speech-analytics-for-tinkoff/setup/dictionaries/?card=q2)
 У названий семантических словарей есть показатель «Близость», их легко отличить от обычных словарей.
-
-Словари отсортированы по дате добавления
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MTNiY2Y0ZS4wOV9kZXNrdG9wLnBuZw==)Словари отсортированы по дате добавления

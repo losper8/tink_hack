@@ -1,6 +1,5 @@
-Как включить и настроить уведомления об отзывах?
-
+## Как включить и настроить уведомления об отзывах?
 Включить уведомления об отзывах на e‑mail можно в личном кабинете Тинькофф Бизнеса:
-
-- Выберите «Отзывы» → «Уведомления» (https://business.tinkoff.ru/city-feedback/notifications) → «Добавить».
-- Введите почту, на которую хотите получать уведомления.- Выберите, какие уведомления хотите получать и как часто → «Добавить».
+1. [Выберите «Отзывы» → «Уведомления»](https://business.tinkoff.ru/city-feedback/notifications) → «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YjdkOGMxYy4wMl9kZXNrdG9wLnBuZw==)
+2. Введите почту, на которую хотите получать уведомления.
+3. Выберите, какие уведомления хотите получать и как часто → «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85OWYyZTUzNy4wM19kZXNrdG9wLnBuZw==)

@@ -1,8 +1,5 @@
-Как зайти в личный кабинет интернет-эквайринга?
-
-Это можно сделать с любой страницы tinkoff.ru (https://www.tinkoff.ru/) или по ссылке: войти в личный кабинет интернет-эквайринга. (https://business.tinkoff.ru/oplata/main?internal_source=help-order)
-
+## Как зайти в личный кабинет интернет-эквайринга?
+Это можно сделать с любой страницы [tinkoff.ru](/) или по ссылке: [войти в личный кабинет интернет-эквайринга.](https://business.tinkoff.ru/oplata/main?internal_source=help-order)
 Как войти в интернет-эквайринг с любой страницы tinkoff.ru
-
-- Нажмите «Войти» в правом верхнем углу страницы. Войти можно по номеру телефона и коду из СМС или по логину и паролю.
-- Нажмите на вкладку «Интернет-эквайринг».
+1. Нажмите «Войти» в правом верхнем углу страницы. Войти можно по номеру телефона и коду из СМС или по логину и паролю. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNTZiZmU0ZC4wMV9ob3dfdG9fbGljaG5peV9rYWJpbmV0X2Rlc2sucG5n)
+2. Нажмите на вкладку «Интернет-эквайринг». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80OTAwYTIxOS4wMl9ob3dfdG9fbGljaG5peV9rYWJpbmV0X2Rlc2sucG5n)

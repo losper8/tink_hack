@@ -1,14 +1,11 @@
-Как посмотреть, изменить или калибровать оценку в отчете по оценкам?
-- Зайдите в личный кабинет TQM → «Отчеты» → «Оценки». (https://tqm.tinkoff.ru/analytics/evaluations) В блоке «Мои отчеты» нажмите на название отчета, который хотите посмотреть.- В таблице с оценками вы увидите средние оценки за оценочный период. Он может не совпадать с календарным месяцем. Что такое оценочный период (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/reports/?card=q11)
+## Как посмотреть, изменить или калибровать оценку в отчете по оценкам?
+1. [Зайдите в личный кабинет TQM → «Отчеты» → «Оценки».](https://tqm.tinkoff.ru/analytics/evaluations) В блоке «Мои отчеты» нажмите на название отчета, который хотите посмотреть.
+2. В таблице с оценками вы увидите средние оценки за оценочный период. Он может не совпадать с календарным месяцем. [Что такое оценочный период](/business/help/solutions/speech-analytics-for-tinkoff/control/reports/?card=q11)
 Чтобы изменить, удалить или калибровать оценку, нажмите на нее.
-- Под основной таблицей появится еще одна со всеми оценками оператора за выбранный период. В строке с оценкой нажмите на стрелочку рядом с «Открыть». В выпадающем списке выберите действие с оценкой: изменить, калибровать или удалить.
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jYzQzOWM1OS4wM19kZXNrdG9wXzIucG5n)
+3. Под основной таблицей появится еще одна со всеми оценками оператора за выбранный период. В строке с оценкой нажмите на стрелочку рядом с «Открыть». В выпадающем списке выберите действие с оценкой: изменить, калибровать или удалить. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZmVhM2EzOC4wNl9kZXNrdG9wLnBuZw==)
 Если выбрать «Изменить оценку» или «Калибровать оценку», откроется страница оценки. Внесите изменения и нажмите «Сохранить».
-
-Как изменить ручную оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q8)
-Как калибровать ручную оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q9)
-
-Если выбрать «Удалить», система удалит оценку без возможности восстановления. Как удалить ручную оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q10)
-
-
+[Как изменить ручную оценку](/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q8)
+[Как калибровать ручную оценку](/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q9)
+Если выбрать «Удалить», система удалит оценку без возможности восстановления. [Как удалить ручную оценку](/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q10)
 После изменения или удаления оценки общая оценка в отчете изменится автоматически. Калибровка не влияет на оценку в отчете.

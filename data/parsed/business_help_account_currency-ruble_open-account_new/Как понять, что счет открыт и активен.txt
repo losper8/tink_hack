@@ -1,5 +1,3 @@
-Как понять, что счет открыт и активен?
-
+## Как понять, что счет открыт и активен?
 Вы получите СМС с уведомлением, а счет появится на главной странице в личном кабинете и в списке счетов на главном экране приложения.
-
-Активные счета в личном кабинете
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zNTRhMzE0MS5kZXNrdG9wXzAxLnBuZw==)Активные счета в личном кабинете

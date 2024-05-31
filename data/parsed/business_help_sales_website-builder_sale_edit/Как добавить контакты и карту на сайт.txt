@@ -1,14 +1,11 @@
-Как добавить контакты и карту на сайт?
-
+## Как добавить контакты и карту на сайт?
 Блок «Контакты» помогает разместить информацию о компании: адрес, телефон, название, местоположение на картах.
-
-
 Чтобы добавить контакты и карту на сайт:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт, а затем страницу, на которую хотите добавить контакты и карту. Нажмите на значок плюса вверху или внизу — зависит от того, где хотите разместить блок.
-- В разделе «Контакты» выберите нужный блок.
-- 
-Нажмите «Изменить структуру» — иконка с чек‑листом слева вверху. В меню снизу выберите, какие элементы хотите убрать или добавить в блок.
-- Кликните на карту в любом месте и введите свой адрес в меню снизу.
-- Заполните блок информацией о компании — нажмите на текст и укажите адрес, режим работы и контакты.- Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт, а затем страницу, на которую хотите добавить контакты и карту. Нажмите на значок плюса вверху или внизу — зависит от того, где хотите разместить блок. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81YjE4N2E3Mi5kZXNrdG9wXzQ2LnBuZw==)
+2. В разделе «Контакты» выберите нужный блок. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMzViODIyZi5kZXNrdG9wXzQ3LnBuZw==)
+3. Нажмите «Изменить структуру» — иконка с чек‑листом слева вверху. В меню снизу выберите, какие элементы хотите убрать или добавить в блок.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iN2FmMjJhMi5kZXNrdG9wXzQ4LnBuZw==)
+4. Кликните на карту в любом месте и введите свой адрес в меню снизу. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NjBlYWFkMS5kZXNrdG9wXzQ5LnBuZw==)
+5. Заполните блок информацией о компании — нажмите на текст и укажите адрес, режим работы и контакты.
+6. Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
 Готово, вы добавили контакты и карту на сайт.

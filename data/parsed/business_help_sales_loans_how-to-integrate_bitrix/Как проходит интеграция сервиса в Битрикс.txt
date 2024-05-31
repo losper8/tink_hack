@@ -1,8 +1,10 @@
-Как проходит интеграция сервиса в Битрикс?
-
+## Как проходит интеграция сервиса в Битрикс?
 Для этого у нас есть специальный модуль. Его можно скачать и установить бесплатно по нашим подробным инструкциям.
-
-
 Модуль встраивается в несколько этапов:
-
-- Установка модуля. (https://www.tinkoff.ru/business/help/sales/loans/how-to-integrate/bitrix/?card=q2)- Настройка платежной системы. (https://www.tinkoff.ru/business/help/sales/loans/how-to-integrate/bitrix/?card=q3)- Переход в магазин после оплаты. (https://www.tinkoff.ru/business/help/sales/loans/how-to-integrate/bitrix/?card=q4)- Изменение статуса оплаты заказа. (https://www.tinkoff.ru/business/help/sales/loans/how-to-integrate/bitrix/?card=q5)- Тестовый и боевой режим работы. (https://www.tinkoff.ru/business/help/sales/loans/how-to-integrate/bitrix/?card=q6)- Работа с рассрочками. (https://www.tinkoff.ru/business/help/sales/loans/how-to-integrate/bitrix/?card=q7)
+1. [Установка модуля.](/business/help/sales/loans/how-to-integrate/bitrix/?card=q2)
+2. [Настройка платежной системы.](/business/help/sales/loans/how-to-integrate/bitrix/?card=q3)
+3. [Переход в магазин после оплаты.](/business/help/sales/loans/how-to-integrate/bitrix/?card=q4)
+4. [Изменение статуса оплаты заказа.](/business/help/sales/loans/how-to-integrate/bitrix/?card=q5)
+5. [Тестовый и боевой режим работы.](/business/help/sales/loans/how-to-integrate/bitrix/?card=q6)
+6. [Работа с рассрочками.](/business/help/sales/loans/how-to-integrate/bitrix/?card=q7)
+Для интеграции модуля нужен разработчик.

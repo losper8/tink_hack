@@ -1,9 +1,10 @@
-Где посмотреть реквизиты расчетного счета?
-
+## Где посмотреть реквизиты расчетного счета?
 Реквизиты расчетного счета пришлем, как только получим заявку на открытие расчетного счета. Они не изменятся после того, как откроем счет, — можете сразу отправлять реквизиты контрагентам.
-
-
-После открытия счета посмотреть его реквизиты можно в мобильном приложении и личном кабинете Тинькофф Бизнеса. Открыть счет (https://www.tinkoff.ru/business/help/account/currency-ruble/open-account/main/#form)
-
-
-Если вы хотите пополнить расчетный счет со своей дебетовой карты, можете воспользоваться QR‑кодом, чтобы не вводить реквизиты вручную. Как воспользоваться QR‑кодом (https://www.tinkoff.ru/business/help/account/currency-ruble/account-replenish/add-money/?card=q11)
+После открытия счета посмотреть его реквизиты можно в мобильном приложении и личном кабинете Тинькофф Бизнеса. [Открыть счет](/business/help/account/currency-ruble/open-account/main/#form)
+С телефона — в приложении Тинькофф Бизнеса
+Выберите счет на главном экране, пролистайте вниз до блока «Реквизиты» → «Показать все». Откроется экран с реквизитами, откуда их можно отправить контрагентам. [Как отправить реквизиты контрагентам](/business/help/account/currency-ruble/personal-account/log-in/?card=q5)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMzljM2M1Zi4wM19kZXNrdG9wLnBuZw==)Можете отправить реквизиты в виде PDF-файла или QR-кода
+С телефона или компьютера — в личном кабинете на tinkoff.ru
+Выберите счет, нажмите на три точки рядом с ним → «Реквизиты». Откроется экран с реквизитами, откуда их можно скачать в формате PDF, распечатать или отправить контрагентам.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMDgzNGMwYS5kZXNrdG9wLnBuZw==)Можете отправить реквизиты в виде PDF-файла или QR-кода
+Если вы хотите пополнить расчетный счет со своей дебетовой карты, можете воспользоваться QR‑кодом, чтобы не вводить реквизиты вручную. [Как воспользоваться QR‑кодом](/business/help/account/currency-ruble/account-replenish/add-money/?card=q11)

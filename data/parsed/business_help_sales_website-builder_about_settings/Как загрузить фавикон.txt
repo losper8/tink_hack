@@ -1,9 +1,8 @@
-Как загрузить фавикон?
-
+## Как загрузить фавикон?
 Фавикон — небольшой значок рядом с названием вкладки в браузере, он помогает выделить ваш сайт в поисковиках. Чаще всего фавикон — это упрощенная версия логотипа компании.
-
-Так выглядит фавикон Тинькофф
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hYjIzZWIyMy5kZXNrdG9wXzI3LnBuZw==)Так выглядит фавикон Тинькофф
 Чтобы загрузить фавикон:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → «Основные»- В разделе «Фавикон» загрузите логотип. Для фавикона подходят файлы не больше 1 МБ в форматах PNG, JPG и ICON.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → «Основные»
+2. В разделе «Фавикон» загрузите логотип. Для фавикона подходят файлы не больше 1 МБ в форматах PNG, JPG и ICON.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iY2EzZDJjOC5kZXNrdG9wXzI4LnBuZw==)
 Готово! Посетитель увидит фавикон сайта в поисковой выдаче и на вкладке браузера, если откроет ваш сайт.

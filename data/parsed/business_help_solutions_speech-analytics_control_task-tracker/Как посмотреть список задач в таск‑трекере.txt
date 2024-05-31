@@ -1,7 +1,6 @@
-Как посмотреть список задач в таск‑трекере?
-
-Чтобы посмотреть задачи в таск‑трекере, перейдите в раздел «Развитие качества» → «Задачи»: (https://tqm.tinkoff.ru/qa/task-tracker/board/active)
-- на вкладке «Мои задачи» увидите задачи, которые назначили вам; Как работать с задачей (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/task-tracker/?card=q8)
-- на вкладке «Под наблюдением» найдете задачи, где вы автор или наблюдатель;
-- на вкладке «Черновики» увидите задачи, которые вы создали, но не отправили исполнителю. Как работать с черновиком задачи (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/task-tracker/?card=q9)
-- на вкладке «Отмененные» увидите задачи, которые были отменены. Как работать с отмененными задачами (https://www.tinkoff.ru/business/help/solutions/speech-analytics/control/task-tracker/?card=q12)
+## Как посмотреть список задач в таск‑трекере?
+Чтобы посмотреть задачи в таск‑трекере, [перейдите в раздел «Развитие качества» → «Задачи»:](https://tqm.tinkoff.ru/qa/task-tracker/board/active)
+* на вкладке «Мои задачи» увидите задачи, которые назначили вам; [Как работать с задачей](/business/help/solutions/speech-analytics/control/task-tracker/?card=q8)
+* на вкладке «Под наблюдением» найдете задачи, где вы автор или наблюдатель;
+* на вкладке «Черновики» увидите задачи, которые вы создали, но не отправили исполнителю. [Как работать с черновиком задачи](/business/help/solutions/speech-analytics/control/task-tracker/?card=q9)
+* на вкладке «Отмененные» увидите задачи, которые были отменены. [Как работать с отмененными задачами](/business/help/solutions/speech-analytics/control/task-tracker/?card=q12)

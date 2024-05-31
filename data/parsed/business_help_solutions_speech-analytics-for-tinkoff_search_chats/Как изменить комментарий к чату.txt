@@ -1,5 +1,4 @@
-Как изменить комментарий к чату?
-
+## Как изменить комментарий к чату?
 В результатах поиска:
-
-- Выберите нужный чат и в его карточке нажмите значок стрелки вправо с желтым индикатором. Откроется плашка с ранее введенным комментарием. Как найти нужные чаты (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q4)- Чтобы изменить комментарий к чату, нажмите на значок карандаша и введите новый комментарий. Нажмите «Отправить». Старый при этом будет удален.
+1. Выберите нужный чат и в его карточке нажмите значок стрелки вправо с желтым индикатором. Откроется плашка с ранее введенным комментарием. [Как найти нужные чаты](/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q4)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84OWM4YTdhMy4yMl9yYV9jaGF0eV9kZXNrXzR4XzIucG5n)
+2. Чтобы изменить комментарий к чату, нажмите на значок карандаша и введите новый комментарий. Нажмите «Отправить». Старый при этом будет удален. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YzUwMmM5NS4yNF9yYV9jaGF0eV9kZXNrXzR4LnBuZw==)

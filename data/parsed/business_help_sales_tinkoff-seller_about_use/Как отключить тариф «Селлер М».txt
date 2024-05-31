@@ -1,9 +1,7 @@
-Как отключить тариф «Селлер М»?
-
+## Как отключить тариф «Селлер М»?
 Чтобы отключить тариф «Селлер М»:
-
-- Перейдите в Тинькофф Селлер (https://business.tinkoff.ru/seller/) → «Тарифы».- Нажмите «Подключить» на плашке с тарифом «Селлер S».
-
+1. [Перейдите в Тинькофф Селлер](https://business.tinkoff.ru/seller/) → «Тарифы».
+2. Нажмите «Подключить» на плашке с тарифом «Селлер S». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zY2UxZDFkNi4wNV9kZXNrdG9wLnBuZw==)
 Готово! Вы отключили тариф «Селлер М» и перешли на бесплатный тариф.
-
-После перехода на новый тариф появится зеленый статус «Тариф подключен»
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMDQ3Njg5MC4wN19kZXNrdG9wLnBuZw==)После перехода на новый тариф появится зеленый статус «Тариф подключен»
+Если на платном тарифе у вас остались неиспользованные дни, его функции будут доступны до конца расчетного периода.

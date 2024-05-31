@@ -1,8 +1,8 @@
-Как скачать таблицу с информацией о найденных в поиске оценках?
-
+## Как скачать таблицу с информацией о найденных в поиске оценках?
 Следуйте инструкции:
-
-- В TQM перейдите в «Поиск» → «Оценки». (https://tqm.tinkoff.ru/filter/evaluations/manual) Найдите оценки по нужным вам параметрам. Как это сделать (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q6)- В результатах поиска нажмите «Скачать отчет».
-- Выберите формат файла для скачивания — XLSX и CSV.- Отметьте галочкой информацию об оценках, которую хотите видеть в отчете. Чтобы выбрать все пункты, нажмите «Выбрать все».
-Настройте порядок полей отчета: нажмите на шесть точек напротив нужного поля и перетащите его, зажав правую кнопку мыши- Нажмите «Скачать файл».
+1. [В TQM перейдите в «Поиск» → «Оценки».](https://tqm.tinkoff.ru/filter/evaluations/manual) Найдите оценки по нужным вам параметрам. [Как это сделать](/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q6)
+2. В результатах поиска нажмите «Скачать отчет». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZmYxMmMyOC5kZXNrdG9wXzE2LnBuZw==)
+3. Выберите формат файла для скачивания — XLSX и CSV.
+4. Отметьте галочкой информацию об оценках, которую хотите видеть в отчете. Чтобы выбрать все пункты, нажмите «Выбрать все». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xOTFmMmVjOS5kZXNrdG9wXzE3LnBuZw==)Настройте порядок полей отчета: нажмите на шесть точек напротив нужного поля и перетащите его, зажав правую кнопку мыши
+5. Нажмите «Скачать файл».
 Готово, таблица сохранилась на ваш компьютер.

@@ -1,4 +1,3 @@
-Как посмотреть всю информацию о звонке?
-
-В результатах поиска выберите конкретный звонок. Рядом с ним нажмите на значок стрелки вниз. Откроется карточка звонка. Как найти нужные звонки (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q4)
-Здесь можно увидеть направление и длительность звонка, его ID TQM, логин оператора, оценку, теги и другую информацию
+## Как посмотреть всю информацию о звонке?
+В результатах поиска выберите конкретный звонок. Рядом с ним нажмите на значок стрелки вниз. Откроется карточка звонка. [Как найти нужные звонки](/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q4)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80OGU1YWNhMS4yMV9yYV96dm9ua2kucG5n)Здесь можно увидеть направление и длительность звонка, его ID TQM, логин оператора, оценку, теги и другую информацию

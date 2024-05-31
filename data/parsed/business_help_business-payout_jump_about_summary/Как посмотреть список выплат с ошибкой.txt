@@ -1,5 +1,5 @@
-Как посмотреть список выплат с ошибкой?
-
-Это можно сделать в личном кабинете Jump.Finance: (https://my.jump.finance/)
-- Откройте раздел «Сводка».- В открывшемся окне в разделе «Статистика» нажмите на прямоугольник «Выплаты с ошибкой».
-Как повторить выплату с ошибкой (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q5)
+## Как посмотреть список выплат с ошибкой?
+Это можно сделать [в личном кабинете Jump.Finance:](https://my.jump.finance/)
+1. Откройте раздел «Сводка».
+2. В открывшемся окне в разделе «Статистика» нажмите на прямоугольник «Выплаты с ошибкой». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81NzVmYmI0OC5kZXNrdG9wXzI0LnBuZw==)
+[Как повторить выплату с ошибкой](/business/help/business-payout/jump/about/payments/?card=q5)

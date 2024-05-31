@@ -1,20 +1,17 @@
-Как изменить уровень доступа для сотрудника?
-Вы можете изменить уровень доступа сотрудника с «Менеджер» на «Подписант» и наоборот. Для этого напишите в чат поддержки (https://tinkoffbusiness.onelink.me/1221431269/oocytv75) Тинькофф Бизнеса или позвоните по телефону 8 800 700‑66‑66. (tel:8 800 700‑66‑66)
-Какие уровни доступа есть в Тинькофф Бизнесе (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/dashboard/?card=q7)Вы можете самостоятельно изменить уровень доступа с «Менеджер» на «Подписант» с телефона и компьютера в личном кабинете на сайте tinkoff.ru. (https://www.tinkoff.ru/)
-- Вверху экрана нажмите на название компании или ИП → «Пользователи».
-
-- Нажмите «Все пользователи» и выберите пользователя, которому хотите выдать право подписи.
-
-- Откройте вкладку «Право подписи» → «Выпустить».
-
-- Напишите паспортные данные сотрудника → «Дальше».
-- Введите код из СМС и нажмите «Подтвердить».
-- Нажмите на название компании или ИП → «Настройки профиля и доступы».
-
-- Откройте вкладку «Компания» → «Все пользователи» (https://business.tinkoff.ru/account/users) и выберите пользователя, которому хотите выдать право подписи.
-
-- Откройте вкладку «Право подписи» → «Выпустить».
-- Напишите паспортные данные сотрудника → «Дальше».
-- Введите код из СМС и нажмите «Подтвердить».
-
+## Как изменить уровень доступа для сотрудника?
+Вы можете изменить уровень доступа сотрудника с «Менеджер» на «Подписант» и наоборот. Для этого напишите [в чат поддержки](https://tinkoffbusiness.onelink.me/1221431269/oocytv75) Тинькофф Бизнеса или позвоните по телефону [8 800 700‑66‑66.](tel:8 800 700‑66‑66)
+[Какие уровни доступа есть в Тинькофф Бизнесе](/business/help/account/currency-ruble/personal-account/dashboard/?card=q7)
+Вы можете самостоятельно изменить уровень доступа с «Менеджер» на «Подписант» с телефона и компьютера в личном кабинете на сайте [tinkoff.ru.](/)
+С телефона — в личном кабинете на сайте tinkoff.ru
+1. Вверху экрана нажмите на название компании или ИП → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYjEwYzU2ZS4wMl8wM19kZXNrdG9wLnBuZw==)
+2. Нажмите «Все пользователи» и выберите пользователя, которому хотите выдать право подписи. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hYmU3ODJlNS4xNV9kZXNrdG9wLnBuZw==)
+3. Откройте вкладку «Право подписи» → «Выпустить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82ZGMzOGZlZS4xNl9kZXNrdG9wLnBuZw==)
+4. Напишите паспортные данные сотрудника → «Дальше».
+5. Введите код из СМС и нажмите «Подтвердить».
+С компьютера — в личном кабинете на сайте tinkoff.ru
+1. Нажмите на название компании или ИП → «Настройки профиля и доступы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lODQxMDc4Zi5kZXNrdG9wXzQucG5n)
+2. [Откройте вкладку «Компания» → «Все пользователи»](https://business.tinkoff.ru/account/users) и выберите пользователя, которому хотите выдать право подписи. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jN2MyMTZiNy4xMl9kZXNrdG9wLnBuZw==)
+3. Откройте вкладку «Право подписи» → «Выпустить».
+4. Напишите паспортные данные сотрудника → «Дальше».
+5. Введите код из СМС и нажмите «Подтвердить».
 Сотрудник получит СМС, чтобы назначить встречу с представителем Тинькофф. Он привезет документы на подпись — от сотрудника потребуется только паспорт. После встречи с представителем право подписи появится в течение рабочего дня.

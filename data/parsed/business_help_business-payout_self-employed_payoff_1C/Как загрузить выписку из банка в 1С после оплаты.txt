@@ -1,9 +1,7 @@
-Как загрузить выписку из банка в 1С после оплаты?
-
+## Как загрузить выписку из банка в 1С после оплаты?
 Чтобы загрузить выписку из банка в 1С после оплаты:
-
-- В личном кабинете Тинькофф Бизнеса на главном экране выберите «Выписки»:
-- Укажите счет, с которого платили самозанятым, дату выплаты и формат «1С (TXT)». Нажмите «Создать»:
-- В 1С зайдите в «Банк и касса» → «Банковские выписки»:
-- Нажмите «Загрузить» и выберите файл с выпиской:
+1. В личном кабинете Тинькофф Бизнеса на главном экране выберите «Выписки»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMmRmMzFiYS4wN19zYW1vemFuXzFjX2Rlc2tfNHgucG5n)
+2. Укажите счет, с которого платили самозанятым, дату выплаты и формат «1С (TXT)». Нажмите «Создать»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iMGY2MTg0Yy4wOF9zYW1vemFuXzFjX2Rlc2tfNHgucG5n)
+3. В 1С зайдите в «Банк и касса» → «Банковские выписки»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xOWE3NjY1OC4wOV9zYW1vemFuXzFjX2Rlc2tfNHgucG5n)
+4. Нажмите «Загрузить» и выберите файл с выпиской: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMjI1OTZlMS4xMF9zYW1vemFuXzFjX2Rlc2tfNHgucG5n)
 Готово. Документ загрузится к нужной операции. Если вы скачивали выписку по реестру — сразу ко всем операциям, проведенным за один раз.

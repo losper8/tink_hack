@@ -1,5 +1,4 @@
-Как изменить порядок отображения сохраненных фильтров поиска?
-В TQM → «Поиск »→ «Коммуникации» → «Чаты» (https://tqm.tinkoff.ru/filter/communications/internal-chats) под строками «Начало» и «Окончание»:
-
-- Нажмите «Настройки». Откроется окно управления фильтрами.
-- Нажмите на 6 точек слева от названия фильтра и перетащите его, зажав кнопку мыши. Затем нажмите «Сохранить».
+## Как изменить порядок отображения сохраненных фильтров поиска?
+[В TQM → «Поиск »→ «Коммуникации» → «Чаты»](https://tqm.tinkoff.ru/filter/communications/internal-chats) под строками «Начало» и «Окончание»:
+1. Нажмите «Настройки». Откроется окно управления фильтрами. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MTBiMTZhMy5kZXNrdG9wXzI0LnBuZw==)
+2. Нажмите на 6 точек слева от названия фильтра и перетащите его, зажав кнопку мыши. Затем нажмите «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80MTVkZDEyNy5kZXNrdG9wXzI1LnBuZw==)

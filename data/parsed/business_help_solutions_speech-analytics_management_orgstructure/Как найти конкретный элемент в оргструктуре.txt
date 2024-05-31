@@ -1,5 +1,5 @@
-Как найти конкретный элемент в оргструктуре?
-
+## Как найти конкретный элемент в оргструктуре?
 Если оргструктура компании сложная, со множеством отделов и групп, можно искать конкретный орг. элемент с помощью строки поиска. Для этого:
-
-- Перейдите на вкладку «Администрирование» → «Настройки» → «Оргструктура».- Введите в строке поиска название орг. элемента или его внешний ID. Откроется один или несколько элементов, которые соответствуют вашему поисковому запросу.
+1. Перейдите на вкладку «Администрирование» → «Настройки» → «Оргструктура».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YzkxNThlOC4xN19yYV9vcmdzdHJ1a3R1cmFfNHgucG5n)
+2. Введите в строке поиска название орг. элемента или его внешний ID. Откроется один или несколько элементов, которые соответствуют вашему поисковому запросу. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMzY4OGIzYS4xOF9yYV9vcmdzdHJ1a3R1cmFfNHgucG5n)

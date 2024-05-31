@@ -1,11 +1,8 @@
-Где клиент увидит информацию о самовывозе и доставке?
-
+## Где клиент увидит информацию о самовывозе и доставке?
 Клиент увидит информацию о самовывозе и доставке в корзине, когда будет оформлять заказ.
-
-
 Чем подробнее вы опишете пункты самовывоза и условия доставки, тем удобнее будет клиенту оформить заказ. Например, укажите адреса пунктов самовывоза, их время работы, ориентиры.
-
-Как добавить пункты самовывоза для одного города (https://www.tinkoff.ru/business/help/sales/website-builder/orders/delivery/?card=pickup)Клиент также увидит стоимость доставки в пункт самовывоза, в этом примере — 300 ₽
+[Как добавить пункты самовывоза для одного города](/business/help/sales/website-builder/orders/delivery/?card=pickup)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lZTIzYWM1Yi41Nl9wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fZjllZDRjNDg4YWJkY2E0YjFmYjZlMmM1NGM0NjE0YjMucG5n)Клиент также увидит стоимость доставки в пункт самовывоза, в этом примере — 300 ₽
 Если клиент выберет доставку, он увидит краткую информацию и ссылку на страницу с подробными условиями доставки.
-
-Как описать условия доставки для клиента (https://www.tinkoff.ru/business/help/sales/website-builder/orders/delivery/?card=delivery-terms)Если доставляете в разные города, клиент сможет выбрать город в поле «Зона доставки»
+[Как описать условия доставки для клиента](/business/help/sales/website-builder/orders/delivery/?card=delivery-terms)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yZTZlNDliZi42NV9wcmF2aW1fa29uc3RydWt0b3Jfc2l0ZV9taW5fZmVkZjMxYjc4NzhkN2NlNThmNzg4MGFjYTQ0MzUwODIucG5n)Если доставляете в разные города, клиент сможет выбрать город в поле «Зона доставки»

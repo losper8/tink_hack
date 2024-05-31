@@ -1,6 +1,16 @@
-Как принимать оплату по QR‑коду?
-
+## Как принимать оплату по QR‑коду?
 Это можно делать двумя способами:
-
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Магазины». (https://business.tinkoff.ru/oplata/mpa/shops)
-- Выберите нужный магазин → «Способы оплаты» → «Система быстрых платежей» → «Статичный QR‑код». Нажмите «Скачать» — QR‑код в формате PDF сохранится на ваш компьютер.
+Cкачать QR‑код в формате PDF и рассылать его покупателям
+Подключите прием платежей через СБП. [Как это сделать](/business/help/business-payments/internet-acquiring/how-involve/payment-methods/?card=q5)
+Затем следуйте инструкции:
+1. [Зайдите в личный кабинет Тинькофф Бизнеса → «Интернет-эквайринг» → «Магазины».](https://business.tinkoff.ru/oplata/mpa/shops)
+2. Выберите нужный магазин → «Способы оплаты» → «Система быстрых платежей» → «Статичный QR‑код». Нажмите «Скачать» — QR‑код в формате PDF сохранится на ваш компьютер.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83OWNiNzgwNy4wMV8xNi5wbmc=)QR-код можно отправлять в переписке с покупателями — они будут его сканировать, указывать сумму покупки в платежной форме и совершать оплату
+Добавить способ оплаты через СБП в платежную форму на сайте
+Подключите прием платежей через СБП. В платежной форме появится кнопка оплаты через СБП. [Как это сделать](/business/help/business-payments/internet-acquiring/how-involve/payment-methods/?card=q5)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNDlhNmI2Yi4wNl9kZXNrdG9wLnBuZw==)Так выглядит оплата через СБП в платежной форме Тинькофф Кассы. Вы можете добавить СБП на собственную форму оплаты — для этого понадобится помощь разработчика
+Дальше механика приема платежей зависит от того, на каком устройстве покупатель оплачивает покупку.
+На компьютере: покупатель нажимает на кнопку оплаты через СБП → появляется QR‑код → покупатель сканирует его камерой смартфона → выбирает банк, со счета в котором хочет оплатить, → перенаправляется в банковское приложение → завершает оплату.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYjI3OGRlNC42Y2NkMThjYl8zNTdkXzQxYWRfYmEwZV8wZDcxYjliOTUyZGQucG5n)Так выглядит QR‑код на платежной форме
+На смартфоне: покупатель нажимает на кнопку оплаты через СБП → выбирает банк, со счета в котором хочет оплатить, → перенаправляется в банковское приложение → завершает оплату.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81Y2YxOWUzYS5kZXNrdG9wXzNfMi5wbmc=)QR-код не отображается со смартфона

@@ -1,27 +1,34 @@
-Как обновить адрес, название и описание страницы на сайте?
-
+## Как обновить адрес, название и описание страницы на сайте?
 У каждой страницы есть адрес и название. По умолчанию конструктор сайтов дает странице стандартный адрес и название: page1, page2, page3.
-
-
-Чтобы вам было проще продвигать сайт в интернете, обновите информацию: укажите уникальные название, адрес и описание. Информация должна как можно точнее передавать содержание страницы. Как продвигать сайт в поисковиках (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=promote)
-example.tb.ru/page1 example.tb.ru/about
-example.tb.ru/page2 example.tb.ru/prices
-example.tb.ru/page3 example.tb.ru/contacts
-
-	Адрес по умолчаниюexample.tb.ru/page1	Читаемый адресexample.tb.ru/about
-	Адрес по умолчаниюexample.tb.ru/page2	Читаемый адресexample.tb.ru/prices
-	Адрес по умолчаниюexample.tb.ru/page3	Читаемый адресexample.tb.ru/contacts
-Как обновить информацию о странице в интернет-магазине- В конструкторе Тинькофф (https://business.tinkoff.ru/sites) выберите нужный сайт → «Страницы». Наведите курсор на нужную страницу → иконка шестеренки.
-- Обновите информацию о странице по инструкциям:
-- настройте читаемый адрес страницы (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=pages);- укажите название и описание страницы. (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=tags)
+Чтобы вам было проще продвигать сайт в интернете, обновите информацию: укажите уникальные название, адрес и описание. Информация должна как можно точнее передавать содержание страницы. [Как продвигать сайт в поисковиках](/business/help/sales/website-builder/effective/seo/?card=promote)
+Адрес по умолчанию
+example.tb.ru/page1
+Читаемый адрес
+example.tb.ru/about
+Адрес по умолчанию
+example.tb.ru/page2
+Читаемый адрес
+example.tb.ru/prices
+Адрес по умолчанию
+example.tb.ru/page3
+Читаемый адрес
+example.tb.ru/contacts
+Как обновить информацию о странице в интернет-магазине
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites) выберите нужный сайт → «Страницы». Наведите курсор на нужную страницу → иконка шестеренки.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNTFiMDc4OC5kZXNrdG9wXzA0LnBuZw==)
+2. Обновите информацию о странице по инструкциям:
+* [настройте читаемый адрес страницы](/business/help/sales/website-builder/effective/seo/?card=pages);
+* [укажите название и описание страницы.](/business/help/sales/website-builder/effective/seo/?card=tags)
 Готово! Изменения сохранятся автоматически. Когда это произойдет, справа вверху появится зеленый статус «Изменения сохранены».
-
-Как обновить информацию о странице на сайте-визитке- В конструкторе Тинькофф (https://business.tinkoff.ru/sites) выберите нужный сайт → три точки в правом верхнем углу страницы → «Настройки страницы».
-- Обновите информацию о странице по инструкциям:
-- настройте читаемый адрес страницы (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=pages);- укажите название и описание страницы. (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=tags)
+Как обновить информацию о странице на сайте-визитке
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites) выберите нужный сайт → три точки в правом верхнем углу страницы → «Настройки страницы». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MjhjZTIwMC5kZXNrdG9wXzA1LnBuZw==)
+2. Обновите информацию о странице по инструкциям:
+* [настройте читаемый адрес страницы](/business/help/sales/website-builder/effective/seo/?card=pages);
+* [укажите название и описание страницы.](/business/help/sales/website-builder/effective/seo/?card=tags)
 Готово! Изменения сохранятся автоматически. Когда это произойдет, справа вверху появится зеленый статус «Изменения сохранены».
-
-Как обновить информацию о странице в ее редакторе и на сайте-визитке, и в интернет-магазине- В конструкторе Тинькофф (https://business.tinkoff.ru/sites) выберите нужный сайт, а затем страницу, которую хотите отредактировать. Нажмите на иконку шестеренки справа вверху.
-- Обновите информацию о странице по инструкциям:
-- настройте читаемый адрес страницы (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=pages);- укажите название и описание страницы. (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=tags)
+Как обновить информацию о странице в ее редакторе и на сайте-визитке, и в интернет-магазине
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites) выберите нужный сайт, а затем страницу, которую хотите отредактировать. Нажмите на иконку шестеренки справа вверху. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ZTQyOWIwMi5kZXNrdG9wXzA2LnBuZw==)
+2. Обновите информацию о странице по инструкциям:
+* [настройте читаемый адрес страницы](/business/help/sales/website-builder/effective/seo/?card=pages);
+* [укажите название и описание страницы.](/business/help/sales/website-builder/effective/seo/?card=tags)
 Готово! Изменения сохранятся автоматически. Когда это произойдет, справа вверху появится зеленый статус «Изменения сохранены».

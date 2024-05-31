@@ -1,5 +1,4 @@
-Как изменить порядок отображения избранных фильтров поиска?
-В TQM → «Поиск» → «Коммуникации» → «Звонки» (https://tqm.tinkoff.ru/filter/communications/calls) под полем выбора периода:
-
-- Справа от названия сохраненных фильтров нажмите «Настройки». Откроется окно управления фильтрами.
-- Перетащите фильтры в нужном порядке с помощью кнопки перемещения — она находится слева от названия фильтра. Затем нажмите «Сохранить».
+## Как изменить порядок отображения избранных фильтров поиска?
+[В TQM → «Поиск» → «Коммуникации» → «Звонки»](https://tqm.tinkoff.ru/filter/communications/calls) под полем выбора периода:
+1. Справа от названия сохраненных фильтров нажмите «Настройки». Откроется окно управления фильтрами. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xYjlhYTU0My4xM18xLnBuZw==)
+2. Перетащите фильтры в нужном порядке с помощью кнопки перемещения — она находится слева от названия фильтра. Затем нажмите «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NGFkNWE1Yy4xNi5wbmc=)

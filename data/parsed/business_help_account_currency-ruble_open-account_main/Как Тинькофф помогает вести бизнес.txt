@@ -1,81 +1,118 @@
-Как Тинькофф помогает вести бизнес?
-
+## Как Тинькофф помогает вести бизнес?
 Тинькофф предлагает инструменты, помогающие решать различные бизнес-задачи. Доступ к большинству сервисов появляется после открытия расчетного счета. Остальные можно подключить в мобильном приложении или личном кабинете Тинькофф Бизнеса.
-
-
 У каждого клиента есть персональный менеджер. Он поможет подобрать сервисы и ответит на любые вопросы.
-
-Зарегистрировать бизнес
-Открыть ИП не выходя из дома и без уплаты госпошлины 800 ₽ Зарегистрировать ИП онлайн (https://www.tinkoff.ru/business/registration-ip/?internal_source=help) Почитать о регистрации ИП (https://www.tinkoff.ru/business/help/registration/registration/register-ip/open/?card=q1)Пройти бесплатный курс «Как открыть ИП и запустить бизнес» (https://secrets.tinkoff.ru/courses/kak-stat-ip/?internal_source=help)
-Открыть ООО с одним учредителем с поддержкой на всех этапах, без посещения налоговой и уплаты госпошлины 4000 ₽ Зарегистрировать ООО онлайн (https://www.tinkoff.ru/business/registration-ooo/?internal_source=help) Почитать о регистрации ООО (https://www.tinkoff.ru/business/help/registration/registration/register-llc/open/?card=q2)
-Рассчитываться с контрагентами
-Принять или отправить платеж в рублях Открыть расчетный счет (https://www.tinkoff.ru/business/account/?internal_source=help) Почитать о расчетном счете (https://www.tinkoff.ru/business/help/account/currency-ruble/open-account/main/?card=q1)
-Получить или отправить платеж для бизнеса в иностранной валюте
-
-Пройти валютный контроль Открыть валютный расчетный счет (https://www.tinkoff.ru/corporate/currency/?internal_source=help) Почитать о работе с валютой (https://www.tinkoff.ru/business/help/account/currency/)
-Закупить товары, перевести деньги и снять наличные с расчетного счета ИП или юрлица Выпустить бизнес-карту (https://www.tinkoff.ru/business/business-card/?internal_source=help) Почитать о бизнес-картах (https://www.tinkoff.ru/business/help/account/business-card/)
-Выставить счет и получить оплату от контрагента.
-
-Оформить закрывающие документы без специальной бухгалтерской программы Выставить счет онлайн (https://www.tinkoff.ru/business/bill/?internal_source=help) Почитать о счетах онлайн (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/invoice/?card=q1)
-Принимать платежи
-Подключить онлайн-кассу, чтобы работать офлайн в соответствии с 54-ФЗ Подключить онлайн-кассу (https://www.tinkoff.ru/business/payments/online-cashbox/?internal_source=help) Почитать об онлайн-кассах (https://www.tinkoff.ru/business/help/business-payments/acquiring/online/business-needs/?card=q1)
-Принять безналичный платеж офлайн Подключить торговый эквайринг (https://www.tinkoff.ru/business/payments/acquiring/?internal_source=help) Почитать о торговом эквайринге (https://www.tinkoff.ru/business/help/business-payments/acquiring/)
-Принять платеж онлайн Подключить интернет-эквайринг (https://www.tinkoff.ru/kassa/?internal_source=help) Почитать об интернет-эквайринге (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/)
-Принять платеж без ввода данных карты Подключить Tinkoff Pay (https://www.tinkoff.ru/kassa/solution/tinkoffpay/?internal_source=help) Почитать о Tinkoff Pay (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-work/working-conditions/?card=q3)
-Принять платеж по QR‑коду Подключить СБП (https://www.tinkoff.ru/business/payments/sbp/?internal_source=help) Почитать об СБП (https://www.tinkoff.ru/business/help/business-payments/sbp/main/about/)
-Продать товар или услугу в рассрочку или кредит Подключить рассрочки и кредиты (https://www.tinkoff.ru/business/loans/?internal_source=help) Почитать о Тинькофф Кредит Брокере (https://www.tinkoff.ru/business/help/sales/loans/about-loans/terms/?card=q3)
-Дать покупателям возможность оплачивать покупки частями Подключить сервис «Долями» (https://www.tinkoff.ru/dolyame/business/?internal_source=help) Почитать о сервисе «Долями» (https://dolyame.ru/help/customer/about/#q1)
-Работать в соответствии с 115-ФЗ
-Снизить риск проверок и ограничений по 115-ФЗ.
-
-Заключить сделку с надежным контрагентом.
-
-Пройти проверку быстро и без лишних усилий, если она все же потребовалась Получить сопровождение по 115-ФЗ (https://www.tinkoff.ru/corporate/account/compliance/form/alternative/?internal_source=help) Почитать о 115-ФЗ (https://www.tinkoff.ru/business/help/account/compliance/about/hot/)Почитать о сервисе «Репутация» (https://www.tinkoff.ru/business/help/account/reputation/about/discover/?card=q1)Почитать о проверке контрагентов (https://www.tinkoff.ru/business/blog/verification/)
-Вести бухгалтерию
-Сдать отчетность и уплатить налоги самостоятельно без штатного бухгалтера Подключить онлайн-бухгалтерию (https://www.tinkoff.ru/business/accounting/?internal_source=help) для ИП на УСН «Доходы» без сотрудников, ИП и ООО на АУСН Почитать об онлайн-бухгалтерии (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/)Пройти бесплатный курс «Бухгалтерия для предпринимателей» (https://secrets.tinkoff.ru/courses/bukhgalteriya-dlya-predprinimatelya/?internal_source=help)
-Делегировать персональному бухгалтеру учет доходов, уплату налогов и взносов, общение с налоговой и контролирующими органами Подключить бухгалтерское обслуживание (https://www.tinkoff.ru/business/accounting-service/?internal_source=help) для ИП на УСН «Доходы» Почитать о бухгалтерском обслуживании (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/accounting-service/)
-Вести кадровый учет
-Нанять удаленного или офисного сотрудника.
-
-Подписать документы онлайн в один клик Подключить кадровый электронный документооборот, (https://www.tinkoff.ru/business/signature/?internal_source=help) или КЭДО Почитать о кадровом электронном документообороте (https://www.tinkoff.ru/business/blog/kedo/)
-Участвовать в госзакупках
-Найти подходящие тендеры Воспользоваться поисковиком госзакупок (https://www.tinkoff.ru/business/procurement/search/?internal_source=help) Почитать о поисковике госзакупок (https://www.tinkoff.ru/business/blog/procurement/)Пройти бесплатный курс «Как начать зарабатывать на госзакупках» (https://secrets.tinkoff.ru/courses/obuchenie-goszakupkam/?internal_source=help)
-Использовать денежное обеспечение при подаче заявок Открыть спецсчет (https://www.tinkoff.ru/business/special/?internal_source=help) Почитать о спецсчете (https://www.tinkoff.ru/business/help/procurement/special-account/special-account/terms/?card=q1)
-Подтвердить обеспечение заявки, исполнение контракта или гарантийных обязательств, авансовый платеж Получить банковскую гарантию (https://www.tinkoff.ru/business/guarantees/?internal_source=help) Почитать о банковских гарантиях (https://www.tinkoff.ru/business/help/procurement/special/about/warranty/?card=guarantee)
-Получить деньги на исполнение контракта Открыть кредитную линию под госконтракт (https://www.tinkoff.ru/business/turnover-contract/?internal_source=help) Почитать о кредитной линии под госконтракт (https://www.tinkoff.ru/business/help/loans/credit-lines/turnover-contract/)
-Выплачивать деньги сотрудникам и клиентам
-Выплатить зарплату сотрудникам на карты любых банков в несколько кликов Подключить зарплатный проект (https://www.tinkoff.ru/corporate/payout/salary/?internal_source=help) Почитать о зарплатном проекте (https://www.tinkoff.ru/business/help/business-payout/salary/)
-Автоматизировать работу с самозанятыми Подключить выплаты самозанятым (https://www.tinkoff.ru/corporate/payout/self-employed/?internal_source=help) Почитать о выплатах самозанятым (https://www.tinkoff.ru/business/help/business-payout/self-employed/)
-Перевести деньги клиентам или исполнителям по номеру карты или телефона Подключить мгновенные выплаты физлицам (https://www.tinkoff.ru/kassa/solution/payouts/?internal_source=help) 
-Вести бизнес в интернете
-Создать сайт, чтобы получать клиентов из интернета или находить заказчиков и партнеров Воспользоваться конструктором сайтов (https://www.tinkoff.ru/business/website-builder/?internal_source=help) Почитать о конструкторе сайтов (https://www.tinkoff.ru/business/help/sales/website-builder/about/start/?card=capabilities)
-Управлять продажами на Ozon и Wildberries: отслеживать свои показатели прямо в приложении Тинькофф Бизнеса, анализировать ниши, редактировать цены и остатки Подключить Тинькофф Селлер (https://www.tinkoff.ru/business/seller/?internal_source=help) Почитать о Тинькофф Селлере (https://www.tinkoff.ru/business/help/sales/tinkoff-seller/about/what-is-it/)
-Привлечь клиентов в магазин Подключить сервис «Долями» (https://www.tinkoff.ru/dolyame/business/?internal_source=help) и разместить информацию о себе на сайте и в мобильном приложении сервиса Почитать о Долями (https://dolyame.ru/help/business/)
-Получать деньги на развитие бизнеса
-Пополнить оборотные средства, вложиться в развитие бизнеса Оставить заявку на кредит (https://www.tinkoff.ru/business/credit/?internal_source=help) Почитать о кредитах (https://www.tinkoff.ru/business/help/loans/)
-Оплатить срочные счета, даже если на счете недостаточно денег.
-
-Закрыть кассовый разрыв Подключить овердрафт (https://www.tinkoff.ru/business/overdraft/?internal_source=help) Почитать об овердрафте (https://www.tinkoff.ru/business/help/loans/overdraft/)
-Открывать депозиты и копить деньги
-Заработать на свободных деньгах Открыть депозит (https://www.tinkoff.ru/business/deposit/?internal_source=help) Почитать о депозите (https://www.tinkoff.ru/business/blog/deposit/)
-Заработать на свободных деньгах за одну ночь Подключить овернайт (https://www.tinkoff.ru/business/overnight/?internal_source=help) Почитать об овердрафте (https://www.tinkoff.ru/business/help/loans/overdraft/)
-Накопить на любые цели: налоги, аренду, зарплату, оборудование Открыть бизнес-копилку (https://www.tinkoff.ru/business/cashbox/?internal_source=help) Почитать о бизнес-копилке (https://www.tinkoff.ru/business/blog/cashbox/)
-Экономить на сервисах для бизнеса
-Сэкономить на подключении сервисов для исследования рынка и клиентов, закупке товаров для бизнеса, запуске рекламы Воспользоваться скидками и бонусами от партнеров Тинькофф (https://www.tinkoff.ru/business/partners/) 
-
-Открыть ИПЗарегистрировать ИП (https://www.tinkoff.ru/business/registration-ip/?internal_source=help)Читать о регистрации ИП (https://www.tinkoff.ru/business/help/registration/registration/register-ip/open/?card=q1)Пройти бесплатный курс «Как открыть ИП и запустить бизнес» (https://secrets.tinkoff.ru/courses/kak-stat-ip/?internal_source=help)	Открыть ОООЗарегистрировать ООО (https://www.tinkoff.ru/business/registration-ooo/?internal_source=help)Читать о регистрации ООО (https://www.tinkoff.ru/business/help/registration/registration/register-llc/open/?card=q2)
-Принять или отправить платеж в рубляхОткрыть расчетный счет (https://www.tinkoff.ru/business/account/?internal_source=help)Читать о расчетном счете (https://www.tinkoff.ru/business/help/account/currency-ruble/open-account/main/?card=q1)	Получить или отправить платеж в иностранной валюте
-Открыть валютный расчетный счет (https://www.tinkoff.ru/corporate/currency/?internal_source=help)Читать о работе с валютой (https://www.tinkoff.ru/business/help/account/currency/)	Закупить товары и снять наличные с расчетного счетаВыпустить бизнес-карту (https://www.tinkoff.ru/business/business-card/?internal_source=help)Читать о бизнес-картах (https://www.tinkoff.ru/business/help/account/business-card/)	Выставить счет и получить оплатуВыставить счет онлайн (https://www.tinkoff.ru/business/bill/?internal_source=help)Читать о счетах (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/invoice/?card=q1)
-Работать в соответствии с 54-ФЗПодключить онлайн-кассу (https://www.tinkoff.ru/business/payments/online-cashbox/?internal_source=help)Читать об онлайн-кассах (https://www.tinkoff.ru/business/help/business-payments/acquiring/online/business-needs/?card=q1)	Принять безналичный платеж офлайнПодключить торговый эквайринг (https://www.tinkoff.ru/business/payments/acquiring/?internal_source=help)Читать о торговом эквайринге (https://www.tinkoff.ru/business/help/business-payments/acquiring/)	Принять платеж онлайнПодключить интернет-эквайринг (https://www.tinkoff.ru/kassa/?internal_source=help)Читать об интернет-эквайринге (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/)	Принять платеж без ввода данных картыПодключить Tinkoff Pay (https://www.tinkoff.ru/kassa/solution/tinkoffpay/?internal_source=help)	Принять платеж по QR‑кодуПодключить СБП (https://www.tinkoff.ru/business/payments/sbp/?internal_source=help)Читать об СБП (https://www.tinkoff.ru/business/help/business-payments/sbp/main/about/)	Продать в рассрочку или кредитПодключить рассрочки и кредиты (https://www.tinkoff.ru/business/loans/?internal_source=help)Читать о Тинькофф Кредит Брокере (https://www.tinkoff.ru/business/help/sales/loans/about-loans/terms/?card=q3)	Дать покупателям возможность оплачивать покупки частямиПодключить сервис «Долями» (https://www.tinkoff.ru/dolyame/business/?internal_source=help)Читать о сервисе «Долями» (https://dolyame.ru/help/customer/about/#q1)
-Снизить риск проверок и ограниченийПолучить сопровождение по 115-ФЗ (https://www.tinkoff.ru/corporate/account/compliance/form/alternative?internal_source=help)Читать о 115-ФЗ (https://www.tinkoff.ru/business/help/account/compliance/about/hot/)Читать о сервисе «Репутация» (https://www.tinkoff.ru/business/help/account/reputation/about/discover/?card=q1)Читать о проверке контрагентов (https://www.tinkoff.ru/business/blog/verification/?internal_source=help_to%3Ablog_from%3Atext-link)
-Разобраться в бухгалтерииПройти бесплатный курс «Бухгалтерия для предпринимателей» (https://secrets.tinkoff.ru/courses/bukhgalteriya-dlya-predprinimatelya/?internal_source=help)	Сдать отчетность и уплатить налогиПодключить онлайн-бухгалтерию (https://www.tinkoff.ru/business/accounting/?internal_source=help) для ИП на УСН «Доходы» без сотрудников, ИП и ООО на АУСН
-Читать об онлайн-бухгалтерии (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/)	Делегировать бухгалтериюПодключить бухгалтерское обслуживание (https://www.tinkoff.ru/business/accounting-service/?internal_source=help) для ИП на УСН «Доходы»
-Читать о бухгалтерском обслуживании (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/accounting-service/)
-Нанять сотрудника и подписать документы онлайнПодключить кадровый электронный документооборот, (https://www.tinkoff.ru/business/signature/?internal_source=help) или КЭДО
-Читать о кадровом электронном документообороте (https://www.tinkoff.ru/business/blog/kedo/?internal_source=help_to%3Ablog_from%3Atext-link)
-Разобраться в госзакупкахПройти бесплатный курс «Как начать зарабатывать на госзакупках» (https://secrets.tinkoff.ru/courses/obuchenie-goszakupkam/?internal_source=help)	Использовать денежное обеспечениеОткрыть спецсчет (https://www.tinkoff.ru/business/special/?internal_source=help)Читать о спецсчете (https://www.tinkoff.ru/business/help/procurement/special-account/special-account/terms/?card=q1)	Подтвердить обеспечениеПолучить банковскую гарантию (https://www.tinkoff.ru/business/guarantees/?internal_source=help)Читать о банковских гарантиях (https://www.tinkoff.ru/business/help/procurement/special/about/warranty/?card=guarantee)	Найти тендерыВоспользоваться поисковиком госзакупок (https://www.tinkoff.ru/business/procurement/search/?internal_source=help)Читать о поисковике госзакупок (https://www.tinkoff.ru/business/blog/procurement/?internal_source=help_to%3Ablog_from%3Atext-link)	Получить деньги на исполнение контрактаОткрыть кредитную линию под госконтракт (https://www.tinkoff.ru/business/turnover-contract/?internal_source=help)Читать о кредитной линии под госконтракт (https://www.tinkoff.ru/business/help/loans/credit-lines/turnover-contract/)
-Выплатить зарплатуПодключить зарплатный проект (https://www.tinkoff.ru/corporate/payout/salary/?internal_source=help)Читать о зарплатном проекте (https://www.tinkoff.ru/business/help/business-payout/salary/)	Работать с самозанятымиПодключить выплаты самозанятым (https://www.tinkoff.ru/corporate/payout/self-employed/?internal_source=help)Читать о выплатах самозанятым (https://www.tinkoff.ru/business/help/business-payout/self-employed/)	Перевести деньги клиентам или исполнителямПодключить мгновенные выплаты физлицам (https://www.tinkoff.ru/kassa/solution/payouts/?internal_source=help)
-Создать сайтВоспользоваться конструктором сайтов (https://www.tinkoff.ru/business/website-builder/?internal_source=help)Читать о конструкторе сайтов (https://www.tinkoff.ru/business/help/sales/website-builder/about/start/?card=capabilities)	Управлять продажами на Ozon и WildberriesПодключить Тинькофф Селлер (https://www.tinkoff.ru/business/seller/?internal_source=help)Читать о Тинькофф Селлере (https://www.tinkoff.ru/business/help/sales/tinkoff-seller/about/what-is-it/)	Привлечь клиентов в магазинПодключить сервис «Долями» (https://www.tinkoff.ru/dolyame/business/?internal_source=help)Читать о «Долями» (https://dolyame.ru/help/business/)
-Пополнить оборотные средстваОставить заявку на кредит (https://www.tinkoff.ru/business/credit/?internal_source=help)Читать о кредитах (https://www.tinkoff.ru/business/help/loans/)	Оплатить срочные счетаПодключить овердрафт (https://www.tinkoff.ru/business/overdraft/?internal_source=help)Читать об овердрафте (https://www.tinkoff.ru/business/help/loans/overdraft/)
-Заработать на свободных деньгахОткрыть депозит (https://www.tinkoff.ru/business/deposit/?internal_source=help)Читать о депозите (https://www.tinkoff.ru/business/blog/deposit/)	Заработать на свободных деньгах за одну ночьПодключить овернайт (https://www.tinkoff.ru/business/overnight/?internal_source=help)Читать об овернайте (https://www.tinkoff.ru/business/blog/overnight/)	Накопить на любые целиОткрыть бизнес-копилку (https://www.tinkoff.ru/business/cashbox/?internal_source=help)Читать о бизнес-копилке (https://www.tinkoff.ru/business/blog/cashbox/)
-Сэкономить на сервисахВоспользоваться скидками и бонусами от партнеров Тинькофф (https://www.tinkoff.ru/business/partners/)
+Регистрация бизнеса
+Открыть ИП
+[Зарегистрировать ИП](/business/registration-ip/?internal_source=help)
+[Читать о регистрации ИП](/business/help/registration/registration/register-ip/open/?card=q1)
+[Пройти бесплатный курс «Как открыть ИП и запустить бизнес»](https://secrets.tinkoff.ru/courses/kak-stat-ip/?internal_source=help)
+Открыть ООО
+[Зарегистрировать ООО](/business/registration-ooo/?internal_source=help)
+[Читать о регистрации ООО](/business/help/registration/registration/register-llc/open/?card=q2)
+Взаиморасчеты с контрагентами
+Принять или отправить платеж в рублях
+[Открыть расчетный счет](/business/account/?internal_source=help)
+[Читать о расчетном счете](/business/help/account/currency-ruble/open-account/main/?card=q1)
+Получить или отправить платеж в иностранной валюте
+[Открыть валютный расчетный счет](/corporate/currency/?internal_source=help)
+[Читать о работе с валютой](/business/help/account/currency/)
+Закупить товары и снять наличные с расчетного счета
+[Выпустить бизнес-карту](/business/business-card/?internal_source=help)
+[Читать о бизнес-картах](/business/help/account/business-card/)
+Выставить счет и получить оплату
+[Выставить счет онлайн](/business/bill/?internal_source=help)
+[Читать о счетах](/business/help/account/currency-ruble/counterparties/invoice/?card=q1)
+Прием платежей
+Работать в соответствии с 54-ФЗ
+[Подключить онлайн-кассу](/business/payments/online-cashbox/?internal_source=help)
+[Читать об онлайн-кассах](/business/help/business-payments/acquiring/online/business-needs/?card=q1)
+Принять безналичный платеж офлайн
+[Подключить торговый эквайринг](/business/payments/acquiring/?internal_source=help)
+[Читать о торговом эквайринге](/business/help/business-payments/acquiring/)
+Принять платеж онлайн
+[Подключить интернет-эквайринг](/kassa/?internal_source=help)
+[Читать об интернет-эквайринге](/business/help/business-payments/internet-acquiring/)
+Принять платеж без ввода данных карты
+[Подключить Tinkoff Pay](/kassa/solution/tinkoffpay/?internal_source=help)
+Принять платеж по QR‑коду
+[Подключить СБП](/business/payments/sbp/?internal_source=help)
+[Читать об СБП](/business/help/business-payments/sbp/main/about/)
+Продать в рассрочку или кредит
+[Подключить рассрочки и кредиты](/business/loans/?internal_source=help)
+[Читать о Тинькофф Кредит Брокере](/business/help/sales/loans/about-loans/terms/?card=q3)
+Дать покупателям возможность оплачивать покупки частями
+[Подключить сервис «Долями»](/dolyame/business/?internal_source=help)
+[Читать о сервисе «Долями»](https://dolyame.ru/help/customer/about/#q1)
+Работа в соответствии с 115-ФЗ
+Снизить риск проверок и ограничений
+[Получить сопровождение по 115-ФЗ](/corporate/account/compliance/form/alternative?internal_source=help)
+[Читать о 115-ФЗ](/business/help/account/compliance/about/hot/)
+[Читать о сервисе «Репутация»](/business/help/account/reputation/about/discover/?card=q1)
+[Читать о проверке контрагентов](/business/blog/verification/?internal_source=help_to%3Ablog_from%3Atext-link)
+Ведение бухгалтерии
+Разобраться в бухгалтерии
+[Пройти бесплатный курс «Бухгалтерия для предпринимателей»](https://secrets.tinkoff.ru/courses/bukhgalteriya-dlya-predprinimatelya/?internal_source=help)
+Сдать отчетность и уплатить налоги
+[Подключить онлайн-бухгалтерию](/business/accounting/?internal_source=help) для ИП на УСН «Доходы» без сотрудников, ИП и ООО на АУСН
+[Читать об онлайн-бухгалтерии](/business/help/reports/tinkoff-accounting/online-accounting/)
+Делегировать бухгалтерию
+[Подключить бухгалтерское обслуживание](/business/accounting-service/?internal_source=help) для ИП на УСН «Доходы»
+[Читать о бухгалтерском обслуживании](/business/help/reports/tinkoff-accounting/accounting-service/)
+Ведение кадрового учета
+Нанять сотрудника и подписать документы онлайн
+[Подключить кадровый электронный документооборот,](/business/signature/?internal_source=help) или КЭДО
+[Читать о кадровом электронном документообороте](/business/blog/kedo/?internal_source=help_to%3Ablog_from%3Atext-link)
+Участие в госзакупках
+Разобраться в госзакупках
+[Пройти бесплатный курс «Как начать зарабатывать на госзакупках»](https://secrets.tinkoff.ru/courses/obuchenie-goszakupkam/?internal_source=help)
+Использовать денежное обеспечение
+[Открыть спецсчет](/business/special/?internal_source=help)
+[Читать о спецсчете](/business/help/procurement/special-account/special-account/terms/?card=q1)
+Подтвердить обеспечение
+[Получить банковскую гарантию](/business/guarantees/?internal_source=help)
+[Читать о банковских гарантиях](/business/help/procurement/special/about/warranty/?card=guarantee)
+Найти тендеры
+[Воспользоваться поисковиком госзакупок](/business/procurement/search/?internal_source=help)
+[Читать о поисковике госзакупок](/business/blog/procurement/?internal_source=help_to%3Ablog_from%3Atext-link)
+Получить деньги на исполнение контракта
+[Открыть кредитную линию под госконтракт](/business/turnover-contract/?internal_source=help)
+[Читать о кредитной линии под госконтракт](/business/help/loans/credit-lines/turnover-contract/)
+Выплата денег сотрудникам и клиентам
+Выплатить зарплату
+[Подключить зарплатный проект](/corporate/payout/salary/?internal_source=help)
+[Читать о зарплатном проекте](/business/help/business-payout/salary/)
+Работать с самозанятыми
+[Подключить выплаты самозанятым](/corporate/payout/self-employed/?internal_source=help)
+[Читать о выплатах самозанятым](/business/help/business-payout/self-employed/)
+Перевести деньги клиентам или исполнителям
+[Подключить мгновенные выплаты физлицам](/kassa/solution/payouts/?internal_source=help)
+Ведение бизнеса в интернете
+Создать сайт
+[Воспользоваться конструктором сайтов](/business/website-builder/?internal_source=help)
+[Читать о конструкторе сайтов](/business/help/sales/website-builder/about/start/?card=capabilities)
+Управлять продажами на Ozon и Wildberries
+[Подключить Тинькофф Селлер](/business/seller/?internal_source=help)
+[Читать о Тинькофф Селлере](/business/help/sales/tinkoff-seller/about/what-is-it/)
+Привлечь клиентов в магазин
+[Подключить сервис «Долями»](/dolyame/business/?internal_source=help)
+[Читать о «Долями»](https://dolyame.ru/help/business/)
+Получение денег на развитие бизнеса
+Пополнить оборотные средства
+[Оставить заявку на кредит](/business/credit/?internal_source=help)
+[Читать о кредитах](/business/help/loans/)
+Оплатить срочные счета
+[Подключить овердрафт](/business/overdraft/?internal_source=help)
+[Читать об овердрафте](/business/help/loans/overdraft/)
+Депозиты и накопление денег
+Заработать на свободных деньгах
+[Открыть депозит](/business/deposit/?internal_source=help)
+[Читать о депозите](/business/blog/deposit/)
+Заработать на свободных деньгах за одну ночь
+[Подключить овернайт](/business/overnight/?internal_source=help)
+[Читать об овернайте](/business/blog/overnight/)
+Накопить на любые цели
+[Открыть бизнес-копилку](/business/cashbox/?internal_source=help)
+[Читать о бизнес-копилке](/business/blog/cashbox/)
+Экономия на сервисах для бизнеса
+Сэкономить на сервисах
+[Воспользоваться скидками и бонусами от партнеров Тинькофф](/business/partners/)

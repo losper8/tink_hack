@@ -1,6 +1,4 @@
-Как узнать налоговую задолженность?
-
-Узнать о налоговой задолженности ООО можно в личном кабинете юрлица на сайте налоговой (https://lkul.nalog.ru/) → сальдо ЕНС.
-
-Что такое ЕНС и ЕНП (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/ens/?card=q1)
-Что такое сальдо ЕНС (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/ens/?card=q9)
+## Как узнать налоговую задолженность?
+Узнать о налоговой задолженности ООО можно [в личном кабинете юрлица на сайте налоговой](https://lkul.nalog.ru/) → сальдо ЕНС.
+[Что такое ЕНС и ЕНП](/business/help/reports/tinkoff-accounting/taxes/ens/?card=q1)
+[Что такое сальдо ЕНС](/business/help/reports/tinkoff-accounting/taxes/ens/?card=q9)

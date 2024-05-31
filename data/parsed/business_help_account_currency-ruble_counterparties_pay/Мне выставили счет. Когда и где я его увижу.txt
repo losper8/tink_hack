@@ -1,9 +1,5 @@
-Мне выставили счет. Когда и где я его увижу?
+## Мне выставили счет. Когда и где я его увижу?
 Если ваш контрагент — тоже клиент Тинькофф и выставил счет через Тинькофф Бизнес, счет моментально появится у вас во «Входящих»:
-
-- 
-в мобильном приложении «Платежи» → «Счета на оплату» → «Входящие»:
-
-- в личном кабинете: «Счета и платежи» → «Выставление счета» → «Входящие»: (https://business.tinkoff.ru/sme/invoices/incoming/pending)Как выглядит раздел «Входящие» в личном кабинете
-
-Если ваш контрагент — клиент другого банка, счет у вас во «Входящих» не появится, вам нужно будет самому создать платежное поручение. Как создать платежное поручение (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/pay/?card=q1)
+* в мобильном приложении «Платежи» → «Счета на оплату» → «Входящие»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NjM1M2RjMi4xMF9ya29fdXBkYXRlX2Rlc2sucG5n)
+* [в личном кабинете: «Счета и платежи» → «Выставление счета» → «Входящие»:](https://business.tinkoff.ru/sme/invoices/incoming/pending)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jYjllZTI4Yy4xMV9ya29fdXBkYXRlX2Rlc2sucG5n)Как выглядит раздел «Входящие» в личном кабинете
+Если ваш контрагент — клиент другого банка, счет у вас во «Входящих» не появится, вам нужно будет самому создать платежное поручение. [Как создать платежное поручение](/business/help/account/currency-ruble/counterparties/pay/?card=q1)

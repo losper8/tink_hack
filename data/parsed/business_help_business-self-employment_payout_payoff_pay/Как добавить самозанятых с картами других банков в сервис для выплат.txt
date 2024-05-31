@@ -1,61 +1,46 @@
-Как добавить самозанятых с картами других банков в сервис для выплат?
-
+## Как добавить самозанятых с картами других банков в сервис для выплат?
 Есть три способа:
-
-- Зайдите в «Сервисы» → «Зарплатный проект» → «Выплаты» → «Добавить».
-
-- На открывшемся экране «Кого добавить» выберите «Самозанятого».
-
-- На экране «На какой счет платить самозанятому» выберите «Другой банк».
-
-- Заполните анкету самозанятого: добавьте его ФИО, телефон, ИНН, номер расчетного счета и БИК банка. Нажмите «Добавить».
-
--  Если самозанятый — нерезидент, нажмите кнопку «В чат» и отправьте в чате фото или скан договора с самозанятым. Ждать ответа или подтверждения не нужно, можно выйти из чата и переходить к следующему шагу.
-
+По одному исполнителю через мобильное приложение Тинькофф Бизнеса
+1. Зайдите в «Сервисы» → «Зарплатный проект» → «Выплаты» → «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kNWIyZGE1Ny4wMV92aXBsYXR5X3NhbW96YW5fZGVzay5wbmc=)
+2. На открывшемся экране «Кого добавить» выберите «Самозанятого». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYWQ0ZTFmOS4wMl92aXBsYXR5X3NhbW96YW5fZGVzay5wbmc=)
+3. На экране «На какой счет платить самозанятому» выберите «Другой банк». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85OTkzMzlkYy4wM192aXBsYXR5X3NhbW96YW5fZGVzay5wbmc=)
+4. Заполните анкету самозанятого: добавьте его ФИО, телефон, ИНН, номер расчетного счета и БИК банка. Нажмите «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kZDM1Y2I5NC4wNF92aXBsYXR5X3NhbW96YW5fZGVzay5wbmc=)
+5. Если самозанятый — нерезидент, нажмите кнопку «В чат» и отправьте в чате фото или скан договора с самозанятым. Ждать ответа или подтверждения не нужно, можно выйти из чата и переходить к следующему шагу.
 Если самозанятый — резидент, ничего отправлять не нужно, нажмите на крестик в верхнем правом углу.
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85YTc5MDFlOC4wNF92aXBsYXR5X3NhbW96YW5fZGVza18xLnBuZw==)
 После того как вы заполнили анкету, самозанятому придет запрос от налоговой на подключение к Тинькофф в приложении или на сайте «Мой налог». Самозанятый должен подтвердить запрос.
-
-- На следующий день после подключения исполнитель появится во вкладке «Самозанятые» со статусом «Подключен к Тинькофф». Теперь ему можно заплатить через сервис.
-Как заплатить одному или нескольким самозанятым (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay/?card=manual-payment)
-- Зайдите во «Все сервисы» → «Зарплатный проект» → «Добавить получателя»:
-
-- Нажмите на блок «С картой другого банка»:
-
-- Нажмите «Заполнить анкету»:
-
-- Впишите данные исполнителя в анкету. Для самозанятых нерезидентов с суммой контракта больше 600 000 ₽ дополнительно загрузите договор, по которому работаете. Это нужно для прохождения валютного контроля. Для нерезидентов с суммой контракта меньше 600 000 ₽ загружать договоры не нужно.
-
+6. На следующий день после подключения исполнитель появится во вкладке «Самозанятые» со статусом «Подключен к Тинькофф». Теперь ему можно заплатить через сервис. [Как заплатить одному или нескольким самозанятым](/business/help/business-payout/self-employed/payoff/pay/?card=manual-payment)
+По одному исполнителю через личный кабинет Тинькофф Бизнеса
+1. Зайдите во «Все сервисы» → «Зарплатный проект» → «Добавить получателя»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mYzFhOWVjZi4xN19tZXpoYmFua19oYWxwNHhfN2I0NDQ4ZjAyYjE0NjE2YzE2MDA3YmExODkxOWQxMjEucG5n)
+2. Нажмите на блок «С картой другого банка»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMzE5YjdhMC4wMl9tZXpoYmFua19oYWxwNHhfMzZlZDVlYjYyOGIzYmU5YjFkNTg0YjhlOTQ2ZGNlZGQucG5n)
+3. Нажмите «Заполнить анкету»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zOWY1NDBlOS4wM19tZXpoYmFua19oYWxwNHhfYzU0ZmVlN2NmNTAwYTc0ODVjOWJlYzc3YjgxZTE2MzgucG5n)
+4. Впишите данные исполнителя в анкету. Для самозанятых нерезидентов с суммой контракта больше 600 000 ₽ дополнительно загрузите договор, по которому работаете. Это нужно для прохождения валютного контроля. Для нерезидентов с суммой контракта меньше 600 000 ₽ загружать договоры не нужно.
 Чтобы прикрепить договор, нажмите «Загрузить» на желтой плашке под данными самозанятого.
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80MGFmYWYzMS4wMV9zbXpfcHJhdmtpX2Rlc2tfNHgucG5n)
 В открывшемся чате загрузите и отправьте договор. Ждать ответа или подтверждения не нужно, продолжайте добавление самозанятых.
-
-- Если нужно добавить несколько исполнителей, нажмите «+ Добавить еще». После того как добавили всех самозанятых, нажмите кнопку «Добавить»:
-
-- После того как вы добавите анкету, самозанятому придет запрос от налоговой на подключение к Тинькофф в приложении или на сайте «Мой налог». Самозанятый должен подтвердить запрос.
-- Зайдите во «Все сервисы» → «Зарплатный проект» → «Добавить получателя» → «С картой другого банка».
-- Нажмите на блок «Загрузить файл в XLSX»:
-
-- 
-Выберите файл с данными исполнителей из папки или перетяните его в поле загрузки и нажмите «Добавить».
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81NWJiMTgzNC4wMl9zbXpfcHJhdmtpX2Rlc2tfNHgucG5n)
+5. Если нужно добавить несколько исполнителей, нажмите «+ Добавить еще». После того как добавили всех самозанятых, нажмите кнопку «Добавить»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yYThkMzhiOS4wM19zbXpfcHJhdmtpX2Rlc2tfNHgucG5n)
+6. После того как вы добавите анкету, самозанятому придет запрос от налоговой на подключение к Тинькофф в приложении или на сайте «Мой налог». Самозанятый должен подтвердить запрос.
+На следующий день после подключения исполнитель появится во вкладке «Самозанятые» со статусом «Подключен к Тинькофф». Теперь ему можно заплатить через сервис:
+[Как заплатить одному или нескольким самозанятым](/business/help/business-payout/self-employed/payoff/pay/?card=manual-payment)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kNWIwMzMwZS4xOF9tZXpoYmFua19oYWxwNHhfMV9hNWM2MDNjODE2Y2NjNTMyZGZiZDZmM2UxN2ExMzBlZC5wbmc=)
+Списком через загрузку файла с данными исполнителей в личном кабинете
+1. Зайдите во «Все сервисы» → «Зарплатный проект» → «Добавить получателя» → «С картой другого банка».
+2. Нажмите на блок «Загрузить файл в XLSX»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84ZmQ1ZDYzMi4wNV9tZXpoYmFua19oYWxwNHhfYWI4YTRkZWRjZDc5MGVlZGQzYjQyNzg2OTJiZGE4OGYucG5n)
+3. Выберите файл с данными исполнителей из папки или перетяните его в поле загрузки и нажмите «Добавить».
 Система примет файл в формате XLS, XLSX объемом не больше 20 Мб. Информация о самозанятых загрузится в сервис.
-
 Если в вашем списке есть самозанятые нерезиденты РФ, чья сумма контракта больше 600 000 ₽, прикрепите договоры, по которым вы работаете. Это нужно для прохождения валютного контроля. Для нерезидентов с суммой контракта меньше 600 000 ₽ загружать договоры не нужно. Чтобы прикрепить договоры, нажмите «Загрузить» на голубой плашке под загруженным списком самозанятых.
-XLSXШаблон списка самозанятых с картами других банков (https://acdn.tinkoff.ru/static/documents/shablon-dobavit-smz-s-kartoi-drugogo-banka.xlsx)
-- После того как вы добавите информацию в сервис, самозанятому придет запрос от налоговой на подключение к Тинькофф в приложении или на сайте «Мой налог». Самозанятый должен подтвердить запрос. 
-
-
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YzU4ZmIzMC4wNF9zbXpfcHJhdmtpX2Rlc2tfNHgucG5n)
+XLSX
+[Шаблон списка самозанятых с картами других банков](https://acdn.tinkoff.ru/static/documents/shablon-dobavit-smz-s-kartoi-drugogo-banka.xlsx)
+4. После того как вы добавите информацию в сервис, самозанятому придет запрос от налоговой на подключение к Тинькофф в приложении или на сайте «Мой налог». Самозанятый должен подтвердить запрос.
+На следующий день после подключения исполнитель появится во вкладке «Самозанятые» со статусом «Подключен к Тинькофф». Теперь ему можно заплатить через сервис.
+[Как заплатить одному или нескольким самозанятым](/business/help/business-payout/self-employed/payoff/pay/?card=manual-payment)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kNWIwMzMwZS4xOF9tZXpoYmFua19oYWxwNHhfMV9hNWM2MDNjODE2Y2NjNTMyZGZiZDZmM2UxN2ExMzBlZC5wbmc=)
 По одному лучше добавлять, если исполнителей немного — от одного до десяти. Если больше — рекомендуем загрузить файл.
-
-
 Перед тем как добавить исполнителя в сервис, нужно убедиться, что у него уже есть статус самозанятого. Это можно сделать на сайте налоговой по ИНН исполнителя.
-
-Проверить статус самозанятого на сайте налоговой (https://npd.nalog.ru/check-status/)
+[Проверить статус самозанятого на сайте налоговой](https://npd.nalog.ru/check-status/)
 Только если ваш исполнитель уже самозанятый, сервис сможет прислать ему запрос на подключение к Тинькофф. Это нужно, чтобы в дальнейшем автоматически проверять его статус перед выплатой и формировать чеки по выплатам.
-
-
 Если у ваших исполнителей еще нет статуса самозанятого или они не подключены к системе Тинькофф, отправьте им инструкции, как это сделать:
-
-- Инструкция «Как стать самозанятым»; (https://acdn.tinkoff.ru/static/documents/instructions-for-self-employed-how-to-register-with-tax-office-in-app-my-tax.pdf)
-- Инструкция для самозанятых «Как подключиться к Тинькофф». (https://acdn.tinkoff.ru/static/documents/328b9490-735c-4ebd-9d61-5c81cb00f1a8.pdf)
+* [Инструкция «Как стать самозанятым»;](https://acdn.tinkoff.ru/static/documents/instructions-for-self-employed-how-to-register-with-tax-office-in-app-my-tax.pdf)
+* [Инструкция для самозанятых «Как подключиться к Тинькофф».](https://acdn.tinkoff.ru/static/documents/328b9490-735c-4ebd-9d61-5c81cb00f1a8.pdf)

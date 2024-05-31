@@ -1,16 +1,11 @@
-Как создать отчет о звонках или чатах с помощью тегов?
-
+## Как создать отчет о звонках или чатах с помощью тегов?
 Следуйте инструкции:
-
-- В TQM перейдите в «Отчеты»:
-- выберите «Звонки» (https://tqm.tinkoff.ru/analytics/calls), если хотите создать отчет о звонках;- выберите «Чаты» (https://tqm.tinkoff.ru/analytics/internal-chats), если хотите создать отчет о чатах.- В блоке «Мои отчеты» нажмите «Создать отчет».
-
-
-- Нажмите на значок плюса справа от строки «Фильтры» и выберите «Теги».
-- Укажите нужные теги и нажмите «Построить отчет».
-
-
-- Появится график, который соответствует выбранным тегам. Как работать с графиком в отчетах (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/reports/?card=q5)- В правом верхнем углу нажмите «Сохранить» и придумайте для отчета название.
-
-
+1. В TQM перейдите в «Отчеты»:
+* [выберите «Звонки»](https://tqm.tinkoff.ru/analytics/calls), если хотите создать отчет о звонках;
+* [выберите «Чаты»](https://tqm.tinkoff.ru/analytics/internal-chats), если хотите создать отчет о чатах.
+2. В блоке «Мои отчеты» нажмите «Создать отчет».
+3. Нажмите на значок плюса справа от строки «Фильтры» и выберите «Теги». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kYTA4ZmQ2YS5kZXNrdG9wXzM5LnBuZw==)
+4. Укажите нужные теги и нажмите «Построить отчет».
+5. Появится график, который соответствует выбранным тегам. [Как работать с графиком в отчетах](/business/help/solutions/speech-analytics-for-tinkoff/control/reports/?card=q5)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xMTRkYzBiMi5kZXNrdG9wXzQwLnBuZw==)
+6. В правом верхнем углу нажмите «Сохранить» и придумайте для отчета название.
 Отчет сохранится на вкладке «Отчеты» → «Звонки» → «Мои отчеты». Его можно просматривать в любое время, но нельзя скачать.

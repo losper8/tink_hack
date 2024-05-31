@@ -1,14 +1,10 @@
-Как включить Зарплатный проект Тинькофф Бизнеса в 1С: ЗУП по умолчанию?
-
-Сначала создайте в «1С: ЗУП» зарплатный проект Тинькофф. Как создать зарплатный проект в «1С: ЗУП» (https://www.tinkoff.ru/business/help/business-payout/salary/integration/tune/?card=q4)
-
+## Как включить Зарплатный проект Тинькофф Бизнеса в 1С: ЗУП по умолчанию?
+Сначала создайте в «1С: ЗУП» зарплатный проект Тинькофф. [Как создать зарплатный проект в «1С: ЗУП»](/business/help/business-payout/salary/integration/tune/?card=q4)
 Чтобы все сотрудники добавлялись к зарплатному проекту Тинькофф автоматически, назначьте его основным способом выплаты зарплаты:
-
-- 
-В «1С: ЗУП» выберите «Настройка» → «Реквизиты организации». В открывшейся форме перейдите во вкладку «Учетная политика и другие настройки»:
--  
-Нажмите «Бухучет и выплата зарплаты»:
-- 
-Перейдите во вкладку «Выплата зарплаты». Отметьте «Зачислением на карточку» и в выпадающем меню выберите зарплатный проект Тинькофф. После этого нажмите «Записать и закрыть»:
-- 
-Готово. Зарплатный проект Тинькофф установлен как способ выплаты зарплаты по умолчанию. Теперь все сотрудники будут автоматически к нему прикрепляться.
+1. В «1С: ЗУП» выберите «Настройка» → «Реквизиты организации». В открывшейся форме перейдите во вкладку «Учетная политика и другие настройки»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zNGI2YTEzYy5kNDA1NWNmNF85NGQxXzQ3ZDFfOTViY18zYzQ2NjJiMTE0MWMucG5n)
+2. Нажмите «Бухучет и выплата зарплаты»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYWNhMTNjNS40NDAyNjEwMV9mNzBiXzQzZmNfYTg3MV83NTQxOTZhZjE0NWYucG5n)
+3. Перейдите во вкладку «Выплата зарплаты». Отметьте «Зачислением на карточку» и в выпадающем меню выберите зарплатный проект Тинькофф. После этого нажмите «Записать и закрыть»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMWRlNjE3MC43MDhjYzk1M181MThiXzQxNDBfOTZkM19hN2IwYTEwNWIyMzAucG5n)
+4. Готово. Зарплатный проект Тинькофф установлен как способ выплаты зарплаты по умолчанию. Теперь все сотрудники будут автоматически к нему прикрепляться.

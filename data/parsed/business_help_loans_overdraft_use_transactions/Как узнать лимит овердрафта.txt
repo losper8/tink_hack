@@ -1,9 +1,7 @@
-Как узнать лимит овердрафта?
-
+## Как узнать лимит овердрафта?
 Узнать доступный лимит овердрафта можно в мобильном приложении и личном кабинете Тинькофф Бизнеса.
-
-- В мобильном приложении. Выберите «Рублевый счет» → «Детали».
-- В личном кабинете. Выберите рублевый счет, и под остатком на счете увидите доступный лимит:
-
-Как подключить овердрафт (https://www.tinkoff.ru/business/help/loans/overdraft/get-overdraft/add/?card=q1)
-Как отключить овердрафт (https://www.tinkoff.ru/business/help/loans/overdraft/use/repay/?card=q6)
+* В мобильном приложении. Выберите «Рублевый счет» → «Детали».
+* В личном кабинете. Выберите рублевый счет, и под остатком на счете увидите доступный лимит:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMzNiZTMyZi5lODIyOTY3Zl85ZGQ2XzRkNzJfODMzZF8wY2NiNmMzODY5NzcucG5n)Так выглядит лимит овердрафта в личном кабинете
+[Как подключить овердрафт](/business/help/loans/overdraft/get-overdraft/add/?card=q1)
+[Как отключить овердрафт](/business/help/loans/overdraft/use/repay/?card=q6)

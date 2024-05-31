@@ -1,31 +1,31 @@
-Какие настройки есть у конструктора сайтов?
-В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) настройки сгруппированы в семи разделах. Скрытые разделы можно увидеть, если нажать на три точки. Как перейти в настройки сайта (https://www.tinkoff.ru/business/help/sales/website-builder/about/settings/?card=open-features)
-Чтобы настроить сайт, выберите нужный раздел
+## Какие настройки есть у конструктора сайтов?
+[В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) настройки сгруппированы в семи разделах. Скрытые разделы можно увидеть, если нажать на три точки. [Как перейти в настройки сайта](/business/help/sales/website-builder/about/settings/?card=open-features)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hNzE5MzliZS5kZXNrdG9wXzIyLnBuZw==)Чтобы настроить сайт, выберите нужный раздел
 Что можно делать в каждом разделе настроек сайта:
-
-Раздел «Основные»- Изменить адрес сайта (https://www.tinkoff.ru/business/help/sales/website-builder/about/domain/?card=domain)
-- Добавить фавикон (https://www.tinkoff.ru/business/help/sales/website-builder/about/settings/?card=favicon)
-- Указать оферту (https://www.tinkoff.ru/business/help/sales/website-builder/sale/page/?card=offer-policy)
-- Указать политику конфиденциальности (https://www.tinkoff.ru/business/help/sales/website-builder/sale/page/?card=offer-policy)
-- Включить или отключить чат на сайте (https://www.tinkoff.ru/business/help/sales/website-builder/orders/request/?card=add-chat)
-
-Раздел «Продвижение»- Подключить счетчики (https://www.tinkoff.ru/business/help/sales/website-builder/effective/analytics/?card=trackers)
-- Подключить Яндекс Вебмастер (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=yandex)
-- Подключить Google Search Console (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=google)
-- Прописать ключевые слова (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=keywords)
-- Изменить описание страниц (https://www.tinkoff.ru/business/help/sales/website-builder/effective/seo/?card=tags)
-- Добавить скидочные промокоды (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=promocodes)
-
-Раздел «Оплата»- Зарегистрировать бизнес (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=business-registration)
-- Открыть расчетный счет в Тинькофф Бизнесе (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=business-account)
-- Включить онлайн-оплату (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=payment)
-- Настроить интернет-эквайринг (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=how)
-- Настроить оплату в кредит или в рассрочку (https://www.tinkoff.ru/business/help/sales/website-builder/money/credit/?card=credit)
-
-Раздел «Оформление заказов»- Настроить поля в корзине (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=shopping-cart)
-- Настроить сообщение после оплаты заказа (https://www.tinkoff.ru/business/help/sales/website-builder/about/begin/?card=thank-you-message)
-
-Раздел «Доставка»- Указать информацию о доставке (https://www.tinkoff.ru/business/help/sales/website-builder/orders/delivery/?card=delivery-terms)
-
-Раздел «Уведомления»- Настроить уведомления (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=about)
-- Настроить уведомления о заказах (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=only-cart)
+Раздел «Основные»
+* [Изменить адрес сайта](/business/help/sales/website-builder/about/domain/?card=domain)
+* [Добавить фавикон](/business/help/sales/website-builder/about/settings/?card=favicon)
+* [Указать оферту](/business/help/sales/website-builder/sale/page/?card=offer-policy)
+* [Указать политику конфиденциальности](/business/help/sales/website-builder/sale/page/?card=offer-policy)
+* [Включить или отключить чат на сайте](/business/help/sales/website-builder/orders/request/?card=add-chat)
+Раздел «Продвижение»
+* [Подключить счетчики](/business/help/sales/website-builder/effective/analytics/?card=trackers)
+* [Подключить Яндекс Вебмастер](/business/help/sales/website-builder/effective/seo/?card=yandex)
+* [Подключить Google Search Console](/business/help/sales/website-builder/effective/seo/?card=google)
+* [Прописать ключевые слова](/business/help/sales/website-builder/effective/seo/?card=keywords)
+* [Изменить описание страниц](/business/help/sales/website-builder/effective/seo/?card=tags)
+* [Добавить скидочные промокоды](/business/help/sales/website-builder/money/acquiring/?card=promocodes)
+Раздел «Оплата»
+* [Зарегистрировать бизнес](/business/help/sales/website-builder/money/acquiring/?card=business-registration)
+* [Открыть расчетный счет в Тинькофф Бизнесе](/business/help/sales/website-builder/money/acquiring/?card=business-account)
+* [Включить онлайн-оплату](/business/help/sales/website-builder/money/acquiring/?card=payment)
+* [Настроить интернет-эквайринг](/business/help/sales/website-builder/money/acquiring/?card=how)
+* [Настроить оплату в кредит или в рассрочку](/business/help/sales/website-builder/money/credit/?card=credit)
+Раздел «Оформление заказов»
+* [Настроить поля в корзине](/business/help/sales/website-builder/about/begin/?card=shopping-cart)
+* [Настроить сообщение после оплаты заказа](/business/help/sales/website-builder/about/begin/?card=thank-you-message)
+Раздел «Доставка»
+* [Указать информацию о доставке](/business/help/sales/website-builder/orders/delivery/?card=delivery-terms)
+Раздел «Уведомления»
+* [Настроить уведомления](/business/help/sales/website-builder/orders/notifications/?card=about)
+* [Настроить уведомления о заказах](/business/help/sales/website-builder/orders/notifications/?card=only-cart)

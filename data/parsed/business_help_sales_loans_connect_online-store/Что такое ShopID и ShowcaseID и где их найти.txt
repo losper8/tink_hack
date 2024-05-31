@@ -1,13 +1,11 @@
-Что такое ShopID и ShowcaseID и где их найти?
-
+## Что такое ShopID и ShowcaseID и где их найти?
 ShopID и ShowcaseID — это параметры, которые нужны для интеграции сервиса Тинькофф Кредит Брокер на сайт магазина:
-
-- ShopID — идентификатор магазина. Его выдает банк при подключении сервиса;
-- ShowcaseID — идентификатор витрины. Витрины — это сайты, которые зарегистрированы на одно юридическое лицо: например, сайты разных магазинов, которыми владеет одна компания.
-
-Инструкция по интеграции кнопки «Купить в кредит» (https://forma.tinkoff.ru/docs/credit/button/)
+* ShopID — идентификатор магазина. Его выдает банк при подключении сервиса;
+* ShowcaseID — идентификатор витрины. Витрины — это сайты, которые зарегистрированы на одно юридическое лицо: например, сайты разных магазинов, которыми владеет одна компания.
+[Инструкция по интеграции кнопки «Купить в кредит»](https://forma.tinkoff.ru/docs/credit/button/)
 Как посмотреть ShopID:
-- В личном кабинете руководителя перейдите в раздел «Компании» и нажмите на название нужной. Войти в личный кабинет руководителя (https://business.tinkoff.ru/posbroker)- ShopID указан под юридическим адресом.
- Кликните на иконку справа, чтобы скопировать ShopIDКак посмотреть ShowcaseID:
-- В личном кабинете руководителя перейдите в раздел «Магазины» и кликните на нужный магазин. Войти в личный кабинет руководителя (https://business.tinkoff.ru/posbroker)- ShowcaseID указан под ссылкой на сайт.
-Кликните на иконку справа, чтобы скопировать ShowcaseID
+1. В личном кабинете руководителя перейдите в раздел «Компании» и нажмите на название нужной. [Войти в личный кабинет руководителя](https://business.tinkoff.ru/posbroker)
+2. ShopID указан под юридическим адресом. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zY2Y4MmEyYS5lZTU1Zjk2M181NDdhXzQyNzZfYTgyNF9jODhlYzhhOTZlZTIucG5n) Кликните на иконку справа, чтобы скопировать ShopID
+Как посмотреть ShowcaseID:
+1. В личном кабинете руководителя перейдите в раздел «Магазины» и кликните на нужный магазин. [Войти в личный кабинет руководителя](https://business.tinkoff.ru/posbroker)
+2. ShowcaseID указан под ссылкой на сайт. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNjM2OTRlZi4yMTk1YzlmZF8yMzVhXzRkMGVfYjgwMF9mNWRjNjRhYWVhYTcucG5n)Кликните на иконку справа, чтобы скопировать ShowcaseID

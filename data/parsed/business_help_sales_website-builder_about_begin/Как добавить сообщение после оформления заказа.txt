@@ -1,9 +1,8 @@
-Как добавить сообщение после оформления заказа?
-
+## Как добавить сообщение после оформления заказа?
 Чтобы добавить сообщение:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → «Оформление заказа» → «Страница после оформления заказа».
-- 
-Настройте сообщение после оформления заказа: по умолчанию или собственное.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → «Оформление заказа» → «Страница после оформления заказа». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNWYxNTJjMi41ZDJiYTM1Zl8wN19kZXNrdG9wLnBuZw==)
+2. Настройте сообщение после оформления заказа: по умолчанию или собственное.
 Страница по умолчанию. Заполните поля «Заголовок» и «Текст».
-На страницу по умолчанию клиент попадает сразу после оформления заказаСобственная страница. Нажмите «Ссылка на страницу» и выберите собственную страницу успеха. Клиент попадет на эту страницу сразу после оплаты. Как добавить страницу успешной оплаты (https://www.tinkoff.ru/business/help/sales/website-builder/money/set-up/?card=success-page)В раскрывающемся списке появляются только опубликованные страницы
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMjg0YTg0Ny5kZXNrdG9wXzE4LnBuZw==)На страницу по умолчанию клиент попадает сразу после оформления заказа
+Собственная страница. Нажмите «Ссылка на страницу» и выберите собственную страницу успеха. Клиент попадет на эту страницу сразу после оплаты. [Как добавить страницу успешной оплаты](/business/help/sales/website-builder/money/set-up/?card=success-page)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jMzc2ZWJhYS5kZXNrdG9wXzE5LnBuZw==)В раскрывающемся списке появляются только опубликованные страницы

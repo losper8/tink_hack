@@ -1,15 +1,15 @@
-Как настроить оплату с помощью SDK в приложении?
-
+## Как настроить оплату с помощью SDK в приложении?
 Понадобится помощь программиста. Следуйте инструкции:
-
-- Оставьте заявку на подключение интернет-эквайринга Тинькофф Кассы. (https://www.tinkoff.ru/kassa/?internal_source=help-order)- Если у вас есть расчетный счет в Тинькофф, проверьте данные о вашем бизнесе, подпишите заявку и ждите проверки с нашей стороны.
-
+1. [Оставьте заявку на подключение интернет-эквайринга Тинькофф Кассы.](/kassa/?internal_source=help-order)
+2. Если у вас есть расчетный счет в Тинькофф, проверьте данные о вашем бизнесе, подпишите заявку и ждите проверки с нашей стороны.
 Если у вас расчетный счет в другом банке, заполните анкету — добавьте информацию о себе и своем бизнесе.
-Как заполнить анкету для ООО (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/connect/?card=q2)Как заполнить анкету для ИП (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/connect/?card=q3)- 
-Вам станет доступен раздел с магазинами в личном кабинете интернет-эквайринга. В нем выберите «Интернет-магазин» на вкладке «Создать магазин». (https://business.tinkoff.ru/oplata/mpa/shops)Как создать магазин (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/store/?card=q3)- В «Магазинах» (https://business.tinkoff.ru/oplata/mpa/shops/ecom) перейдите в раздел «Терминалы» → «Рабочий». В строке «Подключение» выберите «Мобильное». Скопируйте Terminal Key, Password и Public Key: эти данные нужны для подключения.
-В строке «Терминал» будут данные Terminal Key, в строке «Пароль» — Password, в окне «Открытый ключ» — Public Key- 
-Подключите и настройте SDK по инструкции. (https://www.tinkoff.ru/kassa/dev/payments/#section/Vvedenie/Sposoby-integracii-internet-ekvajringa-ot-Tinkoff-Kassy)- 
-Протестируйте прием оплаты: без прохождения тестов не сможете принимать оплату на сайте. Как тестировать прием оплаты (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q16)
+[Как заполнить анкету для ООО](/business/help/business-payments/internet-acquiring/how-involve/connect/?card=q2)
+[Как заполнить анкету для ИП](/business/help/business-payments/internet-acquiring/how-involve/connect/?card=q3)
+3. Вам станет доступен раздел с магазинами в личном кабинете интернет-эквайринга. В нем выберите «Интернет-магазин» [на вкладке «Создать магазин».](https://business.tinkoff.ru/oplata/mpa/shops)
+[Как создать магазин](/business/help/business-payments/internet-acquiring/how-use/store/?card=q3)
+4. [В «Магазинах»](https://business.tinkoff.ru/oplata/mpa/shops/ecom) перейдите в раздел «Терминалы» → «Рабочий». В строке «Подключение» выберите «Мобильное». Скопируйте Terminal Key, Password и Public Key: эти данные нужны для подключения.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wOThhODc2YS4wM19kZXNrLnBuZw==)В строке «Терминал» будут данные Terminal Key, в строке «Пароль» — Password, в окне «Открытый ключ» — Public Key
+5. Подключите и настройте SDK [по инструкции.](/kassa/dev/payments/#section/Vvedenie/Sposoby-integracii-internet-ekvajringa-ot-Tinkoff-Kassy)
+6. Протестируйте прием оплаты: без прохождения тестов не сможете принимать оплату на сайте. [Как тестировать прием оплаты](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q16)
 Готово! Статус «Протестируйте платежи» у магазина сменится на «Принимает платежи». После этого сможете принимать оплату от покупателей.
-
-Статус магазина указан на его плашке справа вверху
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMWE3MGIzOS4wMV9zcG9zb2J5X2ludGVncmF0c2lpX2Rlc2sucG5n)Статус магазина указан на его плашке справа вверху

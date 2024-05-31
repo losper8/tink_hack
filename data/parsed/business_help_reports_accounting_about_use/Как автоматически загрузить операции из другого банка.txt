@@ -1,7 +1,9 @@
-Как автоматически загрузить операции из другого банка?
-
+## Как автоматически загрузить операции из другого банка?
 Чтобы автоматически загрузить операции из другого банка:
-
-Зачем добавлять операции, которых нет по счету в Тинькофф (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q9)- Зайдите в раздел «Операции» и нажмите «Добавить операцию» → «Загрузить из другого банка»:- Выберите нужный банк из списка. Если вашего банка в списке нет, значит, загрузить операции автоматически пока не получится. Тогда придется добавлять операции вручную или загружать выписку в формате 1С:
-Как добавить операцию вручную (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q11)- Введите логин и пароль от личного кабинета другого банка. Операции загрузятся автоматически и отобразятся в разделе «Неучтенные операции».
+[Зачем добавлять операции, которых нет по счету в Тинькофф](/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q9)
+1. Зайдите в раздел «Операции» и нажмите «Добавить операцию» → «Загрузить из другого банка»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNDEyZTgyZi4wMV9hdnRvX3phZ3J1el94NF9taW5fOWU2Y2Q3YTc5NThiMTkwNTVkNmRmNTU3YTM3YTU2YTUucG5n)
+2. Выберите нужный банк из списка. Если вашего банка в списке нет, значит, загрузить операции автоматически пока не получится. Тогда придется добавлять операции вручную или загружать выписку в формате 1С: [Как добавить операцию вручную](/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q11)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81MzA5ZmMzZS5kZXNrdG9wXzMucG5n)
+3. Введите логин и пароль от личного кабинета другого банка. Операции загрузятся автоматически и отобразятся в разделе «Неучтенные операции».
 Через онлайн-бухгалтерию можно только загрузить выписку. Управлять счетом в другом банке или переводить деньги не получится.

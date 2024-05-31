@@ -1,5 +1,4 @@
-Как найти словарь?
+## Как найти словарь?
 Вы можете искать только словари, которые создали.
-В TQM перейдите в «Поиск» → «Коммуникации» → «Словари». (https://tqm.tinkoff.ru/filter/communications/dictionaries) В строке поиска начните вводить название словаря — сразу отобразятся все подходящие варианты.
-
-Поиск работает одновременно по обычным и семантическим словарям
+[В TQM перейдите в «Поиск» → «Коммуникации» → «Словари».](https://tqm.tinkoff.ru/filter/communications/dictionaries) В строке поиска начните вводить название словаря — сразу отобразятся все подходящие варианты.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84NjZmNWI0YS4xN19kZXNrdG9wLnBuZw==)Поиск работает одновременно по обычным и семантическим словарям

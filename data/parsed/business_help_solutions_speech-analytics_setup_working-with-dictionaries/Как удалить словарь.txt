@@ -1,11 +1,6 @@
-Как удалить словарь?
-
+## Как удалить словарь?
 Удалять можно обычные и семантические словари, в том числе словари, которые используются в тегах и оценочных формах. Нельзя удалять предустановленные словари.
-
-
 Чтобы удалить словарь, следуйте инструкции:
-
-- Перейдите на вкладку «Поиск» → «Коммуникации» → «Словари».
-- Наведите курсор на словарь, который хотите удалить, — справа появится значок корзины.
-- Нажмите на значок корзины и подтвердите удаление.
-Если удаляете словарь, который используется в теге или оценочной форме, система предупредит, что удаление словаря может повлиять на точность данных в статистике.
+1. Перейдите на вкладку «Поиск» → «Коммуникации» → «Словари». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zNjhmODZiNC4wMl9yYV9zbG92YXJpLnBuZw==)
+2. Наведите курсор на словарь, который хотите удалить, — справа появится значок корзины. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jOTFkMWUxMy4wMV9yYV9zbG92YXJpLnBuZw==)
+3. Нажмите на значок корзины и подтвердите удаление. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNmM3MTljOS4wNF9yYV9zbG92YXJpLnBuZw==)Если удаляете словарь, который используется в теге или оценочной форме, система предупредит, что удаление словаря может повлиять на точность данных в статистике.

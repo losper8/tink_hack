@@ -1,5 +1,5 @@
-Как отключить рассылки?
-
+## Как отключить рассылки?
 Это можно сделать в личном кабинете Тинькофф Бизнеса:
-
-- Перейдите в «Отзывы» → «Уведомления» (https://business.tinkoff.ru/city-feedback/notifications) → найдите нужный адрес электронной почты.- Нажмите на тумблер справа — он станет серым.Так будет выглядеть тумблер, если вы отключите уведомления
+1. [Перейдите в «Отзывы» → «Уведомления»](https://business.tinkoff.ru/city-feedback/notifications) → найдите нужный адрес электронной почты.
+2. Нажмите на тумблер справа — он станет серым.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85NjYxMjU2Yy4wNl9kZXNrdG9wLnBuZw==)Так будет выглядеть тумблер, если вы отключите уведомления

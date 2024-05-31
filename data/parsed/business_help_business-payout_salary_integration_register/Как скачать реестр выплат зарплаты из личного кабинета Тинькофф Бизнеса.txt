@@ -1,6 +1,9 @@
-Как скачать реестр выплат зарплаты из личного кабинета Тинькофф Бизнеса?
+## Как скачать реестр выплат зарплаты из личного кабинета Тинькофф Бизнеса?
 Чтобы скачать реестр выплат:
-1. Зайдите в личный кабинет зарплатного проекта. В «Истории выплат» откройте вкладку «Исполнены»:
-2. Выберите реестр — отметьте сразу все или поставьте галочку в чекбоксе напротив нужного. Нажмите «Скачать файл».
-3. Выберите тип файла, который подойдет для загрузки в 1С, — XML. Нажмите «Скачать»:
-4. Готово. Зарплатный реестр из личного кабинете зарплатного проекта выгружен.
+1\. Зайдите в личный кабинет зарплатного проекта. В «Истории выплат» откройте вкладку «Исполнены»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mNzExN2E1OC5iYzYzMDg2OF80YTdkXzQxNzBfYTYxYl80ODJmNTY1NjY1OWEucG5n)
+2\. Выберите реестр — отметьте сразу все или поставьте галочку в чекбоксе напротив нужного. Нажмите «Скачать файл».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xNDhkNzU2Ni4yOWM1ZTliZl9kMjg4XzQ5NGVfYWZkMl8zM2Y3MmJkNTgzZGMucG5n)
+3\. Выберите тип файла, который подойдет для загрузки в 1С, — XML. Нажмите «Скачать»:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYTc5NWVkOC4zZWJlMjA0MV8zMjUxXzRkMzdfYTRiYl9kN2RiNGY5NzJjMTcucG5n)
+4\. Готово. Зарплатный реестр из личного кабинете зарплатного проекта выгружен.

@@ -1,12 +1,9 @@
-Как выглядит покупка со стороны клиента?
-
+## Как выглядит покупка со стороны клиента?
 Клиент заходит на сайт, добавляет товары в корзину и оформляет заказ. Как выглядит покупка со стороны клиента:
-
-- Клиент добавляет товары и проверяет их количество. Он может собрать в корзине несколько товаров с разных страниц сайта, скорректировать количество или убрать ненужные товары.
-- Заполняет форму: указывает имя, номер телефона, адрес и другие данные, которые вы сделали обязательными при оформлении заказа.
-Вы можете поменять количество полей в настройках сайта → «Корзина»- Вводит данные карты и нажимает «Оплатить». Если он указывает эл. почту, на нее приходит квитанция об оплате.
-Если клиент покупает товар или услугу через форму оплаты, он сразу попадает на экран оплаты- Подтверждает платеж кодом из СМС.
-- После подтверждения видит сообщение об оплате.
-Текст сообщения об успешной или неуспешной оплате вы можете изменить в настройках сайта → «Корзина»- Получает на почту квитанцию об оплате.
-Если вы настроили онлайн-кассу, клиент получит фискальный чек
+1. Клиент добавляет товары и проверяет их количество. Он может собрать в корзине несколько товаров с разных страниц сайта, скорректировать количество или убрать ненужные товары. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kMTkyZjVmNi4yMl9vYm5vdml0X3JhemRlbF9rX29wbGF0ZV85YTYwOGViZjQwNjgyOWZiN2NmMjA4YWM4OWM5NzM4MC5wbmc=)
+2. Заполняет форму: указывает имя, номер телефона, адрес и другие данные, которые вы сделали обязательными при оформлении заказа. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hMmJiYTY1Ny4yM19vYm5vdml0X3JhemRlbF9rX29wbGF0ZV80YzdmYTVkMDM4ZDk1OTk1MGYxODFhZjk4ZGU2ZDZjNC5wbmc=)Вы можете поменять количество полей в настройках сайта → «Корзина»
+3. Вводит данные карты и нажимает «Оплатить». Если он указывает эл. почту, на нее приходит квитанция об оплате. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xYzRkOWIyYi4yNF9vYm5vdml0X3JhemRlbF9rX29wbGF0ZV8xM2MzNTQ3YmRiMGRiNzMzNThhZTA2ZGZjYTU2MzM2YS5wbmc=)Если клиент покупает товар или услугу через форму оплаты, он сразу попадает на экран оплаты
+4. Подтверждает платеж кодом из СМС. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82ZWY2YTI2Zi4yNV9vYm5vdml0X3JhemRlbF9rX29wbGF0ZV9lNGY0YmU0MzIxYWYzMzY0OGVmNzI1MjI4NTdmZjU1YS5wbmc=)
+5. После подтверждения видит сообщение об оплате. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85MWQ5NjU2MS4yNl9vYm5vdml0X3JhemRlbF9rX29wbGF0ZV84NWMwNWIwNTExNzU4YmJmOWU0YTFmZDkyZGViNjZhZi5wbmc=)Текст сообщения об успешной или неуспешной оплате вы можете изменить в настройках сайта → «Корзина»
+6. Получает на почту квитанцию об оплате. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNjNkMTM0Yi4yN19vYm5vdml0X3JhemRlbF9rX29wbGF0ZV8zZGIwMGMzMzZjZjcyNzU1OTc0Njk2ODA0YTE4ZTE1ZS5wbmc=)Если вы настроили онлайн-кассу, клиент получит фискальный чек
 Деньги поступают на ваш расчетный счет на следующий день после покупки. Вся история платежей сохраняется в личном кабинете интернет-эквайринга и CRM.

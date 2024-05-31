@@ -1,10 +1,10 @@
-Как установить модуль «Битрикс»?
-
+## Как установить модуль «Битрикс»?
 Следуйте этой инструкции:
-
-- Скачайте архив модуля. (https://acdn.tinkoff.ru/static/documents/8fdcd019-7665-4ba0-b578-9a6e33631e5d.zip) Скачивание начнется автоматически после нажатия на ссылку.- Загрузите архив модуля на сайт. Это можно сделать по FTP в /bitrix/modules/ или через административную часть интернет-магазина: «Контент» → «Структура сайта» → «Файлы и папки». После этого выберите нужный сайт, если у вас их несколько.- Нажмите «Загрузить файл» → «Добавить файл» → «Сохранить». - 
-Распакуйте архив. В результате появятся два архива для разных кодировок сайта: utf8 и cp1251. Выберите архив с нужной кодировкой и его тоже распакуйте. В итоге появится папка tinkoff.creditbroker.
-- 
-Установите модуль: Marketplace → «Установленные решения». Там увидите модуль «Рассрочки и кредиты от Тинькофф»: кликните на иконку гамбургера и выберите «Установить».
-
+1. [Скачайте архив модуля.](https://acdn.tinkoff.ru/static/documents/8fdcd019-7665-4ba0-b578-9a6e33631e5d.zip) Скачивание начнется автоматически после нажатия на ссылку.
+2. Загрузите архив модуля на сайт. Это можно сделать по FTP в /bitrix/modules/ или через административную часть интернет-магазина: «Контент» → «Структура сайта» → «Файлы и папки». После этого выберите нужный сайт, если у вас их несколько.
+3. Нажмите «Загрузить файл» → «Добавить файл» → «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mMzczZGRhYi5jOGFlMDlkZl8wNTA0XzRiMzdfOGRiN18yZTIwNTA4YWExYzMucG5n)
+4. Распакуйте архив. В результате появятся два архива для разных кодировок сайта: utf8 и cp1251. Выберите архив с нужной кодировкой и его тоже распакуйте. В итоге появится папка tinkoff.creditbroker.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hNDQ3YzQ1OC5lNzQzYmNiMV9iOGJkXzRhNzlfYmRjZl9iMDZlZjk1Y2Q3NzcucG5n)
+5. Установите модуль: Marketplace → «Установленные решения». Там увидите модуль «Рассрочки и кредиты от Тинькофф»: кликните на иконку гамбургера и выберите «Установить».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85OGE0YzNkOC43ZWM2NzBiZF81OWQzXzRiOGZfYjU2MF9jY2I0OTFkMGM2NWIucG5n)
 Готово. После установки модуля в Битриксе появится новая платежная система. Ее нужно включить и настроить.

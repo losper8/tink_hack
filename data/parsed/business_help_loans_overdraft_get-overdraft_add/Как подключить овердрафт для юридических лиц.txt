@@ -1,20 +1,15 @@
-Как подключить овердрафт для юридических лиц?
-
+## Как подключить овердрафт для юридических лиц?
 Подключить овердрафт к расчетному счету можно в мобильном приложении и личном кабинете.
-
-- На главной мобильного приложения нажмите «Открыть новый продукт» → «Включить овердрафт».
-Кнопка «Включить овердрафт» — в разделе «К вашему счету»
-- В открывшемся окне нажмите «Подключить», затем выберите желаемую сумму лимита и нажмите «Продолжить»:
-Возможный лимит овердрафта — до 40% среднемесячного оборота компании
-- Выберите цель овердрафта и укажите выручку ИП или компании:
-Принимая решение по заявке, банк ориентируется на обороты
-- Укажите чистую прибыль ИП или компании и дождитесь СМС с решением банка:
-Обычно заявку рассматривают за несколько минут
-- Выберите «Рублевый счет» → «Действия» → «Подключить овердрафт»:
-Строка «Подключить овердрафт» расположена справа в выпадающем списке
-- Укажите в заявке желаемый лимит, заполните все поля формы и подождите несколько минут СМС с решением банка:
-Возможный лимит овердрафта — до 40% среднемесячного оборота компании
-- Нажмите «Добавить новый» → «Кредиты».
-Раздел подключения овердрафта со страницы «Кредиты»
-- Выберите «Овердрафт» → «Оформить»:
-По кнопке вы попадете на оформление заявки
+В мобильном приложении
+1. На главной мобильного приложения нажмите «Открыть новый продукт» → «Включить овердрафт». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85MWEwMzMzMi41MTc3OGZmM183ZDQ0XzQ1ZGJfYWJjN181YmI4NzZlNTE3YzcucG5n)Кнопка «Включить овердрафт» — в разделе «К вашему счету»
+2. В открывшемся окне нажмите «Подключить», затем выберите желаемую сумму лимита и нажмите «Продолжить»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zOWJmMjU3Yy5jMmVhNDc0Zl9lNWRmXzQ1ZWRfYTQ1MF9mNzY1Y2QxMjIxMzUucG5n)Возможный лимит овердрафта — до 40% среднемесячного оборота компании
+3. Выберите цель овердрафта и укажите выручку ИП или компании: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80NDg0ZWFlZS41ZThjNDE5MV84ZTkzXzRhMjVfOWMyNV9hYTllM2RjMGY1ODUucG5n)Принимая решение по заявке, банк ориентируется на обороты
+4. Укажите чистую прибыль ИП или компании и дождитесь СМС с решением банка: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMzhhNTMwMy40NDgyNThjMl8wZmM5XzQyYmVfODk3Zl80OGU3M2JhZTkwMzkucG5n)Обычно заявку рассматривают за несколько минут
+В личном кабинете Тинькофф Бизнеса
+В личном кабинете подключить овердрафт можно двумя способами: со страницы счетов в Тинькофф Бизнесе или из раздела «Кредиты» в боковом меню.
+Чтобы подключить со страницы счетов:
+1. Выберите «Рублевый счет» → «Действия» → «Подключить овердрафт»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84MWM2Y2NmYi45ZjY0MGMzOF85ZDJjXzQ2MTBfOGIyMF9jZWFhZWQ4MWQ4YmYucG5n)Строка «Подключить овердрафт» расположена справа в выпадающем списке
+2. Укажите в заявке желаемый лимит, заполните все поля формы и подождите несколько минут СМС с решением банка: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YmY0NzAxZC42NmNmYzM5NF9iNzkzXzRlNzBfOTk1M19lNmY5MWI3ZjcxY2MucG5n)Возможный лимит овердрафта — до 40% среднемесячного оборота компании
+Чтобы подключить из раздела «Кредиты»:
+1. Нажмите «Добавить новый» → «Кредиты». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82ZTZjMGVlZi43NWFlNGI3Nl9iMjdjXzRiNWFfYmE0ZV9mNjI1MTI3ZjAzZTIucG5n)Раздел подключения овердрафта со страницы «Кредиты»
+2. Выберите «Овердрафт» → «Оформить»: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83OGM0MGM5ZC5hNmExYmI5ZF9kNWQzXzQ2NjZfODg4M18xOWVmZjFlZTg5ZjcucG5n)По кнопке вы попадете на оформление заявки

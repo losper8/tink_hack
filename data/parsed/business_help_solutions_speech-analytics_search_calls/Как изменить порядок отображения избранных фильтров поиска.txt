@@ -1,6 +1,4 @@
-Как изменить порядок отображения избранных фильтров поиска?
-
+## Как изменить порядок отображения избранных фильтров поиска?
 В разделе «Звонки» под полем выбора периода:
-
-- Справа от названия сохраненных фильтров нажмите «Настройки». Откроется окно управления фильтрами.
-- Перетащите фильтры в нужном порядке с помощью кнопки перемещения — она находится слева от названия фильтра. Затем нажмите «Сохранить».
+1. Справа от названия сохраненных фильтров нажмите «Настройки». Откроется окно управления фильтрами. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83NmM2YzljNy4xN19yYV96dm9ua2kucG5n)
+2. Перетащите фильтры в нужном порядке с помощью кнопки перемещения — она находится слева от названия фильтра. Затем нажмите «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jN2M5YmVkMi4xOF9yYV96dm9ua2kucG5n)

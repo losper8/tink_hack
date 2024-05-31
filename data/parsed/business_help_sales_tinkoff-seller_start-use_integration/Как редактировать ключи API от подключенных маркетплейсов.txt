@@ -1,8 +1,7 @@
-Как редактировать ключи API от подключенных маркетплейсов?
-
+## Как редактировать ключи API от подключенных маркетплейсов?
 Это можно сделать на вкладке «Магазины»:
-
-- Выберите нужный магазин. Здесь вы увидите все подключенные к этому магазину маркетплейсы.- Нажмите на три точки в правом верхнем углу карточки с маркетплейсом.
-- Выберите «Изменить».
-- Введите новые данные и нажмите «Подключить».
+1. Выберите нужный магазин. Здесь вы увидите все подключенные к этому магазину маркетплейсы.
+2. Нажмите на три точки в правом верхнем углу карточки с маркетплейсом. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mM2ExYmUzNi4wOF9kZXNrdG9wLnBuZw==)
+3. Выберите «Изменить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ODE5NjU4OC4wOV9kZXNrdG9wLnBuZw==)
+4. Введите новые данные и нажмите «Подключить».
 Готово, ключи обновятся в течение нескольких секунд.

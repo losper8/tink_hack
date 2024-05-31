@@ -1,5 +1,6 @@
-Где можно отследить статус заявки?
+## Где можно отследить статус заявки?
 Статус заявки можно посмотреть в личном кабинете или мобильном приложении.
 В мобильном приложении он указан на главной странице:
-Статус заявки на овердрафт в мобильном приложенииЧтобы посмотреть статус заявки в личном кабинете, перейдите в раздел «Кредиты» и найдите раздел с овердрафтом:
-Статус заявки указан в правом верхнем углу
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNGVjMTQ2Yi5iZTk4MzI0N18xYmFhXzQ0NTNfOGM3YV9lMzI2OTU2MjBjNTYucG5n)Статус заявки на овердрафт в мобильном приложении
+Чтобы посмотреть статус заявки в личном кабинете, перейдите в раздел «Кредиты» и найдите раздел с овердрафтом:
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYmQ5MzBjYi4xMTRlYTQ1MF80ZjhjXzQ2YzNfYmM1ZF9hYTFlMjlhZDYyYWQucG5n)Статус заявки указан в правом верхнем углу

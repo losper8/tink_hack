@@ -1,32 +1,24 @@
-Как настроить работу с рассрочками?
-
+## Как настроить работу с рассрочками?
 По умолчанию модуль настраивается на работу с кредитами: промокод default. Если вы планируете работать с рассрочками, вот что нужно сделать:
-
--  
-Зайдите в административную часть интернет-магазина: <ваш сайт>/bitrix/admin.
--  
-Перейдите на страницу «Настройки» → «Настройки модулей» → «Рассрочки и кредиты от Тинькофф». Ссылка на раздел есть в параметрах платежной системы в блоке «Обработчик».
--  
-Выберите «Рассрочки и кредиты от Тинькофф».
--  
-Укажите промокоды и их названия, которые увидит покупатель. Промокоды можно найти в личном кабинете руководителя: (https://business.tinkoff.ru/posbroker) перейдите в раздел «Рассрочки» и выберите «Интернет-магазины». Другой вариант — запросить у персонального менеджера в чате или по телефону 8 800 700-66-66. (tel:88007006666)- 
-Нажмите «Сохранить».
-- 
-Кредитные продукты появятся в «Настройках обработчика ПС». Там их можно включать и выключать без удаления промокода и настроек.
-
-Готово! По любым вопросам работы модуля и кредитования в целом свяжитесь с техподдержкой: в телеграм‑чате (https://t.me/tinkoff_tcb_help_bot) или по телефону 8 800 700-66-66. (tel:88007006666) Сотрудники обычно отвечают в течение суток.
-
-
+1. Зайдите в административную часть интернет-магазина: <ваш сайт>/bitrix/admin.
+2. Перейдите на страницу «Настройки» → «Настройки модулей» → «Рассрочки и кредиты от Тинькофф». Ссылка на раздел есть в параметрах платежной системы в блоке «Обработчик».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82MjQ3MWEyYi5iMTgwNjJlM18zNzBmXzQxNzFfYjQ0OF85OGU1NGJlNWM5NDMucG5n)
+3. Выберите «Рассрочки и кредиты от Тинькофф».
+4. Укажите промокоды и их названия, которые увидит покупатель. Промокоды можно найти [в личном кабинете руководителя:](https://business.tinkoff.ru/posbroker) перейдите в раздел «Рассрочки» и выберите «Интернет-магазины». Другой вариант — запросить у персонального менеджера в чате или по телефону [8 800 700-66-66.](tel:88007006666)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81ZDBjZTAzYy4wN19tb2JpbGUucG5n)
+5. Нажмите «Сохранить».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iZmViM2M3NS40YTZmZjJmMl8yMjU4XzRkM2VfYWEwY19hYmZmYmExMjc0OWYucG5n)
+6. Кредитные продукты появятся в «Настройках обработчика ПС». Там их можно включать и выключать без удаления промокода и настроек.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zYWQxMjA5OS5kZDM4YzgyOF84YWY5XzQxM2JfOTZiZF9jM2FiOTFjOTQ3MTYucG5n)
+Готово! По любым вопросам работы модуля и кредитования в целом свяжитесь с техподдержкой: [в телеграм‑чате](https://t.me/tinkoff_tcb_help_bot) или по телефону [8 800 700-66-66.](tel:88007006666) Сотрудники обычно отвечают в течение суток.
 Кнопки для модуля можно скачать по ссылкам:
-
-Скачать кнопку для рассрочек (https://acdn.tinkoff.ru/static/pfa-multimedia/images/7fe354c4-0d28-4141-b661-5fbc04eac243.png)
-Скачать кнопку для кредитов (https://acdn.tinkoff.ru/static/pfa-multimedia/images/b9ec2673-ec82-45af-acbc-6f37077f3983.png)
-
-Другие варианты кнопок можно найти в гайдбуке.  (https://acdn.tinkoff.ru/static/documents/tinkoff-credit-broker-integration-guidebook.pdf)
-
+[Скачать кнопку для рассрочек](https://acdn.tinkoff.ru/static/pfa-multimedia/images/7fe354c4-0d28-4141-b661-5fbc04eac243.png)
+[Скачать кнопку для кредитов](https://acdn.tinkoff.ru/static/pfa-multimedia/images/b9ec2673-ec82-45af-acbc-6f37077f3983.png)
+Другие варианты кнопок можно найти [в гайдбуке. ](https://acdn.tinkoff.ru/static/documents/tinkoff-credit-broker-integration-guidebook.pdf)
 Вот как сменить логотип:
-
-- Зайдите в административную часть интернет-магазина: <ваш сайт>/bitrix/admin.- Перейдите на страницу «Магазин» → «Настройки» → «Платежные системы».- Перейдите к настройкам платежной системы двойным нажатием на строку «Рассрочки и кредиты от Тинькофф».- 
-Нажмите «Добавить файл» рядом с «Логотипом платежной системы». Выберите скачанный файл с нужным логотипом. Нажмите «Сохранить».
-
+1. Зайдите в административную часть интернет-магазина: <ваш сайт>/bitrix/admin.
+2. Перейдите на страницу «Магазин» → «Настройки» → «Платежные системы».
+3. Перейдите к настройкам платежной системы двойным нажатием на строку «Рассрочки и кредиты от Тинькофф».
+4. Нажмите «Добавить файл» рядом с «Логотипом платежной системы». Выберите скачанный файл с нужным логотипом. Нажмите «Сохранить».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wYzE3NGQxYy4yM2EyZDFjNV83OWI5XzQ4YmZfOTAxZV9mZmNiNjRkMjMyOTYucG5n)
 Готово!

@@ -1,8 +1,6 @@
-Как удалить маркетплейс из Тинькофф Селлера?
-
+## Как удалить маркетплейс из Тинькофф Селлера?
 Это можно сделать на вкладке «Магазины»:
-
-- Выберите магазин.- Нажмите на три точки в правом верхнем углу карточки маркетплейса.
-- Выберите «Удалить» → «Да, удалить».
-
+1. Выберите магазин.
+2. Нажмите на три точки в правом верхнем углу карточки маркетплейса. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84OWE1MTBkOC4wOF9kZXNrdG9wLnBuZw==)
+3. Выберите «Удалить» → «Да, удалить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hY2RmMWU1NS4xMF9kZXNrdG9wLnBuZw==)
 Готово, вы удалили маркетплейс из Тинькофф Селлера.

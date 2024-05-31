@@ -1,14 +1,12 @@
-Как добавить магазин в Тинькофф Селлер?
-
+## Как добавить магазин в Тинькофф Селлер?
 Это можно сделать во вкладке «Магазины»:
-
-- Нажмите кнопку «Добавить».
-
+1. Нажмите кнопку «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82YTAxZjYyNS4wMV9kZXNrdG9wLnBuZw==)
 В мобильном приложении на Android сервис предложит добавить магазин во время подключения. Для этого нажмите «К добавлению».
-- Введите название магазина. Не обязательно использовать зарегистрированное название — это может быть любое слово или сочетание слов, по которому вы найдете нужный магазин в Тинькофф Селлере, если их будет несколько.
-- Выберите маркетплейс, который хотите добавить. К одному магазину можно привязать несколько разных маркетплейсов, чтобы работать с данными со всех площадок, на которых представлен магазин.- Чтобы привязать маркетплейс, заполните данные. Для разных маркетплейсов нужна разная информация.
-
+2. Введите название магазина. Не обязательно использовать зарегистрированное название — это может быть любое слово или сочетание слов, по которому вы найдете нужный магазин в Тинькофф Селлере, если их будет несколько. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85YjE4YWYwMS4wMl9kZXNrdG9wLnBuZw==)
+3. Выберите маркетплейс, который хотите добавить. К одному магазину можно привязать несколько разных маркетплейсов, чтобы работать с данными со всех площадок, на которых представлен магазин.
+4. Чтобы привязать маркетплейс, заполните данные. Для разных маркетплейсов нужна разная информация.
 Сейчас Тинькофф Селлер работает с двумя маркетплейсами:
-- Ozon: Client Id и API key. Как добавить ключи от API OZON в Тинькофф Селлер (https://www.tinkoff.ru/business/help/sales/tinkoff-seller/start-use/integration/?card=q5)- Wildberries: API‑ключ для работы с товарами. Как добавить ключ от API WB в Тинькофф Селлер (https://www.tinkoff.ru/business/help/sales/tinkoff-seller/start-use/integration/?card=q6)- Нажмите кнопку «Добавить».
-
+* Ozon: Client Id и API key. [Как добавить ключи от API OZON в Тинькофф Селлер](/business/help/sales/tinkoff-seller/start-use/integration/?card=q5)
+* Wildberries: API‑ключ для работы с товарами. [Как добавить ключ от API WB в Тинькофф Селлер](/business/help/sales/tinkoff-seller/start-use/integration/?card=q6)
+5. Нажмите кнопку «Добавить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iYTE4MGU4My4wM19kZXNrdG9wLnBuZw==)
 Готово, вы добавили магазин. Можно приступать к работе с ним

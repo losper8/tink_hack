@@ -1,7 +1,6 @@
-Где посмотреть реквизиты своего счета и как их отправить контрагентам?
-
-Реквизиты можно посмотреть и скачать в личном кабинете или приложении Тинькофф Бизнеса. Для этого на главном экране: (https://business.tinkoff.ru/sme/)
-- Выберите нужный счет.- Нажмите на кнопку «Реквизиты».
-- Выберите страну контрагента.
-Нажмите на плашку «Страна контрагента», чтобы изменить страну контрагента- Появятся реквизиты счета — скачайте их в PDF на русском или английском языке, распечатайте или отправьте по почте:
-Нажмите на значок PDF, чтобы скачать реквизиты, или на значок «Поделиться», чтобы отправить их по почте или на печать
+## Где посмотреть реквизиты своего счета и как их отправить контрагентам?
+Реквизиты можно посмотреть и скачать в личном кабинете или приложении Тинькофф Бизнеса. Для этого [на главном экране:](https://business.tinkoff.ru/sme/)
+1. Выберите нужный счет.
+2. Нажмите на кнопку «Реквизиты». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kZmE2ZTE5OC4wMV9nZGVfcG9zbW90cmV0X3Jla3ZpX2Rlc2tfMS5wbmc=)
+3. Выберите страну контрагента. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hOTMxY2JlYi4wMl9nZGVfcG9zbW90cmV0X3Jla3ZpX2Rlc2tfMS5wbmc=)Нажмите на плашку «Страна контрагента», чтобы изменить страну контрагента
+4. Появятся реквизиты счета — скачайте их в PDF на русском или английском языке, распечатайте или отправьте по почте: ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wOTczZmE3NS4wM19nZGVfcG9zbW90cmV0X3Jla3ZpX2Rlc2tfMi5wbmc=)Нажмите на значок PDF, чтобы скачать реквизиты, или на значок «Поделиться», чтобы отправить их по почте или на печать

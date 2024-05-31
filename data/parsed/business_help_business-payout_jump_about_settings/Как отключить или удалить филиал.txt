@@ -1,17 +1,9 @@
-Как отключить или удалить филиал?
-
+## Как отключить или удалить филиал?
 Если вы больше не используете филиал или он закрылся на время, вы можете отключить или удалить его.
-
-
 Отключение филиала:
-
-- Войдите в раздел «Настройки» → «Общие» → «Юрлица и филиалы» и нажмите на юрлицо, филиал которого вы хотите отключить.
-- Переведите тумблер в неактивное положение (он станет серого цвета).
-
+1. Войдите в раздел «Настройки» → «Общие» → «Юрлица и филиалы» и нажмите на юрлицо, филиал которого вы хотите отключить. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wZDY4MzhmMy5kZXNrdG9wXzkucG5n)
+2. Переведите тумблер в неактивное положение (он станет серого цвета). ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zNThiM2M3NC5kZXNrdG9wXzMzLnBuZw==)
 Чтобы снова включить филиал, просто переведите тумблер в активное положение (он станет желтым).
-
-
 Удаление филиала:
-
-- Войдите в раздел «Настройки» → «Общие» → «Юрлица и филиалы» и нажмите на юрлицо, филиал которого вы хотите удалить.
-- Найдите нужный филиал и нажмите на значок мусорного ведра.
+1. Войдите в раздел «Настройки» → «Общие» → «Юрлица и филиалы» и нажмите на юрлицо, филиал которого вы хотите удалить. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mZDRmNjI1MC5kZXNrdG9wXzkucG5n)
+2. Найдите нужный филиал и нажмите на значок мусорного ведра.

@@ -1,14 +1,10 @@
-Как добавить видео с YouTube, Rutube или Vimeo?
-
+## Как добавить видео с YouTube, Rutube или Vimeo?
 Вы можете добавить на сайт видео с YouTube, Rutube или Vimeo в качестве отзыва, презентации или демонстрации продукта.
-
-
 Чтобы добавить видео:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт, а затем страницу, на которую хотите добавить видео. Нажмите на значок плюса вверху или внизу — зависит от того, где хотите разместить блок.
-- В разделе «Видео» выберите нужный блок.
-- Скопируйте ссылку на видео из YouTube, Rutube или Vimeo. Вернитесь в конструктор сайтов, нажмите на видео и вставьте ссылку в меню снизу.
-- 
-Если хотите добавить в блок еще одно видео, нажмите на значок плюса слева вверху на кнопке «Пункты». Скопируйте ссылку на новое видео, вернитесь в конструктор, нажмите на видео и вставьте ссылку в меню снизу.
-- Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт, а затем страницу, на которую хотите добавить видео. Нажмите на значок плюса вверху или внизу — зависит от того, где хотите разместить блок. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82ZjkyNDU3MS5kZXNrdG9wXzUwLnBuZw==)
+2. В разделе «Видео» выберите нужный блок. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8yNDliYzYwMy5kZXNrdG9wXzUxLnBuZw==)
+3. Скопируйте ссылку на видео из YouTube, Rutube или Vimeo. Вернитесь в конструктор сайтов, нажмите на видео и вставьте ссылку в меню снизу. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNzQ5YzQ5MS5kZXNrdG9wXzUyLnBuZw==)
+4. Если хотите добавить в блок еще одно видео, нажмите на значок плюса слева вверху на кнопке «Пункты». Скопируйте ссылку на новое видео, вернитесь в конструктор, нажмите на видео и вставьте ссылку в меню снизу.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82MDc4MWU4Ny5kZXNrdG9wXzUzLnBuZw==)
+5. Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
 Готово! Теперь на странице отображается видео.

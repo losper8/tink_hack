@@ -1,15 +1,10 @@
-Как подключить оплату на сайте?
-
+## Как подключить оплату на сайте?
 Зависит от того, где вы создали сайт.
-
-Сайт на конструкторе Тинькофф — подключите интернет-эквайринг в личном кабинете Тинькофф Бизнеса. Как это сделать (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q4)
-Сайт на CMS, для которой у Тинькофф Кассы есть готовое решение, — подключите платежный модуль. У Тинькофф Кассы есть готовые платежные модули для CMS, среди которых amoCRM, Taplink, Tilda, WordPress, 1С-Битрикс. Как подключить модуль (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q6)
-Самописный сайт или сайт на CMS, для которой у Тинькофф Кассы нет готового платежного модуля, — подключите платежный виджет. Это готовый код, который нужно вставить на страницы сайта там, где должна быть кнопка «Оплатить». Понадобится помощь программиста. Как подключить виджет (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q9)
+Сайт на конструкторе Тинькофф — подключите интернет-эквайринг в личном кабинете Тинькофф Бизнеса. [Как это сделать](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q4)
+Сайт на CMS, для которой у Тинькофф Кассы есть готовое решение, — подключите платежный модуль. У Тинькофф Кассы есть готовые платежные модули для CMS, среди которых amoCRM, Taplink, Tilda, WordPress, 1С-Битрикс. [Как подключить модуль](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q6)
+Самописный сайт или сайт на CMS, для которой у Тинькофф Кассы нет готового платежного модуля, — подключите платежный виджет. Это готовый код, который нужно вставить на страницы сайта там, где должна быть кнопка «Оплатить». Понадобится помощь программиста. [Как подключить виджет](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q9)
 Сайт на любом движке, где вы хотите гибко настроить онлайн-оплату, — подойдет интеграция по API. Например, сможете:
-
-- принимать автоплатежи; Что такое автоплатежи (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-work/advanced/?card=q7)
-- совмещать разные способы оплаты — допустим, принимать часть суммы от покупателя картой, часть в рассрочку; Какие есть способы онлайн-оплаты (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-work/working-conditions/?card=q3)
-- получать уведомления о статусах операций в CRM‑системе.
-
-
-Понадобится помощь программиста. Как настроить интеграцию по API (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q13)
+* принимать автоплатежи; [Что такое автоплатежи](/business/help/business-payments/internet-acquiring/how-work/advanced/?card=q7)
+* совмещать разные способы оплаты — допустим, принимать часть суммы от покупателя картой, часть в рассрочку; [Какие есть способы онлайн-оплаты](/business/help/business-payments/internet-acquiring/how-work/working-conditions/?card=q3)
+* получать уведомления о статусах операций в CRM‑системе.
+Понадобится помощь программиста. [Как настроить интеграцию по API](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q13)

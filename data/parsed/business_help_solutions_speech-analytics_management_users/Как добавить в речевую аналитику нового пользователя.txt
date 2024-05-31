@@ -1,23 +1,38 @@
-Как добавить в речевую аналитику нового пользователя?
-
+## Как добавить в речевую аналитику нового пользователя?
 Пользователи с ролями «Администратор компании» и «Помощник администратора» могут добавить нового пользователя на платформу одним из следующих способов.
-
-Вручную — подойдет, если нужно добавить одного или нескольких пользователей- Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи».
-- Нажмите «Добавить» и выберите «Вручную или из xlsx».
-- Откроется карточка пользователя. Заполните информацию:
-- ФИО сотрудника.- Внешний ID — идентификационный номер сотрудника в системе телефонии вашей компании.- E‑mail — рабочий почтовый адрес сотрудника.- Подразделение — отдел, в котором работает сотрудник.- Роль — должность сотрудника на платформе. Подробнее о ролях в речевой аналитике (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/roles/)
+Вручную — подойдет, если нужно добавить одного или нескольких пользователей
+1. Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iOTQyZjY4YS4wMl9yYV91c2Vycy5wbmc=)
+2. Нажмите «Добавить» и выберите «Вручную или из xlsx». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85ZWUzOTVkYS4wM19yYV91c2Vycy5wbmc=)
+3. Откроется карточка пользователя. Заполните информацию:
+* ФИО сотрудника.
+* Внешний ID — идентификационный номер сотрудника в системе телефонии вашей компании.
+* E‑mail — рабочий почтовый адрес сотрудника.
+* Подразделение — отдел, в котором работает сотрудник.
+* Роль — должность сотрудника на платформе. [Подробнее о ролях в речевой аналитике](/business/help/solutions/speech-analytics/start/roles/)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hMWE3NjRmMy4wNF9yYV91c2Vycy5wbmc=)
 Если хотите добавить еще одного пользователя, нажмите «+ Пользователь» и снова заполните обязательные поля.
-Удалить созданную карточку пользователя можно по кнопке «Удалить» в правом верхнем углу- Нажмите «Добавить». После этого сотруднику на указанную вами при создании карточки эл. почту будет отправлено письмо с паролем и логином для входа в Tinkoff Quality Management.
-Через Excel — позволит загрузить данные до 100 пользователей в виде заполненной excel-таблицы- Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи».
-- Нажмите «Добавить» и выберите «Вручную или из xlsx».
-- Нажмите «Скачать шаблон в xlsx».
-- В скачанном файле Excel заполните данные пользователя:
-- User_full_name — фамилия, имя и отчество сотрудника.- User_id — идентификационный номер сотрудника в системе телефонии вашей компании.- E‑mail — рабочий почтовый адрес сотрудника.- Role_id — цифровое обозначение должности сотрудника на платформе: 2 — агент, 3 — супервайзер, 4 — менеджер, 10 — контролер качества, 17 — помощник администратора. Подробнее о ролях в речевой аналитике (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/roles/)- Organizational_unit_id — цифровое обозначение организационного юнита (отдела или группы) сотрудника. Вы задаете этот номер самостоятельно, когда создаете организационный юнит на платформе. Номер можно найти в разделе «Администрирование» → «Настройки» → «Оргструктура».- Если вы хотите добавить на платформу других пользователей, в этом же файле Excel добавьте новую строку и заполните данные нового пользователя по аналогии с первым. В одном файле Excel можно добавить до 100 пользователей.
-- Заполненный шаблон с данными пользователей загрузите на платформу в формате XLSX. Для этого нажмите на «Выберите файл или перетяните его сюда» или перетащите его в это поле, зажав правую кнопку мыши.
-- Данные пользователей автоматически загрузятся на платформу. Нажмите «Добавить». После этого сотрудникам на указанные в таблице Excel адреса эл. почты придут письма с паролем и логином для входа в Tinkoff Quality Management.
-По API — будет удобен, если нужно добавить больше 100 пользователей и есть возможность привлечь разработчика- Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи».
-- Нажмите «Добавить» и выберите «По API».
-- Скопируйте API‑ключ из личного кабинета администратора.
- (https://software.tinkoff.ru/auth/login/) Подробнее про API‑ключ (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/load-calls/?card=q3)- Выполните POST‑запрос на создание пользователя и вставьте в него API‑ключ. Чтобы загрузить пользователей, скорее всего, понадобится помощь разработчика.
-
-Описание метода, параметры запроса и другая необходимая информация для загрузки пользователей по API — в API‑документации на сайте Tinkoff Software. (https://software.tinkoff.ru/docs/tqm/importUser/)- Чтобы добавить нового пользователя, выполните новый POST‑запрос и повторите вышеописанные действия.- После этого сотрудникам на указанные вами адреса эл. почты придут письма с паролем и логином для входа в Tinkoff Quality Management.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80ZDdmNTg0NS4wNV9yYV91c2Vycy5wbmc=)Удалить созданную карточку пользователя можно по кнопке «Удалить» в правом верхнем углу
+4. Нажмите «Добавить». После этого сотруднику на указанную вами при создании карточки эл. почту будет отправлено письмо с паролем и логином для входа в Tinkoff Quality Management. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zY2NmMDI5YS4wNl9yYV91c2Vycy5wbmc=)
+Через Excel — позволит загрузить данные до 100 пользователей в виде заполненной excel-таблицы
+1. Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9iNjY1MTdiYi4wN19yYV91c2Vycy5wbmc=)
+2. Нажмите «Добавить» и выберите «Вручную или из xlsx». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84YzI3OGM3Mi4wOF9yYV91c2Vycy5wbmc=)
+3. Нажмите «Скачать шаблон в xlsx». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85Mjk1Y2QxYS4wOV9yYV91c2Vycy5wbmc=)
+4. В скачанном файле Excel заполните данные пользователя:
+* User_full_name — фамилия, имя и отчество сотрудника.
+* User_id — идентификационный номер сотрудника в системе телефонии вашей компании.
+* E‑mail — рабочий почтовый адрес сотрудника.
+* Role_id — цифровое обозначение должности сотрудника на платформе: 2 — агент, 3 — супервайзер, 4 — менеджер, 10 — контролер качества, 17 — помощник администратора. [Подробнее о ролях в речевой аналитике](/business/help/solutions/speech-analytics/start/roles/)
+* Organizational_unit_id — цифровое обозначение организационного юнита (отдела или группы) сотрудника. Вы задаете этот номер самостоятельно, когда создаете организационный юнит на платформе. Номер можно найти в разделе «Администрирование» → «Настройки» → «Оргструктура».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wMjhkYTM5Ny4xMF9yYV91c2Vycy5wbmc=)
+5. Если вы хотите добавить на платформу других пользователей, в этом же файле Excel добавьте новую строку и заполните данные нового пользователя по аналогии с первым. В одном файле Excel можно добавить до 100 пользователей.
+6. Заполненный шаблон с данными пользователей загрузите на платформу в формате XLSX. Для этого нажмите на «Выберите файл или перетяните его сюда» или перетащите его в это поле, зажав правую кнопку мыши. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84ZGE5YmI5ZC4xMV9yYV91c2Vycy5wbmc=)
+7. Данные пользователей автоматически загрузятся на платформу. Нажмите «Добавить». После этого сотрудникам на указанные в таблице Excel адреса эл. почты придут письма с паролем и логином для входа в Tinkoff Quality Management. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mM2YyYzE5ZS4xMl9yYV91c2Vycy5wbmc=)
+По API — будет удобен, если нужно добавить больше 100 пользователей и есть возможность привлечь разработчика
+1. Перейдите в раздел «Администрирование» → «Настройки» → «Пользователи». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82OTQwMTNlNi4xM19yYV91c2Vycy5wbmc=)
+2. Нажмите «Добавить» и выберите «По API». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83ZThiZTUzNS4xNF9yYV91c2Vycy5wbmc=)
+3. Скопируйте API‑ключ [из личного кабинета администратора. ](https://software.tinkoff.ru/auth/login/)
+[Подробнее про API‑ключ](/business/help/solutions/speech-analytics/start/load-calls/?card=q3)
+4. Выполните POST‑запрос на создание пользователя и вставьте в него API‑ключ. Чтобы загрузить пользователей, скорее всего, понадобится помощь разработчика.
+Описание метода, параметры запроса и другая необходимая информация для загрузки пользователей по API — [в API‑документации на сайте Tinkoff Software.](https://software.tinkoff.ru/docs/tqm/importUser/)
+5. Чтобы добавить нового пользователя, выполните новый POST‑запрос и повторите вышеописанные действия.
+6. После этого сотрудникам на указанные вами адреса эл. почты придут письма с паролем и логином для входа в Tinkoff Quality Management.

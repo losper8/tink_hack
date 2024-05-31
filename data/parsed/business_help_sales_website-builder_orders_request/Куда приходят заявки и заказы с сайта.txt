@@ -1,3 +1,3 @@
-Куда приходят заявки и заказы с сайта?
-В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) заявки и заказы с сайта приходят в раздел «Заказы». Как работать с заявками и заказами (https://www.tinkoff.ru/business/help/sales/website-builder/orders/request/?card=work-with-orders)
-Если получите с сайта новую заявку или заказ, на кнопке «Заказы» появится желтый ярлычок
+## Куда приходят заявки и заказы с сайта?
+[В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) заявки и заказы с сайта приходят в раздел «Заказы». [Как работать с заявками и заказами](/business/help/sales/website-builder/orders/request/?card=work-with-orders)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNjkxYzhjMS5kZXNrdG9wXzA5LnBuZw==)Если получите с сайта новую заявку или заказ, на кнопке «Заказы» появится желтый ярлычок

@@ -1,10 +1,8 @@
-Как указать систему налогообложения и ставку НДС?
-
+## Как указать систему налогообложения и ставку НДС?
 Чтобы указать систему налогообложения и ставку НДС:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → «Оплата». В плашке «Онлайн» нажмите «К настройкам».
-
+1. [В конструкторе Тинькофф](https://business.tinkoff.ru/sites/) выберите нужный сайт → «Настройки сайта» → «Оплата». В плашке «Онлайн» нажмите «К настройкам».
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hMzhhZDM0MS5kZXNrdG9wXzExLnBuZw==)
 Если не видите настройки интернет-эквайринга, значит, он у вас не подключен. Чтобы его подключить, оставьте заявку в настройках сайта → «Оплата» → «Онлайн». Либо оставьте заявку на сайте Тинькофф.
-Оставить заявку (https://www.tinkoff.ru/kassa/?internal_source=help#form)Как перейти в настройки сайта (https://www.tinkoff.ru/business/help/sales/website-builder/about/settings/?card=open-features)- Выберите систему налогообложения и ставку НДС.
-
+[Оставить заявку](/kassa/?internal_source=help#form)[Как перейти в настройки сайта](/business/help/sales/website-builder/about/settings/?card=open-features)
+2. Выберите систему налогообложения и ставку НДС. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jOTQ5MDQxOS5kZXNrdG9wXzEyLnBuZw==)
 Готово! Вы указали систему налогообложения и ставку НДС.

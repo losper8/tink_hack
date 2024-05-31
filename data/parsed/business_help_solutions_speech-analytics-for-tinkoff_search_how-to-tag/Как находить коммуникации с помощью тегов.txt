@@ -1,20 +1,14 @@
-Как находить коммуникации с помощью тегов?
-
+## Как находить коммуникации с помощью тегов?
 Вы можете находить звонки и чаты с помощью тегов на вкладке «Поиск».
-
-- В TQM перейдите в «Коммуникации» → «Поиск» → «Звонки». (https://tqm.tinkoff.ru/filter/communications/calls)
-- В поле «Тип поиска» выберите «Обычный» или «Последовательный». Про типы поиска в речевой аналитике (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q2)
-- Нажмите кнопку фильтра и выберите «Теги».
-
-- Укажите теги, по которым хотите найти проблемные звонки. Чем больше тегов указываете, тем сильнее сужается поиск.
-В этом примере найдутся только звонки, которые содержат тег «Сленг»
-- Нажмите кнопку «Найти звонки» — появятся все звонки, которые соответствуют выбранным тегам.
-Желтым цветом подсвечены места в диалоге, где зафиксирован тег
-- Если поле «Теги» в поиске не заполнено, вы увидите все подходящие теги возле каждого звонка. У некоторых звонков не будет тегов — это значит, что речевая аналитика не зафиксировала проблемные фразы или параметры.
-
-
-
-- В TQM перейдите в «Коммуникации» → «Поиск» → «Чаты». (https://tqm.tinkoff.ru/filter/communications/internal-chats) Нажмите на значок воронки и выберите «Теги».
-
-- Укажите теги, по которым хотите найти проблемные чаты, и нажмите «Найти чаты» — появятся все чаты, которые соответствуют выбранным тегам. Чем больше тегов указываете, тем сильнее сужается поиск.
-Если поле «Теги» не заполнено, вы увидите все подходящие теги возле каждого чата
+Как находить звонки
+Следуйте инструкции:
+1. [В TQM перейдите в «Коммуникации» → «Поиск» → «Звонки».](https://tqm.tinkoff.ru/filter/communications/calls)
+2. В поле «Тип поиска» выберите «Обычный» или «Последовательный». [Про типы поиска в речевой аналитике](/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q2)
+3. Нажмите кнопку фильтра и выберите «Теги». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mNDVhNzFiYi5kZXNrdG9wXzM0LnBuZw==)
+4. Укажите теги, по которым хотите найти проблемные звонки. Чем больше тегов указываете, тем сильнее сужается поиск. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy80N2UxNTBhOC5kZXNrdG9wXzM1LnBuZw==)В этом примере найдутся только звонки, которые содержат тег «Сленг»
+5. Нажмите кнопку «Найти звонки» — появятся все звонки, которые соответствуют выбранным тегам. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9hYWIxZmY3MC5kZXNrdG9wXzM2LnBuZw==)Желтым цветом подсвечены места в диалоге, где зафиксирован тег
+6. Если поле «Теги» в поиске не заполнено, вы увидите все подходящие теги возле каждого звонка. У некоторых звонков не будет тегов — это значит, что речевая аналитика не зафиксировала проблемные фразы или параметры.
+Как находить чаты
+Следуйте инструкции:
+1. [В TQM перейдите в «Коммуникации» → «Поиск» → «Чаты».](https://tqm.tinkoff.ru/filter/communications/internal-chats) Нажмите на значок воронки и выберите «Теги». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lOTczODMwMC5kZXNrdG9wXzM3LnBuZw==)
+2. Укажите теги, по которым хотите найти проблемные чаты, и нажмите «Найти чаты» — появятся все чаты, которые соответствуют выбранным тегам. Чем больше тегов указываете, тем сильнее сужается поиск. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xY2U2NDY3NS5kZXNrdG9wXzM4LnBuZw==)Если поле «Теги» не заполнено, вы увидите все подходящие теги возле каждого чата

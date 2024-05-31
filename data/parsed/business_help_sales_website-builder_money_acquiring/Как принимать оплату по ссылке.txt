@@ -1,13 +1,8 @@
-Как принимать оплату по ссылке?
-
+## Как принимать оплату по ссылке?
 Чтобы принимать платежи за заказы на сайте:
-
-- 
-зарегистрируйте бизнес и откройте расчетный счет для бизнеса в Тинькофф;
-Как зарегистрировать бизнес (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=business-registration)Как открыть счет (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=business-account)
-- подключите интернет-эквайринг Тинькофф Кассы — он позволяет принимать платежи в интернете. Как подключить платежи на сайте, который создан в конструкторе Тинькофф (https://www.tinkoff.ru/business/help/sales/website-builder/money/acquiring/?card=start)
-
-
-После этого в личном кабинете интернет-эквайринга нужно создать магазин, который принимает оплату по ссылке. Как это сделать (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q2)
-
-Добавлять новый блок на страницу сайта не нужно. Каждый раз, когда будете получать заказ, станете создавать ссылку на оплату в личном кабинете интернет-эквайринга и отправлять ее покупателю в мессенджере, по эл. почте или в СМС. Как сделать ссылку на оплату (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q3)
+* зарегистрируйте бизнес и откройте расчетный счет для бизнеса в Тинькофф;
+[Как зарегистрировать бизнес](/business/help/sales/website-builder/money/acquiring/?card=business-registration)
+[Как открыть счет](/business/help/sales/website-builder/money/acquiring/?card=business-account)
+* подключите интернет-эквайринг Тинькофф Кассы — он позволяет принимать платежи в интернете. [Как подключить платежи на сайте, который создан в конструкторе Тинькофф](/business/help/sales/website-builder/money/acquiring/?card=start)
+После этого в личном кабинете интернет-эквайринга нужно создать магазин, который принимает оплату по ссылке. [Как это сделать](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q2)
+Добавлять новый блок на страницу сайта не нужно. Каждый раз, когда будете получать заказ, станете создавать ссылку на оплату в личном кабинете интернет-эквайринга и отправлять ее покупателю в мессенджере, по эл. почте или в СМС. [Как сделать ссылку на оплату](/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q3)

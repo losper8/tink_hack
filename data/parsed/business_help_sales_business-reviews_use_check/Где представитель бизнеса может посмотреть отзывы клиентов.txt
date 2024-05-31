@@ -1,4 +1,3 @@
-Где представитель бизнеса может посмотреть отзывы клиентов?
-
-Представитель бизнеса может посмотреть все отзывы в личном кабинете Тинькофф Бизнеса: «Отзывы» → «Главная». (https://business.tinkoff.ru/city-feedback)
-Так выглядит личный кабинет отзывов для представителя бизнеса
+## Где представитель бизнеса может посмотреть отзывы клиентов?
+Представитель бизнеса может посмотреть все отзывы в личном кабинете Тинькофф Бизнеса: [«Отзывы» → «Главная».](https://business.tinkoff.ru/city-feedback)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81MTQyMWI4ZS4wN19kZXNrdG9wLnBuZw==)Так выглядит личный кабинет отзывов для представителя бизнеса

@@ -1,8 +1,9 @@
-Как посмотреть историю платежей по СБП?
-
-Чтобы посмотреть все операции по СБП, следуйте инструкциям ниже. Как посмотреть историю платежей по QR‑коду, принятых в терминале (https://www.tinkoff.ru/business/help/business-payments/sbp/offline/how-to/?card=q3)
-В личном кабинете Тинькофф Бизнеса- На главной странице нажмите на расчетный счет или пролистайте вниз до вкладки «Операции». Вы увидите весь список операций.- Выберите в календаре операции за нужный период, а в поиске напишите «СБП». Вы увидите все операции по СБП за указанный период.
-В приложении Тинькофф Бизнеса- На главном экране нажмите на «Рублевый счет» — появится список операций за текущий месяц.- Нажмите на «Все» → значок поиска → введите в поисковой строке «СБП». Появятся все операции по СБП.
-
-Нажмите на «Фильтры», чтобы отсортировать операции по времени. Можно выбрать период в подсказках или задать свой в календаре: для этого нажмите на «Период».
-Чтобы сбросить фильтр по времени, нажмите на крестик- Вы увидите все операции по СБП за выбранный период времени.
+## Как посмотреть историю платежей по СБП?
+Чтобы посмотреть все операции по СБП, следуйте инструкциям ниже. [Как посмотреть историю платежей по QR‑коду, принятых в терминале](/business/help/business-payments/sbp/offline/how-to/?card=q3)
+В личном кабинете Тинькофф Бизнеса
+1. На главной странице нажмите на расчетный счет или пролистайте вниз до вкладки «Операции». Вы увидите весь список операций.
+2. Выберите в календаре операции за нужный период, а в поиске напишите «СБП». Вы увидите все операции по СБП за указанный период. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy82NDdhYjAyOC4wMV90ZV91c2xvdmlhX3ByaWVtYV9zYnBfMV9kZXNrXzR4LnBuZw==)
+В приложении Тинькофф Бизнеса
+1. На главном экране нажмите на «Рублевый счет» — появится список операций за текущий месяц.
+2. Нажмите на «Все» → значок поиска → введите в поисковой строке «СБП». Появятся все операции по СБП. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mNmE1YzZjYS4wMl90ZV91c2xvdmlhX3ByaWVtYV9zYnBfMV9kZXNrXzR4LnBuZw==) Нажмите на «Фильтры», чтобы отсортировать операции по времени. Можно выбрать период в подсказках или задать свой в календаре: для этого нажмите на «Период». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8xZTQzYzYzNC4wM190ZV91c2xvdmlhX3ByaWVtYV9zYnBfMV9kZXNrXzR4LnBuZw==)Чтобы сбросить фильтр по времени, нажмите на крестик
+3. Вы увидите все операции по СБП за выбранный период времени. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9kZjk1NjRiNy4wNF90ZV91c2xvdmlhX3ByaWVtYV9zYnBfMV9kZXNrXzR4LnBuZw==)

@@ -1,10 +1,11 @@
-Где посмотреть реквизиты расчетного счета?
-
+## Где посмотреть реквизиты расчетного счета?
 Реквизиты расчетного счета пришлем, как только получим заявку на открытие расчетного счета. Они не изменятся после того, как откроем счет, — можете сразу отправлять реквизиты контрагентам.
-
-Открыть счет (https://www.tinkoff.ru#form)
+[Открыть счет](#form)
 После открытия счета посмотреть его реквизиты можно в мобильном приложении и личном кабинете Тинькофф Бизнеса.
-
-
-
-Если вы хотите пополнить расчетный счет со своей дебетовой карты, можете воспользоваться QR‑кодом, чтобы не вводить реквизиты вручную. Как воспользоваться QR‑кодом (https://www.tinkoff.ru/business/help/account/currency-ruble/account-replenish/add-money/?card=q11)
+С телефона — в приложении Тинькофф Бизнеса
+Выберите счет на главном экране, пролистайте вниз до блока «Реквизиты» → «Показать все». Откроется экран с реквизитами, откуда их можно отправить контрагентам. [Как отправить реквизиты контрагентам](/business/help/account/currency-ruble/personal-account/log-in/?card=q5)
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMzljM2M1Zi4wM19kZXNrdG9wLnBuZw==)Можете отправить реквизиты в виде PDF-файла или QR-кода
+С компьютера или телефона — в личном кабинете на сайте tinkoff.ru
+Выберите счет на главной странице и нажмите «Реквизиты». Откроется экран с реквизитами, откуда их можно отправить контрагентам.
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy81NWY2OWVhOC4wNV9kZXNrdG9wLnBuZw==)Можете отправить реквизиты в виде PDF-файла или QR-кода
+Если вы хотите пополнить расчетный счет со своей дебетовой карты, можете воспользоваться QR‑кодом, чтобы не вводить реквизиты вручную. [Как воспользоваться QR‑кодом](/business/help/account/currency-ruble/account-replenish/add-money/?card=q11)

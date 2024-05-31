@@ -1,5 +1,3 @@
-Как узнать о выходе в овердрафт?
-
+## Как узнать о выходе в овердрафт?
 Овердрафт расходуется, когда на счете нет своих денег. Банк предупредит вас при оплате из личного кабинета или приложения, что операция приведет к выходу в овердрафт:
-
-Предупреждение о выходе в овердрафт в личном кабинете
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84OWQ2MTgzNC5iOTI1ODZhNV82NmNhXzQ2OWVfYjgwOF8yZWM2MDAwODZlODYucG5n)Предупреждение о выходе в овердрафт в личном кабинете

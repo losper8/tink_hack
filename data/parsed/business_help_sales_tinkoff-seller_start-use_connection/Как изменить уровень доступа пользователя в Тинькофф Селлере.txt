@@ -1,11 +1,9 @@
-Как изменить уровень доступа пользователя в Тинькофф Селлере?
-
+## Как изменить уровень доступа пользователя в Тинькофф Селлере?
 Изменить уровень доступа может только руководитель с уровнем доступа «Директор» — обычно это ИП или руководитель компании.
-
-- Зайдите в личный кабинет Тинькофф Бизнеса → «Настройки» → «Компания» → «Пользователи». (https://business.tinkoff.ru/account/users)- Нажмите на ФИО пользователя, которому хотите изменить уровень доступа.
-- Нажмите на карточку «Селлер».
-Галочкой отмечены продукты, к которым у пользователя есть доступ- Вы увидите страницу со списком доступов для выбранного продукта. Под каждым уровнем доступа указано, какие возможности он предоставляет. Уберите галочку рядом со старым доступом и отметьте новый. Нажмите «Сохранить».
-- Нажмите «Получить СМС с кодом».
-- Введите код из СМС, которое вам придет, и нажмите «Подтвердить».
-
+1. [Зайдите в личный кабинет Тинькофф Бизнеса → «Настройки» → «Компания» → «Пользователи».](https://business.tinkoff.ru/account/users)![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zZTMyNzUzNS4wMV9kZXNrdG9wLnBuZw==)
+2. Нажмите на ФИО пользователя, которому хотите изменить уровень доступа. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wZmRiMjVkYi4wOF9kZXNrdG9wLnBuZw==)
+3. Нажмите на карточку «Селлер». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9jNGUyNDJiYi4wNl9kZXNrdG9wLnBuZw==)Галочкой отмечены продукты, к которым у пользователя есть доступ
+4. Вы увидите страницу со списком доступов для выбранного продукта. Под каждым уровнем доступа указано, какие возможности он предоставляет. Уберите галочку рядом со старым доступом и отметьте новый. Нажмите «Сохранить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy83MjcxMTQ4Ny4wNF9kZXNrdG9wLnBuZw==)
+5. Нажмите «Получить СМС с кодом». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy85YWY2OGI0Yy4wN19kZXNrdG9wLnBuZw==)
+6. Введите код из СМС, которое вам придет, и нажмите «Подтвердить». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9lMTI2MzQzYS4wNV9kZXNrdG9wLnBuZw==)
 Готово, вы изменили уровень доступа у пользователя.

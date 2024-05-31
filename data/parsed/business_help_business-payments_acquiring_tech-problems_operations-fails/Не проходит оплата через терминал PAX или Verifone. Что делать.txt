@@ -1,3 +1,2 @@
-Не проходит оплата через терминал PAX или Verifone. Что делать?
-
-Скорее всего, проблема со связью. Нужно наладить соединение банка с терминалом. Как это сделать (https://www.tinkoff.ru/business/help/business-payments/acquiring/tech-problems/connection/)
+## Не проходит оплата через терминал PAX или Verifone. Что делать?
+Скорее всего, проблема со связью. Нужно наладить соединение банка с терминалом. [Как это сделать](/business/help/business-payments/acquiring/tech-problems/connection/)

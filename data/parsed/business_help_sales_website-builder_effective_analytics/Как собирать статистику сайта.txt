@@ -1,3 +1,2 @@
-Как собирать статистику сайта?
-
-Подключите к сайту счетчик Яндекс Метрики, чтобы смотреть статистику по посетителям. Как подключить Яндекс Метрику (https://www.tinkoff.ru/business/help/sales/website-builder/effective/analytics/?card=trackers)
+## Как собирать статистику сайта?
+Подключите к сайту счетчик Яндекс Метрики, чтобы смотреть статистику по посетителям. [Как подключить Яндекс Метрику](/business/help/sales/website-builder/effective/analytics/?card=trackers)

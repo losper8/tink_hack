@@ -1,5 +1,8 @@
-Как добавить операцию вручную?
-
+## Как добавить операцию вручную?
 Чтобы добавить операции вручную:
-
-Зачем добавлять операции вручную (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q9)- Зайдите в раздел «Операции» и нажмите «Добавить операции» → «Добавить вручную»;- Внесите информацию об операции.- Если вам нужно внести несколько однотипных операций, поставьте галочку «Добавить еще одну операцию». Нажмите «Сохранить»;
+[Зачем добавлять операции вручную](/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q9)
+1. Зайдите в раздел «Операции» и нажмите «Добавить операции» → «Добавить вручную»;
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84M2FlNTVlOS4wMV92cnVjaF94NF9taW5fOWU2Y2Q3YTc5NThiMTkwNTVkNmRmNTU3YTM3YTU2YTUucG5n)
+2. Внесите информацию об операции.
+3. Если вам нужно внести несколько однотипных операций, поставьте галочку «Добавить еще одну операцию». Нажмите «Сохранить»;
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8zMmY5YTFjYy5kZXNrdG9wXzQucG5n)

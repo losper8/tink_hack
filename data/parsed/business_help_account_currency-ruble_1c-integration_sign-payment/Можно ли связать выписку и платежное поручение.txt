@@ -1,4 +1,6 @@
-Можно ли связать выписку и платежное поручение?
+## Можно ли связать выписку и платежное поручение?
 Да, это можно сделать в 1С:
-- Создайте платежное поручение и отправьте его в банк по инструкции. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/integrate-1c/?card=draft-payment)- Закажите выписку в 1С по инструкции. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/integrate-1c/?card=bank-statement)- Откройте «Банк и касса» → «Банк» → «Платежные поручения» и нажмите на кнопку с зеленой стрелкой.
+1. Создайте платежное поручение и отправьте его в банк [по инструкции.](/business/help/account/currency-ruble/1c-integration/integrate-1c/?card=draft-payment)
+2. Закажите выписку в 1С [по инструкции.](/business/help/account/currency-ruble/1c-integration/integrate-1c/?card=bank-statement)
+3. Откройте «Банк и касса» → «Банк» → «Платежные поручения» и нажмите на кнопку с зеленой стрелкой. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy84OTNkNWUxOC4wOV9kZXNrdG9wLnBuZw==)
 Готово! Вы связали платежку и выписку. Состояние платежного поручения во вкладке «Платежные поручения» изменится на «Оплачено», когда платежку оплатят.

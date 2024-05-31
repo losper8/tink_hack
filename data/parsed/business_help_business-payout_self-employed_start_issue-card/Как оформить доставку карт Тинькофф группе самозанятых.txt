@@ -1,10 +1,10 @@
-Как оформить доставку карт Тинькофф группе самозанятых?
-
-Это можно сделать с телефона и компьютера в личном кабинете на сайте tinkoff.ru: (https://www.tinkoff.ru/?internal_source=help)
-- Оформите карты по инструкции. (https://www.tinkoff.ru/business/help/business-payout/self-employed/start/issue-card/?card=upload-file)- Выберите групповую доставку. За один раз сможем привезти до 100 карт по одному адресу.
-- Перейдите в «Зарплатный проект» → «Доставка карт» → «Оформить». Вкладка доступна только тогда, когда есть недоставленные карты.
-- Начните вводить ФИО получателей и выберите их из выпадающего списка. Можно добавить и сотрудников, и самозанятых. - Укажите контакт для связи → «Дальше».- Выберите место, дату и время доставки → «Оформить доставку».
-
+## Как оформить доставку карт Тинькофф группе самозанятых?
+Это можно сделать с телефона и компьютера в личном кабинете на сайте [tinkoff.ru:](/?internal_source=help)
+1. Оформите карты [по инструкции.](/business/help/business-payout/self-employed/start/issue-card/?card=upload-file)
+2. Выберите групповую доставку. За один раз сможем привезти до 100 карт по одному адресу.
+3. Перейдите в «Зарплатный проект» → «Доставка карт» → «Оформить». Вкладка доступна только тогда, когда есть недоставленные карты. ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy8wOTc2MWRlOC4wNV9kZXNrdG9wXzQucG5n)
+4. Начните вводить ФИО получателей и выберите их из выпадающего списка. Можно добавить и сотрудников, и самозанятых.
+5. Укажите контакт для связи → «Дальше».
+6. Выберите место, дату и время доставки → «Оформить доставку». ![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mODAwMTA3Mi4wNl9kZXNrdG9wXzEucG5n)
 Готово, встреча назначена. Статус доставки можно посмотреть в разделе «Доставка карт».
-
-Вы увидите всплывающее уведомление с датой и временем встречи
+![](https://imgproxy.cdn-tinkoff.ru/compressed95:help_question_card_body_image_desktop_col_9/aHR0cHM6Ly9vcGlzLWNkbi50aW5rb2Zmam91cm5hbC5ydS9wbHV0by1iYWNrZW5kLWltYWdlcy9mOTFlYjQzMC4wN19kZXNrdG9wXzMucG5n)Вы увидите всплывающее уведомление с датой и временем встречи
