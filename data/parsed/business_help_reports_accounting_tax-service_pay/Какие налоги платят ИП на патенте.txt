@@ -5,4 +5,4 @@
 Калькулятор для расчета стоимости патента (https://patent.nalog.ru)
 Если у ИП есть сотрудники, нужно дополнительно платить НДФЛ — налог на доходы физических лиц с их зарплат и страховые взносы за них.
 
-Как заплатить НДФЛ и взносы за сотрудников (/business/help/account/currency-ruble/transfer-and-withdraw/transfer/?card=q7)
+Как заплатить НДФЛ и взносы за сотрудников (https://www.tinkoff.ru/business/help/account/currency-ruble/transfer-and-withdraw/transfer/?card=q7)

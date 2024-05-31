@@ -4,12 +4,12 @@
 
 В Тинькофф Бизнесе есть несколько вариантов кредитования бизнеса:
 
-- оборотный кредит; (/business/help/loans/turnover/)
-- овердрафт; (/business/help/loans/overdraft/)
-- оборотная кредитная линия; (/business/help/loans/credit-lines/turnover-realty/)
-- инвестиционная кредитная линия; (/business/help/loans/credit-lines/invest-realty/)
-- кредитная линия на исполнение контракта; (/business/help/loans/credit-lines/turnover-contract/)
-- кредит на любые цели. (/business/help/loans/cashloan/)
+- оборотный кредит; (https://www.tinkoff.ru/business/help/loans/turnover/)
+- овердрафт; (https://www.tinkoff.ru/business/help/loans/overdraft/)
+- оборотная кредитная линия; (https://www.tinkoff.ru/business/help/loans/credit-lines/turnover-realty/)
+- инвестиционная кредитная линия; (https://www.tinkoff.ru/business/help/loans/credit-lines/invest-realty/)
+- кредитная линия на исполнение контракта; (https://www.tinkoff.ru/business/help/loans/credit-lines/turnover-contract/)
+- кредит на любые цели. (https://www.tinkoff.ru/business/help/loans/cashloan/)
 
 
 Если у вас уже есть один из кредитных продуктов, вы можете подать заявку на другой через мобильное приложение или личный кабинет Тинькофф Бизнеса. Решение об открытии дополнительного кредита банк принимает в индивидуальном порядке. Как подать заявку на кредитную линию, если есть счет в Тинькофф Бизнесе (https://www.tinkoff.ru/business/help/loans/credit-lines/main/open/?card=q1)

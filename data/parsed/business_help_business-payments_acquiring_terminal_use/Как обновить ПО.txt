@@ -2,4 +2,4 @@
 
 Сделайте сверку итогов, и программное обеспечение терминала обновится.
 
-Как сделать сверку итогов (/business/help/business-payments/acquiring/terminal/use/?card=q3)
+Как сделать сверку итогов (https://www.tinkoff.ru/business/help/business-payments/acquiring/terminal/use/?card=q3)

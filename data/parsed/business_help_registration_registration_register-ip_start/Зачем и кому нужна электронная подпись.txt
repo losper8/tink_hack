@@ -20,5 +20,5 @@
 
 КЭП имеет полную юридическую силу. Ею можно подписывать любые договоры, отчетность для налоговой и фондов, документы для участия в госзакупках.
 
-Получить единую КЭП для всех документов от Тинькофф (/business/signature/?internal_source=help-order)
+Получить единую КЭП для всех документов от Тинькофф (https://www.tinkoff.ru/business/signature/?internal_source=help-order)
 Как настроить и пользоваться КЭП (https://www.tinkoff.ru/business/help/solutions/signature/use/)

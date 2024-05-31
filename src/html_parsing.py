@@ -2,13 +2,19 @@ import html
 import json
 import os
 import re
+from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
+
+# Define the base URL
+BASE_URL = 'https://www.tinkoff.ru'
 
 
 def extract_text_with_links(element):
     if element.name == 'a':
-        return f'{element.get_text()} ({element["href"]})'
+        href = element["href"]
+        full_url = urljoin(BASE_URL, href)
+        return f'{element.get_text()} ({full_url})'
     if element.name == 'li':
         return '- ' + ''.join([extract_text_with_links(child) for child in element.children])
     if element.name in ['span', 'p', 'div']:
@@ -92,18 +98,21 @@ def main():
     strange_names = []
     for file in files_list:
         file_url = 'https://www.tinkoff.ru/' + file.replace('_', '/').replace('.html', '')
+
         print(f'{file_url=}')
         with open(f'{html_dir}/{file}', encoding='utf-8') as f:
             html_content = f.read()
         bs4 = BeautifulSoup(html_content, 'html.parser')
+
         articles = bs4.find_all('article')
         print(f'{len(articles)=}')
-        table_of_content = bs4.find('div', {'data-testid': 'table-of-content'})
-        len_table_of_content_lis = 0
-        if table_of_content:
-            table_of_content_lis = table_of_content.find_all('li')
-            len_table_of_content_lis = len(table_of_content_lis)
-        print(f'{len_table_of_content_lis=}')
+
+        # table_of_content = bs4.find('div', {'data-testid': 'table-of-content'})
+        # len_table_of_content_lis = 0
+        # if table_of_content:
+        #     table_of_content_lis = table_of_content.find_all('li')
+        #     len_table_of_content_lis = len(table_of_content_lis)
+        # print(f'{len_table_of_content_lis=}')
 
         if not articles:
             empty_files.append({'file': file, 'url': file_url})
@@ -122,18 +131,20 @@ def main():
             text_output = format_question_answer(text_output)
             question = text_output.split('\n')[0]
             if '?' not in question:
-                question = f'article {i + 1}'
-                strange_names.append({'file': file, 'url': file_url, 'article_name': question})
+                question += '?'
 
             sanitized_question = sanitize_filename(question)
             output_file_path = os.path.join(dir_path, f'{sanitized_question}.txt')
-            with open(output_file_path, 'w', encoding='utf-8') as out_file:
-                out_file.write(text_output)
+            try:
+                with open(output_file_path, 'w', encoding='utf-8') as out_file:
+                    out_file.write(text_output)
+            except OSError:
+                strange_names.append({'file': file, 'url': file_url, 'question': question})
 
-    with open('data/empty_files.json', 'w') as f:
-        json.dump(empty_files, f, indent=4)
-    with open('data/strange_names.json', 'w') as f:
-        json.dump(strange_names, f, indent=4)
+    with open('data/empty_files.json', 'w', encoding='utf-8') as f:
+        json.dump(empty_files, f, indent=4, ensure_ascii=False)
+    with open('data/strange_names.json', 'w', encoding='utf-8') as f:
+        json.dump(strange_names, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == '__main__':

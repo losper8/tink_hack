@@ -19,7 +19,13 @@ async def main():
     print(most_frequent_descriptions)
 
     parent_urls = df['parent_url'].unique()
-    parent_urls = [url for url in parent_urls if url]
+    urls = df['url']
+    # https://www.tinkoff.ru/business/help/business-payments/acquiring/terminal/use/?card=q8
+    # remove all query parameters
+    urls = [url.split('?')[0] for url in urls]
+    urls = set(urls)
+    parent_urls = [url for url in parent_urls if url] + list(urls)
+    parent_urls = list(set(parent_urls))
     print(parent_urls)
     print(len(parent_urls))
     parent_url_lines = [f"{url}\n" for url in parent_urls]

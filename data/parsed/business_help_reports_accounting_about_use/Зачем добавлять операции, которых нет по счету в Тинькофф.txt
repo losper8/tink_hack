@@ -5,6 +5,6 @@
 
 Чтобы добавить другие операции, вы можете:
 
-- автоматически загрузить операции из другого банка; (/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q10)
-- добавить операции вручную; (/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q11)
-- загрузить выписки 1С из другого банка. (/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q12)
+- автоматически загрузить операции из другого банка; (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q10)
+- добавить операции вручную; (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q11)
+- загрузить выписки 1С из другого банка. (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q12)

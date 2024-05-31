@@ -2,4 +2,4 @@
 
 Наши советы:
 
-- Рассказать об этой особенности в сервисе «Репутация». Как ответить на вопросы компании (/business/help/account/reputation/about/protect-business/?card=q5)- Загружать выписку из другого банка в личный кабинет Тинькофф, не реже раза в квартал. Зачем загружать выписку из другого банка (https://www.tinkoff.ru/business/help/account/compliance/about/docs/?card=why-upload-extract)
+- Рассказать об этой особенности в сервисе «Репутация». Как ответить на вопросы компании (https://www.tinkoff.ru/business/help/account/reputation/about/protect-business/?card=q5)- Загружать выписку из другого банка в личный кабинет Тинькофф, не реже раза в квартал. Зачем загружать выписку из другого банка (https://www.tinkoff.ru/business/help/account/compliance/about/docs/?card=why-upload-extract)

@@ -4,7 +4,7 @@
 
 Откройте счет в валюте перевода. Например, для переводов в долларах — долларовый, для юаней — юаневый.
 
-Как открыть валютный счет (https://www.tinkoff.ru/business/help/account/currency/start/open/?card=how)Открыть счет (/business/currency/?internal_source=help#form)
+Как открыть валютный счет (https://www.tinkoff.ru/business/help/account/currency/start/open/?card=how)Открыть счет (https://www.tinkoff.ru/business/currency/?internal_source=help#form)
 
 Если расчеты будут в рублях и у вас уже есть рублевый счет, новый открывать не нужно.
 

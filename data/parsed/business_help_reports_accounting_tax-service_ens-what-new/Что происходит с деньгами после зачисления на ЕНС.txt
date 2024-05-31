@@ -34,6 +34,6 @@
 
 
 
-К какому налогу отнести сумму с ЕНС, определяется автоматически по декларациям, уведомлениям или решениям налоговой после проверок. Что такое налоговое уведомление (/business/help/reports/tinkoff-accounting/taxes/ens-what-new/?card=q5)
+К какому налогу отнести сумму с ЕНС, определяется автоматически по декларациям, уведомлениям или решениям налоговой после проверок. Что такое налоговое уведомление (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/ens-what-new/?card=q5)
 
 ИП на УСН и патенте без сотрудников могут уменьшить налог на сумму уплаченных страховых взносов. Вот как это сделать (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)

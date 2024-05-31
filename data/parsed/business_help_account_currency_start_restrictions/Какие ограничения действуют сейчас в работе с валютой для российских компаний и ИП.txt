@@ -9,8 +9,8 @@
 - получать аванс от иностранных компаний;
 - оплачивать покупку доли, вклада или пая в имуществе нерезидента из дружественной страны в валюте этой страны.
 
-Список стран, с которыми можно вести бизнес в Тинькофф (/business/help/account/currency/countries/directions/?card=countries)
-Список недружественных стран и территорий (/business/help/account/currency/start/restrictions/?anchor=countries)
+Список стран, с которыми можно вести бизнес в Тинькофф (https://www.tinkoff.ru/business/help/account/currency/countries/directions/?card=countries)
+Список недружественных стран и территорий (https://www.tinkoff.ru/business/help/account/currency/start/restrictions/?anchor=countries)
 Можно с ограничениямиРассчитываться в валюте с резидентами, если выполняете по контракту такие обязательства, как:
 
 - посредничество;
@@ -26,8 +26,8 @@
 - сумма обязательств по договору превышает 10 000 000 ₽ по курсу Банка России на первое число месяца;
 - сумма на рублевых счетах типа «С» за календарный месяц превышает 10 000 000 ₽ по курсу Банка России на первое число месяца.
 
-Список стран, с которыми можно вести бизнес в Тинькофф (/business/help/account/currency/countries/directions/?card=countries)
-Список недружественных стран и территорий (/business/help/account/currency/start/restrictions/?anchor=countries)
+Список стран, с которыми можно вести бизнес в Тинькофф (https://www.tinkoff.ru/business/help/account/currency/countries/directions/?card=countries)
+Список недружественных стран и территорий (https://www.tinkoff.ru/business/help/account/currency/start/restrictions/?anchor=countries)
 Решение Банка России от 05.03.2022 (https://www.cbr.ru/about_br/dir/rsd_2022-03-08/)
 Зачислять иностранную валюту на свои счета за рубежом, кроме дивидендов и других доходов от российских компаний, даже если сначала деньги пришли на российский счет.
 
@@ -51,7 +51,7 @@
 - инвестировать в проекты и компании суммы больше 15 000 000 ₽ по курсу Банка России на дату платежа;
 - покупать недвижимость.
 
-Список недружественных стран и территорий (/business/help/account/currency/start/restrictions/?anchor=countries)
+Список недружественных стран и территорий (https://www.tinkoff.ru/business/help/account/currency/start/restrictions/?anchor=countries)
 Как получить разрешение комиссии (http://publication.pravo.gov.ru/Document/View/0001202203070002?rangeSize=1&index=3)
 Форма заявления на выполнение одной или нескольких сделок (http://www.consultant.ru/document/cons_doc_LAW_412040/3432afe624cc8da0d741664565e0aa8f74f1643f/#dst100011)
 Только с разрешения Президента РФ совершать сделки с нерезидентами, у которых есть доли и акции стратегических предприятий, компаний топливно-энергетического комплекса и некоторых банков. Актуальный список банков, с которыми можно совершать сделки, указан в распоряжении Президента РФ от 26.10.2022. (http://publication.pravo.gov.ru/Document/View/0001202210260006?index=1&rangeSize=1)

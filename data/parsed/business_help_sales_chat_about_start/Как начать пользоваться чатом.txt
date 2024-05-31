@@ -2,4 +2,4 @@
 
 Установите код чата на своем сайте и настройте параметры.
 
--  Установите код чата на сайт (https://www.tinkoff.ru/business/help/sales/chat/about/start/?card=sites-chat). На сайтах, которые собраны в конструкторе Тинькофф, он работает сразу.-  Добавьте консультантов в чат (/business/help/sales/chat/about/customize/?card=consultants).-  Настройте дизайн и название виджета (/business/help/sales/chat/about/customize/?card=design-chat).-  Включите уведомления о сообщениях (/business/help/sales/chat/about/customize/?card=notifications).-  Общайтесь с клиентами в личном кабинете.
+-  Установите код чата на сайт (https://www.tinkoff.ru/business/help/sales/chat/about/start/?card=sites-chat). На сайтах, которые собраны в конструкторе Тинькофф, он работает сразу.-  Добавьте консультантов в чат (https://www.tinkoff.ru/business/help/sales/chat/about/customize/?card=consultants).-  Настройте дизайн и название виджета (https://www.tinkoff.ru/business/help/sales/chat/about/customize/?card=design-chat).-  Включите уведомления о сообщениях (https://www.tinkoff.ru/business/help/sales/chat/about/customize/?card=notifications).-  Общайтесь с клиентами в личном кабинете.

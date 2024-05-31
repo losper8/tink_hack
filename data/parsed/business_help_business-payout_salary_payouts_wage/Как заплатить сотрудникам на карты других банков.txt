@@ -2,10 +2,10 @@
 
 В личном кабинете сервиса вы можете выбрать любой из способов:
 
-- создать реестр с нужными сотрудниками вручную (/business/help/business-payout/salary/payouts/create-registry/?card=q3);
-- создать реестр сразу из всех сотрудников компании (/business/help/business-payout/salary/payouts/create-registry/?card=q4);
-- загрузить реестр на выплату файлом (/business/help/business-payout/salary/payouts/create-registry/?card=q6);
-- подключить интеграцию с 1С. (/business/help/business-payout/salary/integration/tune/?card=q1)
+- создать реестр с нужными сотрудниками вручную (https://www.tinkoff.ru/business/help/business-payout/salary/payouts/create-registry/?card=q3);
+- создать реестр сразу из всех сотрудников компании (https://www.tinkoff.ru/business/help/business-payout/salary/payouts/create-registry/?card=q4);
+- загрузить реестр на выплату файлом (https://www.tinkoff.ru/business/help/business-payout/salary/payouts/create-registry/?card=q6);
+- подключить интеграцию с 1С. (https://www.tinkoff.ru/business/help/business-payout/salary/integration/tune/?card=q1)
 
 
 Повторить выплату на карты других банков не получится.

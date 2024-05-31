@@ -9,12 +9,12 @@
 
 В офлайне есть несколько способов вывода динамического QR‑кода:
 
-- в приложении Тинькофф Бизнеса; (/business/help/business-payments/sbp/offline/app/)
-- на экране терминала; (/business/help/business-payments/sbp/offline/how-to/)
+- в приложении Тинькофф Бизнеса; (https://www.tinkoff.ru/business/help/business-payments/sbp/offline/app/)
+- на экране терминала; (https://www.tinkoff.ru/business/help/business-payments/sbp/offline/how-to/)
 - на кассовом ПО через интеграцию с API Тинькофф.
 
 
-Во всех случаях покупатель сканирует QR‑код своим телефоном и перенаправляется в приложение банка, который он выбрал для оплаты через СБП. Как покупателю сделать Тинькофф банком по умолчанию для оплат по QR‑коду (/bank/help/payments/pay-for-purchases/sbp/qr-code/?card=q4)
+Во всех случаях покупатель сканирует QR‑код своим телефоном и перенаправляется в приложение банка, который он выбрал для оплаты через СБП. Как покупателю сделать Тинькофф банком по умолчанию для оплат по QR‑коду (https://www.tinkoff.ru/bank/help/payments/pay-for-purchases/sbp/qr-code/?card=q4)
 
 В онлайне отображение кода зависит от устройства, с которого покупатель переходит по платежной ссылке:
 

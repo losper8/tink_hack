@@ -1,6 +1,7 @@
 from time import perf_counter
 
 import requests
+import tqdm
 
 cookies = {
     'test_cookie_QpHfCYJQhs': 'true',
@@ -55,8 +56,8 @@ with open('data/parent_urls.txt') as f:
     urls = f.readlines()
 urls = [url.strip() for url in urls]
 print(f'{len(urls)=}')
-for url in urls:
-    print(f'{url=}')
+for url in tqdm.tqdm(urls):
+    # print(f'{url=}')
     start = perf_counter()
     response = requests.get(
         url,
@@ -71,4 +72,4 @@ for url in urls:
 
     with open(f'data/html/{url_file_name}.html', 'w', encoding='utf-8') as f:
         f.write(response.text)
-    print(f'{perf_counter() - start=}')
+    # print(f'{perf_counter() - start=}')

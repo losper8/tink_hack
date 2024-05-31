@@ -12,7 +12,7 @@
 
 Вручную вам нужно:
 
-- подтверждать операции; (/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q4)
-- добавлять информацию о счетах в других банках, (/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q9) чтобы корректно рассчитывать налог;
+- подтверждать операции; (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q4)
+- добавлять информацию о счетах в других банках, (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q9) чтобы корректно рассчитывать налог;
 - формировать и отправлять налоговую декларацию; (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/tax-service/declaration/)
 - перечислять налоги и взносы. (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-contribution/?card=q8)

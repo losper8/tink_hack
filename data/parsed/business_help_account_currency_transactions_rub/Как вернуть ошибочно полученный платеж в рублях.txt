@@ -2,6 +2,7 @@
 
 Специального механизма возврата таких платежей не предусмотрено: вы можете вернуть ошибочно полученный платеж отправителю, воспользовавшись нашими инструкциями:
 
-Как отменить платеж, если ошибся при отправке денег (/business/help/account/currency/transactions/payment/?card=mistake)
-- как отправить платеж в рублях в иностранный банк; (/business/help/account/currency/transactions/rub/?card=foreign-bank)
-- как отправить платеж в рублях нерезиденту по России. (/business/help/account/currency/transactions/rub/?card=non-resident-in-russia)
+- как отправить платеж в рублях в иностранный банк; (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=foreign-bank)
+- как отправить платеж в рублях нерезиденту по России. (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-resident-in-russia)
+
+Как отменить платеж, если ошибся при отправке денег (https://www.tinkoff.ru/business/help/account/currency/transactions/payment/?card=mistake)

@@ -19,4 +19,4 @@
 
 Готово! Вы подключили Wildberries.
 
-Как загрузить отчет Wildberries (/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)
+Как загрузить отчет Wildberries (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q4)

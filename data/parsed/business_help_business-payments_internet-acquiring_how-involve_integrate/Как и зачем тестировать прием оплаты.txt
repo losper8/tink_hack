@@ -6,13 +6,13 @@
 
 Прежде чем тестировать платежи, добавьте платежную форму на ваш сайт или в приложение.
 
-Как добавить оплату на сайт (/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q1)
-Как подключить оплату в приложении (/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q15)
+Как добавить оплату на сайт (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q1)
+Как подключить оплату в приложении (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q15)
 
 Как протестировать прием оплаты:
 
-- В личном кабинете интернет-эквайринга перейдите в «Магазины» (https://business.tinkoff.ru/oplata/mpa/shops/ecom) → магазин со статусом «Протестируйте платежи». Вы попадете в раздел с терминалами интернет-эквайринга — один тестовый, второй рабочий.- Настройте тестовый терминал. Как настроить терминал (/business/help/business-payments/internet-acquiring/how-use/terminal/?card=q2)- 
-Перейдите в административную панель вашего сайта или приложения. Зайдите в настройки и пропишите номер и пароль тестового терминала. Где найти номер и пароль терминала (/business/help/business-payments/internet-acquiring/how-use/terminal/?card=q3)
+- В личном кабинете интернет-эквайринга перейдите в «Магазины» (https://business.tinkoff.ru/oplata/mpa/shops/ecom) → магазин со статусом «Протестируйте платежи». Вы попадете в раздел с терминалами интернет-эквайринга — один тестовый, второй рабочий.- Настройте тестовый терминал. Как настроить терминал (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/terminal/?card=q2)- 
+Перейдите в административную панель вашего сайта или приложения. Зайдите в настройки и пропишите номер и пароль тестового терминала. Где найти номер и пароль терминала (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/terminal/?card=q3)
 Если возникли сложности, обратитесь к персональному менеджеру или напишите в чат поддержки (https://tinkoffbusiness.onelink.me/1221431269/oocytv75) Тинькофф Бизнеса и попросите наших специалистов вам помочь.
 
 Если подключаете интернет-эквайринг к сайту на конструкторе Тинькофф, номер и пароль тестового и рабочего терминалов автоматически подтянутся. Тесты № 1—4 проходить не нужно. Сразу можете включать рабочий терминал и принимать оплату. Если подключаете к сайту на конструкторе Тинькофф онлайн-кассу, нужно будет пройти только тесты № 7—8.

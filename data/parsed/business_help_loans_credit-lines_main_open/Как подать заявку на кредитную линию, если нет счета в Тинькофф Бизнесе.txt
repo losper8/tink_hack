@@ -6,5 +6,5 @@
 Вот как это сделать:
 
 - Откройте страницу с формой заявки на нужную кредитную линию.
-Оборотная кредитная линия. (/business/turnover-realty/?internal_source=help-order#form)Инвестиционная кредитная линия (/business/invest-realty/?internal_source=help-order#form)Кредитная линия на исполнение контракта (/business/turnover-contract/?internal_source=help-order#form)- Заполните анкету: введите телефон, наименование ООО или ИП, ИНН и ФИО заемщика. Нажмите «Узнать сумму».
+Оборотная кредитная линия. (https://www.tinkoff.ru/business/turnover-realty/?internal_source=help-order#form)Инвестиционная кредитная линия (https://www.tinkoff.ru/business/invest-realty/?internal_source=help-order#form)Кредитная линия на исполнение контракта (https://www.tinkoff.ru/business/turnover-contract/?internal_source=help-order#form)- Заполните анкету: введите телефон, наименование ООО или ИП, ИНН и ФИО заемщика. Нажмите «Узнать сумму».
 - Готово, заявка отправлена. В течение часа вам позвонит специалист Тинькофф, сообщит предварительное решение по кредитной линии и проконсультирует по дальнейшим шагам.

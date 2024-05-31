@@ -19,7 +19,7 @@
 
 Если у ИП есть сотрудники, дополнительно нужно платить НДФЛ — налог на доходы физических лиц с их зарплат и страховые взносы за них.
 
-Как заплатить НДФЛ и взносы за сотрудников (/business/help/account/currency-ruble/transfer-and-withdraw/transfer/?card=q7)
-ИП на УСН без сотрудников могут уменьшить налог на всю сумму уплаченных страховых взносов. Вот как это сделать (/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)
+Как заплатить НДФЛ и взносы за сотрудников (https://www.tinkoff.ru/business/help/account/currency-ruble/transfer-and-withdraw/transfer/?card=q7)
+ИП на УСН без сотрудников могут уменьшить налог на всю сумму уплаченных страховых взносов. Вот как это сделать (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)
 
 Чтобы сервис «Онлайн-бухгалтерия» правильно рассчитал налог по УСН и дополнительные взносы, нужно подтверждать операции в личном кабинете Тинькофф Бизнеса. Зачем и как подтверждать операции (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q4)

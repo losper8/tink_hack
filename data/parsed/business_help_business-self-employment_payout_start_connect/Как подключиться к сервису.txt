@@ -16,6 +16,6 @@
 Оставить заявку на подключение к сервису (https://www.tinkoff.ru/corporate/payout/self-employed/)- После открытия расчетного счета сервис выплат самозанятым станет вам доступен без дополнительных заявок.
 
 Платить самозанятым вы сможете прямо из раздела «Зарплатный проект» личного кабинета Тинькофф Бизнеса.
-Выплатить деньги самозанятым (/business/help/business-payout/self-employed/payoff/pay/)- Если нужно, откройте доступ к сервису своим сотрудникам — бухгалтеру или менеджеру, чтобы они могли оформлять выплаты самостоятельно.
+Выплатить деньги самозанятым (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay/)- Если нужно, откройте доступ к сервису своим сотрудникам — бухгалтеру или менеджеру, чтобы они могли оформлять выплаты самостоятельно.
 Как дать доступ к сервису сотрудникам (https://www.tinkoff.ru/business/help/business-payout/self-employed/start/connect/?card=access)- Подключите к сервису самозанятых, с которыми сотрудничаете, — для этого отправьте им инструкцию «Как подключиться к Тинькофф в качестве самозанятого» (https://acdn.tinkoff.ru/static/documents/be-selfemployed-with-tinkoff.pdf), и переводите деньги.
 Как добавить самозанятых в сервис (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay/?card=ways-to-add)

@@ -5,4 +5,4 @@
 
 Если только начинаете работать с Тинькофф, советуем описать особенности своего бизнеса. Так мы будем задавать меньше вопросов.
 
-Как рассказать о бизнесе в сервисе «Репутация» (/business/help/account/reputation/about/protect-business/?card=q5)
+Как рассказать о бизнесе в сервисе «Репутация» (https://www.tinkoff.ru/business/help/account/reputation/about/protect-business/?card=q5)

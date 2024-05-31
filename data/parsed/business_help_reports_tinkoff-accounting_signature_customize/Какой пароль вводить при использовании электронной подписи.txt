@@ -6,5 +6,5 @@
 
 Мы рекомендуем сразу заменить стандартный пароль на свой: это значительно безопаснее.
 
-Как изменить пароль для КЭП (/business/help/solutions/signature/use/customize/?card=q6)
-Запомните или храните пароль в надежном месте: если вы меняли пароль и не можете вспомнить его, квалифицированную подпись придется выпускать заново. Как выпустить КЭП через Тинькофф (/business/help/solutions/signature/get/tinkoff/?card=q3)
+Как изменить пароль для КЭП (https://www.tinkoff.ru/business/help/solutions/signature/use/customize/?card=q6)
+Запомните или храните пароль в надежном месте: если вы меняли пароль и не можете вспомнить его, квалифицированную подпись придется выпускать заново. Как выпустить КЭП через Тинькофф (https://www.tinkoff.ru/business/help/solutions/signature/get/tinkoff/?card=q3)

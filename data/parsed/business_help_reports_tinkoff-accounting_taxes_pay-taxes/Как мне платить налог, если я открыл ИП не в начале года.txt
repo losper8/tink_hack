@@ -3,7 +3,7 @@
 Зависит от того, на каком налоговом режиме вы работаете. Как сменить систему налогообложения (https://www.tinkoff.ru/business/help/registration/registration/register-ip/tax-system/?card=q4)
 Если работаете на УСН, то налог платите только за те кварталы, когда вели деятельность. В каждом квартале вы можете уменьшать налог на сумму уплаченных страховых взносов.
 
-Как уменьшить налог по УСН (/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)
+Как уменьшить налог по УСН (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)
 В конце года нужно сдать декларацию и указать в ней нулевой оборот за кварталы, в которых вы не работали и не получали доход.
 
 Как сдать декларацию через Тинькофф (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/tax-service/declaration/?card=q2)

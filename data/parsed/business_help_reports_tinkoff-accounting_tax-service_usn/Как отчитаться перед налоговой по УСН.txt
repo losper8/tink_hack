@@ -2,4 +2,4 @@
 
 Ежегодно организации и ИП сдают налоговую декларацию за прошедший год. На основе этого документа налоговая инспекция контролирует правильность уплаты налогов.
 
-Как сдать декларацию (/business/help/reports/tinkoff-accounting/tax-service/declaration/)
+Как сдать декларацию (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/tax-service/declaration/)

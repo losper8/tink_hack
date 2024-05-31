@@ -42,4 +42,4 @@
 
 Кейс: как автоматизировать выплаты таксистам (https://secrets.tinkoff.ru/opyt-kompanij/vyplaty-taksistam/)Если у вас есть счет в Тинькофф Бизнесе и вы не используете сервис для массовых выплат, расскажите о выплатах в «Репутации». Мы прочитаем описание, лучше поймем вашу бизнес-модель и будем меньше задавать вопросов.
 
-Как рассказать о бизнесе в сервисе «Репутация» (/business/help/account/reputation/about/protect-business/?card=q5)
+Как рассказать о бизнесе в сервисе «Репутация» (https://www.tinkoff.ru/business/help/account/reputation/about/protect-business/?card=q5)

@@ -14,9 +14,9 @@
 Если поле «Выберите сертификат» пустое, значит, на токене не установлен сертификат КЭП
 Порядок действий зависит от типа проблемы:
 
-- через личный кабинет Тинькофф Бизнеса; (/business/help/solutions/signature/use/customize/?card=q2)
+- через личный кабинет Тинькофф Бизнеса; (https://www.tinkoff.ru/business/help/solutions/signature/use/customize/?card=q2)
 - вручную.
-- через личный кабинет Тинькофф Бизнеса; (/business/help/solutions/signature/use/customize/?card=q2)
+- через личный кабинет Тинькофф Бизнеса; (https://www.tinkoff.ru/business/help/solutions/signature/use/customize/?card=q2)
 - вручную — для этого перейдите по ссылке, (https://www.cryptopro.ru/products/cades/plugin/get_2_0) и плагин автоматически скачается на ваш компьютер.
 - Вставьте токен в компьютер.
 - Откройте программу «Инструменты КриптоПро» и выберите «Контейнеры».

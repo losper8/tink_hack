@@ -2,7 +2,7 @@
 Для бизнес-карты есть три вида лимитов:
 - на ежемесячные расходы;
 - на снятие наличных в сутки;
-- на категории покупок, на которые разрешено тратить деньги, — например, топливо или супермаркеты. Как установить категории покупок (/business/help/account/business-card/about/mcc-setup/?card=limits-for-one-card)
+- на категории покупок, на которые разрешено тратить деньги, — например, топливо или супермаркеты. Как установить категории покупок (https://www.tinkoff.ru/business/help/account/business-card/about/mcc-setup/?card=limits-for-one-card)
 
 С лимитами на ежемесячные расходы и категории покупок вы можете контролировать сотрудников, чтобы они не потратили с карты больше или на личные нужды.
-Как настроить лимиты (/business/help/account/business-card/about/use-card/?card=set-limits-in-app)
+Как настроить лимиты (https://www.tinkoff.ru/business/help/account/business-card/about/use-card/?card=set-limits-in-app)

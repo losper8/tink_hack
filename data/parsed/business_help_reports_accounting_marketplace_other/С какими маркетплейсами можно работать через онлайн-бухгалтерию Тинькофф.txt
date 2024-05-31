@@ -3,6 +3,6 @@
 Можно работать с Wildberries, Ozon и Яндекс Маркетом.
 
 
-Wildberries и Яндекс Маркет уже интегрированы в онлайн-бухгалтерию. Система автоматически рассчитывает налог на основании отчетов, которые вы загружаете. Как настроить работу с Wildberries в онлайн-бухгалтерии Тинькофф (/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q1)
+Wildberries и Яндекс Маркет уже интегрированы в онлайн-бухгалтерию. Система автоматически рассчитывает налог на основании отчетов, которые вы загружаете. Как настроить работу с Wildberries в онлайн-бухгалтерии Тинькофф (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q1)
 
-Ozon планируем интегрировать в онлайн-бухгалтерию в 2024 году. Пока информацию о комиссиях этих маркетплейсов нужно заносить вручную. Как внести комиссию и расходы маркетплейса в личный кабинет онлайн-бухгалтерии (/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q10)
+Ozon планируем интегрировать в онлайн-бухгалтерию в 2024 году. Пока информацию о комиссиях этих маркетплейсов нужно заносить вручную. Как внести комиссию и расходы маркетплейса в личный кабинет онлайн-бухгалтерии (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/wildberries/?card=q10)

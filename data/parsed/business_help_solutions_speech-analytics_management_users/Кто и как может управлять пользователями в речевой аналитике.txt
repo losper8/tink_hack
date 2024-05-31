@@ -5,10 +5,10 @@
 
 Вот что можно делать на платформе:
 
-- просматривать данные сотрудников — вот как это сделать; (/business/help/solutions/speech-analytics/management/users/?card=q2)
-- редактировать данные — пошаговая инструкция; (/business/help/solutions/speech-analytics/management/users/?card=q4)
-- добавлять новых пользователей — пошаговая инструкция; (/business/help/solutions/speech-analytics/management/users/?card=q3)
-- блокировать учетные записи — вот как это сделать. (/business/help/solutions/speech-analytics/management/users/?card=q5)
+- просматривать данные сотрудников — вот как это сделать; (https://www.tinkoff.ru/business/help/solutions/speech-analytics/management/users/?card=q2)
+- редактировать данные — пошаговая инструкция; (https://www.tinkoff.ru/business/help/solutions/speech-analytics/management/users/?card=q4)
+- добавлять новых пользователей — пошаговая инструкция; (https://www.tinkoff.ru/business/help/solutions/speech-analytics/management/users/?card=q3)
+- блокировать учетные записи — вот как это сделать. (https://www.tinkoff.ru/business/help/solutions/speech-analytics/management/users/?card=q5)
 
 
-Делать это могут только сотрудники с ролью «Помощник администратора» и «Администратор компании». Подробнее о ролях на платформе (/business/help/solutions/speech-analytics/start/roles/)
+Делать это могут только сотрудники с ролью «Помощник администратора» и «Администратор компании». Подробнее о ролях на платформе (https://www.tinkoff.ru/business/help/solutions/speech-analytics/start/roles/)

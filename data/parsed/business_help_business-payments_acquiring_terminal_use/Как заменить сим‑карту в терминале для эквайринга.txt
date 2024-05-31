@@ -2,13 +2,13 @@
 
 В комплекте, который привез представитель банка, несколько сим‑карт. У Verifone и PAX их три.
 
-Как включить или выключить терминал (/business/help/business-payments/acquiring/terminal/use/?card=q1)
+Как включить или выключить терминал (https://www.tinkoff.ru/business/help/business-payments/acquiring/terminal/use/?card=q1)
 Для всех моделей процесс замены одинаковый:
 
 - Выключите терминал.- Откройте заднюю крышку и установите резервную сим‑карту на место старой.- Включите терминал.- Дождитесь загрузки и убедитесь, что шкала сигнала в правом верхнем углу активна.
 Если шкала сигнала не стала активной, нужно наладить связь.
 
-Как наладить связь (/business/help/business-payments/acquiring/tech-problems/connection/)
+Как наладить связь (https://www.tinkoff.ru/business/help/business-payments/acquiring/tech-problems/connection/)
 Обратите внимание: у терминалов PAX не все слоты под сим‑карты рабочие. В PAX S920 работает только левый слот — SIM1, а в PAX D230 — только правый.
 
-Где у терминалов слоты для сим‑карты (/business/help/business-payments/acquiring/terminal/use/?card=q1)
+Где у терминалов слоты для сим‑карты (https://www.tinkoff.ru/business/help/business-payments/acquiring/terminal/use/?card=q1)

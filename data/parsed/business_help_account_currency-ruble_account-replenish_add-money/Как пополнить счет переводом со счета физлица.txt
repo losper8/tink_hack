@@ -15,6 +15,6 @@
 - КПП, если есть.
 
 
-Чтобы не вводить реквизиты вручную, воспользуйтесь QR‑кодом. Как найти QR‑код (/business/help/account/currency-ruble/account-replenish/add-money/?card=q11)
+Чтобы не вводить реквизиты вручную, воспользуйтесь QR‑кодом. Как найти QR‑код (https://www.tinkoff.ru/business/help/account/currency-ruble/account-replenish/add-money/?card=q11)
 
 Назначение платежа вы указываете сами. Например, ИП может указать: «Перевод собственных средств. НДС не облагается».

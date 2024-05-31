@@ -17,4 +17,4 @@
 
 Предприниматели могут сами отслеживать, есть ли риск проверки. Для этого в Тинькофф есть
 
-сервис Репутация. Что такое Репутация (/business/help/account/reputation/about/discover/?card=q1)
+сервис Репутация. Что такое Репутация (https://www.tinkoff.ru/business/help/account/reputation/about/discover/?card=q1)

@@ -8,4 +8,4 @@
 
 Уплачивать взносы можно любыми частями: например, раз в год или квартал.
 
-Как ИП на УСН «Доходы» без сотрудников проверить уплату налогов и взносов (/business/help/reports/tinkoff-accounting/taxes/checkup/)
+Как ИП на УСН «Доходы» без сотрудников проверить уплату налогов и взносов (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/checkup/)

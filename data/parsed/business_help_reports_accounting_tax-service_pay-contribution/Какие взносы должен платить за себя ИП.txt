@@ -32,6 +32,6 @@
 
 Уплачивать фиксированные и дополнительные взносы можно всей суммой или частями, например раз в месяц или квартал. Главное — внести всю сумму до нужной даты.
 
-Как заплатить страховые взносы через Тинькофф (/business/help/reports/tinkoff-accounting/taxes/pay-contribution/?card=q8)
+Как заплатить страховые взносы через Тинькофф (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-contribution/?card=q8)
 
-ИП на УСН и патенте без сотрудников могут уменьшить налог на всю сумму уплаченных страховых взносов. Вот как это сделать (/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)
+ИП на УСН и патенте без сотрудников могут уменьшить налог на всю сумму уплаченных страховых взносов. Вот как это сделать (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-taxes/?card=q6)

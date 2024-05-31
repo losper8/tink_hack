@@ -5,4 +5,4 @@
 Как проверить статус самозанятого (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay/?card=checking-status)
 Мы сохраним отдельный реестр из этих исполнителей в черновиках, чтобы вы смогли перевести деньги позже — когда исполнитель снова встанет на учет и предоставит Тинькофф права. Остальным самозанятым деньги будут отправлены сразу.
 
-Как исполнителю зарегистрироваться в качестве самозанятого (/bank/help/general/self-employed/work/start/)
+Как исполнителю зарегистрироваться в качестве самозанятого (https://www.tinkoff.ru/bank/help/general/self-employed/work/start/)

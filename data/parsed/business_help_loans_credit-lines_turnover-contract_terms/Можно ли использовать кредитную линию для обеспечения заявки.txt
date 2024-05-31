@@ -1,3 +1,3 @@
 Можно ли использовать кредитную линию для обеспечения заявки?
 Нет, так сделать не получится. Мы одобряем кредитную линию под конкретную госзакупку, а открываем только после заключения договора с заказчиком.
-Если вам нужно обеспечение заявки на участие или обеспечение самого контракта, рекомендуем воспользоваться независимой гарантией (/business/independent-guarantees/?internal_source=help-order) или спецсчетом. (/business/special/?internal_source=help-order)
+Если вам нужно обеспечение заявки на участие или обеспечение самого контракта, рекомендуем воспользоваться независимой гарантией (https://www.tinkoff.ru/business/independent-guarantees/?internal_source=help-order) или спецсчетом. (https://www.tinkoff.ru/business/special/?internal_source=help-order)

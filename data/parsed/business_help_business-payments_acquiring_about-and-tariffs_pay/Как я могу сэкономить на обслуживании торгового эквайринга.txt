@@ -59,4 +59,4 @@
 
 
 Прием платежей по QR‑коду. За прием платежей по QR‑коду через СБП комиссия гораздо ниже, чем за прием платежей по карте — от 0,4 до 0,7% за платеж. Подробнее о комиссии (https://www.tinkoff.ru/business/help/business-payments/sbp/main/conditions/?card=q2)
-Как подключить СБП на терминале торгового эквайринга (/business/help/business-payments/sbp/offline/how-to/?card=q1)
+Как подключить СБП на терминале торгового эквайринга (https://www.tinkoff.ru/business/help/business-payments/sbp/offline/how-to/?card=q1)

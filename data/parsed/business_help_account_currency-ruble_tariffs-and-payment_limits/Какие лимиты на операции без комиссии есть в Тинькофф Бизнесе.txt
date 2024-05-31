@@ -20,16 +20,13 @@
 450 000 ₽ с сервисом Tinkoff Premium 600 000 ₽ с сервисом Tinkoff Premium 800 000 ₽ с сервисом Tinkoff Premium
 На кредитную карту 250 000 ₽ 400 000 ₽ 500 000 ₽
 
-На дебетовую карту	Простой   150 000 ₽ без подписки   250 000 ₽ с подпиской Tinkoff Pro   450 000 ₽ с сервисом Tinkoff Premium
-Продвинутый   300 000 ₽ без подписки   400 000 ₽ с подпиской Tinkoff Pro   600 000 ₽ с сервисом Tinkoff Premium
-Профессиональный   500 000 ₽ без подписки   600 000 ₽ с подпиской Tinkoff Pro   800 000 ₽ с сервисом Tinkoff Premium
-На кредитную карту	Простой 250 000 ₽
-Продвинутый 400 000 ₽
-Профессиональный 500 000 ₽
+Простой	Бесплатные переводы на дебетовую картуБез подписки150 000 ₽	С подпиской Tinkoff Pro250 000 ₽	С сервисом Tinkoff Premium450 000 ₽	Бесплатные переводы на кредитную карту 250 000 ₽
+Продвинутый	Бесплатные переводы на дебетовую картуБез подписки300 000 ₽	С подпиской Tinkoff Pro400 000 ₽	С сервисом Tinkoff Premium600 000 ₽	Бесплатные переводы на кредитную карту 400 000 ₽
+Профессиональный	Бесплатные переводы на дебетовую картуБез подписки500 000 ₽	С подпиской Tinkoff Pro600 000 ₽	С сервисом Tinkoff Premium800 000 ₽	Бесплатные переводы на кредитную карту 500 000 ₽
  Подписку Pro (https://www.tinkoff.ru/pro/?internal_source=help) и сервис Premium (https://www.tinkoff.ru/tinkoff-premium/?internal_source=help) можно подключить на нашем сайте и в «желтом» приложении Тинькофф для физлиц. 
  Если переводите на карту Тинькофф сверх бесплатного лимита, будет комиссия, как за переводы физлицам.
-Комиссия за переводы себе на карту Тинькофф сверх бесплатного лимита (/business/help/account/currency-ruble/tariffs-and-payment/limits/?anchor=up_free_limit)
-Выбрать и подключить подписку (/bank/help/general/pro/pro-subscription/connect/?card=q5)
+Комиссия за переводы себе на карту Тинькофф сверх бесплатного лимита (https://www.tinkoff.ru/business/help/account/currency-ruble/tariffs-and-payment/limits/?anchor=up_free_limit)
+Выбрать и подключить подписку (https://www.tinkoff.ru/bank/help/general/pro/pro-subscription/connect/?card=q5)
 Выплата зарплаты без комиссии
 На карты Тинькофф — безлимитно на всех тарифах.
 
@@ -45,16 +42,13 @@
 450 000 ₽ с сервисом Tinkoff Premium 600 000 ₽ с сервисом Tinkoff Premium 800 000 ₽ с сервисом Tinkoff Premium
 На кредитную карту 250 000 ₽ 400 000 ₽ 500 000 ₽
 
-На дебетовую карту	Простой   150 000 ₽ без подписки   250 000 ₽ с подпиской Tinkoff Pro   450 000 ₽ с сервисом Tinkoff Premium
-Продвинутый   300 000 ₽ без подписки   400 000 ₽ с подпиской Tinkoff Pro   600 000 ₽ с сервисом Tinkoff Premium
-Профессиональный   500 000 ₽ без подписки   600 000 ₽ с подпиской Tinkoff Pro   800 000 ₽ с сервисом Tinkoff Premium
-На кредитную карту	Простой 250 000 ₽
-Продвинутый 400 000 ₽
-Профессиональный 500 000 ₽
+Простой	Бесплатные переводы на дебетовую картуБез подписки150 000 ₽	С подпиской Tinkoff Pro250 000 ₽	С сервисом Tinkoff Premium450 000 ₽	Бесплатные переводы на кредитную карту 250 000 ₽
+Продвинутый	Бесплатные переводы на дебетовую картуБез подписки300 000 ₽	С подпиской Tinkoff Pro400 000 ₽	С сервисом Tinkoff Premium600 000 ₽	Бесплатные переводы на кредитную карту 400 000 ₽
+Профессиональный	Бесплатные переводы на дебетовую картуБез подписки500 000 ₽	С подпиской Tinkoff Pro600 000 ₽	С сервисом Tinkoff Premium800 000 ₽	Бесплатные переводы на кредитную карту 500 000 ₽
  Подписку Pro (https://www.tinkoff.ru/pro/?internal_source=help) и сервис Premium (https://www.tinkoff.ru/tinkoff-premium/?internal_source=help) можно подключить на нашем сайте и в «желтом» приложении Тинькофф для физлиц. 
  Если переводите на карту Тинькофф сверх бесплатного лимита, будет комиссия, как за переводы физлицам.
-Комиссия за переводы себе на карту Тинькофф сверх бесплатного лимита (/business/help/account/currency-ruble/tariffs-and-payment/limits/?anchor=up_free_limit)
-Выбрать и подключить подписку (/bank/help/general/pro/pro-subscription/connect/?card=q5)
+Комиссия за переводы себе на карту Тинькофф сверх бесплатного лимита (https://www.tinkoff.ru/business/help/account/currency-ruble/tariffs-and-payment/limits/?anchor=up_free_limit)
+Выбрать и подключить подписку (https://www.tinkoff.ru/bank/help/general/pro/pro-subscription/connect/?card=q5)
 Выплата дивидендов учредителям и акционерам в любые банки
 Только на тарифе «Профессиональный». До 2 000 000 ₽ бесплатно через зарплатный проект Тинькофф (https://www.tinkoff.ru/business/help/business-payout/salary/)
 
