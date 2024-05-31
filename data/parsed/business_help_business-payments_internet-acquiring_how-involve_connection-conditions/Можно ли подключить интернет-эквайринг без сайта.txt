@@ -1,0 +1,6 @@
+Можно ли подключить интернет-эквайринг без сайта?
+
+Да, есть два способа подключить прием оплаты без сайта:
+
+- по платежной ссылке (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q2);
+- через приложение. (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q15)

@@ -1,0 +1,10 @@
+В каком случае нужно создать два магазина?
+
+Второй магазин может понадобиться в следующих случаях:
+
+Как создать магазин (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/store/?card=q3)
+- хотите принимать оплату на сайте, в приложении или чате и выставлять счета на оплату по ссылке;
+- у вас несколько интернет-магазинов на разных сайтах. 
+
+Что такое платежная форма (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/payment-form/?card=q1)
+Как сделать ссылку на оплату (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q3)

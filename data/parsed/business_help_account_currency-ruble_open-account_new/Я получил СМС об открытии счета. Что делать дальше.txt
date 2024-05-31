@@ -1,0 +1,19 @@
+Я получил СМС об открытии счета. Что делать дальше?
+
+Теперь ваш расчетный счет активен. С его помощью вы можете:
+
+- пользоваться мобильным приложением и личным кабинетом (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/log-in/?card=q12);
+- отправлять свои реквизиты контрагентам (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/log-in/?card=q5);
+- смотреть особенности своего тарифа и его лимиты (https://www.tinkoff.ru/business/help/account/currency-ruble/tariffs-and-payment/main/?card=q3);
+- заказывать справки по счетам (https://www.tinkoff.ru/business/help/account/currency-ruble/actions/get-certificate/?card=q2);
+- проводить платежи: на свою карту, контрагенту, в бюджет (https://www.tinkoff.ru/business/help/account/currency-ruble/transfer-and-withdraw/transfer/);
+- оплачивать счета (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/pay/?card=q1);
+- выставлять счета (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/invoice/?card=q1);
+- скачивать и отправлять выписки по счетам (https://www.tinkoff.ru/business/help/account/currency-ruble/actions/get-certificate/?card=q1);
+- подписываться на счета-фактуры (https://www.tinkoff.ru/business/help/account/currency-ruble/actions/get-certificate/?card=q5);
+- вести бухгалтерию (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q1);
+- интегрировать «1С» (https://www.tinkoff.ru/business/help/account/currency-ruble/actions/integrate-1c/), «Эльбу», «Мое Дело», «Контур.Бухгалтерию», «МойСклад»;
+- давать пользователям доступ к сервисам (https://www.tinkoff.ru/business/help/account/currency-ruble/personal-account/dashboard/?card=q8);
+- проверять контрагентов (https://www.tinkoff.ru/business/help/procurement/search/work/analytics/?card=q3);
+- выставлять счета контрагентам (https://www.tinkoff.ru/business/help/account/currency-ruble/counterparties/invoice/?card=q1);
+- настраивать лимиты по счету и бизнес-картам. (https://www.tinkoff.ru/business/help/account/currency-ruble/tariffs-and-payment/change-tariffs/)

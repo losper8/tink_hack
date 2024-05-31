@@ -1,0 +1,25 @@
+С какими странами я могу рассчитываться по валютным контрактам в Тинькофф?
+
+Входящие и исходящие переводы работают для таких стран и валют:
+
+Азербайджанские манаты (AZN) Азербайджан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=azerbaijan)
+Армянские драмы (AMD) Армения (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=armenia)
+Белорусские рубли (BYN) Беларусь (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=belarus)
+Бразильские реалы (BRL) Бразилия (https://www.tinkoff.ru/business/help/account/currency/countries/south-america/?card=brazil)
+Доллары США (USD) Кыргызстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)Россия (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)Таджикистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)Узбекистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=uzbekistan)
+Индийские рупии (INR) Индия (https://www.tinkoff.ru/business/help/account/currency/countries/asia/?card=india)
+Казахстанские тенге (KZT) Казахстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kazakhstan)
+Киргизские сомы (KGS) Кыргызстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)
+Таджикские сомони (TJS) Таджикистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
+Юани (CNY) Беларусь (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=belarus)Китай (https://www.tinkoff.ru/business/help/account/currency/countries/various-countries/?card=china)Кыргызстан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=kyrgyzstan)Россия (https://www.tinkoff.ru/business/help/account/currency/transactions/rub/?card=non-residents)Таджикистан (https://www.tinkoff.ru/business/help/account/currency/countries/cis/?card=tajikistan)
+
+
+Если хотите получать платежи в рублях из стран, которых нет в таблице выше, воспользуйтесь GtPaid — партнерским сервисом Тинькофф. Он доступен предпринимателям и компаниям с ОКВЭД из четырех разделов:
+
+- 62 — «Разработка компьютерного программного обеспечения, консультационные услуги в данной области и другие сопутствующие услуги»;
+- 63 — «Деятельность в области информационных технологий»;
+- 73 — «Деятельность рекламная и исследование конъюнктуры рынка»;
+- 74 — «Деятельность профессиональная научная и техническая прочая».
+
+
+GtPaid работает через иностранные компании, которые берут на себя роль посредника между вашим бизнесом и иностранным контрагентом. Как устроен GtPaid (https://www.tinkoff.ru/business/help/account/currency/countries/directions/?card=gtpaid)

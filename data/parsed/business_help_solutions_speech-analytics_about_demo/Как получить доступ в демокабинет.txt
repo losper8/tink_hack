@@ -1,0 +1,3 @@
+Как получить доступ в демокабинет?
+
+Зайдите на сайт платформы tqm‑sme.tinkoff.ru (https://tqm-sme.tinkoff.ru/login) и введите логин — demo, пароль — dOqyn5aO.

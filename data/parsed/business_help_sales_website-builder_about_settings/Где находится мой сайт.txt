@@ -1,0 +1,5 @@
+Где находится мой сайт?
+
+Сайты располагаются на серверах Тинькофф. Вам не нужно покупать и настраивать хостинг.
+
+Какие параметры хостинга (https://www.tinkoff.ru/business/help/sales/website-builder/about/settings/?card=specs)

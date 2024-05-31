@@ -1,0 +1,6 @@
+Как подключить прием онлайн-платежей по QR‑коду через СБП?
+
+Это можно сделать в личном кабинете Тинькофф Бизнеса, когда создадите магазин и проведете тестовые платежи. 
+Как создать магазин (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/store/?card=q3)
+Как и зачем тестировать прием оплаты (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/integrate/?card=q16)
+Чтобы подключить прием платежей через СБП, следуйте инструкции. (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-involve/payment-methods/?card=q5)

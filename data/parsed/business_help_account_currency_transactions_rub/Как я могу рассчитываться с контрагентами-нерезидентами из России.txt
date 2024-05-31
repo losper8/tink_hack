@@ -1,0 +1,213 @@
+Как я могу рассчитываться с контрагентами-нерезидентами из России?
+Доллары можно переводить только в Росбанк, а получать из Сбера и Росбанка.
+
+Евро можно переводить в Сбер и Росбанк — получать евро нельзя.
+
+Юани можно переводить и получать из банков, которые перечислены ниже.
+
+Банки России, через которые можно рассчитываться в юаняхА Аверс BKAVRU2K
+ Агропромкредит AGCORUMM
+ Агророс AGZARU33
+ Ак Барс ARRSRU2K
+ Акибанк AKOARU22
+ Алмазэргиэнбанк ALMZRU8Y
+ Александровский ITEHRU2P
+ Альфа‑Банк ALFARUMM
+ Аресбанк ARESRUMM
+ Арзамас COAZRU21
+Б Байкалкредобанк BACKRU61
+ ББР BADJRUMM
+ БКС BCSBRU55
+ Бланк VSTARUMM
+ Братский Народный BRATRU6B
+В ВБРР RRDBRUMM
+ ВТБ — отделение в Москве на Воронцовской улице, 43 VTBRRUMM
+ ВТБ — отделение в Москве на Большой Полянке, 10/1 VTBRRUM2
+ ВЭБ.РФ BFEARUMM
+Г Газпромбанк GAZPRUMM
+Д Далена Банк DLNBRUMM
+ Датабанк DATARU33
+ Долинск DOLIRU8Y
+ ДОМ.РФ BDRFRUMM
+Е Евроальянс ECILRU21
+ Еврофинанс Моснарбанк EVRFRUMM
+Ж Живаго‑банк JIVARU21
+З ЗЕНИТ ZENIRUMM
+К Камкомбанк KACORU21
+ КамчатПрофитБанк MUKZRUP1
+ Комбанк «Химик» HIMIRUM1
+ Космос CSMMRUMM
+ Кредит Европа FMOSRUMM
+ Кредит Урал CRDURU4C
+ Крона‑Банк TRUKRU61
+ Кубань Кредит KUKRRU22
+Л Левобережный LEVBRU55
+ Локо‑банк CLOKRUMM
+М Межгосударственный INEARUMM
+ Международный финансовый клуб (Банк МФК) ICFIRUMM
+ Металлинвестбанк SCBMRUMM
+ Меткомбанк MTKCRUMM
+ Мир привилегий SKSBRUMM
+ Модульбанк MODBRU22
+ Москва‑Сити MOCSRUM1
+ Московский кредитный банк MCRBRUMM
+ Москоммерцбанк IVDCRUMM
+ МТИ MTIBRUMM
+ МТС‑Банк MBRDRUMM
+Н Национальный расчетный депозитарий MICURUMM
+ Новобанк NVOBRU21
+ НС INUORUMM
+О Оранжевый PRSBRU2P
+ ОРЕНБУРГ ORBGRU3S
+ Открытие JSNMRUMM
+П Первый Инвестиционный FRIBRUMM
+ Пермь PJSCRU41
+ Примсоцбанк PRMTRU8V
+ Прио‑Внешторгбанк PRIORU2J
+ ПроБанк NDOMRUMM
+ Промсвязьбанк PRMSRUMM
+ Пойдём! INCBRU55
+ ПСКБ PSOCRU2P
+ ПТБ LLPRRU21
+Р Раунд SVIBRUMM
+ Реалист BIJORU66
+ РостФинанс ROSFRU2A
+ Росэксимбанк EXIRRUMM
+ Руснарбанк RUNBRUMM
+ РФК‑Банк RFCBRUMM
+С Санкт-Петербург JSBSRU2P
+ Сбер SABRRUMM
+ СДМ‑Банк SJSCRUMM
+ Сельмашбанк SELARU21
+ Синара SKBERU4E
+ Система SISERUMM
+ Сити Инвест CITVRU2P
+ СНГБ SGUBRU5S
+ Снежинский SNEZRU4C
+ Совкомбанк SOMRRUMM
+ Солид SLDBRUMM
+ Союз JCAMRUMM
+Т Таганрогбанк TAGARU21
+ Тимер TIMERU2K
+ ТКБ TJSCRUMM
+ ТКПБ TAMBRU21
+ Тольяттихимбанк TOGLRU3T
+ Томскпромстройбанк TMKPRU5T
+ Трансстройбанк TRSNRUMM
+У УБРИР UBRDRU4E
+ Углеметбанк GZARU55
+ Уралсиб AVTBRUMM
+ Уралфинанс URCORU41
+Ф Финам‑Банк FNMMRUMM
+ Финсервис KOMXRUMM
+ Фора‑банк FOJSRUMM
+Ц ЦентроКредит CKBBRUMM
+Ч Челиндбанк CHLBRU4C
+Э ЭКСИ‑Банк JXIBRU2P
+ Энерготрансбанк ENGORU2K
+Я Яринтербанк ICDYRU2Y
+B Bank of China BKCHRUMM
+
+БанкАверс	SWIFT‑кодBKAVRU2K
+БанкАгропромкредит	SWIFT‑кодAGCORUMM
+БанкАгророс	SWIFT‑кодAGZARU33
+БанкАк Барс	SWIFT‑кодARRSRU2K
+БанкАкибанк	SWIFT‑кодAKOARU22
+БанкАлмазэргиэнбанк	SWIFT‑кодALMZRU8Y
+БанкАлександровский	SWIFT‑кодITEHRU2P
+БанкАльфа‑Банк	SWIFT‑кодALFARUMM
+БанкАресбанк	SWIFT‑кодARESRUMM
+БанкАрзамас	SWIFT‑кодCOAZRU21
+БанкБайкалкредобанк	SWIFT‑кодBACKRU61
+БанкББР	SWIFT‑кодBADJRUMM
+БанкБКС	SWIFT‑кодBCSBRU55
+БанкБланк	SWIFT‑кодVSTARUMM
+БанкБратский Народный	SWIFT‑кодBRATRU6B
+БанкВБРР	SWIFT‑кодRRDBRUMM
+БанкВТБ — отделение в Москве на Воронцовской улице, 43	SWIFT‑кодVTBRRUMM
+БанкВТБ — отделение в Москве на Большой Полянке, 10/1	SWIFT‑кодVTBRRUM2
+БанкВЭБ.РФ	SWIFT‑кодBFEARUMM
+БанкГазпромбанк (Банк ГПБ)	SWIFT‑кодGAZPRUMM
+БанкДалена Банк	SWIFT‑кодDLNBRUMM
+БанкДатабанк	SWIFT‑кодDATARU33
+БанкДолинск	SWIFT‑кодDOLIRU8Y
+БанкДОМ.РФ	SWIFT‑кодBDRFRUMM
+БанкЕвроальянс	SWIFT‑кодECILRU21
+БанкЕврофинанс Моснарбанк	SWIFT‑кодEVRFRUMM
+БанкЖиваго‑банк	SWIFT‑кодJIVARU21
+БанкЗЕНИТ	SWIFT‑кодZENIRUMM
+БанкКамкомбанк	SWIFT‑кодKACORU21
+БанкКамчатПрофитБанк	SWIFT‑кодMUKZRUP1
+БанкКомбанк «Химик»	SWIFT‑кодHIMIRUM1
+БанкКосмос	SWIFT‑кодCSMMRUMM
+БанкКредит Европа	SWIFT‑кодFMOSRUMM
+БанкКредит Урал Банк	SWIFT‑кодCRDURU4C
+БанкКрона‑Банк	SWIFT‑кодTRUKRU61
+БанкКубань Кредит	SWIFT‑кодKUKRRU22
+БанкЛевобережный	SWIFT‑кодLEVBRU55
+БанкЛоко‑банк	SWIFT‑кодCLOKRUMM
+БанкМежгосударственный	SWIFT‑кодINEARUMM
+БанкМеждународный финансовый клуб (Банк МФК)	SWIFT‑кодICFIRUMM
+БанкМеталлинвестбанк	SWIFT‑кодSCBMRUMM
+БанкМеткомбанк	SWIFT‑кодMTKCRUMM
+БанкМир привилегий	SWIFT‑кодSKSBRUMM
+БанкМодульбанк	SWIFT‑кодMODBRU22
+БанкМосква‑Сити	SWIFT‑кодMOCSRUM1
+БанкМосковский кредитный банк	SWIFT‑кодMCRBRUMM
+БанкМоскоммерцбанк	SWIFT‑кодIVDCRUMM
+БанкМТИ	SWIFT‑кодMTIBRUMM
+БанкМТС‑Банк	SWIFT‑кодMBRDRUMM
+БанкНациональный расчетный депозитарий	SWIFT‑кодMICURUMM
+БанкНовобанк	SWIFT‑кодNVOBRU21
+БанкНС	SWIFT‑кодINUORUMM
+БанкОранжевый	SWIFT‑кодPRSBRU2P
+БанкОРЕНБУРГ	SWIFT‑кодORBGRU3S
+БанкОткрытие	SWIFT‑кодJSNMRUMM
+БанкПервый Инвестиционный	SWIFT‑кодFRIBRUMM
+БанкПермь	SWIFT‑кодPJSCRU41
+БанкПримсоцбанк	SWIFT‑кодPRMTRU8V
+БанкПрио‑Внешторгбанк	SWIFT‑кодPRIORU2J
+БанкПроБанк	SWIFT‑кодNDOMRUMM
+БанкПромсвязьбанк	SWIFT‑кодPRMSRUMM
+БанкПойдём!	SWIFT‑кодINCBRU55
+БанкПСКБ	SWIFT‑кодPSOCRU2P
+БанкПТБ	SWIFT‑кодLLPRRU21
+БанкРаунд	SWIFT‑кодSVIBRUMM
+БанкРеалист	SWIFT‑кодBIJORU66
+БанкРостФинанс	SWIFT‑кодROSFRU2A
+БанкРосэксимбанк	SWIFT‑кодEXIRRUMM
+БанкРуснарбанк	SWIFT‑кодRUNBRUMM
+БанкРФК‑Банк	SWIFT‑кодRFCBRUMM
+БанкСанкт-Петербург	SWIFT‑кодJSBSRU2P
+БанкСбер	SWIFT‑кодSABRRUMM
+БанкСДМ‑Банк	SWIFT‑кодSJSCRUMM
+БанкСельмашбанк	SWIFT‑кодSELARU21
+БанкСинара	SWIFT‑кодSKBERU4E
+БанкСистема	SWIFT‑кодSISERUMM
+БанкСити Инвест	SWIFT‑кодCITVRU2P
+БанкСНГБ	SWIFT‑кодSGUBRU5S
+БанкСнежинский	SWIFT‑кодSNEZRU4C
+БанкСовкомбанк	SWIFT‑кодSOMRRUMM
+БанкСолидк	SWIFT‑кодSLDBRUMM
+БанкСоюз	SWIFT‑кодJCAMRUMM
+БанкТаганрогбанк	SWIFT‑кодTAGARU21
+БанкТимер	SWIFT‑кодTIMERU2K
+БанкТКБ	SWIFT‑кодTJSCRUMM
+БанкТКПБ	SWIFT‑кодTAMBRU21
+БанкТольяттихимбанк	SWIFT‑кодTOGLRU3T
+БанкТомскпромстройбанк	SWIFT‑кодTMKPRU5T
+БанкТрансстройбанк	SWIFT‑кодTRSNRUMM
+БанкУБРИР	SWIFT‑кодUBRDRU4E
+БанкУглеметбанк	SWIFT‑кодUGZARU55
+БанкУралсиб	SWIFT‑кодAVTBRUMM
+БанкУралфинанс	SWIFT‑кодURCORU41
+БанкФинам‑Банк	SWIFT‑кодFNMMRUMM
+БанкФинсервис	SWIFT‑кодKOMXRUMM
+БанкФинсервис	SWIFT‑кодKOMXRUMM
+БанкФора‑банк	SWIFT‑кодFOJSRUMM
+БанкЦентроКредит	SWIFT‑кодCKBBRUMM
+БанкЧелиндбанк	SWIFT‑кодCHLBRU4C
+БанкЭКСИ‑Банк	SWIFT‑кодJXIBRU2P
+БанкЭнерготрансбанк	SWIFT‑кодENGORU2K
+БанкЯринтербанк	SWIFT‑кодICDYRU2Y
+БанкBank of China	SWIFT‑кодBKCHRUMM

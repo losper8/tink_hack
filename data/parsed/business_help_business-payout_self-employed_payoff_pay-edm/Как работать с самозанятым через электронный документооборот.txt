@@ -1,0 +1,7 @@
+Как работать с самозанятым через электронный документооборот?
+
+Чтобы платить самозанятым с помощью электронного документооборота, добавьте исполнителей в группу и загрузите в нее шаблоны договора и акта. Что такое группа самозанятых (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=group)
+
+Если вы хотите добавлять самозанятых в автоматически созданную Группу 1, перейдите к шагу 3. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=add) Если хотите создать новые группы для разных исполнителей, следуйте инструкциям, переходя по ссылкам в шагах по порядку:
+
+- Создайте группу самозанятых и настройте шаблон договора. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=make-a-group)- Настройте шаблон акта. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=act-settings)- Добавьте самозанятого в группу. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=add)- Подпишите договор с самозанятым. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=contract)- Заплатите самозанятому. (https://www.tinkoff.ru/business/help/business-payout/self-employed/payoff/pay-edm/?card=pay)

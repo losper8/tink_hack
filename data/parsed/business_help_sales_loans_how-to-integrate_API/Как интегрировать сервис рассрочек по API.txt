@@ -1,0 +1,7 @@
+Как интегрировать сервис рассрочек по API?
+
+Через разработчика. Передайте ему данные для входа в личный кабинет руководителя, параметры для интеграции и эти инструкции:
+
+- Подключение сервиса рассрочек.
+ (https://forma.tinkoff.ru/docs/online/setup-types/service-setup)- Подключение по API. (https://forma.tinkoff.ru/docs/online/setup-types/api/description-api)- Настройки для работы. (https://forma.tinkoff.ru/docs/online/settings/auto-commit)- Схема заявки. (https://forma.tinkoff.ru/docs/online/scheme/application)
+Если в компании нет разработчика, можете выбрать подходящего из списка наших партнеров. Услуги разработчика платные. Партнеры-интеграторы Тинькофф (https://www.tinkoff.ru/business/open-api/integrator/)

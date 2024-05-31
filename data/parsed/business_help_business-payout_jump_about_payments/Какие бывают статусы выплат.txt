@@ -1,0 +1,48 @@
+Какие бывают статусы выплат?
+
+Статусы выплат можно посмотреть в личном кабинете Jump.Finance: (https://my.jump.finance/)
+Подтвердить
+Статус говорит о том, что выплата была успешно создана и ожидает подтверждения.
+
+
+Из этого раздела вы можете:
+
+- редактировать выплату (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q3);
+- отменить выплату (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q9);
+- скопировать выплату как новую (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q8);
+- подтвердить и провести выплату. (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q4)
+
+Оплатить
+Статус говорит о том, что выплата была подтверждена и готова к проведению.
+
+
+Из этого раздела вы можете:
+
+- редактировать выплату (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q3);
+- отменить выплату (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q9);
+- скопировать выплату как новую (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q8);
+- подтвердить и провести выплату. (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q4)
+
+В обработке
+Статус говорит о том, что выплата была проведена и находится в обработке у банка.
+
+Ошибка выплаты
+Статус говорит о том, что в выплате была допущена ошибка и она не может быть реализована.
+
+
+Из этого раздела вы можете:
+
+- редактировать выплату (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q3);
+- отменить выплату (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q9);
+- повторить выплату. (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q5)
+
+Оплаченные
+Статус говорит о том, что выплата была успешно совершена.
+
+
+Из этого раздела вы можете скопировать выплату как новую. (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q8)
+Отмененные
+Статус говорит о том, что выплата была отменена.
+
+
+Из этого раздела вы можете скопировать выплату как новую. (https://www.tinkoff.ru/business/help/business-payout/jump/about/payments/?card=q8)

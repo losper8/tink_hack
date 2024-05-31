@@ -1,0 +1,8 @@
+Как настроить интеграцию с 1C?
+
+Зависит от вашего расширения Jump.Finance:
+
+- расширение для 1С:Бухгалтерия 8. Инструкция (https://jump.finance/1c/finance/Jump_Finance_1C_BP_tutorial.pdf) и расширение (https://jump.finance/1c/finance/Jump_Finance_BP.cfe);
+- расширение для 1С:Управление торговлей. Инструкция (https://jump.finance/1c/finance/Jump_Finance_1C_UT_tutorial.pdf) и расширение (https://jump.finance/1c/finance/Jump_Finance_UT.cfe);
+- расширение для 1С:Комплексная автоматизация. Инструкция (https://jump.finance/1c/finance/Jump_Finance_1C_KA_tutorial.pdf) и расширение (https://jump.finance/1c/finance/Jump_Finance_KA.cfe);
+- 1С:Фреш. Из 1С:Фреш откройте экран «Магазин расширений». Расширение опубликовано под именем Jump.Finance.

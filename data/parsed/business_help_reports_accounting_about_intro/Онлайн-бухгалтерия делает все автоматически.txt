@@ -1,0 +1,18 @@
+Онлайн-бухгалтерия делает все автоматически?
+
+Онлайн-бухгалтерия часть операций выполняет автоматически, часть операций вам нужно делать вручную.
+
+
+Онлайн-бухгалтерия автоматически:
+
+- напоминает о сроках подачи декларации, уплаты налогов и взносов;
+- считает налоги с операций по торговому и интернет-эквайрингу Тинькофф;
+- учитывает плату за обслуживание счета и процент на остаток при расчете налога.
+
+
+Вручную вам нужно:
+
+- подтверждать операции; (/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q4)
+- добавлять информацию о счетах в других банках, (/business/help/reports/tinkoff-accounting/online-accounting/use/?card=q9) чтобы корректно рассчитывать налог;
+- формировать и отправлять налоговую декларацию; (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/tax-service/declaration/)
+- перечислять налоги и взносы. (https://www.tinkoff.ru/business/help/reports/tinkoff-accounting/taxes/pay-contribution/?card=q8)

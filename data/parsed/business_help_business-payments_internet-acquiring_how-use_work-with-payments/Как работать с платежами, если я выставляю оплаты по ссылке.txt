@@ -1,0 +1,8 @@
+Как работать с платежами, если я выставляю оплаты по ссылке?
+
+На вкладке «Счета» в личном кабинете интернет-эквайринга вы можете:
+
+- найти выставленный счет (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q4);
+- отменить выставленный счет (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q3);
+- узнать, оплачен ли выставленный счет (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q7);
+- сделать возврат по выставленному счету. (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/accept-payment/?card=q14)

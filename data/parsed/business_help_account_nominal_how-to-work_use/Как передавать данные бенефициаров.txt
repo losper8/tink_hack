@@ -1,0 +1,6 @@
+Как передавать данные бенефициаров?
+
+Данные бенефициаров клиент должен передать автоматизированно через Tinkoff API до пополнения номинального счета.
+
+Документация Tinkoff API для работы с номинальным счетом (https://business.tinkoff.ru/openapi/sandbox/docs#tag/Nominalnye-scheta.-Beneficiary-i-rekvizity)
+Список данных, которые надо передавать, в зависимости от юридического статуса бенефициара (https://acdn.tinkoff.ru/static/documents/f829a126-7506-4d38-ae20-c5584668a3a6.pdf)
