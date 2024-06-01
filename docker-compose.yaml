@@ -41,7 +41,7 @@ services:
       - ./src/embeddings/:/opt/app-root/src/embeddings:rw
       - ./src/file_processing/:/opt/app-root/src/file_processing:rw
       - ./src/llm/:/opt/app-root/src/llm:rw
-      - ./tinkoff_data/:/opt/app-root/tinkoff_data:rw
+      - ./questions/:/opt/app-root/questions:rw
 
 
 

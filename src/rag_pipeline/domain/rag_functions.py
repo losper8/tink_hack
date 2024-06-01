@@ -5,8 +5,8 @@ from fastapi import Query
 
 from embeddings.api.schema import SearchRequest
 from embeddings.domain.chroma_utils import search
+from file_processing.rag_data_proccessing import get_urls, get_answer
 from llm.domain.gigachat_utils import rag_prompt
-
 
 async def rag_db_response(request: SearchRequest,
                           encoding_model: str = Query('openai', enum=('gigachat', 'local_all_12', 'openai')),
@@ -27,8 +27,9 @@ async def rag_final_response(request: SearchRequest,
 
     context = ''
 
-    for question, answer in zip(results['documents'][0], results['metadatas'][0]):
-        context += f"\n Вопрос : {question}, \n Ответ : {answer['description']}"
+    for question, meta in zip(results['documents'][0], results['metadatas'][0]):
+        answer = await get_answer(meta['uuid'])
+        context += f"\n Вопрос : {question}, \n Ответ : {answer}"
 
     output = await rag_prompt(request.text, context)
 
