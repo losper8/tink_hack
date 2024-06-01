@@ -41,9 +41,7 @@ services:
       - ./src/embeddings/:/opt/app-root/src/embeddings:rw
       - ./src/file_processing/:/opt/app-root/src/file_processing:rw
       - ./src/llm/:/opt/app-root/src/llm:rw
-      - ./questions/:/opt/app-root/questions:rw
-
-
+      - ./final_data_schema/:/opt/app-root/final_data_schema:rw
 
   telegram-bot:
     build:

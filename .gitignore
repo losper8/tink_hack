@@ -164,3 +164,8 @@ data/
 parsed_data/
 .idea
 questions/
+config/
+config/external_api.env
+*external_api
+*.env
+config

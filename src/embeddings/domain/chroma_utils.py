@@ -60,7 +60,6 @@ async def add_vectors_to_db(request: SaveDataRequest):
             )
     except Exception as e:
         print('________SAVE ERROR_____', e)
-        print(documents)
         return 'save error!'
 
     return f'vector count = {collection.count()}'
