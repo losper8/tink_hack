@@ -164,3 +164,4 @@ data/
 parsed_data/
 config/giga_chat_api.env
 config/external_api.env
+config/
