@@ -1,7 +1,8 @@
 from langchain_core.messages import SystemMessage, HumanMessage
 
-from llm.domain.llm import giga_chat_llm
+from llm.domain.llm import giga_chat_llm, openai_llm
 
+llm = openai_llm
 
 SYSTEM_PROMPT = (
     "Ты — русскоязычный автоматический ассистент финансового отдела. Ты отвечаешь на вопросы пользователя, на основе базы вопросов и ответов."
@@ -17,7 +18,7 @@ SYSTEM_PROMPT_EN = (
 
 async def simple_prompt(message: str):
     messages = [SystemMessage(content=message)]
-    output = await giga_chat_llm.ainvoke(messages)
+    output = await llm.ainvoke(messages)
     return output.content
 
 
@@ -26,7 +27,7 @@ async def rag_prompt(query: str, context: str):
         SystemMessage(content=SYSTEM_PROMPT),
         HumanMessage(content=f'Информация из базы знаний:\n{context}\nВопрос пользователя:\n{query}')
     ]
-    output = await giga_chat_llm.ainvoke(messages)
+    output = await llm.ainvoke(messages)
     return output.content
 
 

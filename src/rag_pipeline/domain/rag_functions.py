@@ -9,7 +9,7 @@ from llm.domain.gigachat_utils import rag_prompt
 
 
 async def rag_db_response(request: SearchRequest,
-                          encoding_model: str = Query('gigachat', enum=('gigachat', 'local_all_12', 'openai')),
+                          encoding_model: str = Query('openai', enum=('gigachat', 'local_all_12', 'openai')),
                           n_results: int = Query(10),
                           include_embeddings: bool = Query(False),
                           ids: List[str] = Query([], alias="id"), ):

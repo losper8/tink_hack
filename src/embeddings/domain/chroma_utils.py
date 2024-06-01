@@ -14,15 +14,12 @@ from embeddings.infrastructure.config import giga_chat_api_config
 from embeddings.api.schema import SaveDataRequest, SearchRequest
 from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
 
-#openai_embedding_function = OpenAIEmbeddingFunction(api_key=external_api_config.OPENAI_TOKEN,
-#                                                    model_name=external_api_config.OPENAI_MODEL_NAME)
-
-openai_embedding_function = OpenAIEmbeddingFunction(api_key='AQVN1QYhY-29ScLDCbm8O0LnQ2b9kvEviIV-B7EF', organization_id='ajel0ogm7rdt971c62dp',
+openai_embedding_function = OpenAIEmbeddingFunction(api_key=external_api_config.OPENAI_TOKEN,
                                                     model_name=external_api_config.OPENAI_MODEL_NAME)
+
 
 gigachat_embedding_function = GigaChatEmbeddingFunction(credentials=giga_chat_api_config.TOKEN,
                                                         scope=giga_chat_api_config.SCOPE)
-
 
 
 chroma_client = chromadb.HttpClient(host=chroma_db_config.HOST, port=chroma_db_config.PORT)
@@ -30,12 +27,6 @@ chroma_client = chromadb.HttpClient(host=chroma_db_config.HOST, port=chroma_db_c
 openai_collection = chroma_client.get_or_create_collection(name='openai_collection',
                                                            embedding_function=openai_embedding_function)
 gigachat_collection = chroma_client.get_or_create_collection(name='gigachat_collection',
-                                                             embedding_function=gigachat_embedding_function)
-
-
-openai_collection_full_text = chroma_client.get_or_create_collection(name='openai_full_text_collection',
-                                                           embedding_function=openai_embedding_function)
-gigachat_collection_full_text = chroma_client.get_or_create_collection(name='gigachat_full_text_collection',
                                                              embedding_function=gigachat_embedding_function)
 
 
@@ -62,8 +53,6 @@ async def add_vectors_to_db(request: SaveDataRequest):
         return 'save error!'
 
     return f'vector count = {collection.count()}'
-
-
 
 
 async def search(
