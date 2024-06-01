@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import urllib
 
 import html2text
 import lxml.html
@@ -36,6 +37,7 @@ def clean_text(text):
     text = doc.text_content()
     text = text.replace('⁠', '')
     text = text.replace('​', '')
+    text = text.replace('\xa0', ' ')
     return text
 
 
@@ -73,12 +75,8 @@ def replace_tables_with_markdown(text):
     return re.sub(r'<table.*?>.*?</table>', '', text, flags=re.DOTALL)
 
 
-def remove_any_html_related_encodig_from_text(text):
-    text = text.replace('&nbsp;', ' ')
-    return text
-
-
 def main():
+    result = []
     html_dir = 'data/html'
     parsed_dir = 'data/parsed'
     files_list = os.listdir(html_dir)
@@ -110,11 +108,34 @@ def main():
         dir_path = os.path.join(parsed_dir, dir_name)
         os.makedirs(dir_path, exist_ok=True)
 
+        breadcrumps = bs4.find_all('span', class_='nbkoS1o-+X')
+        print(f'{len(breadcrumps)=}')
+        if breadcrumps:
+            breadcrumps = [clean_text(breadcrump.text) for breadcrump in breadcrumps]
+            print(f'{breadcrumps=}')
+
+        # a1T8t6
+        super_title = bs4.find('h1', class_='a1T8t6')
+        if super_title:
+            super_title = clean_text(super_title.text)
+        print(f'{super_title=}')
+
+        if super_title:
+            breadcrumps += [super_title]
+
+        if super_title == 'question':
+            continue
+
         for i, article in enumerate(articles):
-            # data_url_href_element = article.find('h2', {'data-url': True})
-            # deta_url_href = data_url_href_element['data-url'] if data_url_href_element else None
-            # deta_url_href = urllib.parse.unquote(deta_url_href) if deta_url_href else None
+            data_url_href_element = article.find('h2', {'data-url': True})
+            deta_url_href = data_url_href_element['data-url'] if data_url_href_element else None
+            deta_url_href = urllib.parse.unquote(deta_url_href) if deta_url_href else None
             # print(f'{deta_url_href=}')
+
+            deta_url_href_without_query = deta_url_href.split('?')[0] if deta_url_href else None
+
+            # abnoUjPa2 bbnoUjPa2
+            # <span class="nbkoS1o-+X" tabindex="-1" data-schema-path="0" data-item-type="breadcrumbs">Помощь</span>
 
             text_output = h.handle(str(article))
             text_output = replace_tables_with_markdown(text_output)
@@ -139,25 +160,33 @@ def main():
 
             sanitized_question = sanitize_filename(question)
             output_file_path = os.path.join(dir_path, f'{sanitized_question}.txt')
-            try:
-                with open(output_file_path, 'w', encoding='utf-8') as out_file:
-                    # text_output = '\n'.join([line.strip() for line in text_output.split('\n')])
-                    text_output = re.sub(r'\n{2,}', '\n', text_output)
-                    # # text_output = '\n'.join([line.strip() for line in text_output.split('\n')])
-                    text_output = '\n'.join([_RE_COMBINE_WHITESPACE.sub(" ", line).strip() for line in text_output.split('\n')])
-                    # text_output = text_output.replace('-\n', '- ')
-                    #
-                    # text_output = text_output.replace(' .', '.')
-                    # text_output = text_output.replace('. -', '.\n-')
-                    text_output = clean_text(text_output)
-                    out_file.write(text_output)
-            except OSError:
-                strange_names.append({'file': file, 'url': file_url, 'question': question})
 
+            text_output = re.sub(r'\n{2,}', '\n', text_output)
+            text_output = '\n'.join([_RE_COMBINE_WHITESPACE.sub(" ", line).strip() for line in text_output.split('\n')])
+            text_output = clean_text(text_output)
+
+            result.append({
+                'url': deta_url_href or file_url,
+                'parent_url': file_url,
+                'breadcrumps': breadcrumps,
+                'question': question,
+                'answer': text_output,
+            })
+            # with open(output_file_path, 'w', encoding='utf-8') as out_file:
+            # text_output = '\n'.join([line.strip() for line in text_output.split('\n')])
+            # # text_output = '\n'.join([line.strip() for line in text_output.split('\n')])
+            # text_output = text_output.replace('-\n', '- ')
+            #
+            # text_output = text_output.replace(' .', '.')
+            # text_output = text_output.replace('. -', '.\n-')
+            # out_file.write(text_output)
+
+    with open('data/norm_dataset.json', 'w', encoding='utf-8') as f:
+        json.dump(result, f, indent=4, ensure_ascii=False)
     with open('data/empty_files.json', 'w', encoding='utf-8') as f:
         json.dump(empty_files, f, indent=4, ensure_ascii=False)
-    with open('data/strange_names.json', 'w', encoding='utf-8') as f:
-        json.dump(strange_names, f, indent=4, ensure_ascii=False)
+    # with open('data/strange_names.json', 'w', encoding='utf-8') as f:
+    #     json.dump(strange_names, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == '__main__':
