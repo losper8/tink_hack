@@ -1,0 +1,16 @@
+fastapi
+pydantic-settings
+gunicorn
+uvicorn
+aiohttp
+openai
+chromadb
+asyncpg
+langchain-community
+langchain-text-splitters
+tiktoken
+clean-text
+unidecode
+gigachat
+torch
+sentence-transformers

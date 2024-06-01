@@ -1,0 +1,12 @@
+fastapi
+pydantic-settings
+gunicorn
+uvicorn
+aiohttp
+asyncpg
+langchain-community==0.0.3 ; python_version >= "3.9" and python_version < "4.0"
+langchain-core==0.1.1 ; python_version >= "3.9" and python_version < "4.0"
+langchain==0.0.350 ; python_version >= "3.9" and python_version < "4.0"
+openai
+gigachat
+langchain_openai

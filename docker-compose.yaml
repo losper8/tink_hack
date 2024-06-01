@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  chromadb:
+    image: chromadb/chroma
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data/chroma-data:/chroma/chroma
+
+  embeddings:
+    build:
+      context: .
+      dockerfile: src/embeddings/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - config/giga_chat_api.env
+      - config/external_api.env
+    depends_on:
+      - chromadb
+    ports:
+      - "8084:8084"
+    volumes:
+      - ./src/embeddings/:/opt/app-root/src/embeddings:rw
+      - ./models/:/opt/app-root/models:rw
+
+  rag-pipeline:
+    build:
+      context: .
+      dockerfile: src/rag_pipeline/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - config/giga_chat_api.env
+    depends_on:
+      - chromadb
+    ports:
+      - "8085:8085"
+    volumes:
+      - ./src/rag_pipeline/:/opt/app-root/src/rag_pipeline:rw
+      - ./src/embeddings/:/opt/app-root/src/embeddings:rw
+      - ./src/file_processing/:/opt/app-root/src/file_processing:rw
+      - ./src/llm/:/opt/app-root/src/llm:rw
+      - ./tinkoff_data/:/opt/app-root/tinkoff_data:rw
+
+volumes:
+  chroma-data:
+    driver: local
