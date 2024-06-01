@@ -1,0 +1,3 @@
+Где я могу найти TerminalKey и SecretKey для интеграции кассового ПО с API Тинькофф?
+Как мне получить TerminalKey и SecretKey?
+Каким образом можно узнать, какие значения у TerminalKey и SecretKey?

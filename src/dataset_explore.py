@@ -5,7 +5,7 @@ import pandas as pd
 
 
 async def main():
-    with open('data/dataset.json') as f:
+    with open('../data/dataset.json') as f:
         data = json.load(f)['data']
     print(len(data))
 
@@ -28,8 +28,8 @@ async def main():
     print(len(parent_urls))
     parent_url_lines = [f"{url}\n" for url in parent_urls]
 
-    with open('data/parent_urls.txt', 'w') as f:
-        f.writelines(parent_url_lines)
+    # with open('data/parent_urls.txt', 'w') as f:
+    #     f.writelines(parent_url_lines)
 
 
 if __name__ == '__main__':

@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  chromadb:
+    image: chromadb/chroma
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data/chroma-data:/chroma/chroma
