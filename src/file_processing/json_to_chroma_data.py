@@ -29,7 +29,6 @@ async def data_to_save_request(encoding_model: str = 'openai', path: str = '../.
         documents.append(question)
 
         metadatas.append(data_item.__dict__)
-    print(documents)
 
     return SaveDataRequest(encoding_model=encoding_model, documents=documents, metadatas=metadatas)
 

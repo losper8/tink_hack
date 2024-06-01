@@ -17,6 +17,7 @@ from chromadb.utils.embedding_functions import OpenAIEmbeddingFunction
 openai_embedding_function = OpenAIEmbeddingFunction(api_key=external_api_config.OPENAI_TOKEN,
                                                     model_name=external_api_config.OPENAI_MODEL_NAME)
 
+print("--------------->", external_api_config.OPENAI_TOKEN)
 
 gigachat_embedding_function = GigaChatEmbeddingFunction(credentials=giga_chat_api_config.TOKEN,
                                                         scope=giga_chat_api_config.SCOPE)
@@ -26,6 +27,7 @@ chroma_client = chromadb.HttpClient(host=chroma_db_config.HOST, port=chroma_db_c
 
 openai_collection = chroma_client.get_or_create_collection(name='openai_collection',
                                                            embedding_function=openai_embedding_function)
+
 gigachat_collection = chroma_client.get_or_create_collection(name='gigachat_collection',
                                                              embedding_function=gigachat_embedding_function)
 
@@ -41,15 +43,24 @@ async def add_vectors_to_db(request: SaveDataRequest):
     try:
         documents = request.documents
         metadatas = request.metadatas
+        batch_size = 500  # размер пакета для добавления
+
         start = collection.count()
         ids = [str(i) for i in range(start, start + len(documents))]
-        collection.add(
-            ids=ids,
-            documents=documents,
-            metadatas=metadatas
-        )
+
+        for i in range(0, len(documents), batch_size):
+            batch_ids = ids[i:i + batch_size]
+            batch_docs = documents[i:i + batch_size]
+            batch_metas = metadatas[i:i + batch_size]
+
+            collection.add(
+                ids=batch_ids,
+                documents=batch_docs,
+                metadatas=batch_metas
+            )
     except Exception as e:
         print('________SAVE ERROR_____', e)
+        print(documents)
         return 'save error!'
 
     return f'vector count = {collection.count()}'
