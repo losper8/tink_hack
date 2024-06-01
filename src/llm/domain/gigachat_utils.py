@@ -19,7 +19,7 @@ SYSTEM_PROMPT_EN = (
 async def simple_prompt(message: str):
     messages = [SystemMessage(content=message)]
     output = await llm.ainvoke(messages)
-    return output.content
+    return output
 
 
 async def rag_prompt(query: str, context: str):
@@ -28,7 +28,7 @@ async def rag_prompt(query: str, context: str):
         HumanMessage(content=f'Информация из базы знаний:\n{context}\nВопрос пользователя:\n{query}')
     ]
     output = await llm.ainvoke(messages)
-    return output.content
+    return output
 
 
 
