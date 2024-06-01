@@ -70,7 +70,6 @@ async def search(
         encoding_model: str = Query('openai', enum=('gigachat', 'local_all_12', 'openai')),
         n_results: int = Query(10),
         include_embeddings: bool = Query(False),
-        ids: List[str] = Query([], alias="id"),
 ):
     if encoding_model == 'openai':
         collection = openai_collection
@@ -79,7 +78,6 @@ async def search(
     else:
         return 'not valid encoding_model'
 
-    where = {'id': {'$in': ids}} if ids else None
     include = ["metadatas", "documents", "distances"] + (["embeddings"] if include_embeddings else [])
 
     return collection.query(
@@ -87,7 +85,6 @@ async def search(
         # query_embeddings=gigachat_embedding_function([request.text]),
         n_results=n_results,
         include=include,
-        where=where
     )
 
 

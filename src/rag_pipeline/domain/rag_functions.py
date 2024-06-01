@@ -20,9 +20,8 @@ async def rag_db_response(request: SearchRequest,
 async def rag_final_response(request: SearchRequest,
                              encoding_model: str = Query('openai', enum=('gigachat', 'local_all_12', 'openai')),
                              n_results: int = Query(10),
-                             include_embeddings: bool = Query(False),
-                             ids: List[str] = Query([], alias="id"), ):
-    results = await search(request, encoding_model, n_results, include_embeddings, ids)
+                             include_embeddings: bool = Query(False),):
+    results = await search(request, encoding_model, n_results, include_embeddings)
 
     context = ''
 
@@ -32,4 +31,11 @@ async def rag_final_response(request: SearchRequest,
 
     output = await rag_prompt(request.text, context)
 
-    return output, context
+    links = [p['url'] for p in results['metadatas'][0]]
+
+    r = {
+        'text': output,
+        'links': links
+    }
+
+    return r

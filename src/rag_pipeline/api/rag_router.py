@@ -49,3 +49,13 @@ async def get_rag_final_response(
     return res
 
 
+@rag_router.post(
+    "/assist",
+)
+async def get_rag_final_response(
+        request: SearchRequest
+):
+    res = await rag_final_response(request, encoding_model='openai', n_results=3, include_embeddings=False)
+    return res
+
+
