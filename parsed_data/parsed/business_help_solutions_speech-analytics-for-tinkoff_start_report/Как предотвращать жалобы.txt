@@ -1,4 +1,0 @@
-Как предотвращать жалобы?
-
-Просматривайте отчет по словарю с фразами-жалобами. Так вы узнаете о звонках или чатах, где клиенты остались недовольны. Это поможет разобраться в причинах и исправить ситуацию. Как работать с отчетом по звонкам или чатам (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/reports/?card=q5)
-В TQM перейдите в «Отчеты» → «Звонки» (https://tqm.tinkoff.ru/analytics/calls) и выберите фильтры «Жалобы клиента» или «Переживания клиента». Либо настройте свой отчет, где в блоке «Фразы» у оператора задайте только негативные параметры. Как создать отчет (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/reports/?card=q4)

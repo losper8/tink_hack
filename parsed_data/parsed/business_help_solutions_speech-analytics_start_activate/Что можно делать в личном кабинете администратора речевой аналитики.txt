@@ -1,6 +1,0 @@
-Что можно делать в личном кабинете администратора речевой аналитики?
-В личном кабинете администратор может:
-- найти ключ доступа для работы с API — инструкция; (/business/help/solutions/speech-analytics/start/load-calls/?card=q3)
-- подключить к речевой аналитике телефонию — как это сделать; (/business/help/solutions/speech-analytics/start/load-calls/?card=q2)
-- оплатить речевую аналитику — как это сделать; (/business/help/solutions/speech-analytics/start/payment/?card=q1)
-- посмотреть отчеты по оплаченным услугам — как это сделать. (/business/help/solutions/speech-analytics/start/payment/?card=q2)

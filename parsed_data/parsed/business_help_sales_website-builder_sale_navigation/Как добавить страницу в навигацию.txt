@@ -1,7 +1,0 @@
-Как добавить страницу в навигацию?
-
-Чтобы пользователи могли найти новую страницу, ее нужно добавить в навигацию по сайту:
-
-- сделать меню на сайте; (https://www.tinkoff.ru/business/help/sales/website-builder/sale/navigation/?card=menu)
-- создать подменю; (https://www.tinkoff.ru/business/help/sales/website-builder/sale/navigation/?card=submenu)
-- сгруппировать с близкими по смыслу страницами. (https://www.tinkoff.ru/business/help/sales/website-builder/sale/navigation/?card=grouping)

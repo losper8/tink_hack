@@ -1,2 +1,0 @@
-Где найти документацию и стайлгайды для подключения Tinkoff ID?
-Вы найдете документацию и стайлгайды на странице «Интеграция с Tinkoff ID». (/corporate/business-solutions/open-api/tinkoff-id/integration/)

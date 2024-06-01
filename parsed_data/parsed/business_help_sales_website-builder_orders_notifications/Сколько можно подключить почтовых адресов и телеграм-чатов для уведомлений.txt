@@ -1,7 +1,0 @@
-Сколько можно подключить почтовых адресов и телеграм-чатов для уведомлений?
-
-Вы можете подключить неограниченное количество эл. адресов и телеграм-чатов для уведомлений.
-
-Как настроить уведомления в Телеграме (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=telegram-notifications)
-Как настроить телеграм-уведомления для общего чата (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=telegram-group)
-Как настроить уведомления на эл. почту (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=email-notifications)

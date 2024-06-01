@@ -1,8 +1,0 @@
-Как установить сертификат в 1С?
-
-Убедитесь, что вы связали Тинькофф Бизнес с 1С. Как связать Тинькофф Бизнес с 1C (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/integrate-1c/?card=configure)
-
-Затем следуйте инструкциям, перейдя по ссылкам в шагах. Шаги 3, 4 и 5 проходите с компьютера, на который установлена 1C:
-
-- Выпустите сертификат 1C DirectBank в личном кабинете Тинькофф Бизнеса. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=issue-certificate)- Включите подписание платежей в личном кабинете Тинькофф Бизнеса. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=sign-payment-on)- Установите выпущенный сертификат 1C DirectBank на свой компьютер. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=certificate-installation)- Добавьте сертификат 1C DirectBank в 1С. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=add-certificate)- Подпишите платежку в 1С. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=sign-payment)
-Если у вас не получится связать Тинькофф Бизнес с 1C или установить сертификат, напишите нам на почту openapi@tinkoff.ru. (mailto:openapi@tinkoff.ru)

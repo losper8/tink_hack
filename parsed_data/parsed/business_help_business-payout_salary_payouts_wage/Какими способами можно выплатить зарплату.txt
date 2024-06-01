@@ -1,9 +1,0 @@
-Какими способами можно выплатить зарплату?
-
-В личном кабинете зарплатного проекта есть пять способов:
-
-- создать реестр с нужными сотрудниками вручную (/business/help/business-payout/salary/payouts/create-registry/?card=q5);
-- создать реестр сразу из всех сотрудников компании (/business/help/business-payout/salary/payouts/create-registry/?card=q4);
-- повторить платеж одной из исполненных выплат (/business/help/business-payout/salary/payouts/create-registry/?card=q5);
-- загрузить реестр на выплату файлом (/business/help/business-payout/salary/payouts/create-registry/?card=q6);
-- подключить интеграцию с 1С. (/business/help/business-payout/salary/integration/tune/?card=q1)

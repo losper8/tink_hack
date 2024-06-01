@@ -1,8 +1,0 @@
-Как проходит интеграция сервиса в Битрикс?
-
-Для этого у нас есть специальный модуль. Его можно скачать и установить бесплатно по нашим подробным инструкциям.
-
-
-Модуль встраивается в несколько этапов:
-
-- Установка модуля. (/business/help/sales/loans/how-to-integrate/bitrix/?card=q2)- Настройка платежной системы. (/business/help/sales/loans/how-to-integrate/bitrix/?card=q3)- Переход в магазин после оплаты. (/business/help/sales/loans/how-to-integrate/bitrix/?card=q4)- Изменение статуса оплаты заказа. (/business/help/sales/loans/how-to-integrate/bitrix/?card=q5)- Тестовый и боевой режим работы. (/business/help/sales/loans/how-to-integrate/bitrix/?card=q6)- Работа с рассрочками. (/business/help/sales/loans/how-to-integrate/bitrix/?card=q7)

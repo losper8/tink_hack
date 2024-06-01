@@ -1,3 +1,0 @@
-Как добавить пункты самовывоза для нескольких городов?
-
-Создайте отдельную вкладку для каждого города и добавьте в нее все пункты самовывоза по инструкции. (https://www.tinkoff.ru/business/help/sales/website-builder/orders/delivery/?card=pickup)

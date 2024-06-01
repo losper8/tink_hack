@@ -1,8 +1,0 @@
-Зачем нужен поиск чатов в речевой аналитике?
-В TQM на вкладке «Коммуникации» → «Поиск» → «Чаты» (https://tqm.tinkoff.ru/filter/communications/internal-chats) вы можете:
-
-- смотреть информацию о чатах (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q10);
-- искать чаты по фильтрам (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q4);
-- читать расшифровки и истории чатов (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q11);
-- оценивать чаты (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q15);
-- оставлять комментарии к чатам. (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/chats/?card=q12)

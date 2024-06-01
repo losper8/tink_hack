@@ -1,8 +1,0 @@
-Что нужно учесть при валютной операции в рублях?
-
-Для валютной операции в рублях действуют те же правила, что и для операции в иностранной валюте. Единственное отличие в процессах — только при получении платежа в рублях, так как деньги зачисляются сразу на рублевый счет.
-
-Какие подтверждающие документы нужно предоставить для валютной операции (https://www.tinkoff.ru/business/help/account/currency/transactions/payment/?card=documents) Отправка платежа
-Когда нужно ставить контракт на учет (https://www.tinkoff.ru/business/help/account/currency/contract/registration/) Отправка и получение платежа
-Когда нужна справка о подтверждающих документах (https://www.tinkoff.ru/business/help/account/currency/contract/spd/?card=spd-when) Отправка и получение платежа
-Почему важно предоставлять документы в банк о входящем рублевом платеже (https://www.tinkoff.ru/business/help/account/currency/currency-control/fines/?card=rubles-docs) Получение платежа

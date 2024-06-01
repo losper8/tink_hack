@@ -1,9 +1,0 @@
-Зачем нужен поиск звонков в речевой аналитике?
-В TQM на вкладке «Коммуникации» → «Поиск» → «Звонки» (https://tqm.tinkoff.ru/filter/communications/calls) вы можете:
-
-- смотреть всю информацию о звонках (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q9);
-- искать звонки по фильтрам (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q4);
-- слушать записи разговоров (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q10);
-- читать расшифровки звонков (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q11);
-- оценивать звонки (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q15);
-- оставлять комментарии к звонкам. (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/search/calls/?card=q12)

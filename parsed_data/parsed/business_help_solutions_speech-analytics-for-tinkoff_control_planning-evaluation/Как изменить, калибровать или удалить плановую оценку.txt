@@ -1,5 +1,0 @@
-Как изменить, калибровать или удалить плановую оценку?
-Это делается так же, как у ручной оценки.
-Как изменить ручную оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q8)
-Как калибровать ручную оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q9)
-Как удалить ручную оценку (https://www.tinkoff.ru/business/help/solutions/speech-analytics-for-tinkoff/control/marks/?card=q10)

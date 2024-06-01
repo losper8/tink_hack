@@ -43,6 +43,30 @@ services:
       - ./src/llm/:/opt/app-root/src/llm:rw
       - ./tinkoff_data/:/opt/app-root/tinkoff_data:rw
 
+
+
+  telegram-bot:
+    build:
+      context: .
+      dockerfile: src/telegram_bot/Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - chromadb
+    env_file:
+      - config/giga_chat_api.env
+      - config/telegram_bot.env
+    ports:
+      - "8086:8086"
+    volumes:
+      - ./src/rag_pipeline/:/opt/app-root/src/rag_pipeline:rw
+      - ./src/telegram_bot/:/opt/app-root/src/telegram_bot:rw
+      - ./src/embeddings/:/opt/app-root/src/embeddings:rw
+      - ./src/common/:/opt/app-root/src/common:rw
+      - ./models/:/opt/app-root/models:rw
+      - ./moodle_data/:/opt/app-root/moodle_data:rw
+      - ./src/file_processing/:/opt/app-root/src/file_processing:rw
+      - ./src/llm/:/opt/app-root/src/llm:rw
+
 volumes:
   chroma-data:
     driver: local

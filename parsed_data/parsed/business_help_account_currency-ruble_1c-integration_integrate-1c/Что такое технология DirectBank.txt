@@ -1,7 +1,0 @@
-Что такое технология DirectBank?
-
-DirectBank — технология, которая позволяет обмениваться электронными документами между личным кабинетом Тинькофф Бизнеса и интерфейсом 1С напрямую. Полное описание технологии есть на официальном сайте 1С. (https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/standart-vzaimodeystviya-po-tekhnologii-directbank/)
-
-Полный и актуальный список конфигураций, которые поддерживают технологию DirectBank, есть на официальном сайте 1С. (https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/realizovannye-resheniya/directbank-pryamoy-obmen-s-bankom/tipovye-konfiguratsii-firmy-1s-podderzhivayushchie-tekhnologiyu-directbank/)
-
-Вы можете подключить технологию DirectBank самостоятельно. Это первый шаг в инструкции, как установить сертификат в 1С. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=install-certificate)

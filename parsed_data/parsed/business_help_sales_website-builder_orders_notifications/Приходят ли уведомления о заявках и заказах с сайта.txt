@@ -1,8 +1,0 @@
-Приходят ли уведомления о заявках и заказах с сайта?
-
-Да, по умолчанию уведомления приходят в раздел «Диалоги» в конструкторе сайтов. (https://business.tinkoff.ru/sites/)
-
-Но вы можете настроить уведомления по эл. почте и в Телеграме.
-
-Эл. почта. Можно подключать неограниченное количество адресов для уведомлений. Тогда уведомления будут приходить не только на вашу почту, но и на почту ваших сотрудников. Как настроить уведомления на эл. почту (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=email-notifications)
-Телеграм. Уведомления присылает Tinkoff Websites Bot — они выглядят как обычные сообщения. Как настроить уведомления для Телеграма (https://www.tinkoff.ru/business/help/sales/website-builder/orders/notifications/?card=telegram-notifications)

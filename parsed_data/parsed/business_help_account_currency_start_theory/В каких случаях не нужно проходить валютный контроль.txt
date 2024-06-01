@@ -1,4 +1,0 @@
-В каких случаях не нужно проходить валютный контроль?
-
-Конвертация валюты — единственная валютная операция, при которой не нужно проходить валютный контроль. Клиенты Тинькофф Бизнеса могут обменять рубли на валюту прямо в личном кабинете (https://business.tinkoff.ru/sme/conversion-payment?fromApp=foreign-activity&redirectToPath=exchange-orders?internal_source=help-order) или мобильном приложении Тинькофф Бизнеса.  Пошаговая инструкция
- (https://www.tinkoff.ru/business/help/account/currency/transactions/conversion/?card=how)

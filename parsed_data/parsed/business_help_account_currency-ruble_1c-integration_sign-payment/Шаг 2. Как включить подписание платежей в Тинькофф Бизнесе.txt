@@ -1,7 +1,0 @@
-Шаг 2. Как включить подписание платежей в Тинькофф Бизнесе?
-
-В личном кабинете Тинькофф Бизнеса:
-
-- Убедитесь, что вы связали Тинькофф Бизнес с 1С (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/integrate-1c/?card=configure) и выпустили сертификат. (https://www.tinkoff.ru/business/help/account/currency-ruble/1c-integration/sign-payment/?card=issue-certificate)- Выберите «Все сервисы» → «Сервисы» → «Интеграции» → «1С» (https://business.tinkoff.ru/integrations/accounting) → «Подключите подписание платежей» и переведите тумблер в положение «Подключено».
-- Подтвердите включение подписания платежей проверочным кодом из СМС. Готово! Вы включили подписание платежей.
-Теперь установите сертификат 1C DirectBank на свой компьютер по инструкции.

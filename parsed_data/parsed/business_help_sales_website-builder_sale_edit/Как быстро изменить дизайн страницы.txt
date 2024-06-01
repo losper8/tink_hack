@@ -1,9 +1,0 @@
-Как быстро изменить дизайн страницы?
-
-
-Чтобы быстро изменить дизайн страницы:
-
-- В конструкторе Тинькофф (https://business.tinkoff.ru/sites/) выберите нужный сайт, а затем страницу, которую хотите отредактировать. Нажмите на иконку палитры справа вверху.
-- Измените дизайн страницы по инструкциям:
-- настройте размер текста (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=text-size);- выровняйте текст и изображения по левому краю или по центру (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=alignment);- выберите фон, обводку и скругление кнопок (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=button);- измените цвет всей страницы. (https://www.tinkoff.ru/business/help/sales/website-builder/sale/edit/?card=colour)Новые настройки дизайна отобразятся справа на превью страницы- Нажмите «Опубликовать» справа вверху, чтобы сохранить изменения.
-Готово! Вы изменили дизайн страницы.

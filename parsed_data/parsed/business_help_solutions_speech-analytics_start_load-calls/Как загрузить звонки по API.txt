@@ -1,9 +1,0 @@
-Как загрузить звонки по API?
-
-Скорее всего, понадобится помощь разработчика.
-
-
-Звонки загружаются POST‑запросом на URL https://tqm‑sme‑integration.tinkoff.ru/import/call (https://tqm-sme-integration.tinkoff.ru/import/call).
-
-
-Описание метода, параметры запроса и другая необходимая информация для загрузки звонков по API — в API‑документации на сайте Tinkoff Software. (https://software.tinkoff.ru/docs/tqm/importCall/)

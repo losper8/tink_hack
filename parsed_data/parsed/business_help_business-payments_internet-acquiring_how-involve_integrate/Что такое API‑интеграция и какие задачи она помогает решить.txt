@@ -1,6 +1,0 @@
-Что такое API‑интеграция и какие задачи она помогает решить?
-API‑интеграция — самый гибкий способ настроить онлайн-оплату в сравнении с платежным модулем и виджетом. Потребуется помощь программиста, зато можно оптимизировать онлайн-оплату под ваш бизнес:
-- совместить разные способы приема оплаты — допустим, чтобы покупатель оплачивал часть суммы картой, а часть брал в рассрочку; Какие есть способы онлайн-оплаты (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-work/working-conditions/?card=q3)
-- принимать автоплатежи; Что такое автоплатежи (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-work/advanced/?card=q7)
-- получать уведомления о статусах операций, чтобы отслеживать их в CRM‑системе, а не в личном кабинете Тинькофф Бизнеса. Как подключить уведомления по операциям (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/how-use/store/?card=q10)
-- подключать другие продукты Тинькофф Кассы, например безопасную сделку, массовые выплаты физлицам, сплитование платежей. Что такое сплитование платежей (https://www.tinkoff.ru/business/help/business-payments/internet-acquiring/splitting/about/)

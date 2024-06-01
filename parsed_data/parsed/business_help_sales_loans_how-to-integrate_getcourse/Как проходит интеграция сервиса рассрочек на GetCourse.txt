@@ -1,3 +1,0 @@
-Как проходит интеграция сервиса рассрочек на GetCourse?
-Интеграция состоит из трех этапов:
-- Подготовка. (/business/help/sales/loans/how-to-integrate/getcourse/?card=q2)- Подключение модуля «Тинькофф Кредит». (/business/help/sales/loans/how-to-integrate/getcourse/?card=q3)- Добавление способа оплаты в рассрочку или кредит в заказ. (/business/help/sales/loans/how-to-integrate/getcourse/?card=q4)Ниже — пошаговые инструкции к каждому этапу.
