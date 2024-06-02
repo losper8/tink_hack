@@ -20,6 +20,14 @@ async def rag_final_response(request: SearchRequest,
                              encoding_model: str = Query('openai', enum=('gigachat', 'local_all_12', 'openai')),
                              n_results: int = Query(10),
                              include_embeddings: bool = Query(False),):
+
+    if request.text == '':
+        r = {
+            'text': '',
+            'links': []
+        }
+        return r
+
     results = await search(request, encoding_model, n_results, include_embeddings)
 
     context = ''
@@ -28,12 +36,12 @@ async def rag_final_response(request: SearchRequest,
 
         context += f"\n Вопрос : {question.split('>')[-1]}, \n Ответ : {meta['answer']}"
 
-    output = await rag_prompt(request.text, context)
+    output = await rag_prompt(request.text, context[:5000])
 
     links = [p['url'] for p in results['metadatas'][0]]
 
     r = {
-        'text': output,
+        'text': output.replace('\n', ' ').replace('*', ' '),
         'links': links
     }
 

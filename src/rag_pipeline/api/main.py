@@ -17,7 +17,7 @@ def configure_cors(app: FastAPI):
 
 app = FastAPI(
     debug=True,
-    title='Rag Pipeline',
+    title='Assistant API',
 )
 
 configure_cors(app)
